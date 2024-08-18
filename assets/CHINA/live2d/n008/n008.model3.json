@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "n008.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/angry.motion3.json"
+        },
+        {
+          "File": "motions/happy.motion3.json"
+        },
+        {
+          "File": "motions/normal02.motion3.json"
+        },
+        {
+          "File": "motions/Talk.motion3.json"
+        },
+        {
+          "File": "motions/Shock.motion3.json"
+        },
+        {
+          "File": "motions/normal03.motion3.json"
+        },
+        {
+          "File": "motions/normal01.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}
