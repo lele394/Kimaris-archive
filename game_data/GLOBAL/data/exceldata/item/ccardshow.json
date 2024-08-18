@@ -1,0 +1,62 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "Data": [
+    {
+      "assetName": "video_02.mp4",
+      "effect1": 80,
+      "effect2": 80,
+      "id": 1
+    },
+    {
+      "assetName": "video_03.mp4",
+      "effect1": 80,
+      "effect2": 80,
+      "id": 2
+    },
+    {
+      "assetName": "gachastart.mp4",
+      "effect1": 0,
+      "effect2": 0,
+      "id": 3
+    },
+    {
+      "assetName": "gacha_0.mp4",
+      "effect1": 0,
+      "effect2": 0,
+      "id": 4
+    },
+    {
+      "assetName": "gacha_1.mp4",
+      "effect1": 0,
+      "effect2": 0,
+      "id": 5
+    },
+    {
+      "assetName": "gacha_2.mp4",
+      "effect1": 0,
+      "effect2": 0,
+      "id": 6
+    },
+    {
+      "assetName": "gacha_2.mp4",
+      "effect1": 0,
+      "effect2": 0,
+      "id": 7
+    },
+    {
+      "assetName": "gachaend.mp4",
+      "effect1": 0,
+      "effect2": 0,
+      "id": 8
+    }
+  ]
+}

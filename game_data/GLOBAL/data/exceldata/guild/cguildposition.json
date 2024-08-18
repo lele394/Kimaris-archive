@@ -1,0 +1,66 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Data": [
+    {
+      "AppointElite": 1,
+      "AppointVicePresident": 1,
+      "ChangeDeclaration": 1,
+      "ChangeHead": 1,
+      "ChangeJoinType": 1,
+      "ChangePresident": 1,
+      "DissolveGuild": 1,
+      "MembersLevel": 1000,
+      "MembersReview": 1,
+      "RemoveMembers": 1,
+      "WordItemID": 2000001,
+      "id": 1
+    },
+    {
+      "AppointElite": 0,
+      "AppointVicePresident": 0,
+      "ChangeDeclaration": 1,
+      "ChangeHead": 0,
+      "ChangeJoinType": 0,
+      "ChangePresident": 0,
+      "DissolveGuild": 0,
+      "MembersLevel": 100,
+      "MembersReview": 1,
+      "RemoveMembers": 1,
+      "WordItemID": 2000002,
+      "id": 2
+    },
+    {
+      "AppointElite": 0,
+      "AppointVicePresident": 0,
+      "ChangeDeclaration": 1,
+      "ChangeHead": 0,
+      "ChangeJoinType": 0,
+      "ChangePresident": 0,
+      "DissolveGuild": 0,
+      "MembersLevel": 11,
+      "MembersReview": 1,
+      "RemoveMembers": 0,
+      "WordItemID": 2000003,
+      "id": 3
+    },
+    {
+      "AppointElite": 0,
+      "AppointVicePresident": 0,
+      "ChangeDeclaration": 0,
+      "ChangeHead": 0,
+      "ChangeJoinType": 0,
+      "ChangePresident": 0,
+      "DissolveGuild": 0,
+      "MembersLevel": 1,
+      "MembersReview": 0,
+      "RemoveMembers": 0,
+      "WordItemID": 2000004,
+      "id": 4
+    }
+  ]
+}

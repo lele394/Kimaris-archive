@@ -1,0 +1,35 @@
+{
+  "Attack": {
+    "endEventFrames": 43
+  },
+  "AttackEnd": {
+    "endEventFrames": 9
+  },
+  "AttackLoop": {
+    "endEventFrames": 18
+  },
+  "AttackStart": {
+    "endEventFrames": 24
+  },
+  "DeadDisappear": {
+    "endEventFrames": 44
+  },
+  "Magic": {
+    "endEventFrames": 31
+  },
+  "MagicEnd": {
+    "endEventFrames": 1
+  },
+  "MagicLoop": {
+    "endEventFrames": 19
+  },
+  "MagicStart": {
+    "endEventFrames": 24
+  },
+  "Move": {
+    "endEventFrames": 1
+  },
+  "SkillDisappear": {
+    "endEventFrames": 8
+  }
+}

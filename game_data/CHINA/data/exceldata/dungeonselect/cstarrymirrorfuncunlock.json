@@ -1,0 +1,69 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "Data": {
+    "1": {
+      "eventid": 6001,
+      "functionid": "累积奖励",
+      "id": 1,
+      "unlocklevel": 10002
+    },
+    "10": {
+      "eventid": 47001,
+      "functionid": "活动商店",
+      "id": 10,
+      "unlocklevel": 10034
+    },
+    "11": {
+      "eventid": 47001,
+      "functionid": "人偶加成",
+      "id": 11,
+      "unlocklevel": 10034
+    },
+    "12": {
+      "eventid": 47001,
+      "functionid": "排行榜",
+      "id": 12,
+      "unlocklevel": 10047
+    },
+    "13": {
+      "eventid": 47001,
+      "functionid": "每日补给",
+      "id": 13,
+      "unlocklevel": 10034
+    },
+    "2": {
+      "eventid": 6001,
+      "functionid": "活动商店",
+      "id": 2,
+      "unlocklevel": 10002
+    },
+    "3": {
+      "eventid": 6001,
+      "functionid": "人偶加成",
+      "id": 3,
+      "unlocklevel": 10002
+    },
+    "4": {
+      "eventid": 6001,
+      "functionid": "排行榜",
+      "id": 4,
+      "unlocklevel": 10007
+    },
+    "9": {
+      "eventid": 47001,
+      "functionid": "累积奖励",
+      "id": 9,
+      "unlocklevel": 10034
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "AllIds": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    13,
+    14,
+    15,
+    18,
+    19,
+    20,
+    21,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "Data": {
+    "1": {
+      "colorID": 2,
+      "description": "第一次通关梦境世界",
+      "descriptionTextID": 1000455,
+      "id": 1,
+      "imageID": 11402,
+      "name": "回溯梦境",
+      "nameTextID": 1000378
+    },
+    "13": {
+      "colorID": 2,
+      "description": "累计获得10万玛那",
+      "descriptionTextID": 1000425,
+      "id": 13,
+      "imageID": 11818,
+      "name": "汇聚魔力",
+      "nameTextID": 1000348
+    },
+    "14": {
+      "colorID": 3,
+      "description": "累计获得100万玛那",
+      "descriptionTextID": 1000426,
+      "id": 14,
+      "imageID": 11819,
+      "name": "汇聚魔力",
+      "nameTextID": 1000349
+    },
+    "15": {
+      "colorID": 1,
+      "description": "累计获得1000万玛那",
+      "descriptionTextID": 1000427,
+      "id": 15,
+      "imageID": 11820,
+      "name": "汇聚魔力",
+      "nameTextID": 1000350
+    },
+    "18": {
+      "colorID": 1,
+      "description": "魔法树达到3级",
+      "descriptionTextID": 1000475,
+      "id": 18,
+      "imageID": 11823,
+      "name": "茁壮成长",
+      "nameTextID": 1000398
+    },
+    "19": {
+      "colorID": 2,
+      "description": "累计完成10个任务",
+      "descriptionTextID": 1000434,
+      "id": 19,
+      "imageID": 11824,
+      "name": "肩负使命",
+      "nameTextID": 1000357
+    },
+    "20": {
+      "colorID": 3,
+      "description": "累计完成100个任务",
+      "descriptionTextID": 1000435,
+      "id": 20,
+      "imageID": 11825,
+      "name": "肩负使命",
+      "nameTextID": 1000358
+    },
+    "21": {
+      "colorID": 1,
+      "description": "累计完成200个任务",
+      "descriptionTextID": 1000436,
+      "id": 21,
+      "imageID": 11826,
+      "name": "肩负使命",
+      "nameTextID": 1000359
+    },
+    "24": {
+      "colorID": 1,
+      "description": "魔女小屋所有房间开放",
+      "descriptionTextID": 1000479,
+      "id": 24,
+      "imageID": 11829,
+      "name": "华庭院落",
+      "nameTextID": 1000402
+    },
+    "25": {
+      "colorID": 2,
+      "description": "第一次完成关卡",
+      "descriptionTextID": 1000428,
+      "id": 25,
+      "imageID": 12937,
+      "name": "探索未知",
+      "nameTextID": 1000351
+    },
+    "26": {
+      "colorID": 3,
+      "description": "累计完成关卡50次",
+      "descriptionTextID": 1000429,
+      "id": 26,
+      "imageID": 12938,
+      "name": "探索未知",
+      "nameTextID": 1000352
+    },
+    "27": {
+      "colorID": 1,
+      "description": "累计完成关卡100次",
+      "descriptionTextID": 1000430,
+      "id": 27,
+      "imageID": 12939,
+      "name": "探索未知",
+      "nameTextID": 1000353
+    },
+    "28": {
+      "colorID": 2,
+      "description": "任意3个人偶达到突破1级",
+      "descriptionTextID": 1000447,
+      "id": 28,
+      "imageID": 11833,
+      "name": "突破限界",
+      "nameTextID": 1000370
+    },
+    "29": {
+      "colorID": 3,
+      "description": "任意3个人偶达到突破2级",
+      "descriptionTextID": 1000448,
+      "id": 29,
+      "imageID": 11834,
+      "name": "突破限界",
+      "nameTextID": 1000371
+    },
+    "30": {
+      "colorID": 1,
+      "description": "任意3个人偶达到突破3级",
+      "descriptionTextID": 1000449,
+      "id": 30,
+      "imageID": 11835,
+      "name": "突破限界",
+      "nameTextID": 1000372
+    },
+    "31": {
+      "colorID": 2,
+      "description": "拥有第一个好友",
+      "descriptionTextID": 1000451,
+      "id": 31,
+      "imageID": 11836,
+      "name": "异境的联络",
+      "nameTextID": 1000374
+    },
+    "32": {
+      "colorID": 3,
+      "description": "拥有10名好友",
+      "descriptionTextID": 1000452,
+      "id": 32,
+      "imageID": 11837,
+      "name": "异境的联络",
+      "nameTextID": 1000375
+    },
+    "33": {
+      "colorID": 1,
+      "description": "拥有100名好友",
+      "descriptionTextID": 1000453,
+      "id": 33,
+      "imageID": 11838,
+      "name": "异境的联络",
+      "nameTextID": 1000376
+    },
+    "4": {
+      "colorID": 2,
+      "description": "提升任意人偶的羁绊等级2",
+      "descriptionTextID": 1000471,
+      "id": 4,
+      "imageID": 11809,
+      "name": "一心同体",
+      "nameTextID": 1000394
+    },
+    "5": {
+      "colorID": 3,
+      "description": "任意人偶的羁绊等级达到10",
+      "descriptionTextID": 1000472,
+      "id": 5,
+      "imageID": 11810,
+      "name": "一心同体",
+      "nameTextID": 1000395
+    },
+    "6": {
+      "colorID": 1,
+      "description": "任意人偶的羁绊等级达到20",
+      "descriptionTextID": 1000473,
+      "id": 6,
+      "imageID": 11811,
+      "name": "一心同体",
+      "nameTextID": 1000396
+    },
+    "7": {
+      "colorID": 2,
+      "description": "累计击败10个怪物",
+      "descriptionTextID": 1000413,
+      "id": 7,
+      "imageID": 11812,
+      "name": "魔物猎手",
+      "nameTextID": 1000336
+    },
+    "8": {
+      "colorID": 3,
+      "description": "累计击败500个怪物",
+      "descriptionTextID": 1000414,
+      "id": 8,
+      "imageID": 11813,
+      "name": "魔物猎手",
+      "nameTextID": 1000337
+    },
+    "9": {
+      "colorID": 1,
+      "description": "累计击败1000个怪物",
+      "descriptionTextID": 1000415,
+      "id": 9,
+      "imageID": 11814,
+      "name": "魔物猎手",
+      "nameTextID": 1000338
+    }
+  }
+}

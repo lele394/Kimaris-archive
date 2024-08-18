@@ -1,0 +1,171 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "Data": [
+    {
+      "callType": 1,
+      "endEvent": 0,
+      "id": 1,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 1000000,
+      "rewardid": 35002,
+      "taskid": 1001577
+    },
+    {
+      "callType": 1,
+      "endEvent": 500,
+      "id": 2,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 30,
+      "rewardid": 75016,
+      "taskid": 1001578
+    },
+    {
+      "callType": 1,
+      "endEvent": 1000,
+      "id": 3,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 30,
+      "rewardid": 75010,
+      "taskid": 1001579
+    },
+    {
+      "callType": 1,
+      "endEvent": 2000,
+      "id": 4,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 3000000,
+      "rewardid": 35002,
+      "taskid": 1001580
+    },
+    {
+      "callType": 1,
+      "endEvent": 5000,
+      "id": 5,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 60,
+      "rewardid": 74001,
+      "taskid": 1001581
+    },
+    {
+      "callType": 1,
+      "endEvent": 8000,
+      "id": 6,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 40,
+      "rewardid": 79001,
+      "taskid": 1001582
+    },
+    {
+      "callType": 1,
+      "endEvent": 10000,
+      "id": 7,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 20,
+      "rewardid": 75019,
+      "taskid": 1001583
+    },
+    {
+      "callType": 2,
+      "endEvent": 0,
+      "id": 8,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 1000000,
+      "rewardid": 35002,
+      "taskid": 1001577
+    },
+    {
+      "callType": 2,
+      "endEvent": 200000,
+      "id": 9,
+      "npcHead": 13845,
+      "npcTalk": 2023,
+      "rewardNum": 30,
+      "rewardid": 75017,
+      "taskid": 1001585
+    },
+    {
+      "callType": 2,
+      "endEvent": 750000,
+      "id": 10,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 40,
+      "rewardid": 75011,
+      "taskid": 1001586
+    },
+    {
+      "callType": 2,
+      "endEvent": 1500000,
+      "id": 11,
+      "npcHead": 13845,
+      "npcTalk": 2024,
+      "rewardNum": 2,
+      "rewardid": 31038,
+      "taskid": 1001587
+    },
+    {
+      "callType": 2,
+      "endEvent": 3000000,
+      "id": 12,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 20,
+      "rewardid": 75011,
+      "taskid": 1001588
+    },
+    {
+      "callType": 2,
+      "endEvent": 7500000,
+      "id": 13,
+      "npcHead": 13845,
+      "npcTalk": 2025,
+      "rewardNum": 20,
+      "rewardid": 79002,
+      "taskid": 1001589
+    },
+    {
+      "callType": 2,
+      "endEvent": 12000000,
+      "id": 14,
+      "npcHead": 13845,
+      "npcTalk": 0,
+      "rewardNum": 20,
+      "rewardid": 75018,
+      "taskid": 1001590
+    },
+    {
+      "callType": 2,
+      "endEvent": 15000000,
+      "id": 15,
+      "npcHead": 13845,
+      "npcTalk": 2026,
+      "rewardNum": 200,
+      "rewardid": 35008,
+      "taskid": 1001591
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "spenditemNumb": 0,
+      "spenditemid": 35008
+    },
+    {
+      "id": 2,
+      "spenditemNumb": 10,
+      "spenditemid": 35008
+    },
+    {
+      "id": 3,
+      "spenditemNumb": 20,
+      "spenditemid": 35008
+    },
+    {
+      "id": 4,
+      "spenditemNumb": 20,
+      "spenditemid": 35008
+    },
+    {
+      "id": 5,
+      "spenditemNumb": 60,
+      "spenditemid": 35008
+    },
+    {
+      "id": 6,
+      "spenditemNumb": 60,
+      "spenditemid": 35008
+    },
+    {
+      "id": 7,
+      "spenditemNumb": 90,
+      "spenditemid": 35008
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "chapterLimit": -1,
+      "endTime": "",
+      "id": 1,
+      "soundid": 136,
+      "startTime": ""
+    },
+    {
+      "chapterLimit": 6,
+      "endTime": "2022-02-15 03:59:59",
+      "id": 2,
+      "soundid": 1358,
+      "startTime": "2022-01-25 04:00:00"
+    }
+  ]
+}

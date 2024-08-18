@@ -1,0 +1,524 @@
+{
+  "AllIds": [
+    160001,
+    160002,
+    160003,
+    160004,
+    160005,
+    160006,
+    160007,
+    160008,
+    160009,
+    160010,
+    160011,
+    160012,
+    160013,
+    160014,
+    160015,
+    160016,
+    160017,
+    160018,
+    160019,
+    160020
+  ],
+  "Data": {
+    "160001": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度怨念聚合体",
+      "descriptionTextID": 1001776,
+      "endevent": 1,
+      "groupID": 3,
+      "id": 160001,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "初踏之敌",
+      "missionnameTextID": 1001756,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160002": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度次元监视者",
+      "descriptionTextID": 1001777,
+      "endevent": 2,
+      "groupID": 4,
+      "id": 160002,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "再入异境",
+      "missionnameTextID": 1001757,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160003": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度弗莱尔",
+      "descriptionTextID": 1001778,
+      "endevent": 3,
+      "groupID": 2,
+      "id": 160003,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "香消玉殒",
+      "missionnameTextID": 1001758,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160004": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度埃舍雷",
+      "descriptionTextID": 1001779,
+      "endevent": 4,
+      "groupID": 1,
+      "id": 160004,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "伊敏瑟伦守护者",
+      "missionnameTextID": 1001759,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160005": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度赫沃奥塔",
+      "descriptionTextID": 1001780,
+      "endevent": 5,
+      "groupID": 5,
+      "id": 160005,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "凶恶之熊",
+      "missionnameTextID": 1001760,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160006": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度瑟希薇",
+      "descriptionTextID": 1001781,
+      "endevent": 6,
+      "groupID": 6,
+      "id": 160006,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "风雪之灾",
+      "missionnameTextID": 1001761,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160007": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度辛莫拉",
+      "descriptionTextID": 1001782,
+      "endevent": 7,
+      "groupID": 7,
+      "id": 160007,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "无妄之火",
+      "missionnameTextID": 1001762,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160008": {
+      "UIjumpvalue": 16,
+      "description": "击败噩梦难度天空主宰 索拉迪乌斯",
+      "descriptionTextID": 1001783,
+      "endevent": 8,
+      "groupID": 8,
+      "id": 160008,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "天空的噩梦",
+      "missionnameTextID": 1001763,
+      "missiontype": 16,
+      "rewardid": 4270,
+      "rewarditem": [
+        35008,
+        74002
+      ],
+      "rewardquantity": [
+        40,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160009": {
+      "UIjumpvalue": 16,
+      "description": "击败所有难度周常Boss1次",
+      "descriptionTextID": 1001784,
+      "endevent": 15,
+      "groupID": 9,
+      "id": 160009,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "大获全胜",
+      "missionnameTextID": 1001764,
+      "missiontype": 16,
+      "rewardid": 4271,
+      "rewarditem": [
+        35008,
+        35002
+      ],
+      "rewardquantity": [
+        40,
+        100000
+      ],
+      "unlockcondition": "1"
+    },
+    "160010": {
+      "UIjumpvalue": 16,
+      "description": "击败所有难度周常Boss5次",
+      "descriptionTextID": 1001785,
+      "endevent": 19,
+      "groupID": 9,
+      "id": 160010,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "大获全胜",
+      "missionnameTextID": 1001765,
+      "missiontype": 16,
+      "rewardid": 4272,
+      "rewarditem": [
+        35008,
+        79001
+      ],
+      "rewardquantity": [
+        200,
+        40
+      ],
+      "unlockcondition": "1"
+    },
+    "160011": {
+      "UIjumpvalue": 16,
+      "description": "击败所有难度周常Boss10次",
+      "descriptionTextID": 1001786,
+      "endevent": 20,
+      "groupID": 9,
+      "id": 160011,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "大获全胜",
+      "missionnameTextID": 1001766,
+      "missiontype": 16,
+      "rewardid": 4273,
+      "rewarditem": [
+        35008,
+        79002
+      ],
+      "rewardquantity": [
+        500,
+        20
+      ],
+      "unlockcondition": "1"
+    },
+    "160012": {
+      "UIjumpvalue": 16,
+      "description": "登上排行榜1次",
+      "descriptionTextID": 1001787,
+      "endevent": 12,
+      "groupID": 10,
+      "id": 160012,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "扶摇直上",
+      "missionnameTextID": 1001767,
+      "missiontype": 16,
+      "rewardid": 4274,
+      "rewarditem": [
+        35008
+      ],
+      "rewardquantity": [
+        200
+      ],
+      "unlockcondition": "1"
+    },
+    "160013": {
+      "UIjumpvalue": 16,
+      "description": "仅使用水银元素人偶击败噩梦难度Boss",
+      "descriptionTextID": 1001788,
+      "endevent": 9,
+      "groupID": 11,
+      "id": 160013,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "水银元素",
+      "missionnameTextID": 1001768,
+      "missiontype": 16,
+      "rewardid": 4275,
+      "rewarditem": [
+        35008,
+        35026
+      ],
+      "rewardquantity": [
+        40,
+        20
+      ],
+      "unlockcondition": "1"
+    },
+    "160014": {
+      "UIjumpvalue": 16,
+      "description": "仅使用硫火元素人偶击败噩梦难度Boss",
+      "descriptionTextID": 1001789,
+      "endevent": 10,
+      "groupID": 12,
+      "id": 160014,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "硫火元素",
+      "missionnameTextID": 1001769,
+      "missiontype": 16,
+      "rewardid": 4275,
+      "rewarditem": [
+        35008,
+        35026
+      ],
+      "rewardquantity": [
+        40,
+        20
+      ],
+      "unlockcondition": "1"
+    },
+    "160015": {
+      "UIjumpvalue": 16,
+      "description": "仅使用盐石元素人偶击败噩梦难度Boss",
+      "descriptionTextID": 1001790,
+      "endevent": 11,
+      "groupID": 13,
+      "id": 160015,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "盐石元素",
+      "missionnameTextID": 1001770,
+      "missiontype": 16,
+      "rewardid": 4275,
+      "rewarditem": [
+        35008,
+        35026
+      ],
+      "rewardquantity": [
+        40,
+        20
+      ],
+      "unlockcondition": "1"
+    },
+    "160016": {
+      "UIjumpvalue": 16,
+      "description": "养成中解锁天赋5次",
+      "descriptionTextID": 1001791,
+      "endevent": 16,
+      "groupID": 14,
+      "id": 160016,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "天赋异禀",
+      "missionnameTextID": 1001771,
+      "missiontype": 16,
+      "rewardid": 4271,
+      "rewarditem": [
+        35008,
+        35002
+      ],
+      "rewardquantity": [
+        40,
+        100000
+      ],
+      "unlockcondition": "1"
+    },
+    "160017": {
+      "UIjumpvalue": 16,
+      "description": "养成中解锁天赋25次",
+      "descriptionTextID": 1001792,
+      "endevent": 17,
+      "groupID": 14,
+      "id": 160017,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "天赋异禀",
+      "missionnameTextID": 1001772,
+      "missiontype": 16,
+      "rewardid": 4276,
+      "rewarditem": [
+        35008,
+        79001
+      ],
+      "rewardquantity": [
+        80,
+        20
+      ],
+      "unlockcondition": "1"
+    },
+    "160018": {
+      "UIjumpvalue": 16,
+      "description": "养成中解锁天赋50次",
+      "descriptionTextID": 1001793,
+      "endevent": 18,
+      "groupID": 14,
+      "id": 160018,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "天赋异禀",
+      "missionnameTextID": 1001773,
+      "missiontype": 16,
+      "rewardid": 4277,
+      "rewarditem": [
+        35008,
+        79002
+      ],
+      "rewardquantity": [
+        200,
+        10
+      ],
+      "unlockcondition": "1"
+    },
+    "160019": {
+      "UIjumpvalue": 16,
+      "description": "仅使用魔导型、妨害型人偶击败噩梦难度Boss",
+      "descriptionTextID": 1001794,
+      "endevent": 13,
+      "groupID": 15,
+      "id": 160019,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "魔力吟诵",
+      "missionnameTextID": 1001774,
+      "missiontype": 16,
+      "rewardid": 4278,
+      "rewarditem": [
+        35008,
+        79002
+      ],
+      "rewardquantity": [
+        40,
+        5
+      ],
+      "unlockcondition": "1"
+    },
+    "160020": {
+      "UIjumpvalue": 16,
+      "description": "仅使用刺杀型、破坏型人偶击败噩梦难度Boss",
+      "descriptionTextID": 1001795,
+      "endevent": 14,
+      "groupID": 16,
+      "id": 160020,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "无坚不摧",
+      "missionnameTextID": 1001775,
+      "missiontype": 16,
+      "rewardid": 4278,
+      "rewarditem": [
+        35008,
+        79002
+      ],
+      "rewardquantity": [
+        40,
+        5
+      ],
+      "unlockcondition": "1"
+    }
+  }
+}

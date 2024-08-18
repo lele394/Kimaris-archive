@@ -1,0 +1,28 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "assetBundle": "sceneobjects/common.prefabs.assetbundle",
+      "assetName": "com_buff_01",
+      "effectID": 1100,
+      "guideID": 14,
+      "id": 1,
+      "paramList": [
+        "1.2"
+      ],
+      "pathUI": "dungeon.buff.acceleratebuffdialog"
+    },
+    {
+      "assetBundle": "sceneobjects/common.prefabs.assetbundle",
+      "assetName": "com_buff_02",
+      "effectID": 1101,
+      "guideID": 15,
+      "id": 2,
+      "paramList": [],
+      "pathUI": "dungeon.buff.invisiblebuffdialog"
+    }
+  ]
+}

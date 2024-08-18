@@ -1,0 +1,26 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "fireflyMaxLv": 4,
+      "getRate": 1,
+      "id": 1,
+      "light1MaxLv": 3,
+      "light2MaxLv": 2,
+      "light3MaxLv": 1,
+      "roleNum": 1
+    },
+    {
+      "fireflyMaxLv": 4,
+      "getRate": 1,
+      "id": 2,
+      "light1MaxLv": 3,
+      "light2MaxLv": 2,
+      "light3MaxLv": 1,
+      "roleNum": 1
+    }
+  ]
+}

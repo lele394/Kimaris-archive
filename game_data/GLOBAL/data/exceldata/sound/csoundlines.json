@@ -1,0 +1,7644 @@
+{
+  "AllIds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    78,
+    79,
+    80,
+    81,
+    83,
+    84,
+    85,
+    86,
+    88,
+    89,
+    90,
+    91,
+    92,
+    94,
+    95,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    115,
+    117,
+    119,
+    120,
+    121,
+    122
+  ],
+  "Data": {
+    "0": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304617,
+      "PosterGirlWelcomeNewYear": 1304682,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 0,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "1": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 1,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "10": {
+      "Adventure": 1301246,
+      "Attacked": [
+        1301259,
+        -1
+      ],
+      "BattleKill": 1301263,
+      "BattleStart": 1301256,
+      "Conversation": [
+        1301248,
+        1301249,
+        1301250,
+        1301251
+      ],
+      "Defeat": 1301262,
+      "Dispatch": 1301242,
+      "Emotion": [
+        1301252,
+        1301253,
+        -1
+      ],
+      "FavoriteGift": 1301233,
+      "Formation": 1301245,
+      "Impression": [
+        1301235,
+        1301236,
+        1301237,
+        1301238,
+        1301239
+      ],
+      "Introduction": 1301254,
+      "LevelUp": 1301229,
+      "LifeHealing": 1301247,
+      "LimitUp": 1301230,
+      "Login": 1301255,
+      "ManaTree": -1,
+      "NormalGift": 1301232,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304624,
+      "PosterGirlWelcomeNewYear": 1304689,
+      "RareUp": 1301231,
+      "Revive": 1301260,
+      "SkillCV": [
+        1301257,
+        1301258,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301234,
+      "Summory": 1301244,
+      "Victory": 1301261,
+      "Withdraw": 1301243,
+      "YardTouch": [
+        1301240,
+        1301241
+      ],
+      "id": 10,
+      "touch": [
+        1303234,
+        1303235,
+        1303236,
+        1303237,
+        1303238
+      ]
+    },
+    "100": {
+      "Adventure": 1305480,
+      "Attacked": [
+        1305453,
+        -1
+      ],
+      "BattleKill": 1305457,
+      "BattleStart": 1305450,
+      "Conversation": [
+        1305482,
+        1305483,
+        1305484,
+        1305485
+      ],
+      "Defeat": 1305456,
+      "Dispatch": 1305476,
+      "Emotion": [
+        1305486,
+        1305487,
+        -1
+      ],
+      "FavoriteGift": 1305467,
+      "Formation": 1305479,
+      "Impression": [
+        1305461,
+        1305462,
+        1305463,
+        1305464,
+        1305465
+      ],
+      "Introduction": 1305488,
+      "LevelUp": 1305458,
+      "LifeHealing": 1305481,
+      "LimitUp": 1305459,
+      "Login": 1305489,
+      "ManaTree": -1,
+      "NormalGift": 1305466,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306714,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305460,
+      "Revive": 1305454,
+      "SkillCV": [
+        1305451,
+        1305452,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305473,
+      "Summory": 1305478,
+      "Victory": 1305455,
+      "Withdraw": 1305477,
+      "YardTouch": [
+        1305474,
+        1305475
+      ],
+      "id": 100,
+      "touch": [
+        1305468,
+        1305469,
+        1305470,
+        1305471,
+        1305472
+      ]
+    },
+    "101": {
+      "Adventure": 1306159,
+      "Attacked": [
+        1306132,
+        -1
+      ],
+      "BattleKill": 1306136,
+      "BattleStart": 1306129,
+      "Conversation": [
+        1306161,
+        1306162,
+        1306163,
+        1306164
+      ],
+      "Defeat": 1306135,
+      "Dispatch": 1306155,
+      "Emotion": [
+        1306165,
+        1306166,
+        -1
+      ],
+      "FavoriteGift": 1306146,
+      "Formation": 1306158,
+      "Impression": [
+        1306140,
+        1306141,
+        1306142,
+        1306143,
+        1306144
+      ],
+      "Introduction": 1306167,
+      "LevelUp": 1306137,
+      "LifeHealing": 1306160,
+      "LimitUp": 1306138,
+      "Login": 1306168,
+      "ManaTree": -1,
+      "NormalGift": 1306145,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306724,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306139,
+      "Revive": 1306133,
+      "SkillCV": [
+        1306130,
+        1306131,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306152,
+      "Summory": 1306157,
+      "Victory": 1306134,
+      "Withdraw": 1306156,
+      "YardTouch": [
+        1306153,
+        1306154
+      ],
+      "id": 101,
+      "touch": [
+        1306147,
+        1306148,
+        1306149,
+        1306150,
+        1306151
+      ]
+    },
+    "102": {
+      "Adventure": 1305926,
+      "Attacked": [
+        1305899,
+        -1
+      ],
+      "BattleKill": 1305903,
+      "BattleStart": 1305896,
+      "Conversation": [
+        1305928,
+        1305929,
+        1305930,
+        1305931
+      ],
+      "Defeat": 1305902,
+      "Dispatch": 1305922,
+      "Emotion": [
+        1305932,
+        1305933,
+        -1
+      ],
+      "FavoriteGift": 1305913,
+      "Formation": 1305925,
+      "Impression": [
+        1305907,
+        1305908,
+        1305909,
+        1305910,
+        1305911
+      ],
+      "Introduction": 1305934,
+      "LevelUp": 1305904,
+      "LifeHealing": 1305927,
+      "LimitUp": 1305905,
+      "Login": 1305935,
+      "ManaTree": -1,
+      "NormalGift": 1305912,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306720,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305906,
+      "Revive": 1305900,
+      "SkillCV": [
+        1305897,
+        1305898,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305919,
+      "Summory": 1305924,
+      "Victory": 1305901,
+      "Withdraw": 1305923,
+      "YardTouch": [
+        1305920,
+        1305921
+      ],
+      "id": 102,
+      "touch": [
+        1305914,
+        1305915,
+        1305916,
+        1305917,
+        1305918
+      ]
+    },
+    "103": {
+      "Adventure": 1305867,
+      "Attacked": [
+        1305840,
+        -1
+      ],
+      "BattleKill": 1305844,
+      "BattleStart": 1305837,
+      "Conversation": [
+        1305869,
+        1305870,
+        1305871,
+        1305872
+      ],
+      "Defeat": 1305843,
+      "Dispatch": 1305863,
+      "Emotion": [
+        1305873,
+        1305874,
+        -1
+      ],
+      "FavoriteGift": 1305854,
+      "Formation": 1305866,
+      "Impression": [
+        1305848,
+        1305849,
+        1305850,
+        1305851,
+        1305852
+      ],
+      "Introduction": 1305875,
+      "LevelUp": 1305845,
+      "LifeHealing": 1305868,
+      "LimitUp": 1305846,
+      "Login": 1305876,
+      "ManaTree": -1,
+      "NormalGift": 1305853,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306719,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305847,
+      "Revive": 1305841,
+      "SkillCV": [
+        1305838,
+        1305839,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305860,
+      "Summory": 1305865,
+      "Victory": 1305842,
+      "Withdraw": 1305864,
+      "YardTouch": [
+        1305861,
+        1305862
+      ],
+      "id": 103,
+      "touch": [
+        1305855,
+        1305856,
+        1305857,
+        1305858,
+        1305859
+      ]
+    },
+    "104": {
+      "Adventure": 1306390,
+      "Attacked": [
+        1306363,
+        -1
+      ],
+      "BattleKill": 1306367,
+      "BattleStart": 1306360,
+      "Conversation": [
+        1306392,
+        1306393,
+        1306394,
+        1306395
+      ],
+      "Defeat": 1306366,
+      "Dispatch": 1306386,
+      "Emotion": [
+        1306396,
+        1306397,
+        -1
+      ],
+      "FavoriteGift": 1306377,
+      "Formation": 1306389,
+      "Impression": [
+        1306371,
+        1306372,
+        1306373,
+        1306374,
+        1306375
+      ],
+      "Introduction": 1306398,
+      "LevelUp": 1306368,
+      "LifeHealing": 1306391,
+      "LimitUp": 1306369,
+      "Login": 1306399,
+      "ManaTree": -1,
+      "NormalGift": 1306376,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306728,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306370,
+      "Revive": 1306364,
+      "SkillCV": [
+        1306361,
+        1306362,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306383,
+      "Summory": 1306388,
+      "Victory": 1306365,
+      "Withdraw": 1306387,
+      "YardTouch": [
+        1306384,
+        1306385
+      ],
+      "id": 104,
+      "touch": [
+        1306378,
+        1306379,
+        1306380,
+        1306381,
+        1306382
+      ]
+    },
+    "105": {
+      "Adventure": 1306865,
+      "Attacked": [
+        1306838,
+        -1
+      ],
+      "BattleKill": 1306842,
+      "BattleStart": 1306835,
+      "Conversation": [
+        1306867,
+        1306868,
+        1306869,
+        1306870
+      ],
+      "Defeat": 1306841,
+      "Dispatch": 1306861,
+      "Emotion": [
+        1306871,
+        1306872,
+        -1
+      ],
+      "FavoriteGift": 1306852,
+      "Formation": 1306864,
+      "Impression": [
+        1306846,
+        1306847,
+        1306848,
+        1306849,
+        1306850
+      ],
+      "Introduction": 1306873,
+      "LevelUp": 1306843,
+      "LifeHealing": 1306866,
+      "LimitUp": 1306844,
+      "Login": 1306874,
+      "ManaTree": -1,
+      "NormalGift": 1306851,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306875,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306845,
+      "Revive": 1306839,
+      "SkillCV": [
+        1306836,
+        1306837,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306858,
+      "Summory": 1306863,
+      "Victory": 1306840,
+      "Withdraw": 1306862,
+      "YardTouch": [
+        1306859,
+        1306860
+      ],
+      "id": 105,
+      "touch": [
+        1306853,
+        1306854,
+        1306855,
+        1306856,
+        1306857
+      ]
+    },
+    "106": {
+      "Adventure": 1305520,
+      "Attacked": [
+        1305493,
+        -1
+      ],
+      "BattleKill": 1305497,
+      "BattleStart": 1305490,
+      "Conversation": [
+        1305522,
+        1305523,
+        1305524,
+        1305525
+      ],
+      "Defeat": 1305496,
+      "Dispatch": 1305516,
+      "Emotion": [
+        1305526,
+        1305527,
+        -1
+      ],
+      "FavoriteGift": 1305507,
+      "Formation": 1305519,
+      "Impression": [
+        1305501,
+        1305502,
+        1305503,
+        1305504,
+        1305505
+      ],
+      "Introduction": 1305528,
+      "LevelUp": 1305498,
+      "LifeHealing": 1305521,
+      "LimitUp": 1305499,
+      "Login": 1305529,
+      "ManaTree": -1,
+      "NormalGift": 1305506,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306715,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305500,
+      "Revive": 1305494,
+      "SkillCV": [
+        1305491,
+        1305492,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305513,
+      "Summory": 1305518,
+      "Victory": 1305495,
+      "Withdraw": 1305517,
+      "YardTouch": [
+        1305514,
+        1305515
+      ],
+      "id": 106,
+      "touch": [
+        1305508,
+        1305509,
+        1305510,
+        1305511,
+        1305512
+      ]
+    },
+    "107": {
+      "Adventure": 1306765,
+      "Attacked": [
+        1306738,
+        -1
+      ],
+      "BattleKill": 1306742,
+      "BattleStart": 1306735,
+      "Conversation": [
+        1306767,
+        1306768,
+        1306769,
+        1306770
+      ],
+      "Defeat": 1306741,
+      "Dispatch": 1306761,
+      "Emotion": [
+        1306771,
+        1306772,
+        -1
+      ],
+      "FavoriteGift": 1306752,
+      "Formation": 1306764,
+      "Impression": [
+        1306746,
+        1306747,
+        1306748,
+        1306749,
+        1306750
+      ],
+      "Introduction": 1306773,
+      "LevelUp": 1306743,
+      "LifeHealing": 1306766,
+      "LimitUp": 1306744,
+      "Login": 1306774,
+      "ManaTree": -1,
+      "NormalGift": 1306751,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306775,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306745,
+      "Revive": 1306739,
+      "SkillCV": [
+        1306736,
+        1306737,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306758,
+      "Summory": 1306763,
+      "Victory": 1306740,
+      "Withdraw": 1306762,
+      "YardTouch": [
+        1306759,
+        1306760
+      ],
+      "id": 107,
+      "touch": [
+        1306753,
+        1306754,
+        1306755,
+        1306756,
+        1306757
+      ]
+    },
+    "108": {
+      "Adventure": 1305392,
+      "Attacked": [
+        1305365,
+        -1
+      ],
+      "BattleKill": 1305369,
+      "BattleStart": 1305362,
+      "Conversation": [
+        1305394,
+        1305395,
+        1305396,
+        1305397
+      ],
+      "Defeat": 1305368,
+      "Dispatch": 1305388,
+      "Emotion": [
+        1305398,
+        1305399,
+        -1
+      ],
+      "FavoriteGift": 1305379,
+      "Formation": 1305391,
+      "Impression": [
+        1305373,
+        1305374,
+        1305375,
+        1305376,
+        1305377
+      ],
+      "Introduction": 1305400,
+      "LevelUp": 1305370,
+      "LifeHealing": 1305393,
+      "LimitUp": 1305371,
+      "Login": 1305401,
+      "ManaTree": -1,
+      "NormalGift": 1305378,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306716,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305372,
+      "Revive": 1305366,
+      "SkillCV": [
+        1305363,
+        1305364,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305385,
+      "Summory": 1305390,
+      "Victory": 1305367,
+      "Withdraw": 1305389,
+      "YardTouch": [
+        1305386,
+        1305387
+      ],
+      "id": 108,
+      "touch": [
+        1305380,
+        1305381,
+        1305382,
+        1305383,
+        1305384
+      ]
+    },
+    "109": {
+      "Adventure": 1306586,
+      "Attacked": [
+        1306559,
+        -1
+      ],
+      "BattleKill": 1306563,
+      "BattleStart": 1306556,
+      "Conversation": [
+        1306588,
+        1306589,
+        1306590,
+        1306591
+      ],
+      "Defeat": 1306562,
+      "Dispatch": 1306582,
+      "Emotion": [
+        1306592,
+        1306593,
+        -1
+      ],
+      "FavoriteGift": 1306573,
+      "Formation": 1306585,
+      "Impression": [
+        1306567,
+        1306568,
+        1306569,
+        1306570,
+        1306571
+      ],
+      "Introduction": 1306594,
+      "LevelUp": 1306564,
+      "LifeHealing": 1306587,
+      "LimitUp": 1306565,
+      "Login": 1306595,
+      "ManaTree": -1,
+      "NormalGift": 1306572,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306732,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306566,
+      "Revive": 1306560,
+      "SkillCV": [
+        1306557,
+        1306558,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306579,
+      "Summory": 1306584,
+      "Victory": 1306561,
+      "Withdraw": 1306583,
+      "YardTouch": [
+        1306580,
+        1306581
+      ],
+      "id": 109,
+      "touch": [
+        1306574,
+        1306575,
+        1306576,
+        1306577,
+        1306578
+      ]
+    },
+    "11": {
+      "Adventure": 1301281,
+      "Attacked": [
+        1301294,
+        -1
+      ],
+      "BattleKill": 1301298,
+      "BattleStart": 1301291,
+      "Conversation": [
+        1301283,
+        1301284,
+        1301285,
+        1301286
+      ],
+      "Defeat": 1301297,
+      "Dispatch": 1301277,
+      "Emotion": [
+        1301287,
+        1301288,
+        -1
+      ],
+      "FavoriteGift": 1301268,
+      "Formation": 1301280,
+      "Impression": [
+        1301270,
+        1301271,
+        1301272,
+        1301273,
+        1301274
+      ],
+      "Introduction": 1301289,
+      "LevelUp": 1301264,
+      "LifeHealing": 1301282,
+      "LimitUp": 1301265,
+      "Login": 1301290,
+      "ManaTree": -1,
+      "NormalGift": 1301267,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304625,
+      "PosterGirlWelcomeNewYear": 1304690,
+      "RareUp": 1301266,
+      "Revive": 1301295,
+      "SkillCV": [
+        1301292,
+        1301293,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301269,
+      "Summory": 1301279,
+      "Victory": 1301296,
+      "Withdraw": 1301278,
+      "YardTouch": [
+        1301275,
+        1301276
+      ],
+      "id": 11,
+      "touch": [
+        1303239,
+        1303240,
+        1303241,
+        1303242,
+        1303243
+      ]
+    },
+    "110": {
+      "Adventure": 1305432,
+      "Attacked": [
+        1305405,
+        -1
+      ],
+      "BattleKill": 1305409,
+      "BattleStart": 1305402,
+      "Conversation": [
+        1305434,
+        1305435,
+        1305436,
+        1305437
+      ],
+      "Defeat": 1305408,
+      "Dispatch": 1305428,
+      "Emotion": [
+        1305438,
+        1305439,
+        -1
+      ],
+      "FavoriteGift": 1305419,
+      "Formation": 1305431,
+      "Impression": [
+        1305413,
+        1305414,
+        1305415,
+        1305416,
+        1305417
+      ],
+      "Introduction": 1305440,
+      "LevelUp": 1305410,
+      "LifeHealing": 1305433,
+      "LimitUp": 1305411,
+      "Login": 1305441,
+      "ManaTree": -1,
+      "NormalGift": 1305418,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306717,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305412,
+      "Revive": 1305406,
+      "SkillCV": [
+        1305403,
+        1305404,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305425,
+      "Summory": 1305430,
+      "Victory": 1305407,
+      "Withdraw": 1305429,
+      "YardTouch": [
+        1305426,
+        1305427
+      ],
+      "id": 110,
+      "touch": [
+        1305420,
+        1305421,
+        1305422,
+        1305423,
+        1305424
+      ]
+    },
+    "111": {
+      "Adventure": 1306488,
+      "Attacked": [
+        1306461,
+        -1
+      ],
+      "BattleKill": 1306465,
+      "BattleStart": 1306458,
+      "Conversation": [
+        1306490,
+        1306491,
+        1306492,
+        1306493
+      ],
+      "Defeat": 1306464,
+      "Dispatch": 1306484,
+      "Emotion": [
+        1306494,
+        1306495,
+        -1
+      ],
+      "FavoriteGift": 1306475,
+      "Formation": 1306487,
+      "Impression": [
+        1306469,
+        1306470,
+        1306471,
+        1306472,
+        1306473
+      ],
+      "Introduction": 1306496,
+      "LevelUp": 1306466,
+      "LifeHealing": 1306489,
+      "LimitUp": 1306467,
+      "Login": 1306497,
+      "ManaTree": -1,
+      "NormalGift": 1306474,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306730,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306468,
+      "Revive": 1306462,
+      "SkillCV": [
+        1306459,
+        1306460,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306481,
+      "Summory": 1306486,
+      "Victory": 1306463,
+      "Withdraw": 1306485,
+      "YardTouch": [
+        1306482,
+        1306483
+      ],
+      "id": 111,
+      "touch": [
+        1306476,
+        1306477,
+        1306478,
+        1306479,
+        1306480
+      ]
+    },
+    "112": {
+      "Adventure": 1306339,
+      "Attacked": [
+        1306312,
+        -1
+      ],
+      "BattleKill": 1306316,
+      "BattleStart": 1306309,
+      "Conversation": [
+        1306341,
+        1306342,
+        1306343,
+        1306344
+      ],
+      "Defeat": 1306315,
+      "Dispatch": 1306335,
+      "Emotion": [
+        1306345,
+        1306346,
+        -1
+      ],
+      "FavoriteGift": 1306326,
+      "Formation": 1306338,
+      "Impression": [
+        1306320,
+        1306321,
+        1306322,
+        1306323,
+        1306324
+      ],
+      "Introduction": 1306347,
+      "LevelUp": 1306317,
+      "LifeHealing": 1306340,
+      "LimitUp": 1306318,
+      "Login": 1306348,
+      "ManaTree": -1,
+      "NormalGift": 1306325,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306727,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306319,
+      "Revive": 1306313,
+      "SkillCV": [
+        1306310,
+        1306311,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306332,
+      "Summory": 1306337,
+      "Victory": 1306314,
+      "Withdraw": 1306336,
+      "YardTouch": [
+        1306333,
+        1306334
+      ],
+      "id": 112,
+      "touch": [
+        1306327,
+        1306328,
+        1306329,
+        1306330,
+        1306331
+      ]
+    },
+    "113": {
+      "Adventure": 1306537,
+      "Attacked": [
+        1306510,
+        -1
+      ],
+      "BattleKill": 1306514,
+      "BattleStart": 1306507,
+      "Conversation": [
+        1306539,
+        1306540,
+        1306541,
+        1306542
+      ],
+      "Defeat": 1306513,
+      "Dispatch": 1306533,
+      "Emotion": [
+        1306543,
+        1306544,
+        -1
+      ],
+      "FavoriteGift": 1306524,
+      "Formation": 1306536,
+      "Impression": [
+        1306518,
+        1306519,
+        1306520,
+        1306521,
+        1306522
+      ],
+      "Introduction": 1306545,
+      "LevelUp": 1306515,
+      "LifeHealing": 1306538,
+      "LimitUp": 1306516,
+      "Login": 1306546,
+      "ManaTree": -1,
+      "NormalGift": 1306523,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306731,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306517,
+      "Revive": 1306511,
+      "SkillCV": [
+        1306508,
+        1306509,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306530,
+      "Summory": 1306535,
+      "Victory": 1306512,
+      "Withdraw": 1306534,
+      "YardTouch": [
+        1306531,
+        1306532
+      ],
+      "id": 113,
+      "touch": [
+        1306525,
+        1306526,
+        1306527,
+        1306528,
+        1306529
+      ]
+    },
+    "115": {
+      "Adventure": 1306635,
+      "Attacked": [
+        1306608,
+        -1
+      ],
+      "BattleKill": 1306612,
+      "BattleStart": 1306605,
+      "Conversation": [
+        1306637,
+        1306638,
+        1306639,
+        1306640
+      ],
+      "Defeat": 1306611,
+      "Dispatch": 1306631,
+      "Emotion": [
+        1306641,
+        1306642,
+        -1
+      ],
+      "FavoriteGift": 1306622,
+      "Formation": 1306634,
+      "Impression": [
+        1306616,
+        1306617,
+        1306618,
+        1306619,
+        1306620
+      ],
+      "Introduction": 1306643,
+      "LevelUp": 1306613,
+      "LifeHealing": 1306636,
+      "LimitUp": 1306614,
+      "Login": 1306644,
+      "ManaTree": -1,
+      "NormalGift": 1306621,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306733,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306615,
+      "Revive": 1306609,
+      "SkillCV": [
+        1306606,
+        1306607,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306628,
+      "Summory": 1306633,
+      "Victory": 1306610,
+      "Withdraw": 1306632,
+      "YardTouch": [
+        1306629,
+        1306630
+      ],
+      "id": 115,
+      "touch": [
+        1306623,
+        1306624,
+        1306625,
+        1306626,
+        1306627
+      ]
+    },
+    "117": {
+      "Adventure": 1306917,
+      "Attacked": [
+        1306890,
+        -1
+      ],
+      "BattleKill": 1306894,
+      "BattleStart": 1306887,
+      "Conversation": [
+        1306919,
+        1306920,
+        1306921,
+        1306922
+      ],
+      "Defeat": 1306893,
+      "Dispatch": 1306913,
+      "Emotion": [
+        1306923,
+        1306924,
+        -1
+      ],
+      "FavoriteGift": 1306904,
+      "Formation": 1306916,
+      "Impression": [
+        1306898,
+        1306899,
+        1306900,
+        1306901,
+        1306902
+      ],
+      "Introduction": 1306925,
+      "LevelUp": 1306895,
+      "LifeHealing": 1306918,
+      "LimitUp": 1306896,
+      "Login": 1306926,
+      "ManaTree": -1,
+      "NormalGift": 1306903,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306927,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306897,
+      "Revive": 1306891,
+      "SkillCV": [
+        1306888,
+        1306889,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306910,
+      "Summory": 1306915,
+      "Victory": 1306892,
+      "Withdraw": 1306914,
+      "YardTouch": [
+        1306911,
+        1306912
+      ],
+      "id": 117,
+      "touch": [
+        1306905,
+        1306906,
+        1306907,
+        1306908,
+        1306909
+      ]
+    },
+    "119": {
+      "Adventure": 1306806,
+      "Attacked": [
+        1306779,
+        -1
+      ],
+      "BattleKill": 1306783,
+      "BattleStart": 1306776,
+      "Conversation": [
+        1306808,
+        1306809,
+        1306810,
+        1306811
+      ],
+      "Defeat": 1306782,
+      "Dispatch": 1306802,
+      "Emotion": [
+        1306812,
+        1306813,
+        -1
+      ],
+      "FavoriteGift": 1306793,
+      "Formation": 1306805,
+      "Impression": [
+        1306787,
+        1306788,
+        1306789,
+        1306790,
+        1306791
+      ],
+      "Introduction": 1306814,
+      "LevelUp": 1306784,
+      "LifeHealing": 1306807,
+      "LimitUp": 1306785,
+      "Login": 1306815,
+      "ManaTree": -1,
+      "NormalGift": 1306792,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306816,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306786,
+      "Revive": 1306780,
+      "SkillCV": [
+        1306777,
+        1306778,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306799,
+      "Summory": 1306804,
+      "Victory": 1306781,
+      "Withdraw": 1306803,
+      "YardTouch": [
+        1306800,
+        1306801
+      ],
+      "id": 119,
+      "touch": [
+        1306794,
+        1306795,
+        1306796,
+        1306797,
+        1306798
+      ]
+    },
+    "12": {
+      "Adventure": 1301316,
+      "Attacked": [
+        1301329,
+        -1
+      ],
+      "BattleKill": 1301333,
+      "BattleStart": 1301326,
+      "Conversation": [
+        1301318,
+        1301319,
+        1301320,
+        1301321
+      ],
+      "Defeat": 1301332,
+      "Dispatch": 1301312,
+      "Emotion": [
+        1301322,
+        1301323,
+        -1
+      ],
+      "FavoriteGift": 1301303,
+      "Formation": 1301315,
+      "Impression": [
+        1301305,
+        1301306,
+        1301307,
+        1301308,
+        1301309
+      ],
+      "Introduction": 1301324,
+      "LevelUp": 1301299,
+      "LifeHealing": 1301317,
+      "LimitUp": 1301300,
+      "Login": 1301325,
+      "ManaTree": -1,
+      "NormalGift": 1301302,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304626,
+      "PosterGirlWelcomeNewYear": 1304691,
+      "RareUp": 1301301,
+      "Revive": 1301330,
+      "SkillCV": [
+        1301327,
+        1301328,
+        1302980,
+        1302983,
+        1302986
+      ],
+      "Standby": 1301304,
+      "Summory": 1301314,
+      "Victory": 1301331,
+      "Withdraw": 1301313,
+      "YardTouch": [
+        1301310,
+        1301311
+      ],
+      "id": 12,
+      "touch": [
+        1303244,
+        1303245,
+        1303246,
+        1303247,
+        1303248
+      ]
+    },
+    "120": {
+      "Adventure": 1306439,
+      "Attacked": [
+        1306412,
+        -1
+      ],
+      "BattleKill": 1306416,
+      "BattleStart": 1306409,
+      "Conversation": [
+        1306441,
+        1306442,
+        1306443,
+        1306444
+      ],
+      "Defeat": 1306415,
+      "Dispatch": 1306435,
+      "Emotion": [
+        1306445,
+        1306446,
+        -1
+      ],
+      "FavoriteGift": 1306426,
+      "Formation": 1306438,
+      "Impression": [
+        1306420,
+        1306421,
+        1306422,
+        1306423,
+        1306424
+      ],
+      "Introduction": 1306447,
+      "LevelUp": 1306417,
+      "LifeHealing": 1306440,
+      "LimitUp": 1306418,
+      "Login": 1306448,
+      "ManaTree": -1,
+      "NormalGift": 1306425,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306729,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306419,
+      "Revive": 1306413,
+      "SkillCV": [
+        1306410,
+        1306411,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306432,
+      "Summory": 1306437,
+      "Victory": 1306414,
+      "Withdraw": 1306436,
+      "YardTouch": [
+        1306433,
+        1306434
+      ],
+      "id": 120,
+      "touch": [
+        1306427,
+        1306428,
+        1306429,
+        1306430,
+        1306431
+      ]
+    },
+    "121": {
+      "Adventure": 1307017,
+      "Attacked": [
+        1306990,
+        -1
+      ],
+      "BattleKill": 1306994,
+      "BattleStart": 1306987,
+      "Conversation": [
+        1307019,
+        1307020,
+        1307021,
+        1307022
+      ],
+      "Defeat": 1306993,
+      "Dispatch": 1307013,
+      "Emotion": [
+        1307023,
+        1307024,
+        -1
+      ],
+      "FavoriteGift": 1307004,
+      "Formation": 1307016,
+      "Impression": [
+        1306998,
+        1306999,
+        1307000,
+        1307001,
+        1307002
+      ],
+      "Introduction": 1307025,
+      "LevelUp": 1306995,
+      "LifeHealing": 1307018,
+      "LimitUp": 1306996,
+      "Login": 1307026,
+      "ManaTree": -1,
+      "NormalGift": 1307003,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1307027,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306997,
+      "Revive": 1306991,
+      "SkillCV": [
+        1306988,
+        1306989,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1307010,
+      "Summory": 1307015,
+      "Victory": 1306992,
+      "Withdraw": 1307014,
+      "YardTouch": [
+        1307011,
+        1307012
+      ],
+      "id": 121,
+      "touch": [
+        1307005,
+        1307006,
+        1307007,
+        1307008,
+        1307009
+      ]
+    },
+    "122": {
+      "Adventure": 1306967,
+      "Attacked": [
+        1306940,
+        -1
+      ],
+      "BattleKill": 1306944,
+      "BattleStart": 1306937,
+      "Conversation": [
+        1306969,
+        1306970,
+        1306971,
+        1306972
+      ],
+      "Defeat": 1306943,
+      "Dispatch": 1306963,
+      "Emotion": [
+        1306973,
+        1306974,
+        -1
+      ],
+      "FavoriteGift": 1306954,
+      "Formation": 1306966,
+      "Impression": [
+        1306948,
+        1306949,
+        1306950,
+        1306951,
+        1306952
+      ],
+      "Introduction": 1306975,
+      "LevelUp": 1306945,
+      "LifeHealing": 1306968,
+      "LimitUp": 1306946,
+      "Login": 1306976,
+      "ManaTree": -1,
+      "NormalGift": 1306953,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306977,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306947,
+      "Revive": 1306941,
+      "SkillCV": [
+        1306938,
+        1306939,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306960,
+      "Summory": 1306965,
+      "Victory": 1306942,
+      "Withdraw": 1306964,
+      "YardTouch": [
+        1306961,
+        1306962
+      ],
+      "id": 122,
+      "touch": [
+        1306955,
+        1306956,
+        1306957,
+        1306958,
+        1306959
+      ]
+    },
+    "13": {
+      "Adventure": 1301351,
+      "Attacked": [
+        1301364,
+        -1
+      ],
+      "BattleKill": 1301368,
+      "BattleStart": 1301361,
+      "Conversation": [
+        1301353,
+        1301354,
+        1301355,
+        1301356
+      ],
+      "Defeat": 1301367,
+      "Dispatch": 1301347,
+      "Emotion": [
+        1301357,
+        1301358,
+        -1
+      ],
+      "FavoriteGift": 1301338,
+      "Formation": 1301350,
+      "Impression": [
+        1301340,
+        1301341,
+        1301342,
+        1301343,
+        1301344
+      ],
+      "Introduction": 1301359,
+      "LevelUp": 1301334,
+      "LifeHealing": 1301352,
+      "LimitUp": 1301335,
+      "Login": 1301360,
+      "ManaTree": -1,
+      "NormalGift": 1301337,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304627,
+      "PosterGirlWelcomeNewYear": 1304692,
+      "RareUp": 1301336,
+      "Revive": 1301365,
+      "SkillCV": [
+        1301362,
+        1301363,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301339,
+      "Summory": 1301349,
+      "Victory": 1301366,
+      "Withdraw": 1301348,
+      "YardTouch": [
+        1301345,
+        1301346
+      ],
+      "id": 13,
+      "touch": [
+        1303249,
+        1303250,
+        1303251,
+        1303252,
+        1303253
+      ]
+    },
+    "14": {
+      "Adventure": 1301386,
+      "Attacked": [
+        1301399,
+        -1
+      ],
+      "BattleKill": 1301403,
+      "BattleStart": 1301396,
+      "Conversation": [
+        1301388,
+        1301389,
+        1301390,
+        1301391
+      ],
+      "Defeat": 1301402,
+      "Dispatch": 1301382,
+      "Emotion": [
+        1301392,
+        1301393,
+        -1
+      ],
+      "FavoriteGift": 1301373,
+      "Formation": 1301385,
+      "Impression": [
+        1301375,
+        1301376,
+        1301377,
+        1301378,
+        1301379
+      ],
+      "Introduction": 1301394,
+      "LevelUp": 1301369,
+      "LifeHealing": 1301387,
+      "LimitUp": 1301370,
+      "Login": 1301395,
+      "ManaTree": -1,
+      "NormalGift": 1301372,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304628,
+      "PosterGirlWelcomeNewYear": 1304693,
+      "RareUp": 1301371,
+      "Revive": 1301400,
+      "SkillCV": [
+        1301397,
+        1301398,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301374,
+      "Summory": 1301384,
+      "Victory": 1301401,
+      "Withdraw": 1301383,
+      "YardTouch": [
+        1301380,
+        1301381
+      ],
+      "id": 14,
+      "touch": [
+        1303254,
+        1303255,
+        1303256,
+        1303257,
+        1303258
+      ]
+    },
+    "15": {
+      "Adventure": 1301421,
+      "Attacked": [
+        1301434,
+        -1
+      ],
+      "BattleKill": 1301438,
+      "BattleStart": 1301431,
+      "Conversation": [
+        1301423,
+        1301424,
+        1301425,
+        1301426
+      ],
+      "Defeat": 1301437,
+      "Dispatch": 1301417,
+      "Emotion": [
+        1301427,
+        1301428,
+        -1
+      ],
+      "FavoriteGift": 1301408,
+      "Formation": 1301420,
+      "Impression": [
+        1301410,
+        1301411,
+        1301412,
+        1301413,
+        1301414
+      ],
+      "Introduction": 1301429,
+      "LevelUp": 1301404,
+      "LifeHealing": 1301422,
+      "LimitUp": 1301405,
+      "Login": 1301430,
+      "ManaTree": -1,
+      "NormalGift": 1301407,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304629,
+      "PosterGirlWelcomeNewYear": 1304694,
+      "RareUp": 1301406,
+      "Revive": 1301435,
+      "SkillCV": [
+        1301432,
+        1301433,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301409,
+      "Summory": 1301419,
+      "Victory": 1301436,
+      "Withdraw": 1301418,
+      "YardTouch": [
+        1301415,
+        1301416
+      ],
+      "id": 15,
+      "touch": [
+        1303259,
+        1303260,
+        1303261,
+        1303262,
+        1303263
+      ]
+    },
+    "16": {
+      "Adventure": 1301456,
+      "Attacked": [
+        1301469,
+        -1
+      ],
+      "BattleKill": 1301473,
+      "BattleStart": 1301466,
+      "Conversation": [
+        1301458,
+        1301459,
+        1301460,
+        1301461
+      ],
+      "Defeat": 1301472,
+      "Dispatch": 1301452,
+      "Emotion": [
+        1301462,
+        1301463,
+        -1
+      ],
+      "FavoriteGift": 1301443,
+      "Formation": 1301455,
+      "Impression": [
+        1301445,
+        1301446,
+        1301447,
+        1301448,
+        1301449
+      ],
+      "Introduction": 1301464,
+      "LevelUp": 1301439,
+      "LifeHealing": 1301457,
+      "LimitUp": 1301440,
+      "Login": 1301465,
+      "ManaTree": -1,
+      "NormalGift": 1301442,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304630,
+      "PosterGirlWelcomeNewYear": 1304695,
+      "RareUp": 1301441,
+      "Revive": 1301470,
+      "SkillCV": [
+        1301467,
+        1301468,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301444,
+      "Summory": 1301454,
+      "Victory": 1301471,
+      "Withdraw": 1301453,
+      "YardTouch": [
+        1301450,
+        1301451
+      ],
+      "id": 16,
+      "touch": [
+        1303264,
+        1303265,
+        1303266,
+        1303267,
+        1303268
+      ]
+    },
+    "17": {
+      "Adventure": 1301491,
+      "Attacked": [
+        1301504,
+        -1
+      ],
+      "BattleKill": 1301508,
+      "BattleStart": 1301501,
+      "Conversation": [
+        1301493,
+        1301494,
+        1301495,
+        1301496
+      ],
+      "Defeat": 1301507,
+      "Dispatch": 1301487,
+      "Emotion": [
+        1301497,
+        1301498,
+        -1
+      ],
+      "FavoriteGift": 1301478,
+      "Formation": 1301490,
+      "Impression": [
+        1301480,
+        1301481,
+        1301482,
+        1301483,
+        1301484
+      ],
+      "Introduction": 1301499,
+      "LevelUp": 1301474,
+      "LifeHealing": 1301492,
+      "LimitUp": 1301475,
+      "Login": 1301500,
+      "ManaTree": -1,
+      "NormalGift": 1301477,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304631,
+      "PosterGirlWelcomeNewYear": 1304696,
+      "RareUp": 1301476,
+      "Revive": 1301505,
+      "SkillCV": [
+        1301502,
+        1301503,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301479,
+      "Summory": 1301489,
+      "Victory": 1301506,
+      "Withdraw": 1301488,
+      "YardTouch": [
+        1301485,
+        1301486
+      ],
+      "id": 17,
+      "touch": [
+        1303269,
+        1303270,
+        1303271,
+        1303272,
+        1303273
+      ]
+    },
+    "18": {
+      "Adventure": 1301526,
+      "Attacked": [
+        1301539,
+        -1
+      ],
+      "BattleKill": 1301543,
+      "BattleStart": 1301536,
+      "Conversation": [
+        1301528,
+        1301529,
+        1301530,
+        1301531
+      ],
+      "Defeat": 1301542,
+      "Dispatch": 1301522,
+      "Emotion": [
+        1301532,
+        1301533,
+        -1
+      ],
+      "FavoriteGift": 1301513,
+      "Formation": 1301525,
+      "Impression": [
+        1301515,
+        1301516,
+        1301517,
+        1301518,
+        1301519
+      ],
+      "Introduction": 1301534,
+      "LevelUp": 1301509,
+      "LifeHealing": 1301527,
+      "LimitUp": 1301510,
+      "Login": 1301535,
+      "ManaTree": -1,
+      "NormalGift": 1301512,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304632,
+      "PosterGirlWelcomeNewYear": 1304697,
+      "RareUp": 1301511,
+      "Revive": 1301540,
+      "SkillCV": [
+        1301537,
+        1301538,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301514,
+      "Summory": 1301524,
+      "Victory": 1301541,
+      "Withdraw": 1301523,
+      "YardTouch": [
+        1301520,
+        1301521
+      ],
+      "id": 18,
+      "touch": [
+        1303274,
+        1303275,
+        1303276,
+        1303277,
+        1303278
+      ]
+    },
+    "19": {
+      "Adventure": 1301561,
+      "Attacked": [
+        1301574,
+        -1
+      ],
+      "BattleKill": 1301578,
+      "BattleStart": 1301571,
+      "Conversation": [
+        1301563,
+        1301564,
+        1301565,
+        1301566
+      ],
+      "Defeat": 1301577,
+      "Dispatch": 1301557,
+      "Emotion": [
+        1301567,
+        1301568,
+        -1
+      ],
+      "FavoriteGift": 1301548,
+      "Formation": 1301560,
+      "Impression": [
+        1301550,
+        1301551,
+        1301552,
+        1301553,
+        1301554
+      ],
+      "Introduction": 1301569,
+      "LevelUp": 1301544,
+      "LifeHealing": 1301562,
+      "LimitUp": 1301545,
+      "Login": 1301570,
+      "ManaTree": -1,
+      "NormalGift": 1301547,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304633,
+      "PosterGirlWelcomeNewYear": 1304698,
+      "RareUp": 1301546,
+      "Revive": 1301575,
+      "SkillCV": [
+        1301572,
+        1301573,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301549,
+      "Summory": 1301559,
+      "Victory": 1301576,
+      "Withdraw": 1301558,
+      "YardTouch": [
+        1301555,
+        1301556
+      ],
+      "id": 19,
+      "touch": [
+        1303279,
+        1303280,
+        1303281,
+        1303282,
+        1303283
+      ]
+    },
+    "2": {
+      "Adventure": 1301106,
+      "Attacked": [
+        1301119,
+        -1
+      ],
+      "BattleKill": 1301123,
+      "BattleStart": 1301116,
+      "Conversation": [
+        1301108,
+        1301109,
+        1301110,
+        1301111
+      ],
+      "Defeat": 1301122,
+      "Dispatch": 1301102,
+      "Emotion": [
+        1301112,
+        1301113,
+        -1
+      ],
+      "FavoriteGift": 1301093,
+      "Formation": 1301105,
+      "Impression": [
+        1301095,
+        1301096,
+        1301097,
+        1301098,
+        1301099
+      ],
+      "Introduction": 1301114,
+      "LevelUp": 1301089,
+      "LifeHealing": 1301107,
+      "LimitUp": 1301090,
+      "Login": 1301115,
+      "ManaTree": -1,
+      "NormalGift": 1301092,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304618,
+      "PosterGirlWelcomeNewYear": 1304683,
+      "RareUp": 1301091,
+      "Revive": 1301120,
+      "SkillCV": [
+        1301117,
+        1301118,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301094,
+      "Summory": 1301104,
+      "Victory": 1301121,
+      "Withdraw": 1301103,
+      "YardTouch": [
+        1301100,
+        1301101
+      ],
+      "id": 2,
+      "touch": [
+        1303204,
+        1303205,
+        1303206,
+        1303207,
+        1303208
+      ]
+    },
+    "20": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 20,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "21": {
+      "Adventure": 1301596,
+      "Attacked": [
+        1301609,
+        -1
+      ],
+      "BattleKill": 1301613,
+      "BattleStart": 1301606,
+      "Conversation": [
+        1301598,
+        1301599,
+        1301600,
+        1301601
+      ],
+      "Defeat": 1301612,
+      "Dispatch": 1301592,
+      "Emotion": [
+        1301602,
+        1301603,
+        -1
+      ],
+      "FavoriteGift": 1301583,
+      "Formation": 1301595,
+      "Impression": [
+        1301585,
+        1301586,
+        1301587,
+        1301588,
+        1301589
+      ],
+      "Introduction": 1301604,
+      "LevelUp": 1301579,
+      "LifeHealing": 1301597,
+      "LimitUp": 1301580,
+      "Login": 1301605,
+      "ManaTree": -1,
+      "NormalGift": 1301582,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304634,
+      "PosterGirlWelcomeNewYear": 1304699,
+      "RareUp": 1301581,
+      "Revive": 1301610,
+      "SkillCV": [
+        1301607,
+        1301608,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301584,
+      "Summory": 1301594,
+      "Victory": 1301611,
+      "Withdraw": 1301593,
+      "YardTouch": [
+        1301590,
+        1301591
+      ],
+      "id": 21,
+      "touch": [
+        1303284,
+        1303285,
+        1303286,
+        1303287,
+        1303288
+      ]
+    },
+    "22": {
+      "Adventure": 1301631,
+      "Attacked": [
+        1301644,
+        -1
+      ],
+      "BattleKill": 1301648,
+      "BattleStart": 1301641,
+      "Conversation": [
+        1301633,
+        1301634,
+        1301635,
+        1301636
+      ],
+      "Defeat": 1301647,
+      "Dispatch": 1301627,
+      "Emotion": [
+        1301637,
+        1301638,
+        -1
+      ],
+      "FavoriteGift": 1301618,
+      "Formation": 1301630,
+      "Impression": [
+        1301620,
+        1301621,
+        1301622,
+        1301623,
+        1301624
+      ],
+      "Introduction": 1301639,
+      "LevelUp": 1301614,
+      "LifeHealing": 1301632,
+      "LimitUp": 1301615,
+      "Login": 1301640,
+      "ManaTree": -1,
+      "NormalGift": 1301617,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304635,
+      "PosterGirlWelcomeNewYear": 1304700,
+      "RareUp": 1301616,
+      "Revive": 1301645,
+      "SkillCV": [
+        1301642,
+        1301643,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301619,
+      "Summory": 1301629,
+      "Victory": 1301646,
+      "Withdraw": 1301628,
+      "YardTouch": [
+        1301625,
+        1301626
+      ],
+      "id": 22,
+      "touch": [
+        1303289,
+        1303290,
+        1303291,
+        1303292,
+        1303293
+      ]
+    },
+    "23": {
+      "Adventure": 1303186,
+      "Attacked": [
+        1303199,
+        -1
+      ],
+      "BattleKill": 1303203,
+      "BattleStart": 1303196,
+      "Conversation": [
+        1303188,
+        1303189,
+        1303190,
+        1303191
+      ],
+      "Defeat": 1303202,
+      "Dispatch": 1303182,
+      "Emotion": [
+        1303192,
+        1303193,
+        -1
+      ],
+      "FavoriteGift": 1303173,
+      "Formation": 1303185,
+      "Impression": [
+        1303175,
+        1303176,
+        1303177,
+        1303178,
+        1303179
+      ],
+      "Introduction": 1303194,
+      "LevelUp": 1303169,
+      "LifeHealing": 1303187,
+      "LimitUp": 1303170,
+      "Login": 1303195,
+      "ManaTree": -1,
+      "NormalGift": 1303172,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304636,
+      "PosterGirlWelcomeNewYear": 1304701,
+      "RareUp": 1303171,
+      "Revive": 1303200,
+      "SkillCV": [
+        1303197,
+        1303198,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1303174,
+      "Summory": 1303184,
+      "Victory": 1303201,
+      "Withdraw": 1303183,
+      "YardTouch": [
+        1303180,
+        1303181
+      ],
+      "id": 23,
+      "touch": [
+        1303294,
+        1303295,
+        1303296,
+        1303297,
+        1303298
+      ]
+    },
+    "24": {
+      "Adventure": 1301666,
+      "Attacked": [
+        1301679,
+        -1
+      ],
+      "BattleKill": 1301683,
+      "BattleStart": 1301676,
+      "Conversation": [
+        1301668,
+        1301669,
+        1301670,
+        1301671
+      ],
+      "Defeat": 1301682,
+      "Dispatch": 1301662,
+      "Emotion": [
+        1301672,
+        1301673,
+        -1
+      ],
+      "FavoriteGift": 1301653,
+      "Formation": 1301665,
+      "Impression": [
+        1301655,
+        1301656,
+        1301657,
+        1301658,
+        1301659
+      ],
+      "Introduction": 1301674,
+      "LevelUp": 1301649,
+      "LifeHealing": 1301667,
+      "LimitUp": 1301650,
+      "Login": 1301675,
+      "ManaTree": -1,
+      "NormalGift": 1301652,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304637,
+      "PosterGirlWelcomeNewYear": 1304702,
+      "RareUp": 1301651,
+      "Revive": 1301680,
+      "SkillCV": [
+        1301677,
+        1301678,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301654,
+      "Summory": 1301664,
+      "Victory": 1301681,
+      "Withdraw": 1301663,
+      "YardTouch": [
+        1301660,
+        1301661
+      ],
+      "id": 24,
+      "touch": [
+        1303299,
+        1303300,
+        1303301,
+        1303302,
+        1303303
+      ]
+    },
+    "25": {
+      "Adventure": 1301701,
+      "Attacked": [
+        1301714,
+        -1
+      ],
+      "BattleKill": 1301718,
+      "BattleStart": 1301711,
+      "Conversation": [
+        1301703,
+        1301704,
+        1301705,
+        1301706
+      ],
+      "Defeat": 1301717,
+      "Dispatch": 1301697,
+      "Emotion": [
+        1301707,
+        1301708,
+        -1
+      ],
+      "FavoriteGift": 1301688,
+      "Formation": 1301700,
+      "Impression": [
+        1301690,
+        1301691,
+        1301692,
+        1301693,
+        1301694
+      ],
+      "Introduction": 1301709,
+      "LevelUp": 1301684,
+      "LifeHealing": 1301702,
+      "LimitUp": 1301685,
+      "Login": 1301710,
+      "ManaTree": -1,
+      "NormalGift": 1301687,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304638,
+      "PosterGirlWelcomeNewYear": 1304703,
+      "RareUp": 1301686,
+      "Revive": 1301715,
+      "SkillCV": [
+        1301712,
+        1301713,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301689,
+      "Summory": 1301699,
+      "Victory": 1301716,
+      "Withdraw": 1301698,
+      "YardTouch": [
+        1301695,
+        1301696
+      ],
+      "id": 25,
+      "touch": [
+        1303304,
+        1303305,
+        1303306,
+        1303307,
+        1303308
+      ]
+    },
+    "26": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 26,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "27": {
+      "Adventure": 1301736,
+      "Attacked": [
+        1301749,
+        -1
+      ],
+      "BattleKill": 1301753,
+      "BattleStart": 1301746,
+      "Conversation": [
+        1301738,
+        1301739,
+        1301740,
+        1301741
+      ],
+      "Defeat": 1301752,
+      "Dispatch": 1301732,
+      "Emotion": [
+        1301742,
+        1301743,
+        -1
+      ],
+      "FavoriteGift": 1301723,
+      "Formation": 1301735,
+      "Impression": [
+        1301725,
+        1301726,
+        1301727,
+        1301728,
+        1301729
+      ],
+      "Introduction": 1301744,
+      "LevelUp": 1301719,
+      "LifeHealing": 1301737,
+      "LimitUp": 1301720,
+      "Login": 1301745,
+      "ManaTree": -1,
+      "NormalGift": 1301722,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304639,
+      "PosterGirlWelcomeNewYear": 1304704,
+      "RareUp": 1301721,
+      "Revive": 1301750,
+      "SkillCV": [
+        1301747,
+        1301748,
+        1302981,
+        1302984,
+        -1
+      ],
+      "Standby": 1301724,
+      "Summory": 1301734,
+      "Victory": 1301751,
+      "Withdraw": 1301733,
+      "YardTouch": [
+        1301730,
+        1301731
+      ],
+      "id": 27,
+      "touch": [
+        1303309,
+        1303310,
+        1303311,
+        1303312,
+        1303313
+      ]
+    },
+    "28": {
+      "Adventure": 1301771,
+      "Attacked": [
+        1301784,
+        -1
+      ],
+      "BattleKill": 1301788,
+      "BattleStart": 1301781,
+      "Conversation": [
+        1301773,
+        1301774,
+        1301775,
+        1301776
+      ],
+      "Defeat": 1301787,
+      "Dispatch": 1301767,
+      "Emotion": [
+        1301777,
+        1301778,
+        -1
+      ],
+      "FavoriteGift": 1301758,
+      "Formation": 1301770,
+      "Impression": [
+        1301760,
+        1301761,
+        1301762,
+        1301763,
+        1301764
+      ],
+      "Introduction": 1301779,
+      "LevelUp": 1301754,
+      "LifeHealing": 1301772,
+      "LimitUp": 1301755,
+      "Login": 1301780,
+      "ManaTree": -1,
+      "NormalGift": 1301757,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304640,
+      "PosterGirlWelcomeNewYear": 1304705,
+      "RareUp": 1301756,
+      "Revive": 1301785,
+      "SkillCV": [
+        1301782,
+        1301783,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301759,
+      "Summory": 1301769,
+      "Victory": 1301786,
+      "Withdraw": 1301768,
+      "YardTouch": [
+        1301765,
+        1301766
+      ],
+      "id": 28,
+      "touch": [
+        1303314,
+        1303315,
+        1303316,
+        1303317,
+        1303318
+      ]
+    },
+    "29": {
+      "Adventure": 1301806,
+      "Attacked": [
+        1301819,
+        -1
+      ],
+      "BattleKill": 1301823,
+      "BattleStart": 1301816,
+      "Conversation": [
+        1301808,
+        1301809,
+        1301810,
+        1301811
+      ],
+      "Defeat": 1301822,
+      "Dispatch": 1301802,
+      "Emotion": [
+        1301812,
+        1301813,
+        -1
+      ],
+      "FavoriteGift": 1301793,
+      "Formation": 1301805,
+      "Impression": [
+        1301795,
+        1301796,
+        1301797,
+        1301798,
+        1301799
+      ],
+      "Introduction": 1301814,
+      "LevelUp": 1301789,
+      "LifeHealing": 1301807,
+      "LimitUp": 1301790,
+      "Login": 1301815,
+      "ManaTree": -1,
+      "NormalGift": 1301792,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304641,
+      "PosterGirlWelcomeNewYear": 1304706,
+      "RareUp": 1301791,
+      "Revive": 1301820,
+      "SkillCV": [
+        1301817,
+        1301818,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301794,
+      "Summory": 1301804,
+      "Victory": 1301821,
+      "Withdraw": 1301803,
+      "YardTouch": [
+        1301800,
+        1301801
+      ],
+      "id": 29,
+      "touch": [
+        1303319,
+        1303320,
+        1303321,
+        1303322,
+        1303323
+      ]
+    },
+    "3": {
+      "Adventure": 1303116,
+      "Attacked": [
+        1303129,
+        -1
+      ],
+      "BattleKill": 1303133,
+      "BattleStart": 1303126,
+      "Conversation": [
+        1303118,
+        1303119,
+        1303120,
+        1303121
+      ],
+      "Defeat": 1303132,
+      "Dispatch": 1303112,
+      "Emotion": [
+        1303122,
+        1303123,
+        -1
+      ],
+      "FavoriteGift": 1303103,
+      "Formation": 1303115,
+      "Impression": [
+        1303105,
+        1303106,
+        1303107,
+        1303108,
+        1303109
+      ],
+      "Introduction": 1303124,
+      "LevelUp": 1303099,
+      "LifeHealing": 1303117,
+      "LimitUp": 1303100,
+      "Login": 1303125,
+      "ManaTree": -1,
+      "NormalGift": 1303102,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304619,
+      "PosterGirlWelcomeNewYear": 1304684,
+      "RareUp": 1303101,
+      "Revive": 1303130,
+      "SkillCV": [
+        1303127,
+        1303128,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1303104,
+      "Summory": 1303114,
+      "Victory": 1303131,
+      "Withdraw": 1303113,
+      "YardTouch": [
+        1303110,
+        1303111
+      ],
+      "id": 3,
+      "touch": [
+        1303209,
+        1303210,
+        1303211,
+        1303212,
+        1303213
+      ]
+    },
+    "30": {
+      "Adventure": 1301841,
+      "Attacked": [
+        1301854,
+        -1
+      ],
+      "BattleKill": 1301858,
+      "BattleStart": 1301851,
+      "Conversation": [
+        1301843,
+        1301844,
+        1301845,
+        1301846
+      ],
+      "Defeat": 1301857,
+      "Dispatch": 1301837,
+      "Emotion": [
+        1301847,
+        1301848,
+        -1
+      ],
+      "FavoriteGift": 1301828,
+      "Formation": 1301840,
+      "Impression": [
+        1301830,
+        1301831,
+        1301832,
+        1301833,
+        1301834
+      ],
+      "Introduction": 1301849,
+      "LevelUp": 1301824,
+      "LifeHealing": 1301842,
+      "LimitUp": 1301825,
+      "Login": 1301850,
+      "ManaTree": -1,
+      "NormalGift": 1301827,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304642,
+      "PosterGirlWelcomeNewYear": 1304707,
+      "RareUp": 1301826,
+      "Revive": 1301855,
+      "SkillCV": [
+        1301852,
+        1301853,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301829,
+      "Summory": 1301839,
+      "Victory": 1301856,
+      "Withdraw": 1301838,
+      "YardTouch": [
+        1301835,
+        1301836
+      ],
+      "id": 30,
+      "touch": [
+        1303324,
+        1303325,
+        1303326,
+        1303327,
+        1303328
+      ]
+    },
+    "31": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 31,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "32": {
+      "Adventure": 1301911,
+      "Attacked": [
+        1301924,
+        -1
+      ],
+      "BattleKill": 1301928,
+      "BattleStart": 1301921,
+      "Conversation": [
+        1301913,
+        1301914,
+        1301915,
+        1301916
+      ],
+      "Defeat": 1301927,
+      "Dispatch": 1301907,
+      "Emotion": [
+        1301917,
+        1301918,
+        -1
+      ],
+      "FavoriteGift": 1301898,
+      "Formation": 1301910,
+      "Impression": [
+        1301900,
+        1301901,
+        1301902,
+        1301903,
+        1301904
+      ],
+      "Introduction": 1301919,
+      "LevelUp": 1301894,
+      "LifeHealing": 1301912,
+      "LimitUp": 1301895,
+      "Login": 1301920,
+      "ManaTree": -1,
+      "NormalGift": 1301897,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304644,
+      "PosterGirlWelcomeNewYear": 1304709,
+      "RareUp": 1301896,
+      "Revive": 1301925,
+      "SkillCV": [
+        1301922,
+        1301923,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301899,
+      "Summory": 1301909,
+      "Victory": 1301926,
+      "Withdraw": 1301908,
+      "YardTouch": [
+        1301905,
+        1301906
+      ],
+      "id": 32,
+      "touch": [
+        1303334,
+        1303335,
+        1303336,
+        1303337,
+        1303338
+      ]
+    },
+    "33": {
+      "Adventure": 1301946,
+      "Attacked": [
+        1301959,
+        -1
+      ],
+      "BattleKill": 1301963,
+      "BattleStart": 1301956,
+      "Conversation": [
+        1301948,
+        1301949,
+        1301950,
+        1301951
+      ],
+      "Defeat": 1301962,
+      "Dispatch": 1301942,
+      "Emotion": [
+        1301952,
+        1301953,
+        -1
+      ],
+      "FavoriteGift": 1301933,
+      "Formation": 1301945,
+      "Impression": [
+        1301935,
+        1301936,
+        1301937,
+        1301938,
+        1301939
+      ],
+      "Introduction": 1301954,
+      "LevelUp": 1301929,
+      "LifeHealing": 1301947,
+      "LimitUp": 1301930,
+      "Login": 1301955,
+      "ManaTree": -1,
+      "NormalGift": 1301932,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304645,
+      "PosterGirlWelcomeNewYear": 1304710,
+      "RareUp": 1301931,
+      "Revive": 1301960,
+      "SkillCV": [
+        1301957,
+        1301958,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301934,
+      "Summory": 1301944,
+      "Victory": 1301961,
+      "Withdraw": 1301943,
+      "YardTouch": [
+        1301940,
+        1301941
+      ],
+      "id": 33,
+      "touch": [
+        1303339,
+        1303340,
+        1303341,
+        1303342,
+        1303343
+      ]
+    },
+    "34": {
+      "Adventure": 1301981,
+      "Attacked": [
+        1301994,
+        -1
+      ],
+      "BattleKill": 1301998,
+      "BattleStart": 1301991,
+      "Conversation": [
+        1301983,
+        1301984,
+        1301985,
+        1301986
+      ],
+      "Defeat": 1301997,
+      "Dispatch": 1301977,
+      "Emotion": [
+        1301987,
+        1301988,
+        -1
+      ],
+      "FavoriteGift": 1301968,
+      "Formation": 1301980,
+      "Impression": [
+        1301970,
+        1301971,
+        1301972,
+        1301973,
+        1301974
+      ],
+      "Introduction": 1301989,
+      "LevelUp": 1301964,
+      "LifeHealing": 1301982,
+      "LimitUp": 1301965,
+      "Login": 1301990,
+      "ManaTree": -1,
+      "NormalGift": 1301967,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304646,
+      "PosterGirlWelcomeNewYear": 1304711,
+      "RareUp": 1301966,
+      "Revive": 1301995,
+      "SkillCV": [
+        1301992,
+        1301993,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301969,
+      "Summory": 1301979,
+      "Victory": 1301996,
+      "Withdraw": 1301978,
+      "YardTouch": [
+        1301975,
+        1301976
+      ],
+      "id": 34,
+      "touch": [
+        1303344,
+        1303345,
+        1303346,
+        1303347,
+        1303348
+      ]
+    },
+    "35": {
+      "Adventure": 1302016,
+      "Attacked": [
+        1302029,
+        -1
+      ],
+      "BattleKill": 1302033,
+      "BattleStart": 1302026,
+      "Conversation": [
+        1302018,
+        1302019,
+        1302020,
+        1302021
+      ],
+      "Defeat": 1302032,
+      "Dispatch": 1302012,
+      "Emotion": [
+        1302022,
+        1302023,
+        -1
+      ],
+      "FavoriteGift": 1302003,
+      "Formation": 1302015,
+      "Impression": [
+        1302005,
+        1302006,
+        1302007,
+        1302008,
+        1302009
+      ],
+      "Introduction": 1302024,
+      "LevelUp": 1301999,
+      "LifeHealing": 1302017,
+      "LimitUp": 1302000,
+      "Login": 1302025,
+      "ManaTree": -1,
+      "NormalGift": 1302002,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304647,
+      "PosterGirlWelcomeNewYear": 1304712,
+      "RareUp": 1302001,
+      "Revive": 1302030,
+      "SkillCV": [
+        1302027,
+        1302028,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302004,
+      "Summory": 1302014,
+      "Victory": 1302031,
+      "Withdraw": 1302013,
+      "YardTouch": [
+        1302010,
+        1302011
+      ],
+      "id": 35,
+      "touch": [
+        1303349,
+        1303350,
+        1303351,
+        1303352,
+        1303353
+      ]
+    },
+    "36": {
+      "Adventure": 1302051,
+      "Attacked": [
+        1302064,
+        -1
+      ],
+      "BattleKill": 1302068,
+      "BattleStart": 1302061,
+      "Conversation": [
+        1302053,
+        1302054,
+        1302055,
+        1302056
+      ],
+      "Defeat": 1302067,
+      "Dispatch": 1302047,
+      "Emotion": [
+        1302057,
+        1302058,
+        -1
+      ],
+      "FavoriteGift": 1302038,
+      "Formation": 1302050,
+      "Impression": [
+        1302040,
+        1302041,
+        1302042,
+        1302043,
+        1302044
+      ],
+      "Introduction": 1302059,
+      "LevelUp": 1302034,
+      "LifeHealing": 1302052,
+      "LimitUp": 1302035,
+      "Login": 1302060,
+      "ManaTree": -1,
+      "NormalGift": 1302037,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304648,
+      "PosterGirlWelcomeNewYear": 1304713,
+      "RareUp": 1302036,
+      "Revive": 1302065,
+      "SkillCV": [
+        1302062,
+        1302063,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302039,
+      "Summory": 1302049,
+      "Victory": 1302066,
+      "Withdraw": 1302048,
+      "YardTouch": [
+        1302045,
+        1302046
+      ],
+      "id": 36,
+      "touch": [
+        1303354,
+        1303355,
+        1303356,
+        1303357,
+        1303358
+      ]
+    },
+    "37": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 37,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "38": {
+      "Adventure": 1302086,
+      "Attacked": [
+        1302099,
+        -1
+      ],
+      "BattleKill": 1302103,
+      "BattleStart": 1302096,
+      "Conversation": [
+        1302088,
+        1302089,
+        1302090,
+        1302091
+      ],
+      "Defeat": 1302102,
+      "Dispatch": 1302082,
+      "Emotion": [
+        1302092,
+        1302093,
+        -1
+      ],
+      "FavoriteGift": 1302073,
+      "Formation": 1302085,
+      "Impression": [
+        1302075,
+        1302076,
+        1302077,
+        1302078,
+        1302079
+      ],
+      "Introduction": 1302094,
+      "LevelUp": 1302069,
+      "LifeHealing": 1302087,
+      "LimitUp": 1302070,
+      "Login": 1302095,
+      "ManaTree": -1,
+      "NormalGift": 1302072,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304649,
+      "PosterGirlWelcomeNewYear": 1304714,
+      "RareUp": 1302071,
+      "Revive": 1302100,
+      "SkillCV": [
+        1302097,
+        1302098,
+        1302982,
+        1302985,
+        -1
+      ],
+      "Standby": 1302074,
+      "Summory": 1302084,
+      "Victory": 1302101,
+      "Withdraw": 1302083,
+      "YardTouch": [
+        1302080,
+        1302081
+      ],
+      "id": 38,
+      "touch": [
+        1303359,
+        1303360,
+        1303361,
+        1303362,
+        1303363
+      ]
+    },
+    "39": {
+      "Adventure": 1304225,
+      "Attacked": [
+        1304238,
+        -1
+      ],
+      "BattleKill": 1304242,
+      "BattleStart": 1304235,
+      "Conversation": [
+        1304227,
+        1304228,
+        1304229,
+        1304230
+      ],
+      "Defeat": 1304241,
+      "Dispatch": 1304221,
+      "Emotion": [
+        1304231,
+        1304232,
+        -1
+      ],
+      "FavoriteGift": 1304207,
+      "Formation": 1304224,
+      "Impression": [
+        1304209,
+        1304210,
+        1304211,
+        1304212,
+        1304213
+      ],
+      "Introduction": 1304233,
+      "LevelUp": 1304203,
+      "LifeHealing": 1304226,
+      "LimitUp": 1304204,
+      "Login": 1304234,
+      "ManaTree": -1,
+      "NormalGift": 1304206,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304650,
+      "PosterGirlWelcomeNewYear": 1304715,
+      "RareUp": 1304205,
+      "Revive": 1304239,
+      "SkillCV": [
+        1304236,
+        1304237,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304208,
+      "Summory": 1304223,
+      "Victory": 1304240,
+      "Withdraw": 1304222,
+      "YardTouch": [
+        1304219,
+        1304220
+      ],
+      "id": 39,
+      "touch": [
+        1304214,
+        1304215,
+        1304216,
+        1304217,
+        1304218
+      ]
+    },
+    "4": {
+      "Adventure": 1301141,
+      "Attacked": [
+        1301154,
+        -1
+      ],
+      "BattleKill": 1301158,
+      "BattleStart": 1301151,
+      "Conversation": [
+        1301143,
+        1301144,
+        1301145,
+        1301146
+      ],
+      "Defeat": 1301157,
+      "Dispatch": 1301137,
+      "Emotion": [
+        1301147,
+        1301148,
+        -1
+      ],
+      "FavoriteGift": 1301128,
+      "Formation": 1301140,
+      "Impression": [
+        1301130,
+        1301131,
+        1301132,
+        1301133,
+        1301134
+      ],
+      "Introduction": 1301149,
+      "LevelUp": 1301124,
+      "LifeHealing": 1301142,
+      "LimitUp": 1301125,
+      "Login": 1301150,
+      "ManaTree": -1,
+      "NormalGift": 1301127,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304620,
+      "PosterGirlWelcomeNewYear": 1304685,
+      "RareUp": 1301126,
+      "Revive": 1301155,
+      "SkillCV": [
+        1301152,
+        1301153,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301129,
+      "Summory": 1301139,
+      "Victory": 1301156,
+      "Withdraw": 1301138,
+      "YardTouch": [
+        1301135,
+        1301136
+      ],
+      "id": 4,
+      "touch": [
+        1303214,
+        1303215,
+        1303216,
+        1303217,
+        1303218
+      ]
+    },
+    "40": {
+      "Adventure": 1302121,
+      "Attacked": [
+        1302134,
+        -1
+      ],
+      "BattleKill": 1302138,
+      "BattleStart": 1302131,
+      "Conversation": [
+        1302123,
+        1302124,
+        1302125,
+        1302126
+      ],
+      "Defeat": 1302137,
+      "Dispatch": 1302117,
+      "Emotion": [
+        1302127,
+        1302128,
+        -1
+      ],
+      "FavoriteGift": 1302108,
+      "Formation": 1302120,
+      "Impression": [
+        1302110,
+        1302111,
+        1302112,
+        1302113,
+        1302114
+      ],
+      "Introduction": 1302129,
+      "LevelUp": 1302104,
+      "LifeHealing": 1302122,
+      "LimitUp": 1302105,
+      "Login": 1302130,
+      "ManaTree": -1,
+      "NormalGift": 1302107,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304651,
+      "PosterGirlWelcomeNewYear": 1304716,
+      "RareUp": 1302106,
+      "Revive": 1302135,
+      "SkillCV": [
+        1302132,
+        1302133,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302109,
+      "Summory": 1302119,
+      "Victory": 1302136,
+      "Withdraw": 1302118,
+      "YardTouch": [
+        1302115,
+        1302116
+      ],
+      "id": 40,
+      "touch": [
+        1303364,
+        1303365,
+        1303366,
+        1303367,
+        1303368
+      ]
+    },
+    "41": {
+      "Adventure": 1302156,
+      "Attacked": [
+        1302169,
+        -1
+      ],
+      "BattleKill": 1302173,
+      "BattleStart": 1302166,
+      "Conversation": [
+        1302158,
+        1302159,
+        1302160,
+        1302161
+      ],
+      "Defeat": 1302172,
+      "Dispatch": 1302152,
+      "Emotion": [
+        1302162,
+        1302163,
+        -1
+      ],
+      "FavoriteGift": 1302143,
+      "Formation": 1302155,
+      "Impression": [
+        1302145,
+        1302146,
+        1302147,
+        1302148,
+        1302149
+      ],
+      "Introduction": 1302164,
+      "LevelUp": 1302139,
+      "LifeHealing": 1302157,
+      "LimitUp": 1302140,
+      "Login": 1302165,
+      "ManaTree": -1,
+      "NormalGift": 1302142,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304652,
+      "PosterGirlWelcomeNewYear": 1304717,
+      "RareUp": 1302141,
+      "Revive": 1302170,
+      "SkillCV": [
+        1302167,
+        1302168,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302144,
+      "Summory": 1302154,
+      "Victory": 1302171,
+      "Withdraw": 1302153,
+      "YardTouch": [
+        1302150,
+        1302151
+      ],
+      "id": 41,
+      "touch": [
+        1303369,
+        1303370,
+        1303371,
+        1303372,
+        1303373
+      ]
+    },
+    "42": {
+      "Adventure": 1302191,
+      "Attacked": [
+        1302204,
+        -1
+      ],
+      "BattleKill": 1302208,
+      "BattleStart": 1302201,
+      "Conversation": [
+        1302193,
+        1302194,
+        1302195,
+        1302196
+      ],
+      "Defeat": 1302207,
+      "Dispatch": 1302187,
+      "Emotion": [
+        1302197,
+        1302198,
+        -1
+      ],
+      "FavoriteGift": 1302178,
+      "Formation": 1302190,
+      "Impression": [
+        1302180,
+        1302181,
+        1302182,
+        1302183,
+        1302184
+      ],
+      "Introduction": 1302199,
+      "LevelUp": 1302174,
+      "LifeHealing": 1302192,
+      "LimitUp": 1302175,
+      "Login": 1302200,
+      "ManaTree": -1,
+      "NormalGift": 1302177,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304653,
+      "PosterGirlWelcomeNewYear": 1304718,
+      "RareUp": 1302176,
+      "Revive": 1302205,
+      "SkillCV": [
+        1302203,
+        1302202,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302179,
+      "Summory": 1302189,
+      "Victory": 1302206,
+      "Withdraw": 1302188,
+      "YardTouch": [
+        1302185,
+        1302186
+      ],
+      "id": 42,
+      "touch": [
+        1303374,
+        1303375,
+        1303376,
+        1303377,
+        1303378
+      ]
+    },
+    "43": {
+      "Adventure": 1302226,
+      "Attacked": [
+        1302239,
+        -1
+      ],
+      "BattleKill": 1302243,
+      "BattleStart": 1302236,
+      "Conversation": [
+        1302228,
+        1302229,
+        1302230,
+        1302231
+      ],
+      "Defeat": 1302242,
+      "Dispatch": 1302222,
+      "Emotion": [
+        1302232,
+        1302233,
+        -1
+      ],
+      "FavoriteGift": 1302213,
+      "Formation": 1302225,
+      "Impression": [
+        1302215,
+        1302216,
+        1302217,
+        1302218,
+        1302219
+      ],
+      "Introduction": 1302234,
+      "LevelUp": 1302209,
+      "LifeHealing": 1302227,
+      "LimitUp": 1302210,
+      "Login": 1302235,
+      "ManaTree": -1,
+      "NormalGift": 1302212,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304654,
+      "PosterGirlWelcomeNewYear": 1304719,
+      "RareUp": 1302211,
+      "Revive": 1302240,
+      "SkillCV": [
+        1302237,
+        1302238,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302214,
+      "Summory": 1302224,
+      "Victory": 1302241,
+      "Withdraw": 1302223,
+      "YardTouch": [
+        1302220,
+        1302221
+      ],
+      "id": 43,
+      "touch": [
+        1303379,
+        1303380,
+        1303381,
+        1303382,
+        1303383
+      ]
+    },
+    "44": {
+      "Adventure": 1302261,
+      "Attacked": [
+        1302274,
+        -1
+      ],
+      "BattleKill": 1302278,
+      "BattleStart": 1302271,
+      "Conversation": [
+        1302263,
+        1302264,
+        1302265,
+        1302266
+      ],
+      "Defeat": 1302277,
+      "Dispatch": 1302257,
+      "Emotion": [
+        1302267,
+        1302268,
+        -1
+      ],
+      "FavoriteGift": 1302248,
+      "Formation": 1302260,
+      "Impression": [
+        1302250,
+        1302251,
+        1302252,
+        1302253,
+        1302254
+      ],
+      "Introduction": 1302269,
+      "LevelUp": 1302244,
+      "LifeHealing": 1302262,
+      "LimitUp": 1302245,
+      "Login": 1302270,
+      "ManaTree": -1,
+      "NormalGift": 1302247,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304655,
+      "PosterGirlWelcomeNewYear": 1304720,
+      "RareUp": 1302246,
+      "Revive": 1302275,
+      "SkillCV": [
+        1302272,
+        1302273,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302249,
+      "Summory": 1302259,
+      "Victory": 1302276,
+      "Withdraw": 1302258,
+      "YardTouch": [
+        1302255,
+        1302256
+      ],
+      "id": 44,
+      "touch": [
+        1303384,
+        1303385,
+        1303386,
+        1303387,
+        1303388
+      ]
+    },
+    "45": {
+      "Adventure": 1302296,
+      "Attacked": [
+        1302309,
+        -1
+      ],
+      "BattleKill": 1302313,
+      "BattleStart": 1302306,
+      "Conversation": [
+        1302298,
+        1302299,
+        1302300,
+        1302301
+      ],
+      "Defeat": 1302312,
+      "Dispatch": 1302292,
+      "Emotion": [
+        1302302,
+        1302303,
+        -1
+      ],
+      "FavoriteGift": 1302283,
+      "Formation": 1302295,
+      "Impression": [
+        1302285,
+        1302286,
+        1302287,
+        1302288,
+        1302289
+      ],
+      "Introduction": 1302304,
+      "LevelUp": 1302279,
+      "LifeHealing": 1302297,
+      "LimitUp": 1302280,
+      "Login": 1302305,
+      "ManaTree": -1,
+      "NormalGift": 1302282,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304656,
+      "PosterGirlWelcomeNewYear": 1304721,
+      "RareUp": 1302281,
+      "Revive": 1302310,
+      "SkillCV": [
+        1302307,
+        1302308,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302284,
+      "Summory": 1302294,
+      "Victory": 1302311,
+      "Withdraw": 1302293,
+      "YardTouch": [
+        1302290,
+        1302291
+      ],
+      "id": 45,
+      "touch": [
+        1303389,
+        1303390,
+        1303391,
+        1303392,
+        1303393
+      ]
+    },
+    "46": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 46,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "47": {
+      "Adventure": 1302331,
+      "Attacked": [
+        1302344,
+        -1
+      ],
+      "BattleKill": 1302348,
+      "BattleStart": 1302341,
+      "Conversation": [
+        1302333,
+        1302334,
+        1302335,
+        1302336
+      ],
+      "Defeat": 1302347,
+      "Dispatch": 1302327,
+      "Emotion": [
+        1302337,
+        1302338,
+        -1
+      ],
+      "FavoriteGift": 1302318,
+      "Formation": 1302330,
+      "Impression": [
+        1302320,
+        1302321,
+        1302322,
+        1302323,
+        1302324
+      ],
+      "Introduction": 1302339,
+      "LevelUp": 1302314,
+      "LifeHealing": 1302332,
+      "LimitUp": 1302315,
+      "Login": 1302340,
+      "ManaTree": -1,
+      "NormalGift": 1302317,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304657,
+      "PosterGirlWelcomeNewYear": 1304722,
+      "RareUp": 1302316,
+      "Revive": 1302345,
+      "SkillCV": [
+        1302342,
+        1302343,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302319,
+      "Summory": 1302329,
+      "Victory": 1302346,
+      "Withdraw": 1302328,
+      "YardTouch": [
+        1302325,
+        1302326
+      ],
+      "id": 47,
+      "touch": [
+        1303394,
+        1303395,
+        1303396,
+        1303397,
+        1303398
+      ]
+    },
+    "48": {
+      "Adventure": 1302366,
+      "Attacked": [
+        1302379,
+        -1
+      ],
+      "BattleKill": 1302383,
+      "BattleStart": 1302376,
+      "Conversation": [
+        1302368,
+        1302369,
+        1302370,
+        1302371
+      ],
+      "Defeat": 1302382,
+      "Dispatch": 1302362,
+      "Emotion": [
+        1302372,
+        1302373,
+        -1
+      ],
+      "FavoriteGift": 1302353,
+      "Formation": 1302365,
+      "Impression": [
+        1302355,
+        1302356,
+        1302357,
+        1302358,
+        1302359
+      ],
+      "Introduction": 1302374,
+      "LevelUp": 1302349,
+      "LifeHealing": 1302367,
+      "LimitUp": 1302350,
+      "Login": 1302375,
+      "ManaTree": -1,
+      "NormalGift": 1302352,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304658,
+      "PosterGirlWelcomeNewYear": 1304723,
+      "RareUp": 1302351,
+      "Revive": 1302380,
+      "SkillCV": [
+        1302377,
+        1302378,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302354,
+      "Summory": 1302364,
+      "Victory": 1302381,
+      "Withdraw": 1302363,
+      "YardTouch": [
+        1302360,
+        1302361
+      ],
+      "id": 48,
+      "touch": [
+        1303399,
+        1303400,
+        1303401,
+        1303402,
+        1303403
+      ]
+    },
+    "49": {
+      "Adventure": 1302401,
+      "Attacked": [
+        1302414,
+        -1
+      ],
+      "BattleKill": 1302418,
+      "BattleStart": 1302411,
+      "Conversation": [
+        1302403,
+        1302404,
+        1302405,
+        1302406
+      ],
+      "Defeat": 1302417,
+      "Dispatch": 1302397,
+      "Emotion": [
+        1302407,
+        1302408,
+        -1
+      ],
+      "FavoriteGift": 1302388,
+      "Formation": 1302400,
+      "Impression": [
+        1302390,
+        1302391,
+        1302392,
+        1302393,
+        1302394
+      ],
+      "Introduction": 1302409,
+      "LevelUp": 1302384,
+      "LifeHealing": 1302402,
+      "LimitUp": 1302385,
+      "Login": 1302410,
+      "ManaTree": -1,
+      "NormalGift": 1302387,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304659,
+      "PosterGirlWelcomeNewYear": 1304724,
+      "RareUp": 1302386,
+      "Revive": 1302415,
+      "SkillCV": [
+        1302412,
+        1302413,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302389,
+      "Summory": 1302399,
+      "Victory": 1302416,
+      "Withdraw": 1302398,
+      "YardTouch": [
+        1302395,
+        1302396
+      ],
+      "id": 49,
+      "touch": [
+        1303404,
+        1303405,
+        1303406,
+        1303407,
+        1303408
+      ]
+    },
+    "5": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 5,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "50": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 50,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "51": {
+      "Adventure": 1302436,
+      "Attacked": [
+        1302449,
+        -1
+      ],
+      "BattleKill": 1302453,
+      "BattleStart": 1302446,
+      "Conversation": [
+        1302438,
+        1302439,
+        1302440,
+        1302441
+      ],
+      "Defeat": 1302452,
+      "Dispatch": 1302432,
+      "Emotion": [
+        1302442,
+        1302443,
+        -1
+      ],
+      "FavoriteGift": 1302423,
+      "Formation": 1302435,
+      "Impression": [
+        1302425,
+        1302426,
+        1302427,
+        1302428,
+        1302429
+      ],
+      "Introduction": 1302444,
+      "LevelUp": 1302419,
+      "LifeHealing": 1302437,
+      "LimitUp": 1302420,
+      "Login": 1302445,
+      "ManaTree": -1,
+      "NormalGift": 1302422,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304660,
+      "PosterGirlWelcomeNewYear": 1304725,
+      "RareUp": 1302421,
+      "Revive": 1302450,
+      "SkillCV": [
+        1302447,
+        1302448,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302424,
+      "Summory": 1302434,
+      "Victory": 1302451,
+      "Withdraw": 1302433,
+      "YardTouch": [
+        1302430,
+        1302431
+      ],
+      "id": 51,
+      "touch": [
+        1303409,
+        1303410,
+        1303411,
+        1303412,
+        1303413
+      ]
+    },
+    "52": {
+      "Adventure": 1302471,
+      "Attacked": [
+        1302484,
+        -1
+      ],
+      "BattleKill": 1302488,
+      "BattleStart": 1302481,
+      "Conversation": [
+        1302473,
+        1302474,
+        1302475,
+        1302476
+      ],
+      "Defeat": 1302487,
+      "Dispatch": 1302467,
+      "Emotion": [
+        1302477,
+        1302478,
+        -1
+      ],
+      "FavoriteGift": 1302458,
+      "Formation": 1302470,
+      "Impression": [
+        1302460,
+        1302461,
+        1302462,
+        1302463,
+        1302464
+      ],
+      "Introduction": 1302479,
+      "LevelUp": 1302454,
+      "LifeHealing": 1302472,
+      "LimitUp": 1302455,
+      "Login": 1302480,
+      "ManaTree": -1,
+      "NormalGift": 1302457,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304661,
+      "PosterGirlWelcomeNewYear": 1304726,
+      "RareUp": 1302456,
+      "Revive": 1302485,
+      "SkillCV": [
+        1302482,
+        1302483,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302459,
+      "Summory": 1302469,
+      "Victory": 1302486,
+      "Withdraw": 1302468,
+      "YardTouch": [
+        1302465,
+        1302466
+      ],
+      "id": 52,
+      "touch": [
+        1303414,
+        1303415,
+        1303416,
+        1303417,
+        1303418
+      ]
+    },
+    "53": {
+      "Adventure": 1302506,
+      "Attacked": [
+        1302519,
+        -1
+      ],
+      "BattleKill": 1302523,
+      "BattleStart": 1302516,
+      "Conversation": [
+        1302508,
+        1302509,
+        1302510,
+        1302511
+      ],
+      "Defeat": 1302522,
+      "Dispatch": 1302502,
+      "Emotion": [
+        1302512,
+        1302513,
+        -1
+      ],
+      "FavoriteGift": 1302493,
+      "Formation": 1302505,
+      "Impression": [
+        1302495,
+        1302496,
+        1302497,
+        1302498,
+        1302499
+      ],
+      "Introduction": 1302514,
+      "LevelUp": 1302489,
+      "LifeHealing": 1302507,
+      "LimitUp": 1302490,
+      "Login": 1302515,
+      "ManaTree": -1,
+      "NormalGift": 1302492,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304662,
+      "PosterGirlWelcomeNewYear": 1304727,
+      "RareUp": 1302491,
+      "Revive": 1302520,
+      "SkillCV": [
+        1302517,
+        1302518,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302494,
+      "Summory": 1302504,
+      "Victory": 1302521,
+      "Withdraw": 1302503,
+      "YardTouch": [
+        1302500,
+        1302501
+      ],
+      "id": 53,
+      "touch": [
+        1303419,
+        1303420,
+        1303421,
+        1303422,
+        1303423
+      ]
+    },
+    "54": {
+      "Adventure": 1302541,
+      "Attacked": [
+        1302554,
+        -1
+      ],
+      "BattleKill": 1302558,
+      "BattleStart": 1302551,
+      "Conversation": [
+        1302543,
+        1302544,
+        1302545,
+        1302546
+      ],
+      "Defeat": 1302557,
+      "Dispatch": 1302537,
+      "Emotion": [
+        1302547,
+        1302548,
+        -1
+      ],
+      "FavoriteGift": 1302528,
+      "Formation": 1302540,
+      "Impression": [
+        1302530,
+        1302531,
+        1302532,
+        1302533,
+        1302534
+      ],
+      "Introduction": 1302549,
+      "LevelUp": 1302524,
+      "LifeHealing": 1302542,
+      "LimitUp": 1302525,
+      "Login": 1302550,
+      "ManaTree": -1,
+      "NormalGift": 1302527,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304663,
+      "PosterGirlWelcomeNewYear": 1304728,
+      "RareUp": 1302526,
+      "Revive": 1302555,
+      "SkillCV": [
+        1302552,
+        1302553,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302529,
+      "Summory": 1302539,
+      "Victory": 1302556,
+      "Withdraw": 1302538,
+      "YardTouch": [
+        1302535,
+        1302536
+      ],
+      "id": 54,
+      "touch": [
+        1303424,
+        1303425,
+        1303426,
+        1303427,
+        1303428
+      ]
+    },
+    "55": {
+      "Adventure": 1302576,
+      "Attacked": [
+        1302589,
+        -1
+      ],
+      "BattleKill": 1302593,
+      "BattleStart": 1302586,
+      "Conversation": [
+        1302578,
+        1302579,
+        1302580,
+        1302581
+      ],
+      "Defeat": 1302592,
+      "Dispatch": 1302572,
+      "Emotion": [
+        1302582,
+        1302583,
+        -1
+      ],
+      "FavoriteGift": 1302563,
+      "Formation": 1302575,
+      "Impression": [
+        1302565,
+        1302566,
+        1302567,
+        1302568,
+        1302569
+      ],
+      "Introduction": 1302584,
+      "LevelUp": 1302559,
+      "LifeHealing": 1302577,
+      "LimitUp": 1302560,
+      "Login": 1302585,
+      "ManaTree": -1,
+      "NormalGift": 1302562,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304664,
+      "PosterGirlWelcomeNewYear": 1304729,
+      "RareUp": 1302561,
+      "Revive": 1302590,
+      "SkillCV": [
+        1302587,
+        1302588,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302564,
+      "Summory": 1302574,
+      "Victory": 1302591,
+      "Withdraw": 1302573,
+      "YardTouch": [
+        1302570,
+        1302571
+      ],
+      "id": 55,
+      "touch": [
+        1303429,
+        1303430,
+        1303431,
+        1303432,
+        1303433
+      ]
+    },
+    "56": {
+      "Adventure": 1302611,
+      "Attacked": [
+        1302624,
+        -1
+      ],
+      "BattleKill": 1302628,
+      "BattleStart": 1302621,
+      "Conversation": [
+        1302613,
+        1302614,
+        1302615,
+        1302616
+      ],
+      "Defeat": 1302627,
+      "Dispatch": 1302607,
+      "Emotion": [
+        1302617,
+        1302618,
+        -1
+      ],
+      "FavoriteGift": 1302598,
+      "Formation": 1302610,
+      "Impression": [
+        1302600,
+        1302601,
+        1302602,
+        1302603,
+        1302604
+      ],
+      "Introduction": 1302619,
+      "LevelUp": 1302594,
+      "LifeHealing": 1302612,
+      "LimitUp": 1302595,
+      "Login": 1302620,
+      "ManaTree": -1,
+      "NormalGift": 1302597,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304665,
+      "PosterGirlWelcomeNewYear": 1304730,
+      "RareUp": 1302596,
+      "Revive": 1302625,
+      "SkillCV": [
+        1302622,
+        1302623,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302599,
+      "Summory": 1302609,
+      "Victory": 1302626,
+      "Withdraw": 1302608,
+      "YardTouch": [
+        1302605,
+        1302606
+      ],
+      "id": 56,
+      "touch": [
+        1303434,
+        1303435,
+        1303436,
+        1303437,
+        1303438
+      ]
+    },
+    "57": {
+      "Adventure": 1302646,
+      "Attacked": [
+        1302659,
+        -1
+      ],
+      "BattleKill": 1302663,
+      "BattleStart": 1302656,
+      "Conversation": [
+        1302648,
+        1302649,
+        1302650,
+        1302651
+      ],
+      "Defeat": 1302662,
+      "Dispatch": 1302642,
+      "Emotion": [
+        1302652,
+        1302653,
+        -1
+      ],
+      "FavoriteGift": 1302633,
+      "Formation": 1302645,
+      "Impression": [
+        1302635,
+        1302636,
+        1302637,
+        1302638,
+        1302639
+      ],
+      "Introduction": 1302654,
+      "LevelUp": 1302629,
+      "LifeHealing": 1302647,
+      "LimitUp": 1302630,
+      "Login": 1302655,
+      "ManaTree": -1,
+      "NormalGift": 1302632,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304666,
+      "PosterGirlWelcomeNewYear": 1304731,
+      "RareUp": 1302631,
+      "Revive": 1302660,
+      "SkillCV": [
+        1302657,
+        1302658,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302634,
+      "Summory": 1302644,
+      "Victory": 1302661,
+      "Withdraw": 1302643,
+      "YardTouch": [
+        1302640,
+        1302641
+      ],
+      "id": 57,
+      "touch": [
+        1303439,
+        1303440,
+        1303441,
+        1303442,
+        1303443
+      ]
+    },
+    "58": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 58,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "59": {
+      "Adventure": 1302681,
+      "Attacked": [
+        1302694,
+        -1
+      ],
+      "BattleKill": 1302698,
+      "BattleStart": 1302691,
+      "Conversation": [
+        1302683,
+        1302684,
+        1302685,
+        1302686
+      ],
+      "Defeat": 1302697,
+      "Dispatch": 1302677,
+      "Emotion": [
+        1302687,
+        1302688,
+        -1
+      ],
+      "FavoriteGift": 1302668,
+      "Formation": 1302680,
+      "Impression": [
+        1302670,
+        1302671,
+        1302672,
+        1302673,
+        1302674
+      ],
+      "Introduction": 1302689,
+      "LevelUp": 1302664,
+      "LifeHealing": 1302682,
+      "LimitUp": 1302665,
+      "Login": 1302690,
+      "ManaTree": -1,
+      "NormalGift": 1302667,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304667,
+      "PosterGirlWelcomeNewYear": 1304732,
+      "RareUp": 1302666,
+      "Revive": 1302695,
+      "SkillCV": [
+        1302692,
+        1302693,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302669,
+      "Summory": 1302679,
+      "Victory": 1302696,
+      "Withdraw": 1302678,
+      "YardTouch": [
+        1302675,
+        1302676
+      ],
+      "id": 59,
+      "touch": [
+        1303444,
+        1303445,
+        1303446,
+        1303447,
+        1303448
+      ]
+    },
+    "6": {
+      "Adventure": 1307201,
+      "Attacked": [
+        1307174,
+        -1
+      ],
+      "BattleKill": 1307178,
+      "BattleStart": 1307171,
+      "Conversation": [
+        1307203,
+        1307204,
+        1307205,
+        1307206
+      ],
+      "Defeat": 1307177,
+      "Dispatch": 1307197,
+      "Emotion": [
+        1307207,
+        1307208,
+        -1
+      ],
+      "FavoriteGift": 1307188,
+      "Formation": 1307200,
+      "Impression": [
+        1307182,
+        1307183,
+        1307184,
+        1307185,
+        1307186
+      ],
+      "Introduction": 1307209,
+      "LevelUp": 1307179,
+      "LifeHealing": 1307202,
+      "LimitUp": 1307180,
+      "Login": 1307210,
+      "ManaTree": -1,
+      "NormalGift": 1307187,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304621,
+      "PosterGirlWelcomeNewYear": 1304686,
+      "RareUp": 1307181,
+      "Revive": 1307175,
+      "SkillCV": [
+        1307172,
+        1307173,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1307194,
+      "Summory": 1307199,
+      "Victory": 1307176,
+      "Withdraw": 1307198,
+      "YardTouch": [
+        1307195,
+        1307196
+      ],
+      "id": 6,
+      "touch": [
+        1307189,
+        1307190,
+        1307191,
+        1307192,
+        1307193
+      ]
+    },
+    "60": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 60,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "61": {
+      "Adventure": 1302716,
+      "Attacked": [
+        1302729,
+        -1
+      ],
+      "BattleKill": 1302733,
+      "BattleStart": 1302726,
+      "Conversation": [
+        1302718,
+        1302719,
+        1302720,
+        1302721
+      ],
+      "Defeat": 1302732,
+      "Dispatch": 1302712,
+      "Emotion": [
+        1302722,
+        1302723,
+        -1
+      ],
+      "FavoriteGift": 1302703,
+      "Formation": 1302715,
+      "Impression": [
+        1302705,
+        1302706,
+        1302707,
+        1302708,
+        1302709
+      ],
+      "Introduction": 1302724,
+      "LevelUp": 1302699,
+      "LifeHealing": 1302717,
+      "LimitUp": 1302700,
+      "Login": 1302725,
+      "ManaTree": -1,
+      "NormalGift": 1302702,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304668,
+      "PosterGirlWelcomeNewYear": 1304733,
+      "RareUp": 1302701,
+      "Revive": 1302730,
+      "SkillCV": [
+        1302727,
+        1302728,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302704,
+      "Summory": 1302714,
+      "Victory": 1302731,
+      "Withdraw": 1302713,
+      "YardTouch": [
+        1302710,
+        1302711
+      ],
+      "id": 61,
+      "touch": [
+        1303449,
+        1303450,
+        1303451,
+        1303452,
+        1303453
+      ]
+    },
+    "63": {
+      "Adventure": 1302751,
+      "Attacked": [
+        1302764,
+        -1
+      ],
+      "BattleKill": 1302768,
+      "BattleStart": 1302761,
+      "Conversation": [
+        1302753,
+        1302754,
+        1302755,
+        1302756
+      ],
+      "Defeat": 1302767,
+      "Dispatch": 1302747,
+      "Emotion": [
+        1302757,
+        1302758,
+        -1
+      ],
+      "FavoriteGift": 1302738,
+      "Formation": 1302750,
+      "Impression": [
+        1302740,
+        1302741,
+        1302742,
+        1302743,
+        1302744
+      ],
+      "Introduction": 1302759,
+      "LevelUp": 1302734,
+      "LifeHealing": 1302752,
+      "LimitUp": 1302735,
+      "Login": 1302760,
+      "ManaTree": -1,
+      "NormalGift": 1302737,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304669,
+      "PosterGirlWelcomeNewYear": 1304734,
+      "RareUp": 1302736,
+      "Revive": 1302765,
+      "SkillCV": [
+        1302762,
+        1302763,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302739,
+      "Summory": 1302749,
+      "Victory": 1302766,
+      "Withdraw": 1302748,
+      "YardTouch": [
+        1302745,
+        1302746
+      ],
+      "id": 63,
+      "touch": [
+        1303454,
+        1303455,
+        1303456,
+        1303457,
+        1303458
+      ]
+    },
+    "64": {
+      "Adventure": 1302786,
+      "Attacked": [
+        1302799,
+        -1
+      ],
+      "BattleKill": 1302803,
+      "BattleStart": 1302796,
+      "Conversation": [
+        1302788,
+        1302789,
+        1302790,
+        1302791
+      ],
+      "Defeat": 1302802,
+      "Dispatch": 1302782,
+      "Emotion": [
+        1302792,
+        1302793,
+        -1
+      ],
+      "FavoriteGift": 1302773,
+      "Formation": 1302785,
+      "Impression": [
+        1302775,
+        1302776,
+        1302777,
+        1302778,
+        1302779
+      ],
+      "Introduction": 1302794,
+      "LevelUp": 1302769,
+      "LifeHealing": 1302787,
+      "LimitUp": 1302770,
+      "Login": 1302795,
+      "ManaTree": -1,
+      "NormalGift": 1302772,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304670,
+      "PosterGirlWelcomeNewYear": 1304735,
+      "RareUp": 1302771,
+      "Revive": 1302800,
+      "SkillCV": [
+        1302797,
+        1302798,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302774,
+      "Summory": 1302784,
+      "Victory": 1302801,
+      "Withdraw": 1302783,
+      "YardTouch": [
+        1302780,
+        1302781
+      ],
+      "id": 64,
+      "touch": [
+        1305779,
+        1305780,
+        1305781,
+        1305782,
+        1305783
+      ]
+    },
+    "65": {
+      "Adventure": 1302821,
+      "Attacked": [
+        1302834,
+        -1
+      ],
+      "BattleKill": 1302838,
+      "BattleStart": 1302831,
+      "Conversation": [
+        1302823,
+        1302824,
+        1302825,
+        1302826
+      ],
+      "Defeat": 1302837,
+      "Dispatch": 1302817,
+      "Emotion": [
+        1302827,
+        1302828,
+        -1
+      ],
+      "FavoriteGift": 1302808,
+      "Formation": 1302820,
+      "Impression": [
+        1302810,
+        1302811,
+        1302812,
+        1302813,
+        1302814
+      ],
+      "Introduction": 1302829,
+      "LevelUp": 1302804,
+      "LifeHealing": 1302822,
+      "LimitUp": 1302805,
+      "Login": 1302830,
+      "ManaTree": -1,
+      "NormalGift": 1302807,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304671,
+      "PosterGirlWelcomeNewYear": 1304736,
+      "RareUp": 1302806,
+      "Revive": 1302835,
+      "SkillCV": [
+        1302832,
+        1302833,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302809,
+      "Summory": 1302819,
+      "Victory": 1302836,
+      "Withdraw": 1302818,
+      "YardTouch": [
+        1302815,
+        1302816
+      ],
+      "id": 65,
+      "touch": [
+        1303459,
+        1303460,
+        1303461,
+        1303462,
+        1303463
+      ]
+    },
+    "66": {
+      "Adventure": 1304185,
+      "Attacked": [
+        1304198,
+        -1
+      ],
+      "BattleKill": 1304202,
+      "BattleStart": 1304195,
+      "Conversation": [
+        1304187,
+        1304188,
+        1304189,
+        1304190
+      ],
+      "Defeat": 1304201,
+      "Dispatch": 1304181,
+      "Emotion": [
+        1304191,
+        1304192,
+        -1
+      ],
+      "FavoriteGift": 1304167,
+      "Formation": 1304184,
+      "Impression": [
+        1304169,
+        1304170,
+        1304171,
+        1304172,
+        1304173
+      ],
+      "Introduction": 1304193,
+      "LevelUp": 1304163,
+      "LifeHealing": 1304186,
+      "LimitUp": 1304164,
+      "Login": 1304194,
+      "ManaTree": -1,
+      "NormalGift": 1304166,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304672,
+      "PosterGirlWelcomeNewYear": 1304737,
+      "RareUp": 1304165,
+      "Revive": 1304199,
+      "SkillCV": [
+        1304196,
+        1304197,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304168,
+      "Summory": 1304183,
+      "Victory": 1304200,
+      "Withdraw": 1304182,
+      "YardTouch": [
+        1304179,
+        1304180
+      ],
+      "id": 66,
+      "touch": [
+        1304174,
+        1304175,
+        1304176,
+        1304177,
+        1304178
+      ]
+    },
+    "67": {
+      "Adventure": 1301876,
+      "Attacked": [
+        1301889,
+        -1
+      ],
+      "BattleKill": 1301893,
+      "BattleStart": 1301886,
+      "Conversation": [
+        1301878,
+        1301879,
+        1301880,
+        1301881
+      ],
+      "Defeat": 1301892,
+      "Dispatch": 1301872,
+      "Emotion": [
+        1301882,
+        1301883,
+        -1
+      ],
+      "FavoriteGift": 1301863,
+      "Formation": 1301875,
+      "Impression": [
+        1301865,
+        1301866,
+        1301867,
+        1301868,
+        1301869
+      ],
+      "Introduction": 1301884,
+      "LevelUp": 1301859,
+      "LifeHealing": 1301877,
+      "LimitUp": 1301860,
+      "Login": 1301885,
+      "ManaTree": -1,
+      "NormalGift": 1301862,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1301861,
+      "Revive": 1301890,
+      "SkillCV": [
+        1301887,
+        1301888,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301864,
+      "Summory": 1301874,
+      "Victory": 1301891,
+      "Withdraw": 1301873,
+      "YardTouch": [
+        1301870,
+        1301871
+      ],
+      "id": 67,
+      "touch": [
+        1303329,
+        1303330,
+        1303331,
+        1303332,
+        1303333
+      ]
+    },
+    "68": {
+      "Adventure": 1304145,
+      "Attacked": [
+        1304158,
+        -1
+      ],
+      "BattleKill": 1304162,
+      "BattleStart": 1304155,
+      "Conversation": [
+        1304147,
+        1304148,
+        1304149,
+        1304150
+      ],
+      "Defeat": 1304161,
+      "Dispatch": 1304141,
+      "Emotion": [
+        1304151,
+        1304152,
+        -1
+      ],
+      "FavoriteGift": 1304127,
+      "Formation": 1304144,
+      "Impression": [
+        1304129,
+        1304130,
+        1304131,
+        1304132,
+        1304133
+      ],
+      "Introduction": 1304153,
+      "LevelUp": 1304123,
+      "LifeHealing": 1304146,
+      "LimitUp": 1304124,
+      "Login": 1304154,
+      "ManaTree": -1,
+      "NormalGift": 1304126,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304673,
+      "PosterGirlWelcomeNewYear": 1304738,
+      "RareUp": 1304125,
+      "Revive": 1304159,
+      "SkillCV": [
+        1304156,
+        1304157,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304128,
+      "Summory": 1304143,
+      "Victory": 1304160,
+      "Withdraw": 1304142,
+      "YardTouch": [
+        1304139,
+        1304140
+      ],
+      "id": 68,
+      "touch": [
+        1304134,
+        1304135,
+        1304136,
+        1304137,
+        1304138
+      ]
+    },
+    "69": {
+      "Adventure": 1302856,
+      "Attacked": [
+        1302869,
+        -1
+      ],
+      "BattleKill": 1302873,
+      "BattleStart": 1302866,
+      "Conversation": [
+        1302858,
+        1302859,
+        1302860,
+        1302861
+      ],
+      "Defeat": 1302872,
+      "Dispatch": 1302852,
+      "Emotion": [
+        1302862,
+        1302863,
+        -1
+      ],
+      "FavoriteGift": 1302843,
+      "Formation": 1302855,
+      "Impression": [
+        1302845,
+        1302846,
+        1302847,
+        1302848,
+        1302849
+      ],
+      "Introduction": 1302864,
+      "LevelUp": 1302839,
+      "LifeHealing": 1302857,
+      "LimitUp": 1302840,
+      "Login": 1302865,
+      "ManaTree": -1,
+      "NormalGift": 1302842,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304674,
+      "PosterGirlWelcomeNewYear": 1304739,
+      "RareUp": 1302841,
+      "Revive": 1302870,
+      "SkillCV": [
+        1302867,
+        1302868,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302844,
+      "Summory": 1302854,
+      "Victory": 1302871,
+      "Withdraw": 1302853,
+      "YardTouch": [
+        1302850,
+        1302851
+      ],
+      "id": 69,
+      "touch": [
+        1303464,
+        1303465,
+        1303466,
+        1303467,
+        1303468
+      ]
+    },
+    "7": {
+      "Adventure": -1,
+      "Attacked": [
+        -1,
+        -1
+      ],
+      "BattleKill": -1,
+      "BattleStart": -1,
+      "Conversation": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Defeat": -1,
+      "Dispatch": -1,
+      "Emotion": [
+        -1,
+        -1,
+        -1
+      ],
+      "FavoriteGift": -1,
+      "Formation": -1,
+      "Impression": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Introduction": -1,
+      "LevelUp": -1,
+      "LifeHealing": -1,
+      "LimitUp": -1,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": -1,
+      "OpenBox": -1,
+      "PosterGirlWelcome": -1,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": -1,
+      "Revive": -1,
+      "SkillCV": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": -1,
+      "Summory": -1,
+      "Victory": -1,
+      "Withdraw": -1,
+      "YardTouch": [
+        -1,
+        -1
+      ],
+      "id": 7,
+      "touch": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "70": {
+      "Adventure": 1302891,
+      "Attacked": [
+        1302904,
+        -1
+      ],
+      "BattleKill": 1302908,
+      "BattleStart": 1302901,
+      "Conversation": [
+        1302893,
+        1302894,
+        1302895,
+        1302896
+      ],
+      "Defeat": 1302907,
+      "Dispatch": 1302887,
+      "Emotion": [
+        1302897,
+        1302898,
+        -1
+      ],
+      "FavoriteGift": 1302878,
+      "Formation": 1302890,
+      "Impression": [
+        1302880,
+        1302881,
+        1302882,
+        1302883,
+        1302884
+      ],
+      "Introduction": 1302899,
+      "LevelUp": 1302874,
+      "LifeHealing": 1302892,
+      "LimitUp": 1302875,
+      "Login": 1302900,
+      "ManaTree": -1,
+      "NormalGift": 1302877,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304675,
+      "PosterGirlWelcomeNewYear": 1304740,
+      "RareUp": 1302876,
+      "Revive": 1302905,
+      "SkillCV": [
+        1302902,
+        1302903,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302879,
+      "Summory": 1302889,
+      "Victory": 1302906,
+      "Withdraw": 1302888,
+      "YardTouch": [
+        1302885,
+        1302886
+      ],
+      "id": 70,
+      "touch": [
+        1303469,
+        1303470,
+        1303471,
+        1303472,
+        1303473
+      ]
+    },
+    "71": {
+      "Adventure": 1304305,
+      "Attacked": [
+        1304318,
+        -1
+      ],
+      "BattleKill": 1304322,
+      "BattleStart": 1304315,
+      "Conversation": [
+        1304307,
+        1304308,
+        1304309,
+        1304310
+      ],
+      "Defeat": 1304321,
+      "Dispatch": 1304301,
+      "Emotion": [
+        1304311,
+        1304312,
+        -1
+      ],
+      "FavoriteGift": 1304287,
+      "Formation": 1304304,
+      "Impression": [
+        1304289,
+        1304290,
+        1304291,
+        1304292,
+        1304293
+      ],
+      "Introduction": 1304313,
+      "LevelUp": 1304283,
+      "LifeHealing": 1304306,
+      "LimitUp": 1304284,
+      "Login": 1304314,
+      "ManaTree": -1,
+      "NormalGift": 1304286,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304676,
+      "PosterGirlWelcomeNewYear": 1304741,
+      "RareUp": 1304285,
+      "Revive": 1304319,
+      "SkillCV": [
+        1304316,
+        1304317,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304288,
+      "Summory": 1304303,
+      "Victory": 1304320,
+      "Withdraw": 1304302,
+      "YardTouch": [
+        1304299,
+        1304300
+      ],
+      "id": 71,
+      "touch": [
+        1304294,
+        1304295,
+        1304296,
+        1304297,
+        1304298
+      ]
+    },
+    "72": {
+      "Adventure": 1302926,
+      "Attacked": [
+        1302939,
+        -1
+      ],
+      "BattleKill": 1302943,
+      "BattleStart": 1302936,
+      "Conversation": [
+        1302928,
+        1302929,
+        1302930,
+        1302931
+      ],
+      "Defeat": 1302942,
+      "Dispatch": 1302922,
+      "Emotion": [
+        1302932,
+        1302933,
+        -1
+      ],
+      "FavoriteGift": 1302913,
+      "Formation": 1302925,
+      "Impression": [
+        1302915,
+        1302916,
+        1302917,
+        1302918,
+        1302919
+      ],
+      "Introduction": 1302934,
+      "LevelUp": 1302909,
+      "LifeHealing": 1302927,
+      "LimitUp": 1302910,
+      "Login": 1302935,
+      "ManaTree": -1,
+      "NormalGift": 1302912,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304677,
+      "PosterGirlWelcomeNewYear": 1304742,
+      "RareUp": 1302911,
+      "Revive": 1302940,
+      "SkillCV": [
+        1302937,
+        1302938,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302914,
+      "Summory": 1302924,
+      "Victory": 1302941,
+      "Withdraw": 1302923,
+      "YardTouch": [
+        1302920,
+        1302921
+      ],
+      "id": 72,
+      "touch": [
+        1303474,
+        1303475,
+        1303476,
+        1303477,
+        1303478
+      ]
+    },
+    "73": {
+      "Adventure": 1304265,
+      "Attacked": [
+        1304278,
+        -1
+      ],
+      "BattleKill": 1304282,
+      "BattleStart": 1304275,
+      "Conversation": [
+        1304267,
+        1304268,
+        1304269,
+        1304270
+      ],
+      "Defeat": 1304281,
+      "Dispatch": 1304261,
+      "Emotion": [
+        1304271,
+        1304272,
+        -1
+      ],
+      "FavoriteGift": 1304247,
+      "Formation": 1304264,
+      "Impression": [
+        1304249,
+        1304250,
+        1304251,
+        1304252,
+        1304253
+      ],
+      "Introduction": 1304273,
+      "LevelUp": 1304243,
+      "LifeHealing": 1304266,
+      "LimitUp": 1304244,
+      "Login": 1304274,
+      "ManaTree": -1,
+      "NormalGift": 1304246,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304678,
+      "PosterGirlWelcomeNewYear": 1304743,
+      "RareUp": 1304245,
+      "Revive": 1304279,
+      "SkillCV": [
+        1304276,
+        1304277,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304248,
+      "Summory": 1304263,
+      "Victory": 1304280,
+      "Withdraw": 1304262,
+      "YardTouch": [
+        1304259,
+        1304260
+      ],
+      "id": 73,
+      "touch": [
+        1304254,
+        1304255,
+        1304256,
+        1304257,
+        1304258
+      ]
+    },
+    "74": {
+      "Adventure": 1304345,
+      "Attacked": [
+        1304358,
+        -1
+      ],
+      "BattleKill": 1304362,
+      "BattleStart": 1304355,
+      "Conversation": [
+        1304347,
+        1304348,
+        1304349,
+        1304350
+      ],
+      "Defeat": 1304361,
+      "Dispatch": 1304341,
+      "Emotion": [
+        1304351,
+        1304352,
+        -1
+      ],
+      "FavoriteGift": 1304327,
+      "Formation": 1304344,
+      "Impression": [
+        1304329,
+        1304330,
+        1304331,
+        1304332,
+        1304333
+      ],
+      "Introduction": 1304353,
+      "LevelUp": 1304323,
+      "LifeHealing": 1304346,
+      "LimitUp": 1304324,
+      "Login": 1304354,
+      "ManaTree": -1,
+      "NormalGift": 1304326,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304679,
+      "PosterGirlWelcomeNewYear": 1304744,
+      "RareUp": 1304325,
+      "Revive": 1304359,
+      "SkillCV": [
+        1304356,
+        1304357,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304328,
+      "Summory": 1304343,
+      "Victory": 1304360,
+      "Withdraw": 1304342,
+      "YardTouch": [
+        1304339,
+        1304340
+      ],
+      "id": 74,
+      "touch": [
+        1304334,
+        1304335,
+        1304336,
+        1304337,
+        1304338
+      ]
+    },
+    "75": {
+      "Adventure": 1302961,
+      "Attacked": [
+        1302974,
+        -1
+      ],
+      "BattleKill": 1302978,
+      "BattleStart": 1302971,
+      "Conversation": [
+        1302963,
+        1302964,
+        1302965,
+        1302966
+      ],
+      "Defeat": 1302977,
+      "Dispatch": 1302957,
+      "Emotion": [
+        1302967,
+        1302968,
+        -1
+      ],
+      "FavoriteGift": 1302948,
+      "Formation": 1302960,
+      "Impression": [
+        1302950,
+        1302951,
+        1302952,
+        1302953,
+        1302954
+      ],
+      "Introduction": 1302969,
+      "LevelUp": 1302944,
+      "LifeHealing": 1302962,
+      "LimitUp": 1302945,
+      "Login": 1302970,
+      "ManaTree": -1,
+      "NormalGift": 1302947,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304680,
+      "PosterGirlWelcomeNewYear": 1304745,
+      "RareUp": 1302946,
+      "Revive": 1302975,
+      "SkillCV": [
+        1302972,
+        1302973,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1302949,
+      "Summory": 1302959,
+      "Victory": 1302976,
+      "Withdraw": 1302958,
+      "YardTouch": [
+        1302955,
+        1302956
+      ],
+      "id": 75,
+      "touch": [
+        1303489,
+        1303490,
+        1303491,
+        1303492,
+        1303493
+      ]
+    },
+    "76": {
+      "Adventure": 1303151,
+      "Attacked": [
+        1303164,
+        -1
+      ],
+      "BattleKill": 1303168,
+      "BattleStart": 1303161,
+      "Conversation": [
+        1303153,
+        1303154,
+        1303155,
+        1303156
+      ],
+      "Defeat": 1303167,
+      "Dispatch": 1303147,
+      "Emotion": [
+        1303157,
+        1303158,
+        -1
+      ],
+      "FavoriteGift": 1303138,
+      "Formation": 1303150,
+      "Impression": [
+        1303140,
+        1303141,
+        1303142,
+        1303143,
+        1303144
+      ],
+      "Introduction": 1303159,
+      "LevelUp": 1303134,
+      "LifeHealing": 1303152,
+      "LimitUp": 1303135,
+      "Login": 1303160,
+      "ManaTree": -1,
+      "NormalGift": 1303137,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304681,
+      "PosterGirlWelcomeNewYear": 1304746,
+      "RareUp": 1303136,
+      "Revive": 1303165,
+      "SkillCV": [
+        1303162,
+        1303163,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1303139,
+      "Summory": 1303149,
+      "Victory": 1303166,
+      "Withdraw": 1303148,
+      "YardTouch": [
+        1303145,
+        1303146
+      ],
+      "id": 76,
+      "touch": [
+        1303494,
+        1303495,
+        1303496,
+        1303497,
+        1303498
+      ]
+    },
+    "78": {
+      "Adventure": 1304882,
+      "Attacked": [
+        1304895,
+        -1
+      ],
+      "BattleKill": 1304899,
+      "BattleStart": 1304892,
+      "Conversation": [
+        1304884,
+        1304885,
+        1304886,
+        1304887
+      ],
+      "Defeat": 1304898,
+      "Dispatch": 1304878,
+      "Emotion": [
+        1304888,
+        1304889,
+        -1
+      ],
+      "FavoriteGift": 1304864,
+      "Formation": 1304881,
+      "Impression": [
+        1304866,
+        1304867,
+        1304868,
+        1304869,
+        1304870
+      ],
+      "Introduction": 1304890,
+      "LevelUp": 1304860,
+      "LifeHealing": 1304883,
+      "LimitUp": 1304861,
+      "Login": 1304891,
+      "ManaTree": -1,
+      "NormalGift": 1304863,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306703,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1304862,
+      "Revive": 1304896,
+      "SkillCV": [
+        1304893,
+        1304894,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304865,
+      "Summory": 1304880,
+      "Victory": 1304897,
+      "Withdraw": 1304879,
+      "YardTouch": [
+        1304876,
+        1304877
+      ],
+      "id": 78,
+      "touch": [
+        1304871,
+        1304872,
+        1304873,
+        1304874,
+        1304875
+      ]
+    },
+    "79": {
+      "Adventure": 1304922,
+      "Attacked": [
+        1304935,
+        -1
+      ],
+      "BattleKill": 1304939,
+      "BattleStart": 1304932,
+      "Conversation": [
+        1304924,
+        1304925,
+        1304926,
+        1304927
+      ],
+      "Defeat": 1304938,
+      "Dispatch": 1304918,
+      "Emotion": [
+        1304928,
+        1304929,
+        -1
+      ],
+      "FavoriteGift": 1304904,
+      "Formation": 1304921,
+      "Impression": [
+        1304906,
+        1304907,
+        1304908,
+        1304909,
+        1304910
+      ],
+      "Introduction": 1304930,
+      "LevelUp": 1304900,
+      "LifeHealing": 1304923,
+      "LimitUp": 1304901,
+      "Login": 1304931,
+      "ManaTree": -1,
+      "NormalGift": 1304903,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306704,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1304902,
+      "Revive": 1304936,
+      "SkillCV": [
+        1304933,
+        1304934,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304905,
+      "Summory": 1304920,
+      "Victory": 1304937,
+      "Withdraw": 1304919,
+      "YardTouch": [
+        1304916,
+        1304917
+      ],
+      "id": 79,
+      "touch": [
+        1304911,
+        1304912,
+        1304913,
+        1304914,
+        1304915
+      ]
+    },
+    "8": {
+      "Adventure": 1301176,
+      "Attacked": [
+        1301189,
+        -1
+      ],
+      "BattleKill": 1301193,
+      "BattleStart": 1301186,
+      "Conversation": [
+        1301178,
+        1301179,
+        1301180,
+        1301181
+      ],
+      "Defeat": 1301192,
+      "Dispatch": 1301172,
+      "Emotion": [
+        1301182,
+        1301183,
+        -1
+      ],
+      "FavoriteGift": 1301163,
+      "Formation": 1301175,
+      "Impression": [
+        1301165,
+        1301166,
+        1301167,
+        1301168,
+        1301169
+      ],
+      "Introduction": 1301184,
+      "LevelUp": 1301159,
+      "LifeHealing": 1301177,
+      "LimitUp": 1301160,
+      "Login": 1301185,
+      "ManaTree": -1,
+      "NormalGift": 1301162,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304622,
+      "PosterGirlWelcomeNewYear": 1304687,
+      "RareUp": 1301161,
+      "Revive": 1301190,
+      "SkillCV": [
+        1301187,
+        1301188,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301164,
+      "Summory": 1301174,
+      "Victory": 1301191,
+      "Withdraw": 1301173,
+      "YardTouch": [
+        1301170,
+        1301171
+      ],
+      "id": 8,
+      "touch": [
+        1303224,
+        1303225,
+        1303226,
+        1303227,
+        1303228
+      ]
+    },
+    "80": {
+      "Adventure": 1305260,
+      "Attacked": [
+        1305233,
+        -1
+      ],
+      "BattleKill": 1305237,
+      "BattleStart": 1305230,
+      "Conversation": [
+        1305262,
+        1305263,
+        1305264,
+        1305265
+      ],
+      "Defeat": 1305236,
+      "Dispatch": 1305256,
+      "Emotion": [
+        1305266,
+        1305267,
+        -1
+      ],
+      "FavoriteGift": 1305247,
+      "Formation": 1305259,
+      "Impression": [
+        1305241,
+        1305242,
+        1305243,
+        1305244,
+        1305245
+      ],
+      "Introduction": 1305268,
+      "LevelUp": 1305238,
+      "LifeHealing": 1305261,
+      "LimitUp": 1305239,
+      "Login": 1305269,
+      "ManaTree": -1,
+      "NormalGift": 1305246,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306705,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305240,
+      "Revive": 1305234,
+      "SkillCV": [
+        1305231,
+        1305232,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305253,
+      "Summory": 1305258,
+      "Victory": 1305235,
+      "Withdraw": 1305257,
+      "YardTouch": [
+        1305254,
+        1305255
+      ],
+      "id": 80,
+      "touch": [
+        1305248,
+        1305249,
+        1305250,
+        1305251,
+        1305252
+      ]
+    },
+    "81": {
+      "Adventure": 1305001,
+      "Attacked": [
+        1305014,
+        -1
+      ],
+      "BattleKill": 1305018,
+      "BattleStart": 1305011,
+      "Conversation": [
+        1305003,
+        1305004,
+        1305005,
+        1305006
+      ],
+      "Defeat": 1305017,
+      "Dispatch": 1304997,
+      "Emotion": [
+        1305007,
+        1305008,
+        -1
+      ],
+      "FavoriteGift": 1304983,
+      "Formation": 1305000,
+      "Impression": [
+        1304985,
+        1304986,
+        1304987,
+        1304988,
+        1304989
+      ],
+      "Introduction": 1305009,
+      "LevelUp": 1304979,
+      "LifeHealing": 1305002,
+      "LimitUp": 1304980,
+      "Login": 1305010,
+      "ManaTree": -1,
+      "NormalGift": 1304982,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306706,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1304981,
+      "Revive": 1305015,
+      "SkillCV": [
+        1305012,
+        1305013,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1304984,
+      "Summory": 1304999,
+      "Victory": 1305016,
+      "Withdraw": 1304998,
+      "YardTouch": [
+        1304995,
+        1304996
+      ],
+      "id": 81,
+      "touch": [
+        1304990,
+        1304991,
+        1304992,
+        1304993,
+        1304994
+      ]
+    },
+    "83": {
+      "Adventure": 1305220,
+      "Attacked": [
+        1305193,
+        -1
+      ],
+      "BattleKill": 1305197,
+      "BattleStart": 1305190,
+      "Conversation": [
+        1305222,
+        1305223,
+        1305224,
+        1305225
+      ],
+      "Defeat": 1305196,
+      "Dispatch": 1305216,
+      "Emotion": [
+        1305226,
+        1305227,
+        -1
+      ],
+      "FavoriteGift": 1305207,
+      "Formation": 1305219,
+      "Impression": [
+        1305201,
+        1305202,
+        1305203,
+        1305204,
+        1305205
+      ],
+      "Introduction": 1305228,
+      "LevelUp": 1305198,
+      "LifeHealing": 1305221,
+      "LimitUp": 1305199,
+      "Login": 1305229,
+      "ManaTree": -1,
+      "NormalGift": 1305206,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306707,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305200,
+      "Revive": 1305194,
+      "SkillCV": [
+        1305191,
+        1305192,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305213,
+      "Summory": 1305218,
+      "Victory": 1305195,
+      "Withdraw": 1305217,
+      "YardTouch": [
+        1305214,
+        1305215
+      ],
+      "id": 83,
+      "touch": [
+        1305208,
+        1305209,
+        1305210,
+        1305211,
+        1305212
+      ]
+    },
+    "84": {
+      "Adventure": 1306054,
+      "Attacked": [
+        1306027,
+        -1
+      ],
+      "BattleKill": 1306031,
+      "BattleStart": 1306024,
+      "Conversation": [
+        1306056,
+        1306057,
+        1306058,
+        1306059
+      ],
+      "Defeat": 1306030,
+      "Dispatch": 1306050,
+      "Emotion": [
+        1306060,
+        1306061,
+        -1
+      ],
+      "FavoriteGift": 1306041,
+      "Formation": 1306053,
+      "Impression": [
+        1306035,
+        1306036,
+        1306037,
+        1306038,
+        1306039
+      ],
+      "Introduction": 1306062,
+      "LevelUp": 1306032,
+      "LifeHealing": 1306055,
+      "LimitUp": 1306033,
+      "Login": 1306063,
+      "ManaTree": -1,
+      "NormalGift": 1306040,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306722,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306034,
+      "Revive": 1306028,
+      "SkillCV": [
+        1306025,
+        1306026,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306047,
+      "Summory": 1306052,
+      "Victory": 1306029,
+      "Withdraw": 1306051,
+      "YardTouch": [
+        1306048,
+        1306049
+      ],
+      "id": 84,
+      "touch": [
+        1306042,
+        1306043,
+        1306044,
+        1306045,
+        1306046
+      ]
+    },
+    "85": {
+      "Adventure": 1306014,
+      "Attacked": [
+        1305987,
+        -1
+      ],
+      "BattleKill": 1305991,
+      "BattleStart": 1305984,
+      "Conversation": [
+        1306016,
+        1306017,
+        1306018,
+        1306019
+      ],
+      "Defeat": 1305990,
+      "Dispatch": 1306010,
+      "Emotion": [
+        1306020,
+        1306021,
+        -1
+      ],
+      "FavoriteGift": 1306001,
+      "Formation": 1306013,
+      "Impression": [
+        1305995,
+        1305996,
+        1305997,
+        1305998,
+        1305999
+      ],
+      "Introduction": 1306022,
+      "LevelUp": 1305992,
+      "LifeHealing": 1306015,
+      "LimitUp": 1305993,
+      "Login": 1306023,
+      "ManaTree": -1,
+      "NormalGift": 1306000,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306721,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305994,
+      "Revive": 1305988,
+      "SkillCV": [
+        1305985,
+        1305986,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306007,
+      "Summory": 1306012,
+      "Victory": 1305989,
+      "Withdraw": 1306011,
+      "YardTouch": [
+        1306008,
+        1306009
+      ],
+      "id": 85,
+      "touch": [
+        1306002,
+        1306003,
+        1306004,
+        1306005,
+        1306006
+      ]
+    },
+    "86": {
+      "Adventure": 1305716,
+      "Attacked": [
+        1305689,
+        -1
+      ],
+      "BattleKill": 1305693,
+      "BattleStart": 1305686,
+      "Conversation": [
+        1305718,
+        1305719,
+        1305720,
+        1305721
+      ],
+      "Defeat": 1305692,
+      "Dispatch": 1305712,
+      "Emotion": [
+        1305722,
+        1305723,
+        -1
+      ],
+      "FavoriteGift": 1305703,
+      "Formation": 1305715,
+      "Impression": [
+        1305697,
+        1305698,
+        1305699,
+        1305700,
+        1305701
+      ],
+      "Introduction": 1305724,
+      "LevelUp": 1305694,
+      "LifeHealing": 1305717,
+      "LimitUp": 1305695,
+      "Login": 1305725,
+      "ManaTree": -1,
+      "NormalGift": 1305702,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306708,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305696,
+      "Revive": 1305690,
+      "SkillCV": [
+        1305687,
+        1305688,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305709,
+      "Summory": 1305714,
+      "Victory": 1305691,
+      "Withdraw": 1305713,
+      "YardTouch": [
+        1305710,
+        1305711
+      ],
+      "id": 86,
+      "touch": [
+        1305704,
+        1305705,
+        1305706,
+        1305707,
+        1305708
+      ]
+    },
+    "88": {
+      "Adventure": 1306258,
+      "Attacked": [
+        1306231,
+        -1
+      ],
+      "BattleKill": 1306235,
+      "BattleStart": 1306228,
+      "Conversation": [
+        1306260,
+        1306261,
+        1306262,
+        1306263
+      ],
+      "Defeat": 1306234,
+      "Dispatch": 1306254,
+      "Emotion": [
+        1306264,
+        1306265,
+        -1
+      ],
+      "FavoriteGift": 1306245,
+      "Formation": 1306257,
+      "Impression": [
+        1306239,
+        1306240,
+        1306241,
+        1306242,
+        1306243
+      ],
+      "Introduction": 1306266,
+      "LevelUp": 1306236,
+      "LifeHealing": 1306259,
+      "LimitUp": 1306237,
+      "Login": 1306267,
+      "ManaTree": -1,
+      "NormalGift": 1306244,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306726,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306238,
+      "Revive": 1306232,
+      "SkillCV": [
+        1306229,
+        1306230,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306251,
+      "Summory": 1306256,
+      "Victory": 1306233,
+      "Withdraw": 1306255,
+      "YardTouch": [
+        1306252,
+        1306253
+      ],
+      "id": 88,
+      "touch": [
+        1306246,
+        1306247,
+        1306248,
+        1306249,
+        1306250
+      ]
+    },
+    "89": {
+      "Adventure": 1305041,
+      "Attacked": [
+        1305053,
+        -1
+      ],
+      "BattleKill": 1305057,
+      "BattleStart": 1305050,
+      "Conversation": [
+        1305043,
+        1305044,
+        1305045,
+        1305046
+      ],
+      "Defeat": 1305056,
+      "Dispatch": 1305037,
+      "Emotion": [
+        1305047,
+        1305048,
+        -1
+      ],
+      "FavoriteGift": 1305023,
+      "Formation": 1305040,
+      "Impression": [
+        1305025,
+        1305026,
+        1305027,
+        1305028,
+        1305029
+      ],
+      "Introduction": 1305049,
+      "LevelUp": 1305019,
+      "LifeHealing": 1305042,
+      "LimitUp": 1305020,
+      "Login": -1,
+      "ManaTree": -1,
+      "NormalGift": 1305022,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306709,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305021,
+      "Revive": 1305054,
+      "SkillCV": [
+        1305051,
+        1305052,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305024,
+      "Summory": 1305039,
+      "Victory": 1305055,
+      "Withdraw": 1305038,
+      "YardTouch": [
+        1305035,
+        1305036
+      ],
+      "id": 89,
+      "touch": [
+        1305030,
+        1305031,
+        1305032,
+        1305033,
+        1305034
+      ]
+    },
+    "9": {
+      "Adventure": 1301211,
+      "Attacked": [
+        1301224,
+        -1
+      ],
+      "BattleKill": 1301228,
+      "BattleStart": 1301221,
+      "Conversation": [
+        1301213,
+        1301214,
+        1301215,
+        1301216
+      ],
+      "Defeat": 1301227,
+      "Dispatch": 1301207,
+      "Emotion": [
+        1301217,
+        1301218,
+        -1
+      ],
+      "FavoriteGift": 1301198,
+      "Formation": 1301210,
+      "Impression": [
+        1301200,
+        1301201,
+        1301202,
+        1301203,
+        1301204
+      ],
+      "Introduction": 1301219,
+      "LevelUp": 1301194,
+      "LifeHealing": 1301212,
+      "LimitUp": 1301195,
+      "Login": 1301220,
+      "ManaTree": -1,
+      "NormalGift": 1301197,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1304623,
+      "PosterGirlWelcomeNewYear": 1304688,
+      "RareUp": 1301196,
+      "Revive": 1301225,
+      "SkillCV": [
+        1301222,
+        1301223,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1301199,
+      "Summory": 1301209,
+      "Victory": 1301226,
+      "Withdraw": 1301208,
+      "YardTouch": [
+        1301205,
+        1301206
+      ],
+      "id": 9,
+      "touch": [
+        1303229,
+        1303230,
+        1303231,
+        1303232,
+        1303233
+      ]
+    },
+    "90": {
+      "Adventure": 1305080,
+      "Attacked": [
+        1305093,
+        -1
+      ],
+      "BattleKill": 1305097,
+      "BattleStart": 1305090,
+      "Conversation": [
+        1305082,
+        1305083,
+        1305084,
+        1305085
+      ],
+      "Defeat": 1305096,
+      "Dispatch": 1305076,
+      "Emotion": [
+        1305086,
+        1305087,
+        -1
+      ],
+      "FavoriteGift": 1305062,
+      "Formation": 1305079,
+      "Impression": [
+        1305064,
+        1305065,
+        1305066,
+        1305067,
+        1305068
+      ],
+      "Introduction": 1305088,
+      "LevelUp": 1305058,
+      "LifeHealing": 1305081,
+      "LimitUp": 1305059,
+      "Login": 1305089,
+      "ManaTree": -1,
+      "NormalGift": 1305061,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306710,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305060,
+      "Revive": 1305094,
+      "SkillCV": [
+        1305091,
+        1305092,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305063,
+      "Summory": 1305078,
+      "Victory": 1305095,
+      "Withdraw": 1305077,
+      "YardTouch": [
+        1305074,
+        1305075
+      ],
+      "id": 90,
+      "touch": [
+        1305069,
+        1305070,
+        1305071,
+        1305072,
+        1305073
+      ]
+    },
+    "91": {
+      "Adventure": 1305825,
+      "Attacked": [
+        1305798,
+        -1
+      ],
+      "BattleKill": 1305802,
+      "BattleStart": 1305795,
+      "Conversation": [
+        1305827,
+        1305828,
+        1305829,
+        1305830
+      ],
+      "Defeat": 1305801,
+      "Dispatch": 1305821,
+      "Emotion": [
+        1305831,
+        1305832,
+        -1
+      ],
+      "FavoriteGift": 1305812,
+      "Formation": 1305824,
+      "Impression": [
+        1305806,
+        1305807,
+        1305808,
+        1305809,
+        1305810
+      ],
+      "Introduction": 1305833,
+      "LevelUp": 1305803,
+      "LifeHealing": 1305826,
+      "LimitUp": 1305804,
+      "Login": 1305834,
+      "ManaTree": -1,
+      "NormalGift": 1305811,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306711,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305805,
+      "Revive": 1305799,
+      "SkillCV": [
+        1305796,
+        1305797,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305818,
+      "Summory": 1305823,
+      "Victory": 1305800,
+      "Withdraw": 1305822,
+      "YardTouch": [
+        1305819,
+        1305820
+      ],
+      "id": 91,
+      "touch": [
+        1305813,
+        1305814,
+        1305815,
+        1305816,
+        1305817
+      ]
+    },
+    "92": {
+      "Adventure": 1305966,
+      "Attacked": [
+        1305939,
+        -1
+      ],
+      "BattleKill": 1305943,
+      "BattleStart": 1305936,
+      "Conversation": [
+        1305968,
+        1305969,
+        1305970,
+        1305971
+      ],
+      "Defeat": 1305942,
+      "Dispatch": 1305962,
+      "Emotion": [
+        1305972,
+        1305973,
+        -1
+      ],
+      "FavoriteGift": 1305953,
+      "Formation": 1305965,
+      "Impression": [
+        1305947,
+        1305948,
+        1305949,
+        1305950,
+        1305951
+      ],
+      "Introduction": 1305974,
+      "LevelUp": 1305944,
+      "LifeHealing": 1305967,
+      "LimitUp": 1305945,
+      "Login": 1305975,
+      "ManaTree": -1,
+      "NormalGift": 1305952,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306718,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305946,
+      "Revive": 1305940,
+      "SkillCV": [
+        1305937,
+        1305938,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305959,
+      "Summory": 1305964,
+      "Victory": 1305941,
+      "Withdraw": 1305963,
+      "YardTouch": [
+        1305960,
+        1305961
+      ],
+      "id": 92,
+      "touch": [
+        1305954,
+        1305955,
+        1305956,
+        1305957,
+        1305958
+      ]
+    },
+    "94": {
+      "Adventure": 1306105,
+      "Attacked": [
+        1306078,
+        -1
+      ],
+      "BattleKill": 1306082,
+      "BattleStart": 1306075,
+      "Conversation": [
+        1306107,
+        1306108,
+        1306109,
+        1306110
+      ],
+      "Defeat": 1306081,
+      "Dispatch": 1306101,
+      "Emotion": [
+        1306111,
+        1306112,
+        -1
+      ],
+      "FavoriteGift": 1306092,
+      "Formation": 1306104,
+      "Impression": [
+        1306086,
+        1306087,
+        1306088,
+        1306089,
+        1306090
+      ],
+      "Introduction": 1306113,
+      "LevelUp": 1306083,
+      "LifeHealing": 1306106,
+      "LimitUp": 1306084,
+      "Login": 1306114,
+      "ManaTree": -1,
+      "NormalGift": 1306091,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306723,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306085,
+      "Revive": 1306079,
+      "SkillCV": [
+        1306076,
+        1306077,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306098,
+      "Summory": 1306103,
+      "Victory": 1306080,
+      "Withdraw": 1306102,
+      "YardTouch": [
+        1306099,
+        1306100
+      ],
+      "id": 94,
+      "touch": [
+        1306093,
+        1306094,
+        1306095,
+        1306096,
+        1306097
+      ]
+    },
+    "95": {
+      "Adventure": 1305158,
+      "Attacked": [
+        1305131,
+        -1
+      ],
+      "BattleKill": 1305135,
+      "BattleStart": 1305128,
+      "Conversation": [
+        1305160,
+        1305161,
+        1305162,
+        1305163
+      ],
+      "Defeat": 1305134,
+      "Dispatch": 1305154,
+      "Emotion": [
+        1305164,
+        1305165,
+        -1
+      ],
+      "FavoriteGift": 1305145,
+      "Formation": 1305157,
+      "Impression": [
+        1305139,
+        1305140,
+        1305141,
+        1305142,
+        1305143
+      ],
+      "Introduction": 1305166,
+      "LevelUp": 1305136,
+      "LifeHealing": 1305159,
+      "LimitUp": 1305137,
+      "Login": 1305167,
+      "ManaTree": -1,
+      "NormalGift": 1305144,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306712,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305138,
+      "Revive": 1305132,
+      "SkillCV": [
+        1305129,
+        1305130,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305151,
+      "Summory": 1305156,
+      "Victory": 1305133,
+      "Withdraw": 1305155,
+      "YardTouch": [
+        1305152,
+        1305153
+      ],
+      "id": 95,
+      "touch": [
+        1305146,
+        1305147,
+        1305148,
+        1305149,
+        1305150
+      ]
+    },
+    "97": {
+      "Adventure": 1306209,
+      "Attacked": [
+        1306182,
+        -1
+      ],
+      "BattleKill": 1306186,
+      "BattleStart": 1306179,
+      "Conversation": [
+        1306211,
+        1306212,
+        1306213,
+        1306214
+      ],
+      "Defeat": 1306185,
+      "Dispatch": 1306205,
+      "Emotion": [
+        1306215,
+        1306216,
+        -1
+      ],
+      "FavoriteGift": 1306196,
+      "Formation": 1306208,
+      "Impression": [
+        1306190,
+        1306191,
+        1306192,
+        1306193,
+        1306194
+      ],
+      "Introduction": 1306217,
+      "LevelUp": 1306187,
+      "LifeHealing": 1306210,
+      "LimitUp": 1306188,
+      "Login": 1306218,
+      "ManaTree": -1,
+      "NormalGift": 1306195,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306725,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306189,
+      "Revive": 1306183,
+      "SkillCV": [
+        1306180,
+        1306181,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306202,
+      "Summory": 1306207,
+      "Victory": 1306184,
+      "Withdraw": 1306206,
+      "YardTouch": [
+        1306203,
+        1306204
+      ],
+      "id": 97,
+      "touch": [
+        1306197,
+        1306198,
+        1306199,
+        1306200,
+        1306201
+      ]
+    },
+    "98": {
+      "Adventure": 1306684,
+      "Attacked": [
+        1306657,
+        -1
+      ],
+      "BattleKill": 1306661,
+      "BattleStart": 1306654,
+      "Conversation": [
+        1306686,
+        1306687,
+        1306688,
+        1306689
+      ],
+      "Defeat": 1306660,
+      "Dispatch": 1306680,
+      "Emotion": [
+        1306690,
+        1306691,
+        -1
+      ],
+      "FavoriteGift": 1306671,
+      "Formation": 1306683,
+      "Impression": [
+        1306665,
+        1306666,
+        1306667,
+        1306668,
+        1306669
+      ],
+      "Introduction": 1306692,
+      "LevelUp": 1306662,
+      "LifeHealing": 1306685,
+      "LimitUp": 1306663,
+      "Login": 1306693,
+      "ManaTree": -1,
+      "NormalGift": 1306670,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306734,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1306664,
+      "Revive": 1306658,
+      "SkillCV": [
+        1306655,
+        1306656,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1306677,
+      "Summory": 1306682,
+      "Victory": 1306659,
+      "Withdraw": 1306681,
+      "YardTouch": [
+        1306678,
+        1306679
+      ],
+      "id": 98,
+      "touch": [
+        1306672,
+        1306673,
+        1306674,
+        1306675,
+        1306676
+      ]
+    },
+    "99": {
+      "Adventure": 1305756,
+      "Attacked": [
+        1305729,
+        -1
+      ],
+      "BattleKill": 1305733,
+      "BattleStart": 1305726,
+      "Conversation": [
+        1305758,
+        1305759,
+        1305760,
+        1305761
+      ],
+      "Defeat": 1305732,
+      "Dispatch": 1305752,
+      "Emotion": [
+        1305762,
+        1305763,
+        -1
+      ],
+      "FavoriteGift": 1305743,
+      "Formation": 1305755,
+      "Impression": [
+        1305737,
+        1305738,
+        1305739,
+        1305740,
+        1305741
+      ],
+      "Introduction": 1305764,
+      "LevelUp": 1305734,
+      "LifeHealing": 1305757,
+      "LimitUp": 1305735,
+      "Login": 1305765,
+      "ManaTree": -1,
+      "NormalGift": 1305742,
+      "OpenBox": -1,
+      "PosterGirlWelcome": 1306713,
+      "PosterGirlWelcomeNewYear": -1,
+      "RareUp": 1305736,
+      "Revive": 1305730,
+      "SkillCV": [
+        1305727,
+        1305728,
+        -1,
+        -1,
+        -1
+      ],
+      "Standby": 1305749,
+      "Summory": 1305754,
+      "Victory": 1305731,
+      "Withdraw": 1305753,
+      "YardTouch": [
+        1305750,
+        1305751
+      ],
+      "id": 99,
+      "touch": [
+        1305744,
+        1305745,
+        1305746,
+        1305747,
+        1305748
+      ]
+    }
+  }
+}

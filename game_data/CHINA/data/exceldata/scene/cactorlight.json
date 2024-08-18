@@ -1,0 +1,466 @@
+{
+  "AllIds": [
+    10001,
+    10002,
+    10003,
+    10004,
+    10005,
+    10007,
+    10009,
+    10010,
+    10011,
+    10012,
+    10013,
+    10014,
+    10015,
+    10016,
+    10017,
+    11000,
+    12002,
+    12003,
+    12004,
+    12005,
+    12006,
+    12007,
+    12008,
+    12009,
+    12010,
+    12011,
+    12012,
+    12013,
+    12014,
+    12015,
+    12016,
+    12017,
+    12018,
+    12019,
+    12020,
+    12021,
+    12022,
+    12023,
+    12024,
+    12025,
+    13001,
+    13002,
+    13003,
+    13004,
+    13005,
+    13101
+  ],
+  "Data": {
+    "10001": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10001,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10002": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10002,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10003": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10003,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10004": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10004,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10005": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10005,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10007": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10007,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10009": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10009,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10010": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10010,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10011": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10011,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10012": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10012,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10013": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10013,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10014": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10014,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10015": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10015,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10016": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10016,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "10017": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 10017,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "11000": {
+      "colorA": 1,
+      "colorB": 0.14,
+      "colorG": 0.76,
+      "colorR": 1,
+      "id": 11000,
+      "intensity": 8,
+      "range": 0.35
+    },
+    "12002": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12002,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12003": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12003,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12004": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12004,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12005": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12005,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12006": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12006,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12007": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12007,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12008": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12008,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12009": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12009,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12010": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12010,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12011": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12011,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12012": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12012,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12013": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12013,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12014": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12014,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12015": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12015,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12016": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12016,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12017": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12017,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12018": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12018,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12019": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12019,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12020": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12020,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12021": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12021,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12022": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12022,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12023": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12023,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12024": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12024,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "12025": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 12025,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "13001": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 13001,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "13002": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 13002,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "13003": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 13003,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "13004": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 13004,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "13005": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 13005,
+      "intensity": 2.5,
+      "range": 1.3
+    },
+    "13101": {
+      "colorA": 1,
+      "colorB": 0.54,
+      "colorG": 0.87,
+      "colorR": 1,
+      "id": 13101,
+      "intensity": 2.5,
+      "range": 1.3
+    }
+  }
+}

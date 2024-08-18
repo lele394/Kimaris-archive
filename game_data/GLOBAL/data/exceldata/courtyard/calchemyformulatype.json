@@ -1,0 +1,22 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "byproduct": 0,
+      "id": 1,
+      "image": 10509,
+      "typeName": "素材",
+      "typeNameTextID": 800057
+    },
+    {
+      "byproduct": 1,
+      "id": 2,
+      "image": 10528,
+      "typeName": "结晶",
+      "typeNameTextID": 800058
+    }
+  ]
+}

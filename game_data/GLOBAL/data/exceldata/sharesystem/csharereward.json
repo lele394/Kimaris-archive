@@ -1,0 +1,84 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "Data": [
+    {
+      "closeTime": "",
+      "id": 1,
+      "itemID": [
+        35008
+      ],
+      "itemNum": [
+        50
+      ],
+      "onChannelId": "",
+      "openTime": ""
+    },
+    {
+      "closeTime": "",
+      "id": 2,
+      "itemID": [
+        35008
+      ],
+      "itemNum": [
+        80
+      ],
+      "onChannelId": "",
+      "openTime": ""
+    },
+    {
+      "closeTime": "",
+      "id": 3,
+      "itemID": [
+        35008
+      ],
+      "itemNum": [
+        80
+      ],
+      "onChannelId": "",
+      "openTime": ""
+    },
+    {
+      "closeTime": "2021-08-07 04:00:00",
+      "id": 4,
+      "itemID": [
+        35008
+      ],
+      "itemNum": [
+        80
+      ],
+      "onChannelId": "",
+      "openTime": "2021-01-14 04:00:00"
+    },
+    {
+      "closeTime": "2022-08-02 04:00:00",
+      "id": 5,
+      "itemID": [
+        35008
+      ],
+      "itemNum": [
+        200
+      ],
+      "onChannelId": "",
+      "openTime": "2022-07-19 04:00:00"
+    },
+    {
+      "closeTime": "2022-07-21 15:00:00",
+      "id": 6,
+      "itemID": [
+        35008
+      ],
+      "itemNum": [
+        200
+      ],
+      "onChannelId": "",
+      "openTime": "2021-11-25 15:00:00"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "Data": [
+    {
+      "assetBundle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetName": "tower_buff_01",
+      "assetNameBattle": "tower_buff_m01",
+      "attrID": 20,
+      "id": 1,
+      "imgID": 10950,
+      "textID": 1900451,
+      "value": 10
+    },
+    {
+      "assetBundle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetName": "tower_buff_02",
+      "assetNameBattle": "tower_buff_m02",
+      "attrID": 90,
+      "id": 2,
+      "imgID": 10947,
+      "textID": 1900452,
+      "value": 5
+    },
+    {
+      "assetBundle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetName": "tower_buff_03",
+      "assetNameBattle": "tower_buff_m03",
+      "attrID": 100,
+      "id": 3,
+      "imgID": 10949,
+      "textID": 1900453,
+      "value": 5
+    },
+    {
+      "assetBundle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetName": "tower_buff_04",
+      "assetNameBattle": "tower_buff_m04",
+      "attrID": 110,
+      "id": 4,
+      "imgID": 10947,
+      "textID": 1900454,
+      "value": 5
+    },
+    {
+      "assetBundle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetName": "tower_buff_05",
+      "assetNameBattle": "tower_buff_m05",
+      "attrID": 120,
+      "id": 5,
+      "imgID": 10949,
+      "textID": 1900455,
+      "value": 5
+    },
+    {
+      "assetBundle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+      "assetName": "tower_buff_06",
+      "assetNameBattle": "tower_buff_m06",
+      "attrID": 130,
+      "id": 6,
+      "imgID": 10948,
+      "textID": 1900456,
+      "value": 5
+    }
+  ]
+}

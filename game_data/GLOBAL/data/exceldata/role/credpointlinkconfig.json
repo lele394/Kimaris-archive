@@ -1,0 +1,360 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    100001,
+    100002
+  ],
+  "Data": {
+    "1": {
+      "calculateDetailNum": 1,
+      "childs": [
+        2
+      ],
+      "getParentParamsType": -1,
+      "id": 1,
+      "notes": "主城人偶按钮",
+      "paramNum": 0,
+      "paramTypes": [],
+      "type": 1
+    },
+    "10": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 10,
+      "notes": "人偶好感度",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        5
+      ],
+      "type": 10
+    },
+    "100001": {
+      "calculateDetailNum": 1,
+      "childs": [
+        100002
+      ],
+      "getParentParamsType": -1,
+      "id": 100001,
+      "notes": "主城人偶按钮-刷新",
+      "paramNum": 0,
+      "paramTypes": [],
+      "type": 1
+    },
+    "100002": {
+      "calculateDetailNum": 1,
+      "childs": [
+        103,
+        105,
+        107,
+        109,
+        111
+      ],
+      "getParentParamsType": 0,
+      "id": 100002,
+      "notes": "人偶一览列表cell-刷新",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 2
+    },
+    "103": {
+      "calculateDetailNum": 1,
+      "childs": [
+        104
+      ],
+      "getParentParamsType": 1,
+      "id": 103,
+      "notes": "人偶属性技能-本地查看",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 3
+    },
+    "104": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 104,
+      "notes": "人偶技能节点-本地查看",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        2
+      ],
+      "type": 104
+    },
+    "105": {
+      "calculateDetailNum": 1,
+      "childs": [
+        106
+      ],
+      "getParentParamsType": 1,
+      "id": 105,
+      "notes": "人偶属性进化-本地查看",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 5
+    },
+    "106": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 106,
+      "notes": "人偶属性进化阶段等级-本地查看",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        3
+      ],
+      "type": 106
+    },
+    "107": {
+      "calculateDetailNum": 1,
+      "childs": [
+        108
+      ],
+      "getParentParamsType": 1,
+      "id": 107,
+      "notes": "人偶属性时装-本地查看",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 7
+    },
+    "108": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 108,
+      "notes": "人偶时装-本地查看",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        4
+      ],
+      "type": 108
+    },
+    "109": {
+      "calculateDetailNum": 1,
+      "childs": [
+        110
+      ],
+      "getParentParamsType": 1,
+      "id": 109,
+      "notes": "人偶属性好感度-本地查看",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 9
+    },
+    "11": {
+      "calculateDetailNum": 1,
+      "childs": [
+        12
+      ],
+      "getParentParamsType": 1,
+      "id": 11,
+      "notes": "人偶属性突破",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 11
+    },
+    "110": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 110,
+      "notes": "人偶好感度-本地查看",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        5
+      ],
+      "type": 110
+    },
+    "111": {
+      "calculateDetailNum": 1,
+      "childs": [
+        112
+      ],
+      "getParentParamsType": 1,
+      "id": 111,
+      "notes": "人偶属性突破-本地查看",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 11
+    },
+    "112": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 112,
+      "notes": "人偶突破-本地查看",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        6
+      ],
+      "type": 112
+    },
+    "12": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 12,
+      "notes": "人偶突破",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        6
+      ],
+      "type": 12
+    },
+    "2": {
+      "calculateDetailNum": 1,
+      "childs": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "getParentParamsType": 0,
+      "id": 2,
+      "notes": "人偶一览列表cell",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 2
+    },
+    "3": {
+      "calculateDetailNum": 1,
+      "childs": [
+        4
+      ],
+      "getParentParamsType": 1,
+      "id": 3,
+      "notes": "人偶属性技能",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 3
+    },
+    "4": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 4,
+      "notes": "人偶技能节点",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        2
+      ],
+      "type": 4
+    },
+    "5": {
+      "calculateDetailNum": 1,
+      "childs": [
+        6
+      ],
+      "getParentParamsType": 1,
+      "id": 5,
+      "notes": "人偶属性进化",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 5
+    },
+    "6": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 6,
+      "notes": "人偶属性进化阶段等级",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        3
+      ],
+      "type": 6
+    },
+    "7": {
+      "calculateDetailNum": 1,
+      "childs": [
+        8
+      ],
+      "getParentParamsType": 1,
+      "id": 7,
+      "notes": "人偶属性时装",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 7
+    },
+    "8": {
+      "calculateDetailNum": 0,
+      "childs": [],
+      "getParentParamsType": 1,
+      "id": 8,
+      "notes": "人偶时装",
+      "paramNum": 2,
+      "paramTypes": [
+        1,
+        4
+      ],
+      "type": 8
+    },
+    "9": {
+      "calculateDetailNum": 1,
+      "childs": [
+        10
+      ],
+      "getParentParamsType": 1,
+      "id": 9,
+      "notes": "人偶属性好感度",
+      "paramNum": 1,
+      "paramTypes": [
+        1
+      ],
+      "type": 9
+    }
+  }
+}

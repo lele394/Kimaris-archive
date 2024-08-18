@@ -1,0 +1,17 @@
+{
+  "Attack": {
+    "endEventFrames": 14
+  },
+  "Attack2": {
+    "endEventFrames": 174
+  },
+  "Magic": {
+    "endEventFrames": 58
+  },
+  "Move": {
+    "endEventFrames": 1
+  },
+  "MoveBack": {
+    "endEventFrames": 2
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "AllIds": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035,
+    2036,
+    2037,
+    2038,
+    2044,
+    2045,
+    2046
+  ],
+  "Data": {
+    "2001": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine1",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2001
+    },
+    "2002": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine2",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2002
+    },
+    "2003": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine3",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2003
+    },
+    "2004": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine4",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2004
+    },
+    "2005": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine5",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2005
+    },
+    "2006": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine6",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2006
+    },
+    "2007": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine7",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2007
+    },
+    "2008": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine8",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2008
+    },
+    "2009": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine9",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2009
+    },
+    "2010": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine10",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2010
+    },
+    "2011": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine15",
+      "BGM": 136,
+      "Name": 30001,
+      "id": 2011
+    },
+    "2012": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine17",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2012
+    },
+    "2013": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Summer",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2013
+    },
+    "2014": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Halloween",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2014
+    },
+    "2015": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine17",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2015
+    },
+    "2016": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine17",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2016
+    },
+    "2017": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_LoginBirthday1",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2017
+    },
+    "2018": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_LoginBirthday2",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2018
+    },
+    "2019": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_LoginBirthday3",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2019
+    },
+    "2020": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_LoginBirthday4",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2020
+    },
+    "2021": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_LoginBirthday5",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2021
+    },
+    "2022": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Return",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2022
+    },
+    "2023": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_ChristmasCall1",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2023
+    },
+    "2024": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_ChristmasCall2",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2024
+    },
+    "2025": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_ChristmasCall3",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2025
+    },
+    "2026": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_ChristmasCall4",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2026
+    },
+    "2027": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring1",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2027
+    },
+    "2028": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring2",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2028
+    },
+    "2029": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring3",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2029
+    },
+    "2030": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring4",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2030
+    },
+    "2031": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring5",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2031
+    },
+    "2032": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring6",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2032
+    },
+    "2033": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Spring7",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2033
+    },
+    "2034": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_ChristmasCall",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2034
+    },
+    "2035": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_AprilFools",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2035
+    },
+    "2036": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Childrensday",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2036
+    },
+    "2037": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_ActivitySpringOuting",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2037
+    },
+    "2038": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_EasterDay",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2038
+    },
+    "2044": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_SummerReturn",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2044
+    },
+    "2045": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_StarryMirror2022",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2045
+    },
+    "2046": {
+      "AssetBundle": "sceneobjects/base.storyprefabs.assetbundle",
+      "AssetName": "TimeLine_Halloween2022",
+      "BGM": -1,
+      "Name": 30001,
+      "id": 2046
+    }
+  }
+}

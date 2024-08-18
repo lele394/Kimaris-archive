@@ -1,0 +1,7 @@
+{
+  "CreateTable": "CREATE TABLE IF NOT EXISTS #(id INTEGER PRIMARY KEY AUTOINCREMENT,rolekey BIGINT,weaponkey BIGINT,armorkey BIGINT,jewelrykey BIGINT)",
+  "DeleteTheRole": "DELETE FROM # WHERE rolekey = :roleKey AND (weaponkey = :equipKey OR armorkey = :equipKey OR jewelrykey = :equipKey)",
+  "GetKey": "SELECT * FROM #",
+  "RemoveTable": "DROP TABLE #",
+  "StoreKey": "INSERT INTO # VALUES (NULL, :rolekey, :weaponkey, :armorkey, :jewelrykey)"
+}

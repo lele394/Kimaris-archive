@@ -1,0 +1,26 @@
+{
+  "Angry": {
+    "endEventFrames": 36
+  },
+  "Attack": {
+    "endEventFrames": 72
+  },
+  "DeadDisappear": {
+    "endEventFrames": 150
+  },
+  "Magic": {
+    "endEventFrames": 48
+  },
+  "Magic2": {
+    "endEventFrames": 61
+  },
+  "Magic3": {
+    "endEventFrames": 35
+  },
+  "Magic4": {
+    "endEventFrames": 60
+  },
+  "Move": {
+    "endEventFrames": 1
+  }
+}

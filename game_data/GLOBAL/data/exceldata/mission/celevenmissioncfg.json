@@ -1,0 +1,174 @@
+{
+  "AllIds": [
+    110001,
+    110002,
+    110003,
+    110004,
+    110005,
+    110006
+  ],
+  "Data": {
+    "110001": {
+      "UIjumpvalue": 34,
+      "description": "活跃度达到500",
+      "descriptionTextID": 1001547,
+      "endevent": 1,
+      "id": 110001,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "活跃度达到500",
+      "missionnameTextID": 1001547,
+      "missiontype": 11,
+      "progresspath": [
+        "1,1"
+      ],
+      "refreshType": 1,
+      "rewardid": 3490,
+      "rewarditem": [
+        35037
+      ],
+      "rewardquantity": [
+        30
+      ],
+      "sortid": 1
+    },
+    "110002": {
+      "UIjumpvalue": 34,
+      "description": "活跃度达到20",
+      "descriptionTextID": 1001548,
+      "endevent": 4,
+      "id": 110002,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "活跃度达到40",
+      "missionnameTextID": 1001548,
+      "missiontype": 11,
+      "progresspath": [
+        "4,1"
+      ],
+      "refreshType": 2,
+      "rewardid": 3493,
+      "rewarditem": [
+        35037
+      ],
+      "rewardquantity": [
+        1
+      ],
+      "sortid": 2
+    },
+    "110003": {
+      "UIjumpvalue": 34,
+      "description": "活跃度达到40",
+      "descriptionTextID": 1001549,
+      "endevent": 2,
+      "id": 110003,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "活跃度达到80",
+      "missionnameTextID": 1001549,
+      "missiontype": 11,
+      "progresspath": [
+        "2,1"
+      ],
+      "refreshType": 2,
+      "rewardid": 3491,
+      "rewarditem": [
+        35037
+      ],
+      "rewardquantity": [
+        1
+      ],
+      "sortid": 3
+    },
+    "110004": {
+      "UIjumpvalue": 34,
+      "description": "活跃度达到60",
+      "descriptionTextID": 1001550,
+      "endevent": 6,
+      "id": 110004,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "活跃度达到100",
+      "missionnameTextID": 1001550,
+      "missiontype": 11,
+      "progresspath": [
+        "6,1"
+      ],
+      "refreshType": 2,
+      "rewardid": 3500,
+      "rewarditem": [
+        35037
+      ],
+      "rewardquantity": [
+        2
+      ],
+      "sortid": 4
+    },
+    "110005": {
+      "UIjumpvalue": 34,
+      "description": "活跃度达到80",
+      "descriptionTextID": 1001551,
+      "endevent": 7,
+      "id": 110005,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "活跃度达到120",
+      "missionnameTextID": 1001551,
+      "missiontype": 11,
+      "progresspath": [
+        "7,1"
+      ],
+      "refreshType": 2,
+      "rewardid": 3499,
+      "rewarditem": [
+        35037
+      ],
+      "rewardquantity": [
+        2
+      ],
+      "sortid": 5
+    },
+    "110006": {
+      "UIjumpvalue": 34,
+      "description": "活跃度达到100",
+      "descriptionTextID": 1001552,
+      "endevent": 8,
+      "id": 110006,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "活跃度达到150",
+      "missionnameTextID": 1001552,
+      "missiontype": 11,
+      "progresspath": [
+        "8,1"
+      ],
+      "refreshType": 2,
+      "rewardid": 3498,
+      "rewarditem": [
+        35037
+      ],
+      "rewardquantity": [
+        4
+      ],
+      "sortid": 6
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "key_id": 0,
+      "modals": 0,
+      "type": 0
+    },
+    {
+      "id": 2,
+      "key_id": 31001,
+      "modals": 2,
+      "type": 1
+    },
+    {
+      "id": 3,
+      "key_id": 31002,
+      "modals": 2,
+      "type": 2
+    },
+    {
+      "id": 4,
+      "key_id": 31003,
+      "modals": 2,
+      "type": 3
+    },
+    {
+      "id": 5,
+      "key_id": 31004,
+      "modals": 1,
+      "type": 9
+    }
+  ]
+}

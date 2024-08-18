@@ -1,0 +1,227 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "Data": [
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa+dmgskilladda-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "phydmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 1
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extramagicdmga-magicblockb)*3000/math.max((3000+magicdefb-magicdefbreaka) ,1500) *math.max((1+magicbonusa+dmgskilladda-magicreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "magdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 2
+    },
+    {
+      "BaseDamageFormula": "attr1*attacka*(1+bonusa+healskilladda+curativeaddb)",
+      "Formula": "(healingpowera+attr1*attacka)*math.max((1+magicbonusa+healskilladda+curativeaddb),0)",
+      "FormulaName": "heal",
+      "attr": [
+        "attr1"
+      ],
+      "id": 3
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-physicaldefbreaka) ,1500) *math.max((1+physicalbonusa-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "atkphydmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 4
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extramagicdmga-magicblockb)*3000//math.max((3000+magicdefb-magicdefbreaka) ,1500) *math.max((1+magicbonusa-magicreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "atkmagdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 5
+    },
+    {
+      "BaseDamageFormula": "attr1*attacka*(1+bonusa+curativeaddb)",
+      "Formula": "(healingpowera+attr1*attacka)*math.max((1+magicbonusa+curativeaddb),0)",
+      "FormulaName": "atkheal",
+      "attr": [
+        "attr1"
+      ],
+      "id": 6
+    },
+    {
+      "BaseDamageFormula": "attr1*staticattacka",
+      "Formula": "attr1*staticattacka",
+      "FormulaName": "attackbonus",
+      "attr": [
+        "attr1"
+      ],
+      "id": 7
+    },
+    {
+      "BaseDamageFormula": "attr1*maxhpa*(1+magicbonusa+healskilladda+curativeaddb)",
+      "Formula": "(healingpowera+attr1*maxhpa)*math.max((1+magicbonusa+healskilladda+curativeaddb),0)",
+      "FormulaName": "hpheal",
+      "attr": [
+        "attr1"
+      ],
+      "id": 8
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa+dmgskilladda-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "staticphydmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 9
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1+extramagicdmga-magicblockb)*3000/math.max((3000+magicdefb-magicdefbreaka) ,1500) *math.max((1+magicbonusa+dmgskilladda-magicreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "staticmagdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 10
+    },
+    {
+      "BaseDamageFormula": "attr1*maxhpa*(1+magicbonusa+healskilladda+curativeaddb)",
+      "Formula": "(healingpowera+attr1*defenda)*math.max((1+magicbonusa+healskilladda+curativeaddb),0)",
+      "FormulaName": "defheal",
+      "attr": [
+        "attr1"
+      ],
+      "id": 11
+    },
+    {
+      "BaseDamageFormula": "attr1*maxhpa*(1+magicbonusa+healskilladda+curativeaddb)",
+      "Formula": "(healingpowera+attr1*magdefa)*math.max((1+magicbonusa+healskilladda+curativeaddb),0)",
+      "FormulaName": "magdefheal",
+      "attr": [
+        "attr1"
+      ],
+      "id": 12
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticmaxhpa)",
+      "Formula": "-math.max(1,(attr1*maxhpa+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa+dmgskilladda-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "phyhpdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 13
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticmaxhpa)",
+      "Formula": "-math.max(1,(attr1*maxhpa+extramagicdmga-magicblockb)*3000/math.max((3000+magicdefb-magicdefbreaka) ,1500) *math.max((1+magicbonusa+dmgskilladda-magicreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "maghpdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 14
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticmaxhpa)",
+      "Formula": "-math.max(1,attr1*staticmaxhpa)",
+      "FormulaName": "hpdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 15
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-fixedpoint(\"0.2\")*staticdefendb-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa+dmgskilladda-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "snphydmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 16
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-attr2*attacka-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa+dmgskilladda-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "xnphydmg",
+      "attr": [
+        "attr1",
+        "attr2"
+      ],
+      "id": 17
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-staticdefendb-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa+dmgskilladda-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "aksphydmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 18
+    },
+    {
+      "BaseDamageFormula": "attr1*totaldmgb*(1+magicbonusa+healskilladda+curativeaddb)",
+      "Formula": "(healingpowera+attr1*totaldmgb)*math.max((1+magicbonusa+healskilladda+curativeaddb),0)",
+      "FormulaName": "endureheal",
+      "attr": [
+        "attr1"
+      ],
+      "id": 19
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticmaxhpa)",
+      "Formula": "-math.max(1,(attr1*maxhpa+extraphysicaldmga-physicalblockb)*3000/math.max((3000+defendb-physicaldefbreaka) ,1500)*math.max((1+physicalbonusa-physicalreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "sjphyhpdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 20
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticattacka)",
+      "Formula": "-math.max(1,(attr1*attacka+extramagicdmga-magicblockb)*3000/math.max((3000+magicdefb-magicdefbreaka) ,1500) *math.max((1+magicbonusa-magicreduceb),fixedpoint(\"0.01\")) )*math.max((1-damagereduceb),fixedpoint(\"0.01\"))",
+      "FormulaName": "linkmagdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 21
+    },
+    {
+      "BaseDamageFormula": "-math.max(1,attr1*staticmaxhpa)",
+      "Formula": "-math.max(1,attr1)",
+      "FormulaName": "staticdmg",
+      "attr": [
+        "attr1"
+      ],
+      "id": 22
+    }
+  ]
+}

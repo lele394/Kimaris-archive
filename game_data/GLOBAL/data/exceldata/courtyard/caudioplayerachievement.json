@@ -1,0 +1,123 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "Data": [
+    {
+      "RewardId": [
+        35008
+      ],
+      "RewardNum": [
+        50
+      ],
+      "audioRewardNum": 1,
+      "audioRewardType": 1,
+      "audioRewardTypeTxt": 800382,
+      "id": 1
+    },
+    {
+      "RewardId": [
+        35008
+      ],
+      "RewardNum": [
+        100
+      ],
+      "audioRewardNum": 5,
+      "audioRewardType": 1,
+      "audioRewardTypeTxt": 800383,
+      "id": 2
+    },
+    {
+      "RewardId": [
+        35008
+      ],
+      "RewardNum": [
+        150
+      ],
+      "audioRewardNum": 10,
+      "audioRewardType": 1,
+      "audioRewardTypeTxt": 800384,
+      "id": 3
+    },
+    {
+      "RewardId": [
+        35008
+      ],
+      "RewardNum": [
+        300
+      ],
+      "audioRewardNum": 20,
+      "audioRewardType": 1,
+      "audioRewardTypeTxt": 800385,
+      "id": 4
+    },
+    {
+      "RewardId": [
+        35008
+      ],
+      "RewardNum": [
+        600
+      ],
+      "audioRewardNum": 40,
+      "audioRewardType": 1,
+      "audioRewardTypeTxt": 800386,
+      "id": 5
+    },
+    {
+      "RewardId": [
+        30076
+      ],
+      "RewardNum": [
+        5
+      ],
+      "audioRewardNum": 50,
+      "audioRewardType": 1,
+      "audioRewardTypeTxt": 800387,
+      "id": 6
+    },
+    {
+      "RewardId": [
+        30076
+      ],
+      "RewardNum": [
+        1
+      ],
+      "audioRewardNum": 102,
+      "audioRewardType": 2,
+      "audioRewardTypeTxt": 800388,
+      "id": 7
+    },
+    {
+      "RewardId": [
+        30076
+      ],
+      "RewardNum": [
+        1
+      ],
+      "audioRewardNum": 103,
+      "audioRewardType": 2,
+      "audioRewardTypeTxt": 800389,
+      "id": 8
+    },
+    {
+      "RewardId": [
+        30076
+      ],
+      "RewardNum": [
+        3
+      ],
+      "audioRewardNum": 104,
+      "audioRewardType": 2,
+      "audioRewardTypeTxt": 800390,
+      "id": 9
+    }
+  ]
+}

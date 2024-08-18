@@ -1,0 +1,1920 @@
+{
+  "AllIds": [
+    64058,
+    64059,
+    64060,
+    64061,
+    64062,
+    64063,
+    64064,
+    64065,
+    64066,
+    64067,
+    64068,
+    64069,
+    64070,
+    64071,
+    64072,
+    64073,
+    64074,
+    64075,
+    64076,
+    64077,
+    64078,
+    64079,
+    64080,
+    64081,
+    64082,
+    64083,
+    64084,
+    64085,
+    64086,
+    64087,
+    64088,
+    64089,
+    64090,
+    64091,
+    64092,
+    64093,
+    64094,
+    64095,
+    64096,
+    64097,
+    64098,
+    64099,
+    64100,
+    64101,
+    64102,
+    64103,
+    64104,
+    64105,
+    64106,
+    64107,
+    64108,
+    64109,
+    64110,
+    64111,
+    64112,
+    64113,
+    64114,
+    64115,
+    64116,
+    64117,
+    64118,
+    64119,
+    64120,
+    64121,
+    64122,
+    64123,
+    64124,
+    64125,
+    64126,
+    64127,
+    64128,
+    64129,
+    64130,
+    64131,
+    64132,
+    64133,
+    64134,
+    64135,
+    64136,
+    64137,
+    64138,
+    64139,
+    64140,
+    64141,
+    64142,
+    64143,
+    64144
+  ],
+  "Data": {
+    "64058": {
+      "UIjumpvalue": 17,
+      "description": "完成玛那副本2次",
+      "descriptionTextID": 1001365,
+      "endevent": 1013,
+      "id": 64058,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "玛娜梦境",
+      "missionnameTextID": 1001353,
+      "missiontype": 5,
+      "progresspath": [
+        "1013,1"
+      ],
+      "targettype": 2
+    },
+    "64059": {
+      "UIjumpvalue": 17,
+      "description": "完成玛那副本3次",
+      "descriptionTextID": 1001366,
+      "endevent": 1014,
+      "id": 64059,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "玛娜梦境",
+      "missionnameTextID": 1001354,
+      "missiontype": 5,
+      "progresspath": [
+        "1014,1"
+      ],
+      "targettype": 2
+    },
+    "64060": {
+      "UIjumpvalue": 17,
+      "description": "完成玛那副本4次",
+      "descriptionTextID": 1001367,
+      "endevent": 1015,
+      "id": 64060,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "玛娜梦境",
+      "missionnameTextID": 1001355,
+      "missiontype": 5,
+      "progresspath": [
+        "1015,1"
+      ],
+      "targettype": 2
+    },
+    "64061": {
+      "UIjumpvalue": 17,
+      "description": "完成突破副本2次",
+      "descriptionTextID": 1001368,
+      "endevent": 1016,
+      "id": 64061,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "突破试炼",
+      "missionnameTextID": 1001356,
+      "missiontype": 5,
+      "progresspath": [
+        "1016,1"
+      ],
+      "targettype": 2
+    },
+    "64062": {
+      "UIjumpvalue": 17,
+      "description": "完成突破副本3次",
+      "descriptionTextID": 1001369,
+      "endevent": 1017,
+      "id": 64062,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "突破试炼",
+      "missionnameTextID": 1001357,
+      "missiontype": 5,
+      "progresspath": [
+        "1017,1"
+      ],
+      "targettype": 2
+    },
+    "64063": {
+      "UIjumpvalue": 17,
+      "description": "完成突破副本4次",
+      "descriptionTextID": 1001370,
+      "endevent": 1018,
+      "id": 64063,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "突破试炼",
+      "missionnameTextID": 1001358,
+      "missiontype": 5,
+      "progresspath": [
+        "1018,1"
+      ],
+      "targettype": 2
+    },
+    "64064": {
+      "UIjumpvalue": 17,
+      "description": "完成技能副本2次",
+      "descriptionTextID": 1001371,
+      "endevent": 1019,
+      "id": 64064,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "技能书库",
+      "missionnameTextID": 1001359,
+      "missiontype": 5,
+      "progresspath": [
+        "1019,1"
+      ],
+      "targettype": 2
+    },
+    "64065": {
+      "UIjumpvalue": 17,
+      "description": "完成技能副本3次",
+      "descriptionTextID": 1001372,
+      "endevent": 1020,
+      "id": 64065,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "技能书库",
+      "missionnameTextID": 1001360,
+      "missiontype": 5,
+      "progresspath": [
+        "1020,1"
+      ],
+      "targettype": 2
+    },
+    "64066": {
+      "UIjumpvalue": 17,
+      "description": "完成技能副本4次",
+      "descriptionTextID": 1001373,
+      "endevent": 1021,
+      "id": 64066,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "技能书库",
+      "missionnameTextID": 1001361,
+      "missiontype": 5,
+      "progresspath": [
+        "1021,1"
+      ],
+      "targettype": 2
+    },
+    "64067": {
+      "UIjumpvalue": 17,
+      "description": "完成装备副本2次",
+      "descriptionTextID": 1001374,
+      "endevent": 1022,
+      "id": 64067,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "装备幻境",
+      "missionnameTextID": 1001362,
+      "missiontype": 5,
+      "progresspath": [
+        "1022,1"
+      ],
+      "targettype": 2
+    },
+    "64068": {
+      "UIjumpvalue": 17,
+      "description": "完成装备副本3次",
+      "descriptionTextID": 1001375,
+      "endevent": 1023,
+      "id": 64068,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "装备幻境",
+      "missionnameTextID": 1001363,
+      "missiontype": 5,
+      "progresspath": [
+        "1023,1"
+      ],
+      "targettype": 2
+    },
+    "64069": {
+      "UIjumpvalue": 17,
+      "description": "完成装备副本4次",
+      "descriptionTextID": 1001376,
+      "endevent": 1024,
+      "id": 64069,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "装备幻境",
+      "missionnameTextID": 1001364,
+      "missiontype": 5,
+      "progresspath": [
+        "1024,1"
+      ],
+      "targettype": 2
+    },
+    "64070": {
+      "UIjumpvalue": 33,
+      "description": "将柯萝谢提升5级",
+      "descriptionTextID": 1001378,
+      "endevent": 3039,
+      "id": 64070,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3039,1"
+      ],
+      "targettype": 2
+    },
+    "64071": {
+      "UIjumpvalue": 33,
+      "description": "将未来提升5级",
+      "descriptionTextID": 1001379,
+      "endevent": 3040,
+      "id": 64071,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 3,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3040,1"
+      ],
+      "targettype": 2
+    },
+    "64072": {
+      "UIjumpvalue": 33,
+      "description": "将优丽雅提升5级",
+      "descriptionTextID": 1001380,
+      "endevent": 3041,
+      "id": 64072,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 4,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3041,1"
+      ],
+      "targettype": 2
+    },
+    "64073": {
+      "UIjumpvalue": 33,
+      "description": "将普利姆拉提升5级",
+      "descriptionTextID": 1001381,
+      "endevent": 3042,
+      "id": 64073,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 9,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3042,1"
+      ],
+      "targettype": 2
+    },
+    "64074": {
+      "UIjumpvalue": 33,
+      "description": "将奈茉茜提升5级",
+      "descriptionTextID": 1001382,
+      "endevent": 3043,
+      "id": 64074,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 14,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3043,1"
+      ],
+      "targettype": 2
+    },
+    "64075": {
+      "UIjumpvalue": 33,
+      "description": "将帕嘉妮提升5级",
+      "descriptionTextID": 1001383,
+      "endevent": 3044,
+      "id": 64075,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 15,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3044,1"
+      ],
+      "targettype": 2
+    },
+    "64076": {
+      "UIjumpvalue": 33,
+      "description": "将奥塔薇娅提升5级",
+      "descriptionTextID": 1001384,
+      "endevent": 3045,
+      "id": 64076,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 16,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3045,1"
+      ],
+      "targettype": 2
+    },
+    "64077": {
+      "UIjumpvalue": 33,
+      "description": "将命提升5级",
+      "descriptionTextID": 1001385,
+      "endevent": 3046,
+      "id": 64077,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 19,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3046,1"
+      ],
+      "targettype": 2
+    },
+    "64078": {
+      "UIjumpvalue": 33,
+      "description": "将谢尔妮提升5级",
+      "descriptionTextID": 1001386,
+      "endevent": 3047,
+      "id": 64078,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 24,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3047,1"
+      ],
+      "targettype": 2
+    },
+    "64079": {
+      "UIjumpvalue": 33,
+      "description": "将凯忒丝提升5级",
+      "descriptionTextID": 1001387,
+      "endevent": 3048,
+      "id": 64079,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 27,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3048,1"
+      ],
+      "targettype": 2
+    },
+    "64080": {
+      "UIjumpvalue": 33,
+      "description": "将伊利斯提升5级",
+      "descriptionTextID": 1001388,
+      "endevent": 3049,
+      "id": 64080,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 32,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3049,1"
+      ],
+      "targettype": 2
+    },
+    "64081": {
+      "UIjumpvalue": 33,
+      "description": "将卡丝庇妲提升5级",
+      "descriptionTextID": 1001389,
+      "endevent": 3050,
+      "id": 64081,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 36,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3050,1"
+      ],
+      "targettype": 2
+    },
+    "64082": {
+      "UIjumpvalue": 33,
+      "description": "将露达提升5级",
+      "descriptionTextID": 1001390,
+      "endevent": 3051,
+      "id": 64082,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 73,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3051,1"
+      ],
+      "targettype": 2
+    },
+    "64083": {
+      "UIjumpvalue": 33,
+      "description": "将希尔达提升5级",
+      "descriptionTextID": 1001391,
+      "endevent": 3052,
+      "id": 64083,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 74,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3052,1"
+      ],
+      "targettype": 2
+    },
+    "64084": {
+      "UIjumpvalue": 33,
+      "description": "将尤露古提升5级",
+      "descriptionTextID": 1001392,
+      "endevent": 3053,
+      "id": 64084,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 49,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3053,1"
+      ],
+      "targettype": 2
+    },
+    "64085": {
+      "UIjumpvalue": 33,
+      "description": "将尤妲娅提升5级",
+      "descriptionTextID": 1001393,
+      "endevent": 3054,
+      "id": 64085,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 52,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3054,1"
+      ],
+      "targettype": 2
+    },
+    "64086": {
+      "UIjumpvalue": 33,
+      "description": "将阿维尔提升5级",
+      "descriptionTextID": 1001394,
+      "endevent": 3055,
+      "id": 64086,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 57,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3055,1"
+      ],
+      "targettype": 2
+    },
+    "64087": {
+      "UIjumpvalue": 33,
+      "description": "将菲提升5级",
+      "descriptionTextID": 1001395,
+      "endevent": 3056,
+      "id": 64087,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 75,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3056,1"
+      ],
+      "targettype": 2
+    },
+    "64088": {
+      "UIjumpvalue": 33,
+      "description": "将莫尔提茉提升5级",
+      "descriptionTextID": 1001396,
+      "endevent": 3057,
+      "id": 64088,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 76,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶强化",
+      "missionnameTextID": 1001377,
+      "missiontype": 5,
+      "progresspath": [
+        "3057,1"
+      ],
+      "targettype": 2
+    },
+    "64089": {
+      "UIjumpvalue": 16,
+      "description": "使用柯萝谢完成3次剧情关卡",
+      "descriptionTextID": 1001398,
+      "endevent": 4059,
+      "id": 64089,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4059,1"
+      ],
+      "targettype": 2
+    },
+    "64090": {
+      "UIjumpvalue": 16,
+      "description": "使用柯萝谢完成4次剧情关卡",
+      "descriptionTextID": 1001399,
+      "endevent": 4060,
+      "id": 64090,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4060,1"
+      ],
+      "targettype": 2
+    },
+    "64091": {
+      "UIjumpvalue": 16,
+      "description": "使用未来完成2次剧情关卡",
+      "descriptionTextID": 1001400,
+      "endevent": 4061,
+      "id": 64091,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4061,1"
+      ],
+      "targettype": 2
+    },
+    "64092": {
+      "UIjumpvalue": 16,
+      "description": "使用未来完成3次剧情关卡",
+      "descriptionTextID": 1001401,
+      "endevent": 4062,
+      "id": 64092,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4062,1"
+      ],
+      "targettype": 2
+    },
+    "64093": {
+      "UIjumpvalue": 16,
+      "description": "使用优丽雅完成2次剧情关卡",
+      "descriptionTextID": 1001402,
+      "endevent": 4063,
+      "id": 64093,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4063,1"
+      ],
+      "targettype": 2
+    },
+    "64094": {
+      "UIjumpvalue": 16,
+      "description": "使用优丽雅完成3次剧情关卡",
+      "descriptionTextID": 1001403,
+      "endevent": 4064,
+      "id": 64094,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4064,1"
+      ],
+      "targettype": 2
+    },
+    "64095": {
+      "UIjumpvalue": 16,
+      "description": "使用普利姆拉完成2次剧情关卡",
+      "descriptionTextID": 1001404,
+      "endevent": 4065,
+      "id": 64095,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4065,1"
+      ],
+      "targettype": 2
+    },
+    "64096": {
+      "UIjumpvalue": 16,
+      "description": "使用普利姆拉完成3次剧情关卡",
+      "descriptionTextID": 1001405,
+      "endevent": 4066,
+      "id": 64096,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4066,1"
+      ],
+      "targettype": 2
+    },
+    "64097": {
+      "UIjumpvalue": 16,
+      "description": "使用奈茉茜完成2次剧情关卡",
+      "descriptionTextID": 1001406,
+      "endevent": 4067,
+      "id": 64097,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4067,1"
+      ],
+      "targettype": 2
+    },
+    "64098": {
+      "UIjumpvalue": 16,
+      "description": "使用奈茉茜完成3次剧情关卡",
+      "descriptionTextID": 1001407,
+      "endevent": 4068,
+      "id": 64098,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4068,1"
+      ],
+      "targettype": 2
+    },
+    "64099": {
+      "UIjumpvalue": 16,
+      "description": "使用帕嘉妮完成2次剧情关卡",
+      "descriptionTextID": 1001408,
+      "endevent": 4069,
+      "id": 64099,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4069,1"
+      ],
+      "targettype": 2
+    },
+    "64100": {
+      "UIjumpvalue": 16,
+      "description": "使用帕嘉妮完成3次剧情关卡",
+      "descriptionTextID": 1001409,
+      "endevent": 4070,
+      "id": 64100,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4070,1"
+      ],
+      "targettype": 2
+    },
+    "64101": {
+      "UIjumpvalue": 16,
+      "description": "使用奥塔薇娅完成2次剧情关卡",
+      "descriptionTextID": 1001410,
+      "endevent": 4071,
+      "id": 64101,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4071,1"
+      ],
+      "targettype": 2
+    },
+    "64102": {
+      "UIjumpvalue": 16,
+      "description": "使用奥塔薇娅完成3次剧情关卡",
+      "descriptionTextID": 1001411,
+      "endevent": 4072,
+      "id": 64102,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4072,1"
+      ],
+      "targettype": 2
+    },
+    "64103": {
+      "UIjumpvalue": 16,
+      "description": "使用命完成2次剧情关卡",
+      "descriptionTextID": 1001412,
+      "endevent": 4073,
+      "id": 64103,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4073,1"
+      ],
+      "targettype": 2
+    },
+    "64104": {
+      "UIjumpvalue": 16,
+      "description": "使用命完成3次剧情关卡",
+      "descriptionTextID": 1001413,
+      "endevent": 4074,
+      "id": 64104,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4074,1"
+      ],
+      "targettype": 2
+    },
+    "64105": {
+      "UIjumpvalue": 16,
+      "description": "使用谢尔妮完成2次剧情关卡",
+      "descriptionTextID": 1001414,
+      "endevent": 4075,
+      "id": 64105,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4075,1"
+      ],
+      "targettype": 2
+    },
+    "64106": {
+      "UIjumpvalue": 16,
+      "description": "使用谢尔妮完成3次剧情关卡",
+      "descriptionTextID": 1001415,
+      "endevent": 4076,
+      "id": 64106,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4076,1"
+      ],
+      "targettype": 2
+    },
+    "64107": {
+      "UIjumpvalue": 16,
+      "description": "使用凯忒丝完成2次剧情关卡",
+      "descriptionTextID": 1001416,
+      "endevent": 4077,
+      "id": 64107,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4077,1"
+      ],
+      "targettype": 2
+    },
+    "64108": {
+      "UIjumpvalue": 16,
+      "description": "使用凯忒丝完成3次剧情关卡",
+      "descriptionTextID": 1001417,
+      "endevent": 4078,
+      "id": 64108,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4078,1"
+      ],
+      "targettype": 2
+    },
+    "64109": {
+      "UIjumpvalue": 16,
+      "description": "使用伊利斯完成2次剧情关卡",
+      "descriptionTextID": 1001418,
+      "endevent": 4079,
+      "id": 64109,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4079,1"
+      ],
+      "targettype": 2
+    },
+    "64110": {
+      "UIjumpvalue": 16,
+      "description": "使用伊利斯完成3次剧情关卡",
+      "descriptionTextID": 1001419,
+      "endevent": 4080,
+      "id": 64110,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4080,1"
+      ],
+      "targettype": 2
+    },
+    "64111": {
+      "UIjumpvalue": 16,
+      "description": "使用卡丝庇妲完成2次剧情关卡",
+      "descriptionTextID": 1001420,
+      "endevent": 4081,
+      "id": 64111,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4081,1"
+      ],
+      "targettype": 2
+    },
+    "64112": {
+      "UIjumpvalue": 16,
+      "description": "使用卡丝庇妲完成3次剧情关卡",
+      "descriptionTextID": 1001421,
+      "endevent": 4082,
+      "id": 64112,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4082,1"
+      ],
+      "targettype": 2
+    },
+    "64113": {
+      "UIjumpvalue": 16,
+      "description": "使用露达完成2次剧情关卡",
+      "descriptionTextID": 1001422,
+      "endevent": 4083,
+      "id": 64113,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4083,1"
+      ],
+      "targettype": 2
+    },
+    "64114": {
+      "UIjumpvalue": 16,
+      "description": "使用露达完成3次剧情关卡",
+      "descriptionTextID": 1001423,
+      "endevent": 4084,
+      "id": 64114,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4084,1"
+      ],
+      "targettype": 2
+    },
+    "64115": {
+      "UIjumpvalue": 16,
+      "description": "使用希尔达完成2次剧情关卡",
+      "descriptionTextID": 1001424,
+      "endevent": 4085,
+      "id": 64115,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4085,1"
+      ],
+      "targettype": 2
+    },
+    "64116": {
+      "UIjumpvalue": 16,
+      "description": "使用希尔达完成3次剧情关卡",
+      "descriptionTextID": 1001425,
+      "endevent": 4086,
+      "id": 64116,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4086,1"
+      ],
+      "targettype": 2
+    },
+    "64117": {
+      "UIjumpvalue": 16,
+      "description": "使用尤露古完成2次剧情关卡",
+      "descriptionTextID": 1001426,
+      "endevent": 4087,
+      "id": 64117,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4087,1"
+      ],
+      "targettype": 2
+    },
+    "64118": {
+      "UIjumpvalue": 16,
+      "description": "使用尤露古完成3次剧情关卡",
+      "descriptionTextID": 1001427,
+      "endevent": 4088,
+      "id": 64118,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4088,1"
+      ],
+      "targettype": 2
+    },
+    "64119": {
+      "UIjumpvalue": 16,
+      "description": "使用尤妲娅完成2次剧情关卡",
+      "descriptionTextID": 1001428,
+      "endevent": 4089,
+      "id": 64119,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4089,1"
+      ],
+      "targettype": 2
+    },
+    "64120": {
+      "UIjumpvalue": 16,
+      "description": "使用尤妲娅完成3次剧情关卡",
+      "descriptionTextID": 1001429,
+      "endevent": 4090,
+      "id": 64120,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4090,1"
+      ],
+      "targettype": 2
+    },
+    "64121": {
+      "UIjumpvalue": 16,
+      "description": "使用阿维尔完成2次剧情关卡",
+      "descriptionTextID": 1001430,
+      "endevent": 4091,
+      "id": 64121,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4091,1"
+      ],
+      "targettype": 2
+    },
+    "64122": {
+      "UIjumpvalue": 16,
+      "description": "使用阿维尔完成3次剧情关卡",
+      "descriptionTextID": 1001431,
+      "endevent": 4092,
+      "id": 64122,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4092,1"
+      ],
+      "targettype": 2
+    },
+    "64123": {
+      "UIjumpvalue": 16,
+      "description": "使用菲完成2次剧情关卡",
+      "descriptionTextID": 1001432,
+      "endevent": 4093,
+      "id": 64123,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4093,1"
+      ],
+      "targettype": 2
+    },
+    "64124": {
+      "UIjumpvalue": 16,
+      "description": "使用菲完成3次剧情关卡",
+      "descriptionTextID": 1001433,
+      "endevent": 4094,
+      "id": 64124,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4094,1"
+      ],
+      "targettype": 2
+    },
+    "64125": {
+      "UIjumpvalue": 16,
+      "description": "使用莫尔提茉完成2次剧情关卡",
+      "descriptionTextID": 1001434,
+      "endevent": 4095,
+      "id": 64125,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4095,1"
+      ],
+      "targettype": 2
+    },
+    "64126": {
+      "UIjumpvalue": 16,
+      "description": "使用莫尔提茉完成3次剧情关卡",
+      "descriptionTextID": 1001435,
+      "endevent": 4096,
+      "id": 64126,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "人偶出战",
+      "missionnameTextID": 1001397,
+      "missiontype": 5,
+      "progresspath": [
+        "4096,1"
+      ],
+      "targettype": 2
+    },
+    "64127": {
+      "UIjumpvalue": 8,
+      "description": "消耗50000玛娜",
+      "descriptionTextID": 1001442,
+      "endevent": 5001,
+      "id": 64127,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "消耗玛那",
+      "missionnameTextID": 1001436,
+      "missiontype": 5,
+      "progresspath": [
+        "5001,1"
+      ],
+      "targettype": 2
+    },
+    "64128": {
+      "UIjumpvalue": 8,
+      "description": "消耗100000玛娜",
+      "descriptionTextID": 1001443,
+      "endevent": 5002,
+      "id": 64128,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "消耗玛那",
+      "missionnameTextID": 1001436,
+      "missiontype": 5,
+      "progresspath": [
+        "5002,1"
+      ],
+      "targettype": 2
+    },
+    "64129": {
+      "UIjumpvalue": 8,
+      "description": "消耗1000000玛娜",
+      "descriptionTextID": 1001444,
+      "endevent": 5003,
+      "id": 64129,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "消耗玛那",
+      "missionnameTextID": 1001436,
+      "missiontype": 5,
+      "progresspath": [
+        "5003,1"
+      ],
+      "targettype": 2
+    },
+    "64130": {
+      "UIjumpvalue": 19,
+      "description": "消耗50友情点",
+      "descriptionTextID": 1001445,
+      "endevent": 5004,
+      "id": 64130,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 9,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "友情馈赠",
+      "missionnameTextID": 1001437,
+      "missiontype": 5,
+      "progresspath": [
+        "5004,1"
+      ],
+      "targettype": 2
+    },
+    "64131": {
+      "UIjumpvalue": 19,
+      "description": "消耗100友情点",
+      "descriptionTextID": 1001446,
+      "endevent": 5005,
+      "id": 64131,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 9,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "友情馈赠",
+      "missionnameTextID": 1001437,
+      "missiontype": 5,
+      "progresspath": [
+        "5005,1"
+      ],
+      "targettype": 2
+    },
+    "64132": {
+      "UIjumpvalue": 19,
+      "description": "消耗150友情点",
+      "descriptionTextID": 1001447,
+      "endevent": 5006,
+      "id": 64132,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 9,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "友情馈赠",
+      "missionnameTextID": 1001437,
+      "missiontype": 5,
+      "progresspath": [
+        "5006,1"
+      ],
+      "targettype": 2
+    },
+    "64133": {
+      "UIjumpvalue": 19,
+      "description": "消耗30公会币",
+      "descriptionTextID": 1001448,
+      "endevent": 5007,
+      "id": 64133,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 24,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "公会收益",
+      "missionnameTextID": 1001438,
+      "missiontype": 5,
+      "progresspath": [
+        "5007,1"
+      ],
+      "targettype": 2
+    },
+    "64134": {
+      "UIjumpvalue": 19,
+      "description": "消耗60公会币",
+      "descriptionTextID": 1001449,
+      "endevent": 5008,
+      "id": 64134,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 24,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "公会收益",
+      "missionnameTextID": 1001438,
+      "missiontype": 5,
+      "progresspath": [
+        "5008,1"
+      ],
+      "targettype": 2
+    },
+    "64135": {
+      "UIjumpvalue": 19,
+      "description": "消耗100公会币",
+      "descriptionTextID": 1001450,
+      "endevent": 5009,
+      "id": 64135,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 24,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "公会收益",
+      "missionnameTextID": 1001438,
+      "missiontype": 5,
+      "progresspath": [
+        "5009,1"
+      ],
+      "targettype": 2
+    },
+    "64136": {
+      "UIjumpvalue": 5,
+      "description": "消耗40灵魂",
+      "descriptionTextID": 1001451,
+      "endevent": 5010,
+      "id": 64136,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "消耗灵魂",
+      "missionnameTextID": 1001439,
+      "missiontype": 5,
+      "progresspath": [
+        "5010,1"
+      ],
+      "targettype": 2
+    },
+    "64137": {
+      "UIjumpvalue": 5,
+      "description": "消耗100灵魂",
+      "descriptionTextID": 1001452,
+      "endevent": 5011,
+      "id": 64137,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "消耗灵魂",
+      "missionnameTextID": 1001439,
+      "missiontype": 5,
+      "progresspath": [
+        "5011,1"
+      ],
+      "targettype": 2
+    },
+    "64138": {
+      "UIjumpvalue": 5,
+      "description": "消耗200灵魂",
+      "descriptionTextID": 1001453,
+      "endevent": 5012,
+      "id": 64138,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "消耗灵魂",
+      "missionnameTextID": 1001439,
+      "missiontype": 5,
+      "progresspath": [
+        "5012,1"
+      ],
+      "targettype": 2
+    },
+    "64139": {
+      "UIjumpvalue": 22,
+      "description": "时空裂隙胜利2次",
+      "descriptionTextID": 1001454,
+      "endevent": 5013,
+      "id": 64139,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "时空裂隙",
+      "missionnameTextID": 1001440,
+      "missiontype": 5,
+      "progresspath": [
+        "5013,1"
+      ],
+      "targettype": 2
+    },
+    "64140": {
+      "UIjumpvalue": 22,
+      "description": "时空裂隙胜利4次",
+      "descriptionTextID": 1001455,
+      "endevent": 5014,
+      "id": 64140,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "时空裂隙",
+      "missionnameTextID": 1001440,
+      "missiontype": 5,
+      "progresspath": [
+        "5014,1"
+      ],
+      "targettype": 2
+    },
+    "64141": {
+      "UIjumpvalue": 22,
+      "description": "时空裂隙胜利6次",
+      "descriptionTextID": 1001456,
+      "endevent": 5015,
+      "id": 64141,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "时空裂隙",
+      "missionnameTextID": 1001440,
+      "missiontype": 5,
+      "progresspath": [
+        "5015,1"
+      ],
+      "targettype": 2
+    },
+    "64142": {
+      "UIjumpvalue": 20,
+      "description": "异界之镜探索2次",
+      "descriptionTextID": 1001457,
+      "endevent": 5016,
+      "id": 64142,
+      "itemid": 35017,
+      "itemnum": 10,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "异界之镜",
+      "missionnameTextID": 1001441,
+      "missiontype": 5,
+      "progresspath": [
+        "5016,1"
+      ],
+      "targettype": 2
+    },
+    "64143": {
+      "UIjumpvalue": 20,
+      "description": "异界之镜探索4次",
+      "descriptionTextID": 1001458,
+      "endevent": 5017,
+      "id": 64143,
+      "itemid": 35017,
+      "itemnum": 15,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "异界之镜",
+      "missionnameTextID": 1001441,
+      "missiontype": 5,
+      "progresspath": [
+        "5017,1"
+      ],
+      "targettype": 2
+    },
+    "64144": {
+      "UIjumpvalue": 20,
+      "description": "异界之镜探索6次",
+      "descriptionTextID": 1001459,
+      "endevent": 5018,
+      "id": 64144,
+      "itemid": 35017,
+      "itemnum": 20,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionname": "异界之镜",
+      "missionnameTextID": 1001441,
+      "missiontype": 5,
+      "progresspath": [
+        "5018,1"
+      ],
+      "targettype": 2
+    }
+  }
+}

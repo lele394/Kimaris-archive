@@ -1,0 +1,336 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "Data": [
+    {
+      "bonusPoints": 1000,
+      "buffid": "21284",
+      "entrygroup": 1,
+      "entrytype": 1,
+      "id": 1,
+      "textID": 1900985,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21285",
+      "entrygroup": 1,
+      "entrytype": 1,
+      "id": 2,
+      "textID": 1900986,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21286",
+      "entrygroup": 1,
+      "entrytype": 1,
+      "id": 3,
+      "textID": 1900987,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21287",
+      "entrygroup": 2,
+      "entrytype": 2,
+      "id": 4,
+      "textID": 1900988,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21288",
+      "entrygroup": 2,
+      "entrytype": 2,
+      "id": 5,
+      "textID": 1900989,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21289",
+      "entrygroup": 2,
+      "entrytype": 2,
+      "id": 6,
+      "textID": 1900990,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21290",
+      "entrygroup": 2,
+      "entrytype": 5,
+      "id": 7,
+      "textID": 1900991,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21291",
+      "entrygroup": 2,
+      "entrytype": 6,
+      "id": 8,
+      "textID": 1900992,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21292",
+      "entrygroup": 2,
+      "entrytype": 7,
+      "id": 9,
+      "textID": 1900993,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21293",
+      "entrygroup": 2,
+      "entrytype": 8,
+      "id": 10,
+      "textID": 1900994,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21294",
+      "entrygroup": 2,
+      "entrytype": 9,
+      "id": 11,
+      "textID": 1900995,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21295",
+      "entrygroup": 2,
+      "entrytype": 10,
+      "id": 12,
+      "textID": 1900996,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21296",
+      "entrygroup": 2,
+      "entrytype": 11,
+      "id": 13,
+      "textID": 1900997,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21297",
+      "entrygroup": 2,
+      "entrytype": 12,
+      "id": 14,
+      "textID": 1900998,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21298",
+      "entrygroup": 2,
+      "entrytype": 13,
+      "id": 15,
+      "textID": 1900999,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21299",
+      "entrygroup": 2,
+      "entrytype": 14,
+      "id": 16,
+      "textID": 1901000,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21300",
+      "entrygroup": 2,
+      "entrytype": 15,
+      "id": 17,
+      "textID": 1901001,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21301",
+      "entrygroup": 2,
+      "entrytype": 16,
+      "id": 18,
+      "textID": 1901002,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21333",
+      "entrygroup": 2,
+      "entrytype": 17,
+      "id": 19,
+      "textID": 1901010,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21334",
+      "entrygroup": 2,
+      "entrytype": 17,
+      "id": 20,
+      "textID": 1901011,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21335",
+      "entrygroup": 2,
+      "entrytype": 17,
+      "id": 21,
+      "textID": 1901012,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21336",
+      "entrygroup": 2,
+      "entrytype": 18,
+      "id": 22,
+      "textID": 1901013,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21337",
+      "entrygroup": 2,
+      "entrytype": 18,
+      "id": 23,
+      "textID": 1901014,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21338",
+      "entrygroup": 2,
+      "entrytype": 18,
+      "id": 24,
+      "textID": 1901015,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21354",
+      "entrygroup": 2,
+      "entrytype": 19,
+      "id": 25,
+      "textID": 1901045,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21355",
+      "entrygroup": 2,
+      "entrytype": 19,
+      "id": 26,
+      "textID": 1901046,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21356",
+      "entrygroup": 2,
+      "entrytype": 19,
+      "id": 27,
+      "textID": 1901047,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21386",
+      "entrygroup": 2,
+      "entrytype": 20,
+      "id": 28,
+      "textID": 1901190,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21387",
+      "entrygroup": 2,
+      "entrytype": 21,
+      "id": 29,
+      "textID": 1901191,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21388",
+      "entrygroup": 2,
+      "entrytype": 22,
+      "id": 30,
+      "textID": 1901192,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 100,
+      "buffid": "21389",
+      "entrygroup": 2,
+      "entrytype": 23,
+      "id": 31,
+      "textID": 1901193,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 300,
+      "buffid": "21390",
+      "entrygroup": 2,
+      "entrytype": 24,
+      "id": 32,
+      "textID": 1901194,
+      "vocaid": 0
+    },
+    {
+      "bonusPoints": 500,
+      "buffid": "21391",
+      "entrygroup": 2,
+      "entrytype": 25,
+      "id": 33,
+      "textID": 1901195,
+      "vocaid": 0
+    }
+  ]
+}

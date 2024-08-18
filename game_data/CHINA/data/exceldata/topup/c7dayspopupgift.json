@@ -1,0 +1,133 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "Data": [
+    {
+      "activityID": 52001,
+      "days": 1,
+      "gear": 98,
+      "id": 1,
+      "items": [
+        40037,
+        35026
+      ],
+      "nums": [
+        1,
+        300
+      ],
+      "roleID": 0,
+      "skinID": 0
+    },
+    {
+      "activityID": 52001,
+      "days": 2,
+      "gear": 98,
+      "id": 2,
+      "items": [
+        75009,
+        74000
+      ],
+      "nums": [
+        10,
+        60
+      ],
+      "roleID": 0,
+      "skinID": 0
+    },
+    {
+      "activityID": 52001,
+      "days": 3,
+      "gear": 98,
+      "id": 3,
+      "items": [
+        75010,
+        74001
+      ],
+      "nums": [
+        15,
+        60
+      ],
+      "roleID": 0,
+      "skinID": 0
+    },
+    {
+      "activityID": 52001,
+      "days": 4,
+      "gear": 98,
+      "id": 4,
+      "items": [
+        79001,
+        79002
+      ],
+      "nums": [
+        200,
+        20
+      ],
+      "roleID": 0,
+      "skinID": 0
+    },
+    {
+      "activityID": 52001,
+      "days": 5,
+      "gear": 98,
+      "id": 5,
+      "items": [
+        75011,
+        74002,
+        75019
+      ],
+      "nums": [
+        60,
+        60,
+        30
+      ],
+      "roleID": 0,
+      "skinID": 0
+    },
+    {
+      "activityID": 52001,
+      "days": 6,
+      "gear": 98,
+      "id": 6,
+      "items": [
+        31380,
+        31386,
+        31389,
+        31383
+      ],
+      "nums": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "roleID": 0,
+      "skinID": 0
+    },
+    {
+      "activityID": 52001,
+      "days": 7,
+      "gear": 98,
+      "id": 7,
+      "items": [
+        90055,
+        70003,
+        79004
+      ],
+      "nums": [
+        1,
+        2,
+        2
+      ],
+      "roleID": 0,
+      "skinID": 903811
+    }
+  ]
+}

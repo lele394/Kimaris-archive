@@ -1,0 +1,96 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "Data": [
+    {
+      "activityPoint": 0,
+      "id": 1,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 1,
+      "unlockPoint": 0
+    },
+    {
+      "activityPoint": 100,
+      "id": 2,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 2,
+      "unlockPoint": 0
+    },
+    {
+      "activityPoint": 500,
+      "id": 3,
+      "itemID": 40001,
+      "itemNum": 1,
+      "rewardType": 3,
+      "unlockLevel": 3,
+      "unlockPoint": 0
+    },
+    {
+      "activityPoint": 1000,
+      "id": 4,
+      "itemID": 90020,
+      "itemNum": 1,
+      "rewardType": 2,
+      "unlockLevel": 4,
+      "unlockPoint": 0
+    },
+    {
+      "activityPoint": 2000,
+      "id": 5,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 5,
+      "unlockPoint": 0
+    },
+    {
+      "activityPoint": 3000,
+      "id": 6,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 6,
+      "unlockPoint": 2000
+    },
+    {
+      "activityPoint": 5000,
+      "id": 7,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 7,
+      "unlockPoint": 2000
+    },
+    {
+      "activityPoint": 7000,
+      "id": 8,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 8,
+      "unlockPoint": 2000
+    },
+    {
+      "activityPoint": 10000,
+      "id": 9,
+      "itemID": 30076,
+      "itemNum": 1,
+      "rewardType": 1,
+      "unlockLevel": 9,
+      "unlockPoint": 2000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "AllIds": [
+    1
+  ],
+  "Data": [
+    {
+      "bosspos": "50,-210",
+      "bossscale": "0.7",
+      "bossshapeid": 20171,
+      "id": 1,
+      "name": "挑战模式",
+      "nameTextID": 702296,
+      "rankingmarktxt": 702296,
+      "tapimageid": 15338
+    }
+  ]
+}

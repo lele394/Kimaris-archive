@@ -1,0 +1,23 @@
+{
+  "Attack": {
+    "endEventFrames": 45
+  },
+  "AttackStagnation": {
+    "endEventFrames": 45
+  },
+  "Attacked": {
+    "endEventFrames": 6
+  },
+  "DeadDisappear": {
+    "endEventFrames": 240
+  },
+  "Magic": {
+    "endEventFrames": 46
+  },
+  "Shock": {
+    "endEventFrames": 151
+  },
+  "Stop": {
+    "endEventFrames": 450
+  }
+}

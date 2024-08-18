@@ -1,0 +1,29 @@
+{
+  "Attack": {
+    "endEventFrames": 37
+  },
+  "BattleIdle": {
+    "endEventFrames": 32
+  },
+  "DeadDisappear": {
+    "endEventFrames": 50
+  },
+  "LogicBattleEnd": {
+    "endEventFrames": 11
+  },
+  "Magic": {
+    "endEventFrames": 50
+  },
+  "Magic2": {
+    "endEventFrames": 31
+  },
+  "Magic3": {
+    "endEventFrames": 124
+  },
+  "Move": {
+    "endEventFrames": 1
+  },
+  "Weak": {
+    "endEventFrames": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "AllIds": [
+    1,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    70,
+    80,
+    90,
+    100
+  ],
+  "Data": {
+    "1": {
+      "damageDeviation": 0,
+      "id": 1,
+      "maxLv": 9
+    },
+    "10": {
+      "damageDeviation": 1,
+      "id": 10,
+      "maxLv": 19
+    },
+    "100": {
+      "damageDeviation": 10,
+      "id": 100,
+      "maxLv": 109
+    },
+    "20": {
+      "damageDeviation": 2,
+      "id": 20,
+      "maxLv": 29
+    },
+    "30": {
+      "damageDeviation": 3,
+      "id": 30,
+      "maxLv": 39
+    },
+    "40": {
+      "damageDeviation": 4,
+      "id": 40,
+      "maxLv": 49
+    },
+    "50": {
+      "damageDeviation": 5,
+      "id": 50,
+      "maxLv": 59
+    },
+    "60": {
+      "damageDeviation": 6,
+      "id": 60,
+      "maxLv": 69
+    },
+    "70": {
+      "damageDeviation": 7,
+      "id": 70,
+      "maxLv": 79
+    },
+    "80": {
+      "damageDeviation": 8,
+      "id": 80,
+      "maxLv": 89
+    },
+    "90": {
+      "damageDeviation": 9,
+      "id": 90,
+      "maxLv": 99
+    }
+  }
+}

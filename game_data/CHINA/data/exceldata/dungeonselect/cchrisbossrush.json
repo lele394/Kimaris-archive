@@ -1,0 +1,30 @@
+{
+  "AllIds": [
+    180011201
+  ],
+  "Data": {
+    "180011201": {
+      "bossbattleID": 6405,
+      "bosspos": "0,-222",
+      "bossscale": "1.2",
+      "bossshapeid": 20185,
+      "id": 180011201,
+      "image": 13891,
+      "maxStage": 17,
+      "name": "雪狼 芬里尔",
+      "nameTextID": 1901378,
+      "rechargeid": 12021,
+      "sceneID": 20043,
+      "sortID": 1,
+      "stageid": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tapimageid": 13891
+    }
+  }
+}

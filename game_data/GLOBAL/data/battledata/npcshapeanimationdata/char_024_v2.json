@@ -1,0 +1,65 @@
+{
+  "Attack": {
+    "endEventFrames": 25
+  },
+  "AttackEnd": {
+    "endEventFrames": 3
+  },
+  "AttackLoop": {
+    "endEventFrames": 5
+  },
+  "AttackStart": {
+    "endEventFrames": 8
+  },
+  "Attacked_Critical": {
+    "endEventFrames": 12
+  },
+  "BattleIdle": {
+    "endEventFrames": 20
+  },
+  "Freeze": {
+    "endEventFrames": 1
+  },
+  "Hit": {
+    "endEventFrames": 8
+  },
+  "Magic": {
+    "endEventFrames": 49
+  },
+  "Magic2End": {
+    "endEventFrames": 20
+  },
+  "Magic2Loop": {
+    "endEventFrames": 16
+  },
+  "Magic2Start": {
+    "endEventFrames": 8
+  },
+  "MagicEnd": {
+    "endEventFrames": 5
+  },
+  "MagicLoop": {
+    "endEventFrames": 16
+  },
+  "MagicStart": {
+    "endEventFrames": 8
+  },
+  "Move": {
+    "endEventFrames": 1
+  },
+  "MoveEnd": {
+    "endEventFrames": 1
+  },
+  "MoveLoop": {
+    "endEventFrames": 1
+  },
+  "Special": {
+    "endEventFrames": 80
+  },
+  "TimeStop": {
+    "endEventFrames": 1
+  },
+  "Victory": {
+    "endEventFrames": 30
+  }
+}

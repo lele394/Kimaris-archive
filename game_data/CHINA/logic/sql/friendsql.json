@@ -1,0 +1,10 @@
+{
+  "CreateTable": "CREATE TABLE IF NOT EXISTS #(chatid INTEGER PRIMARY KEY AUTOINCREMENT,sender BIGINT,chatmsg TEXT,time BIGINT UNIQUE,mark BYTEA,hyperlinks TEXT)",
+  "GetMsg": "SELECT * FROM # WHERE chatid >= :beginId AND chatid <= :endId",
+  "GetMsgNum": "SELECT COUNT(1) FROM #",
+  "GetMsgTest": "SELECT * FROM #",
+  "GetNotReadNum": "SELECT SUM(mark) FROM #",
+  "RemoveTable": "DROP TABLE #",
+  "StoreMsg": "INSERT OR IGNORE INTO # VALUES (NULL,:sender, :chatmsg, :time, :mark, :hyperlinks)",
+  "UpdateReadMark": "UPDATE # SET mark = 0"
+}

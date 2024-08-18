@@ -1,0 +1,42 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name": "Floor",
+      "place": 0
+    },
+    {
+      "id": 2,
+      "name": "FloorObj_Low",
+      "place": 0
+    },
+    {
+      "id": 3,
+      "name": "FloorObj_High",
+      "place": 0
+    },
+    {
+      "id": 4,
+      "name": "Wall",
+      "place": 1
+    },
+    {
+      "id": 5,
+      "name": "WallObj_Back",
+      "place": 1
+    },
+    {
+      "id": 6,
+      "name": "WallObj_Front",
+      "place": 1
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Data": [
+    {
+      "BossOpenTime": "2022-12-20 04:00:00",
+      "battleCost": 1,
+      "battleId": 10133,
+      "bossModel": 20186,
+      "bossName": 1305286,
+      "bossSize": "0.5",
+      "bossUnlockWord": 701679,
+      "bossWeakIcon": 12624,
+      "bossWeakWord": 701685,
+      "countDown": 60,
+      "element": 1,
+      "id": 1,
+      "ifBigBoss": 0,
+      "monsterbookid": [
+        10033
+      ],
+      "showkillBossRewardId": [
+        35002,
+        35026,
+        31383,
+        31279
+      ],
+      "showkillBossRewardNum": [
+        1000000,
+        200,
+        50,
+        2
+      ],
+      "suggestlevel": 50,
+      "teamBuffTextID": 701734,
+      "teamBuffValue1": 50,
+      "totalPoint": "532000000"
+    },
+    {
+      "BossOpenTime": "2023-01-16 04:00:00",
+      "battleCost": 1,
+      "battleId": 10134,
+      "bossModel": 20187,
+      "bossName": 1305287,
+      "bossSize": "0.5",
+      "bossUnlockWord": 701679,
+      "bossWeakIcon": 12625,
+      "bossWeakWord": 701686,
+      "countDown": 60,
+      "element": 2,
+      "id": 2,
+      "ifBigBoss": 0,
+      "monsterbookid": [
+        10034
+      ],
+      "showkillBossRewardId": [
+        35002,
+        70003,
+        31389,
+        31279
+      ],
+      "showkillBossRewardNum": [
+        1000000,
+        1,
+        50,
+        2
+      ],
+      "suggestlevel": 50,
+      "teamBuffTextID": 701735,
+      "teamBuffValue1": 50,
+      "totalPoint": "592000000"
+    },
+    {
+      "BossOpenTime": "2023-01-20 04:00:00",
+      "battleCost": 1,
+      "battleId": 10135,
+      "bossModel": 20188,
+      "bossName": 1305285,
+      "bossSize": "0.5",
+      "bossUnlockWord": 701679,
+      "bossWeakIcon": 12623,
+      "bossWeakWord": 701687,
+      "countDown": 60,
+      "element": 3,
+      "id": 3,
+      "ifBigBoss": 0,
+      "monsterbookid": [
+        10035
+      ],
+      "showkillBossRewardId": [
+        35002,
+        79004,
+        31386,
+        31279
+      ],
+      "showkillBossRewardNum": [
+        1000000,
+        2,
+        50,
+        2
+      ],
+      "suggestlevel": 50,
+      "teamBuffTextID": 701736,
+      "teamBuffValue1": 50,
+      "totalPoint": "473000000"
+    },
+    {
+      "BossOpenTime": "2023-01-23 00:00:00",
+      "battleCost": 1,
+      "battleId": 10136,
+      "bossModel": 20189,
+      "bossName": 1305288,
+      "bossSize": "0.26",
+      "bossUnlockWord": 701678,
+      "bossWeakIcon": -1,
+      "bossWeakWord": -1,
+      "countDown": 60,
+      "element": -1,
+      "id": 4,
+      "ifBigBoss": 1,
+      "monsterbookid": [
+        10036
+      ],
+      "showkillBossRewardId": [
+        35002,
+        30077,
+        31380
+      ],
+      "showkillBossRewardNum": [
+        3000000,
+        1,
+        50
+      ],
+      "suggestlevel": 100,
+      "teamBuffTextID": -1,
+      "teamBuffValue1": -1,
+      "totalPoint": "710000000"
+    }
+  ]
+}

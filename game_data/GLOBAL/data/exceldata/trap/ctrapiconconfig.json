@@ -1,0 +1,118 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "Data": [
+    {
+      "display": 1,
+      "id": 1,
+      "imageId": 7,
+      "switchName": "Stick"
+    },
+    {
+      "display": 1,
+      "id": 2,
+      "imageId": 7,
+      "switchName": "FixedPos"
+    },
+    {
+      "display": 1,
+      "id": 3,
+      "imageId": 7,
+      "switchName": "LightSource"
+    },
+    {
+      "display": 1,
+      "id": 4,
+      "imageId": 7,
+      "switchName": "Mirror"
+    },
+    {
+      "display": 0,
+      "id": 5,
+      "imageId": 7,
+      "switchName": "JailBreaker"
+    },
+    {
+      "display": 1,
+      "id": 6,
+      "imageId": 7,
+      "switchName": "DualStick"
+    },
+    {
+      "display": 1,
+      "id": 7,
+      "imageId": 7,
+      "switchName": "Skate"
+    },
+    {
+      "display": 0,
+      "id": 8,
+      "imageId": 7,
+      "switchName": "Ice"
+    },
+    {
+      "display": 1,
+      "id": 9,
+      "imageId": 7,
+      "switchName": "UnorderedCollection"
+    },
+    {
+      "display": 1,
+      "id": 10,
+      "imageId": 7,
+      "switchName": "OrderedCollection"
+    },
+    {
+      "display": 0,
+      "id": 11,
+      "imageId": 7,
+      "switchName": "Collector"
+    },
+    {
+      "display": 1,
+      "id": 12,
+      "imageId": 7,
+      "switchName": "OneWayStick"
+    },
+    {
+      "display": 0,
+      "id": 13,
+      "imageId": 7,
+      "switchName": "Catapult"
+    },
+    {
+      "display": 0,
+      "id": 14,
+      "imageId": 7,
+      "switchName": "ImpactPoint"
+    },
+    {
+      "display": 0,
+      "id": 15,
+      "imageId": 7,
+      "switchName": "Wayout"
+    },
+    {
+      "display": 0,
+      "id": 16,
+      "imageId": 7,
+      "switchName": "Flipboard"
+    }
+  ]
+}

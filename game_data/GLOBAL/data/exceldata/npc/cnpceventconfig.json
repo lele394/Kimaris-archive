@@ -1,0 +1,1078 @@
+{
+  "AllIds": [
+    900001,
+    900002,
+    900003,
+    900004,
+    900005,
+    900006,
+    900007,
+    900008,
+    900009,
+    900010,
+    900011,
+    900012,
+    900013,
+    900014,
+    900015,
+    900016,
+    900017,
+    900018,
+    900019,
+    900020,
+    900021,
+    900022,
+    900023,
+    900024,
+    900025,
+    900026,
+    900027,
+    900028,
+    900029,
+    900030,
+    900031,
+    900032,
+    900033,
+    900034,
+    900035,
+    900036,
+    900037,
+    900038,
+    900039,
+    900040,
+    900041,
+    900042,
+    900043,
+    900044,
+    900045,
+    900046,
+    900047,
+    900048,
+    900049,
+    900050,
+    900051,
+    900052,
+    900053,
+    900054,
+    900055,
+    900056,
+    900057,
+    900058,
+    900059,
+    900060,
+    900061,
+    900062,
+    900063,
+    900064,
+    900065,
+    900066,
+    900067,
+    900068,
+    900069,
+    900070,
+    900071,
+    900072,
+    900073,
+    900074,
+    900075,
+    900076,
+    900077,
+    900078,
+    900079,
+    900080,
+    900081,
+    900082,
+    900083,
+    900084,
+    900085,
+    900086,
+    900087,
+    900088,
+    900089,
+    900090,
+    900091,
+    900092,
+    900093,
+    900094,
+    900095,
+    900096,
+    900097,
+    900098,
+    900099,
+    900100,
+    900101,
+    900102,
+    900103,
+    900104,
+    900105,
+    900106,
+    900107,
+    900108,
+    900109,
+    900110,
+    900111,
+    900112,
+    900113,
+    900114,
+    900115,
+    900116,
+    900117,
+    900118,
+    900119,
+    900120,
+    900121,
+    900122,
+    900123,
+    900124,
+    900125,
+    900126,
+    900127,
+    900128,
+    900129,
+    900130,
+    900131,
+    900132,
+    900133,
+    900134
+  ],
+  "Data": {
+    "900001": {
+      "condition": 1,
+      "effect": 0,
+      "id": 900001,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900002": {
+      "condition": 2,
+      "effect": 0,
+      "id": 900002,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900003": {
+      "condition": 3,
+      "effect": 0,
+      "id": 900003,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900004": {
+      "condition": 4,
+      "effect": 0,
+      "id": 900004,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900005": {
+      "condition": 5,
+      "effect": 0,
+      "id": 900005,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900006": {
+      "condition": 6,
+      "effect": 0,
+      "id": 900006,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900007": {
+      "condition": 7,
+      "effect": 0,
+      "id": 900007,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900008": {
+      "condition": 8,
+      "effect": 0,
+      "id": 900008,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900009": {
+      "condition": 9,
+      "effect": 0,
+      "id": 900009,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900010": {
+      "condition": 10,
+      "effect": 0,
+      "id": 900010,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900011": {
+      "condition": 11,
+      "effect": 0,
+      "id": 900011,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900012": {
+      "condition": 12,
+      "effect": 0,
+      "id": 900012,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900013": {
+      "condition": 13,
+      "effect": 0,
+      "id": 900013,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900014": {
+      "condition": 14,
+      "effect": 0,
+      "id": 900014,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900015": {
+      "condition": 16,
+      "effect": 0,
+      "id": 900015,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900016": {
+      "condition": 17,
+      "effect": 0,
+      "id": 900016,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900017": {
+      "condition": 15,
+      "effect": 0,
+      "id": 900017,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900018": {
+      "condition": 18,
+      "effect": 0,
+      "id": 900018,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900019": {
+      "condition": 19,
+      "effect": 0,
+      "id": 900019,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900020": {
+      "condition": 20,
+      "effect": 0,
+      "id": 900020,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900021": {
+      "condition": 21,
+      "effect": 0,
+      "id": 900021,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900022": {
+      "condition": 22,
+      "effect": 0,
+      "id": 900022,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900023": {
+      "condition": 23,
+      "effect": 0,
+      "id": 900023,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900024": {
+      "condition": 24,
+      "effect": 0,
+      "id": 900024,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900025": {
+      "condition": 25,
+      "effect": 0,
+      "id": 900025,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900026": {
+      "condition": 26,
+      "effect": 0,
+      "id": 900026,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900027": {
+      "condition": 27,
+      "effect": 0,
+      "id": 900027,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900028": {
+      "condition": 28,
+      "effect": 0,
+      "id": 900028,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900029": {
+      "condition": 29,
+      "effect": 0,
+      "id": 900029,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900030": {
+      "condition": 30,
+      "effect": 0,
+      "id": 900030,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900031": {
+      "condition": 31,
+      "effect": 0,
+      "id": 900031,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900032": {
+      "condition": 32,
+      "effect": 0,
+      "id": 900032,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900033": {
+      "condition": 33,
+      "effect": 0,
+      "id": 900033,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900034": {
+      "condition": 34,
+      "effect": 0,
+      "id": 900034,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900035": {
+      "condition": 35,
+      "effect": 0,
+      "id": 900035,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900036": {
+      "condition": 36,
+      "effect": 0,
+      "id": 900036,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900037": {
+      "condition": 37,
+      "effect": 0,
+      "id": 900037,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900038": {
+      "condition": 38,
+      "effect": 0,
+      "id": 900038,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900039": {
+      "condition": 39,
+      "effect": 0,
+      "id": 900039,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900040": {
+      "condition": 40,
+      "effect": 0,
+      "id": 900040,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900041": {
+      "condition": 41,
+      "effect": 0,
+      "id": 900041,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900042": {
+      "condition": 42,
+      "effect": 0,
+      "id": 900042,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900043": {
+      "condition": 43,
+      "effect": 0,
+      "id": 900043,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900044": {
+      "condition": 44,
+      "effect": 0,
+      "id": 900044,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900045": {
+      "condition": 45,
+      "effect": 0,
+      "id": 900045,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900046": {
+      "condition": 46,
+      "effect": 0,
+      "id": 900046,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900047": {
+      "condition": 47,
+      "effect": 0,
+      "id": 900047,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900048": {
+      "condition": 48,
+      "effect": 0,
+      "id": 900048,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900049": {
+      "condition": 49,
+      "effect": 0,
+      "id": 900049,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900050": {
+      "condition": 50,
+      "effect": 0,
+      "id": 900050,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900051": {
+      "condition": 51,
+      "effect": 0,
+      "id": 900051,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900052": {
+      "condition": 52,
+      "effect": 0,
+      "id": 900052,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900053": {
+      "condition": 53,
+      "effect": 0,
+      "id": 900053,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900054": {
+      "condition": 54,
+      "effect": 0,
+      "id": 900054,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900055": {
+      "condition": 55,
+      "effect": 0,
+      "id": 900055,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900056": {
+      "condition": 56,
+      "effect": 0,
+      "id": 900056,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900057": {
+      "condition": 57,
+      "effect": 0,
+      "id": 900057,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900058": {
+      "condition": 58,
+      "effect": 0,
+      "id": 900058,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900059": {
+      "condition": 59,
+      "effect": 0,
+      "id": 900059,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900060": {
+      "condition": 60,
+      "effect": 0,
+      "id": 900060,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900061": {
+      "condition": 61,
+      "effect": 0,
+      "id": 900061,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900062": {
+      "condition": 62,
+      "effect": 0,
+      "id": 900062,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900063": {
+      "condition": 63,
+      "effect": 0,
+      "id": 900063,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900064": {
+      "condition": 64,
+      "effect": 0,
+      "id": 900064,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900065": {
+      "condition": 63,
+      "effect": 0,
+      "id": 900065,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900066": {
+      "condition": 64,
+      "effect": 0,
+      "id": 900066,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900067": {
+      "condition": 63,
+      "effect": 0,
+      "id": 900067,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900068": {
+      "condition": 64,
+      "effect": 0,
+      "id": 900068,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900069": {
+      "condition": 63,
+      "effect": 0,
+      "id": 900069,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900070": {
+      "condition": 64,
+      "effect": 0,
+      "id": 900070,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900071": {
+      "condition": 65,
+      "effect": 0,
+      "id": 900071,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900072": {
+      "condition": 66,
+      "effect": 0,
+      "id": 900072,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900073": {
+      "condition": 67,
+      "effect": 0,
+      "id": 900073,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900074": {
+      "condition": 68,
+      "effect": 0,
+      "id": 900074,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900075": {
+      "condition": 69,
+      "effect": 0,
+      "id": 900075,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900076": {
+      "condition": 70,
+      "effect": 0,
+      "id": 900076,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900077": {
+      "condition": 71,
+      "effect": 0,
+      "id": 900077,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900078": {
+      "condition": 72,
+      "effect": 0,
+      "id": 900078,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900079": {
+      "condition": 73,
+      "effect": 0,
+      "id": 900079,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900080": {
+      "condition": 74,
+      "effect": 0,
+      "id": 900080,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900081": {
+      "condition": 75,
+      "effect": 0,
+      "id": 900081,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900082": {
+      "condition": 76,
+      "effect": 0,
+      "id": 900082,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900083": {
+      "condition": 77,
+      "effect": 0,
+      "id": 900083,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900084": {
+      "condition": 78,
+      "effect": 0,
+      "id": 900084,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900085": {
+      "condition": 79,
+      "effect": 0,
+      "id": 900085,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900086": {
+      "condition": 80,
+      "effect": 0,
+      "id": 900086,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900087": {
+      "condition": 81,
+      "effect": 0,
+      "id": 900087,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900088": {
+      "condition": 82,
+      "effect": 0,
+      "id": 900088,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900089": {
+      "condition": 83,
+      "effect": 0,
+      "id": 900089,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900090": {
+      "condition": 84,
+      "effect": 0,
+      "id": 900090,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900091": {
+      "condition": 83,
+      "effect": 0,
+      "id": 900091,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900092": {
+      "condition": 84,
+      "effect": 0,
+      "id": 900092,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900093": {
+      "condition": 83,
+      "effect": 0,
+      "id": 900093,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900094": {
+      "condition": 84,
+      "effect": 0,
+      "id": 900094,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900095": {
+      "condition": 83,
+      "effect": 0,
+      "id": 900095,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900096": {
+      "condition": 84,
+      "effect": 0,
+      "id": 900096,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900097": {
+      "condition": 85,
+      "effect": 0,
+      "id": 900097,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900098": {
+      "condition": 86,
+      "effect": 0,
+      "id": 900098,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900099": {
+      "condition": 87,
+      "effect": 0,
+      "id": 900099,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900100": {
+      "condition": 88,
+      "effect": 0,
+      "id": 900100,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900101": {
+      "condition": 89,
+      "effect": 0,
+      "id": 900101,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900102": {
+      "condition": 90,
+      "effect": 0,
+      "id": 900102,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900103": {
+      "condition": 91,
+      "effect": 0,
+      "id": 900103,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900104": {
+      "condition": 92,
+      "effect": 0,
+      "id": 900104,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900105": {
+      "condition": 93,
+      "effect": 0,
+      "id": 900105,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900106": {
+      "condition": 94,
+      "effect": 0,
+      "id": 900106,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900107": {
+      "condition": 95,
+      "effect": 0,
+      "id": 900107,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900108": {
+      "condition": 96,
+      "effect": 0,
+      "id": 900108,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900109": {
+      "condition": 97,
+      "effect": 0,
+      "id": 900109,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900110": {
+      "condition": 98,
+      "effect": 0,
+      "id": 900110,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900111": {
+      "condition": 99,
+      "effect": 0,
+      "id": 900111,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900112": {
+      "condition": 100,
+      "effect": 0,
+      "id": 900112,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900113": {
+      "condition": 101,
+      "effect": 0,
+      "id": 900113,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900114": {
+      "condition": 102,
+      "effect": 0,
+      "id": 900114,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900115": {
+      "condition": 101,
+      "effect": 0,
+      "id": 900115,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900116": {
+      "condition": 102,
+      "effect": 0,
+      "id": 900116,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900117": {
+      "condition": 101,
+      "effect": 0,
+      "id": 900117,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900118": {
+      "condition": 102,
+      "effect": 0,
+      "id": 900118,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900119": {
+      "condition": 101,
+      "effect": 0,
+      "id": 900119,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900120": {
+      "condition": 102,
+      "effect": 0,
+      "id": 900120,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900121": {
+      "condition": 103,
+      "effect": 0,
+      "id": 900121,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900122": {
+      "condition": 104,
+      "effect": 0,
+      "id": 900122,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900123": {
+      "condition": 103,
+      "effect": 0,
+      "id": 900123,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900124": {
+      "condition": 104,
+      "effect": 0,
+      "id": 900124,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900125": {
+      "condition": 103,
+      "effect": 0,
+      "id": 900125,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900126": {
+      "condition": 104,
+      "effect": 0,
+      "id": 900126,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900127": {
+      "condition": 103,
+      "effect": 0,
+      "id": 900127,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900128": {
+      "condition": 104,
+      "effect": 0,
+      "id": 900128,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900129": {
+      "condition": 105,
+      "effect": 0,
+      "id": 900129,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900130": {
+      "condition": 106,
+      "effect": 0,
+      "id": 900130,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900131": {
+      "condition": 107,
+      "effect": 0,
+      "id": 900131,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900132": {
+      "condition": 108,
+      "effect": 0,
+      "id": 900132,
+      "isremained": 2,
+      "isrepeat": 0
+    },
+    "900133": {
+      "condition": 109,
+      "effect": 0,
+      "id": 900133,
+      "isremained": 1,
+      "isrepeat": 0
+    },
+    "900134": {
+      "condition": 110,
+      "effect": 0,
+      "id": 900134,
+      "isremained": 2,
+      "isrepeat": 0
+    }
+  }
+}

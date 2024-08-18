@@ -1,0 +1,42 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3
+  ],
+  "Data": [
+    {
+      "fourthgrademinnum": 0,
+      "gradeproportion": [
+        100,
+        0,
+        0,
+        0
+      ],
+      "id": 1,
+      "maxcoursenum": 3
+    },
+    {
+      "fourthgrademinnum": 0,
+      "gradeproportion": [
+        30,
+        70,
+        0,
+        0
+      ],
+      "id": 2,
+      "maxcoursenum": 5
+    },
+    {
+      "fourthgrademinnum": 0,
+      "gradeproportion": [
+        0,
+        40,
+        50,
+        10
+      ],
+      "id": 3,
+      "maxcoursenum": 6
+    }
+  ]
+}

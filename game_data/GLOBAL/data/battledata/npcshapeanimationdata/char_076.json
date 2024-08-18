@@ -1,0 +1,47 @@
+{
+  "Attack": {
+    "endEventFrames": 16
+  },
+  "AttackEnd": {
+    "endEventFrames": 5
+  },
+  "AttackLoop": {
+    "endEventFrames": 2
+  },
+  "AttackStart": {
+    "endEventFrames": 9
+  },
+  "DeadDisappear": {
+    "endEventFrames": 50
+  },
+  "LogicBattleEnd": {
+    "endEventFrames": 11
+  },
+  "Magic": {
+    "endEventFrames": 36
+  },
+  "Magic2": {
+    "endEventFrames": 37
+  },
+  "Magic2End": {
+    "endEventFrames": 20
+  },
+  "Magic2Loop": {
+    "endEventFrames": 16
+  },
+  "Magic2Start": {
+    "endEventFrames": 37
+  },
+  "MagicEnd": {
+    "endEventFrames": 20
+  },
+  "MagicLoop": {
+    "endEventFrames": 3
+  },
+  "MagicStart": {
+    "endEventFrames": 14
+  },
+  "Special": {
+    "endEventFrames": 60
+  }
+}

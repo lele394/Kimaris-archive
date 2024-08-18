@@ -1,0 +1,34 @@
+{
+  "AllIds": [
+    31457,
+    31458,
+    31459,
+    31460
+  ],
+  "Data": {
+    "31457": {
+      "id": 31457,
+      "numLimitations": -1,
+      "physicalLimitations": 240,
+      "relationid": 31461
+    },
+    "31458": {
+      "id": 31458,
+      "numLimitations": -1,
+      "physicalLimitations": 1200,
+      "relationid": 31462
+    },
+    "31459": {
+      "id": 31459,
+      "numLimitations": 1,
+      "physicalLimitations": -1,
+      "relationid": 31463
+    },
+    "31460": {
+      "id": 31460,
+      "numLimitations": 3,
+      "physicalLimitations": -1,
+      "relationid": 31464
+    }
+  }
+}

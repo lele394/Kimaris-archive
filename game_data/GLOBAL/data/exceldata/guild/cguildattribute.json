@@ -1,0 +1,126 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "Data": [
+    {
+      "DemotionExp": 900,
+      "EliteTotal": 6,
+      "GuildLeve": 1,
+      "GuildLeveexp": 1000,
+      "GuildTotal": 50,
+      "Guildkeep": 0,
+      "VicePresidentTotal": 2,
+      "id": 1,
+      "shoplevel": 1
+    },
+    {
+      "DemotionExp": 2700,
+      "EliteTotal": 6,
+      "GuildLeve": 2,
+      "GuildLeveexp": 3000,
+      "GuildTotal": 60,
+      "Guildkeep": 200,
+      "VicePresidentTotal": 2,
+      "id": 2,
+      "shoplevel": 1
+    },
+    {
+      "DemotionExp": 6300,
+      "EliteTotal": 6,
+      "GuildLeve": 3,
+      "GuildLeveexp": 7000,
+      "GuildTotal": 60,
+      "Guildkeep": 300,
+      "VicePresidentTotal": 2,
+      "id": 3,
+      "shoplevel": 2
+    },
+    {
+      "DemotionExp": 9900,
+      "EliteTotal": 8,
+      "GuildLeve": 4,
+      "GuildLeveexp": 11000,
+      "GuildTotal": 60,
+      "Guildkeep": 400,
+      "VicePresidentTotal": 2,
+      "id": 4,
+      "shoplevel": 2
+    },
+    {
+      "DemotionExp": 14400,
+      "EliteTotal": 8,
+      "GuildLeve": 5,
+      "GuildLeveexp": 16000,
+      "GuildTotal": 70,
+      "Guildkeep": 500,
+      "VicePresidentTotal": 2,
+      "id": 5,
+      "shoplevel": 2
+    },
+    {
+      "DemotionExp": 24300,
+      "EliteTotal": 10,
+      "GuildLeve": 6,
+      "GuildLeveexp": 27000,
+      "GuildTotal": 70,
+      "Guildkeep": 600,
+      "VicePresidentTotal": 2,
+      "id": 6,
+      "shoplevel": 2
+    },
+    {
+      "DemotionExp": 32400,
+      "EliteTotal": 10,
+      "GuildLeve": 7,
+      "GuildLeveexp": 36000,
+      "GuildTotal": 70,
+      "Guildkeep": 700,
+      "VicePresidentTotal": 4,
+      "id": 7,
+      "shoplevel": 3
+    },
+    {
+      "DemotionExp": 41400,
+      "EliteTotal": 12,
+      "GuildLeve": 8,
+      "GuildLeveexp": 46000,
+      "GuildTotal": 80,
+      "Guildkeep": 800,
+      "VicePresidentTotal": 4,
+      "id": 8,
+      "shoplevel": 3
+    },
+    {
+      "DemotionExp": 63000,
+      "EliteTotal": 14,
+      "GuildLeve": 9,
+      "GuildLeveexp": 70000,
+      "GuildTotal": 80,
+      "Guildkeep": 1000,
+      "VicePresidentTotal": 4,
+      "id": 9,
+      "shoplevel": 3
+    },
+    {
+      "DemotionExp": 63000,
+      "EliteTotal": 14,
+      "GuildLeve": 10,
+      "GuildLeveexp": 70000,
+      "GuildTotal": 80,
+      "Guildkeep": 1000,
+      "VicePresidentTotal": 6,
+      "id": 10,
+      "shoplevel": 3
+    }
+  ]
+}

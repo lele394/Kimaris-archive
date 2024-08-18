@@ -1,0 +1,7 @@
+{
+  "ExceptTargetInEnemy": "ExceptTargetInEnemy",
+  "ExceptTargetInSelf": "ExceptTargetInSelf",
+  "Self": "Self",
+  "TargetInEnemy": "TargetInEnemy",
+  "TargetInSelf": "TargetInSelf"
+}

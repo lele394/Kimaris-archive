@@ -1,0 +1,2017 @@
+{
+  "AllIds": [
+    10101,
+    10102,
+    10103,
+    10104,
+    10105,
+    10106,
+    20101,
+    20102,
+    20103,
+    20104,
+    20105,
+    20106,
+    20201,
+    20202,
+    20203,
+    20204,
+    20205,
+    20206,
+    20301,
+    20302,
+    20303,
+    20304,
+    20305,
+    20306,
+    30101,
+    30102,
+    30103,
+    30104,
+    30105,
+    30106,
+    30107,
+    30108,
+    40101,
+    40102,
+    40103,
+    40104,
+    40105,
+    40106,
+    40107,
+    40108,
+    40201,
+    40202,
+    40203,
+    40204,
+    40205,
+    40206,
+    40207,
+    40208,
+    40301,
+    40302,
+    40303,
+    40304,
+    40305,
+    40306,
+    40307,
+    40308
+  ],
+  "Data": {
+    "10101": {
+      "describeTextID": 1900236,
+      "dungeonID": 101,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 10101,
+      "imageID": 14472,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        110011
+      ],
+      "mopupTime": 360,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20020,
+      "shapeID": 20093,
+      "showCondition": 1,
+      "spirit": 10,
+      "sureDropItems": [
+        35002,
+        35020
+      ],
+      "typeNameTextID": 1900485,
+      "vocationID": ""
+    },
+    "10102": {
+      "describeTextID": 1900236,
+      "dungeonID": 101,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 10102,
+      "imageID": 14472,
+      "level": 3,
+      "levelShow": 40,
+      "mayDropItems": [],
+      "minEquipLevel": 5,
+      "minSkillLevel": 2,
+      "monsterid": [
+        110012
+      ],
+      "mopupTime": 360,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20020,
+      "shapeID": 20093,
+      "showCondition": 1,
+      "spirit": 14,
+      "sureDropItems": [
+        35002,
+        35020
+      ],
+      "typeNameTextID": 1900486,
+      "vocationID": ""
+    },
+    "10103": {
+      "describeTextID": 1900236,
+      "dungeonID": 101,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 10103,
+      "imageID": 14472,
+      "level": 4,
+      "levelShow": 80,
+      "mayDropItems": [],
+      "minEquipLevel": 10,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110013
+      ],
+      "mopupTime": 480,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20020,
+      "shapeID": 20093,
+      "showCondition": 1,
+      "spirit": 18,
+      "sureDropItems": [
+        35002,
+        35020
+      ],
+      "typeNameTextID": 1900487,
+      "vocationID": ""
+    },
+    "10104": {
+      "describeTextID": 1900236,
+      "dungeonID": 101,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 10104,
+      "imageID": 14472,
+      "level": 10,
+      "levelShow": 140,
+      "mayDropItems": [],
+      "minEquipLevel": 15,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110014
+      ],
+      "mopupTime": 480,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20020,
+      "shapeID": 20093,
+      "showCondition": 1,
+      "spirit": 22,
+      "sureDropItems": [
+        35002,
+        35020
+      ],
+      "typeNameTextID": 1900488,
+      "vocationID": ""
+    },
+    "10105": {
+      "describeTextID": 1900236,
+      "dungeonID": 101,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 10105,
+      "imageID": 14472,
+      "level": 15,
+      "levelShow": 170,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110015
+      ],
+      "mopupTime": 600,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20020,
+      "shapeID": 20093,
+      "showCondition": 1,
+      "spirit": 26,
+      "sureDropItems": [
+        35002,
+        35020
+      ],
+      "typeNameTextID": 1900489,
+      "vocationID": ""
+    },
+    "10106": {
+      "describeTextID": 1900236,
+      "dungeonID": 101,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 10106,
+      "imageID": 14472,
+      "level": 20,
+      "levelShow": 210,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110016
+      ],
+      "mopupTime": 600,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20020,
+      "shapeID": 20093,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        35002,
+        35020
+      ],
+      "typeNameTextID": 1900490,
+      "vocationID": ""
+    },
+    "20101": {
+      "describeTextID": 1900238,
+      "dungeonID": 201,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20101,
+      "imageID": 14473,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        11008
+      ],
+      "mopupTime": 360,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20022,
+      "shapeID": 20095,
+      "showCondition": 1,
+      "spirit": 15,
+      "sureDropItems": [
+        75000,
+        75012
+      ],
+      "typeNameTextID": 1900491,
+      "vocationID": "1;5;7"
+    },
+    "20102": {
+      "describeTextID": 1900238,
+      "dungeonID": 201,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20102,
+      "imageID": 14473,
+      "level": 4,
+      "levelShow": 60,
+      "mayDropItems": [],
+      "minEquipLevel": 10,
+      "minSkillLevel": 2,
+      "monsterid": [
+        11008
+      ],
+      "mopupTime": 360,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20022,
+      "shapeID": 20095,
+      "showCondition": 1,
+      "spirit": 18,
+      "sureDropItems": [
+        75001,
+        75013
+      ],
+      "typeNameTextID": 1900492,
+      "vocationID": "1;5;7"
+    },
+    "20103": {
+      "describeTextID": 1900238,
+      "dungeonID": 201,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20103,
+      "imageID": 14473,
+      "level": 6,
+      "levelShow": 90,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        11008
+      ],
+      "mopupTime": 480,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20022,
+      "shapeID": 20095,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        75002,
+        75014
+      ],
+      "typeNameTextID": 1900493,
+      "vocationID": "1;5;7"
+    },
+    "20104": {
+      "describeTextID": 1900238,
+      "dungeonID": 201,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20104,
+      "imageID": 14473,
+      "level": 9,
+      "levelShow": 120,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        11008
+      ],
+      "mopupTime": 480,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20022,
+      "shapeID": 20095,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        75002,
+        75014
+      ],
+      "typeNameTextID": 1900494,
+      "vocationID": "1;5;7"
+    },
+    "20105": {
+      "describeTextID": 1900238,
+      "dungeonID": 201,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20105,
+      "imageID": 14473,
+      "level": 12,
+      "levelShow": 150,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        11008
+      ],
+      "mopupTime": 600,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20022,
+      "shapeID": 20095,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        75002,
+        75014,
+        75018,
+        75019
+      ],
+      "typeNameTextID": 1900495,
+      "vocationID": "1;5;7"
+    },
+    "20106": {
+      "describeTextID": 1900238,
+      "dungeonID": 201,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20106,
+      "imageID": 14473,
+      "level": 18,
+      "levelShow": 190,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        11008
+      ],
+      "mopupTime": 600,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20022,
+      "shapeID": 20095,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        75002,
+        75014,
+        75018,
+        75019
+      ],
+      "typeNameTextID": 1900496,
+      "vocationID": "1;5;7"
+    },
+    "20201": {
+      "describeTextID": 1900239,
+      "dungeonID": 202,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20201,
+      "imageID": 14473,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        110061
+      ],
+      "mopupTime": 360,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20021,
+      "shapeID": 20094,
+      "showCondition": 1,
+      "spirit": 15,
+      "sureDropItems": [
+        75003,
+        75006
+      ],
+      "typeNameTextID": 1900497,
+      "vocationID": "2;3;7"
+    },
+    "20202": {
+      "describeTextID": 1900239,
+      "dungeonID": 202,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20202,
+      "imageID": 14473,
+      "level": 4,
+      "levelShow": 60,
+      "mayDropItems": [],
+      "minEquipLevel": 10,
+      "minSkillLevel": 2,
+      "monsterid": [
+        110061
+      ],
+      "mopupTime": 360,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20021,
+      "shapeID": 20094,
+      "showCondition": 1,
+      "spirit": 18,
+      "sureDropItems": [
+        75004,
+        75007
+      ],
+      "typeNameTextID": 1900498,
+      "vocationID": "2;3;7"
+    },
+    "20203": {
+      "describeTextID": 1900239,
+      "dungeonID": 202,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20203,
+      "imageID": 14473,
+      "level": 6,
+      "levelShow": 90,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110061
+      ],
+      "mopupTime": 480,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20021,
+      "shapeID": 20094,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        75005,
+        75008
+      ],
+      "typeNameTextID": 1900499,
+      "vocationID": "2;3;7"
+    },
+    "20204": {
+      "describeTextID": 1900239,
+      "dungeonID": 202,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20204,
+      "imageID": 14473,
+      "level": 9,
+      "levelShow": 120,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110061
+      ],
+      "mopupTime": 480,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20021,
+      "shapeID": 20094,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        75005,
+        75008
+      ],
+      "typeNameTextID": 1900500,
+      "vocationID": "2;3;7"
+    },
+    "20205": {
+      "describeTextID": 1900239,
+      "dungeonID": 202,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20205,
+      "imageID": 14473,
+      "level": 12,
+      "levelShow": 150,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110062
+      ],
+      "mopupTime": 600,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20021,
+      "shapeID": 20094,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        75005,
+        75008,
+        75018,
+        75019
+      ],
+      "typeNameTextID": 1900501,
+      "vocationID": "2;3;7"
+    },
+    "20206": {
+      "describeTextID": 1900239,
+      "dungeonID": 202,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20206,
+      "imageID": 14473,
+      "level": 18,
+      "levelShow": 190,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110062
+      ],
+      "mopupTime": 600,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20021,
+      "shapeID": 20094,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        75005,
+        75008,
+        75018,
+        75019
+      ],
+      "typeNameTextID": 1900502,
+      "vocationID": "2;3;7"
+    },
+    "20301": {
+      "describeTextID": 1900240,
+      "dungeonID": 203,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20301,
+      "imageID": 14473,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        110071
+      ],
+      "mopupTime": 360,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20023,
+      "shapeID": 20096,
+      "showCondition": 1,
+      "spirit": 15,
+      "sureDropItems": [
+        75009,
+        75015
+      ],
+      "typeNameTextID": 1900503,
+      "vocationID": "4;6;7"
+    },
+    "20302": {
+      "describeTextID": 1900240,
+      "dungeonID": 203,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20302,
+      "imageID": 14473,
+      "level": 4,
+      "levelShow": 60,
+      "mayDropItems": [],
+      "minEquipLevel": 10,
+      "minSkillLevel": 2,
+      "monsterid": [
+        110071
+      ],
+      "mopupTime": 360,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20023,
+      "shapeID": 20096,
+      "showCondition": 1,
+      "spirit": 18,
+      "sureDropItems": [
+        75010,
+        75016
+      ],
+      "typeNameTextID": 1900504,
+      "vocationID": "4;6;7"
+    },
+    "20303": {
+      "describeTextID": 1900240,
+      "dungeonID": 203,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20303,
+      "imageID": 14473,
+      "level": 6,
+      "levelShow": 90,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110071
+      ],
+      "mopupTime": 480,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20023,
+      "shapeID": 20096,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        75011,
+        75017
+      ],
+      "typeNameTextID": 1900505,
+      "vocationID": "4;6;7"
+    },
+    "20304": {
+      "describeTextID": 1900240,
+      "dungeonID": 203,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20304,
+      "imageID": 14473,
+      "level": 9,
+      "levelShow": 120,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110071
+      ],
+      "mopupTime": 480,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20023,
+      "shapeID": 20096,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        75011,
+        75017
+      ],
+      "typeNameTextID": 1900506,
+      "vocationID": "4;6;7"
+    },
+    "20305": {
+      "describeTextID": 1900240,
+      "dungeonID": 203,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20305,
+      "imageID": 14473,
+      "level": 12,
+      "levelShow": 150,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110072
+      ],
+      "mopupTime": 600,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20023,
+      "shapeID": 20096,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        75011,
+        75017,
+        75018,
+        75019
+      ],
+      "typeNameTextID": 1900507,
+      "vocationID": "4;6;7"
+    },
+    "20306": {
+      "describeTextID": 1900240,
+      "dungeonID": 203,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 20306,
+      "imageID": 14473,
+      "level": 18,
+      "levelShow": 190,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110072
+      ],
+      "mopupTime": 600,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20023,
+      "shapeID": 20096,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        75011,
+        75017,
+        75018,
+        75019
+      ],
+      "typeNameTextID": 1900508,
+      "vocationID": "4;6;7"
+    },
+    "30101": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30101,
+      "imageID": 14475,
+      "level": 0,
+      "levelShow": 10,
+      "mayDropItems": [],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        11002,
+        11003
+      ],
+      "mopupTime": 240,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 10,
+      "sureDropItems": [
+        74003
+      ],
+      "typeNameTextID": 1900509,
+      "vocationID": ""
+    },
+    "30102": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30102,
+      "imageID": 14475,
+      "level": 3,
+      "levelShow": 30,
+      "mayDropItems": [],
+      "minEquipLevel": 10,
+      "minSkillLevel": 2,
+      "monsterid": [
+        11002,
+        11003
+      ],
+      "mopupTime": 240,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 13,
+      "sureDropItems": [
+        74000
+      ],
+      "typeNameTextID": 1900510,
+      "vocationID": ""
+    },
+    "30103": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30103,
+      "imageID": 14475,
+      "level": 5,
+      "levelShow": 80,
+      "mayDropItems": [],
+      "minEquipLevel": 15,
+      "minSkillLevel": 3,
+      "monsterid": [
+        11003,
+        11004
+      ],
+      "mopupTime": 360,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 16,
+      "sureDropItems": [
+        74001
+      ],
+      "typeNameTextID": 1900511,
+      "vocationID": ""
+    },
+    "30104": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30104,
+      "imageID": 14475,
+      "level": 10,
+      "levelShow": 130,
+      "mayDropItems": [],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        11003,
+        11004
+      ],
+      "mopupTime": 360,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 19,
+      "sureDropItems": [
+        74001
+      ],
+      "typeNameTextID": 1900512,
+      "vocationID": ""
+    },
+    "30105": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30105,
+      "imageID": 14475,
+      "level": 13,
+      "levelShow": 150,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        11004,
+        11005
+      ],
+      "mopupTime": 480,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        74002
+      ],
+      "typeNameTextID": 1900513,
+      "vocationID": ""
+    },
+    "30106": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30106,
+      "imageID": 14475,
+      "level": 20,
+      "levelShow": 200,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        11004,
+        11005
+      ],
+      "mopupTime": 480,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        74002
+      ],
+      "typeNameTextID": 1900514,
+      "vocationID": ""
+    },
+    "30107": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30107,
+      "imageID": 14475,
+      "level": 22,
+      "levelShow": 210,
+      "mayDropItems": [],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        11005
+      ],
+      "mopupTime": 600,
+      "nodepos": "2380,570",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        74002,
+        74004,
+        74005
+      ],
+      "typeNameTextID": 1900515,
+      "vocationID": ""
+    },
+    "30108": {
+      "describeTextID": 1900241,
+      "dungeonID": 301,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 30108,
+      "imageID": 14475,
+      "level": 25,
+      "levelShow": 250,
+      "mayDropItems": [],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        11005
+      ],
+      "mopupTime": 600,
+      "nodepos": "2685,260",
+      "recommendid": [],
+      "sceneID": 20024,
+      "shapeID": 20102,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        74002,
+        74004,
+        74005
+      ],
+      "typeNameTextID": 1900516,
+      "vocationID": ""
+    },
+    "40101": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40101,
+      "imageID": 14474,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [
+        31119,
+        31118
+      ],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 240,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 10,
+      "sureDropItems": [
+        76001,
+        76000
+      ],
+      "typeNameTextID": 1900517,
+      "vocationID": "1;5;7"
+    },
+    "40102": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40102,
+      "imageID": 14474,
+      "level": 4,
+      "levelShow": 40,
+      "mayDropItems": [
+        31119,
+        31118
+      ],
+      "minEquipLevel": 5,
+      "minSkillLevel": 2,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 240,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 13,
+      "sureDropItems": [
+        35021,
+        76002
+      ],
+      "typeNameTextID": 1900518,
+      "vocationID": "1;5;7"
+    },
+    "40103": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40103,
+      "imageID": 14474,
+      "level": 6,
+      "levelShow": 90,
+      "mayDropItems": [
+        31119,
+        31118,
+        70001
+      ],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 360,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 16,
+      "sureDropItems": [
+        35021,
+        76002
+      ],
+      "typeNameTextID": 1900519,
+      "vocationID": "1;5;7"
+    },
+    "40104": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40104,
+      "imageID": 14474,
+      "level": 11,
+      "levelShow": 140,
+      "mayDropItems": [
+        31119,
+        31118,
+        70001
+      ],
+      "minEquipLevel": 25,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 360,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 19,
+      "sureDropItems": [
+        35021,
+        76003
+      ],
+      "typeNameTextID": 1900520,
+      "vocationID": "1;5;7"
+    },
+    "40105": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40105,
+      "imageID": 14474,
+      "level": 14,
+      "levelShow": 160,
+      "mayDropItems": [
+        31120,
+        31119,
+        70001
+      ],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 480,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        35021,
+        76003
+      ],
+      "typeNameTextID": 1900666,
+      "vocationID": "1;5;7"
+    },
+    "40106": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40106,
+      "imageID": 14474,
+      "level": 21,
+      "levelShow": 210,
+      "mayDropItems": [
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 480,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        35021,
+        76004
+      ],
+      "typeNameTextID": 1900667,
+      "vocationID": "1;5;7"
+    },
+    "40107": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40107,
+      "imageID": 14474,
+      "level": 23,
+      "levelShow": 220,
+      "mayDropItems": [
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 600,
+      "nodepos": "2380,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        35021,
+        76004
+      ],
+      "typeNameTextID": 1900668,
+      "vocationID": "1;5;7"
+    },
+    "40108": {
+      "describeTextID": 1900242,
+      "dungeonID": 401,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40108,
+      "imageID": 14474,
+      "level": 26,
+      "levelShow": 260,
+      "mayDropItems": [
+        31121,
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        110093
+      ],
+      "mopupTime": 600,
+      "nodepos": "2685,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        35021,
+        76005
+      ],
+      "typeNameTextID": 1900669,
+      "vocationID": "1;5;7"
+    },
+    "40201": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40201,
+      "imageID": 14474,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [
+        31119,
+        31118
+      ],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 240,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 10,
+      "sureDropItems": [
+        76001,
+        76000
+      ],
+      "typeNameTextID": 1900521,
+      "vocationID": "2;3;7"
+    },
+    "40202": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40202,
+      "imageID": 14474,
+      "level": 4,
+      "levelShow": 40,
+      "mayDropItems": [
+        31119,
+        31118
+      ],
+      "minEquipLevel": 5,
+      "minSkillLevel": 2,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 240,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 13,
+      "sureDropItems": [
+        35021,
+        76002
+      ],
+      "typeNameTextID": 1900522,
+      "vocationID": "2;3;7"
+    },
+    "40203": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40203,
+      "imageID": 14474,
+      "level": 6,
+      "levelShow": 90,
+      "mayDropItems": [
+        31119,
+        31118,
+        70001
+      ],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 360,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 16,
+      "sureDropItems": [
+        35021,
+        76002
+      ],
+      "typeNameTextID": 1900523,
+      "vocationID": "2;3;7"
+    },
+    "40204": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40204,
+      "imageID": 14474,
+      "level": 11,
+      "levelShow": 140,
+      "mayDropItems": [
+        31119,
+        31118,
+        70001
+      ],
+      "minEquipLevel": 25,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 360,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 19,
+      "sureDropItems": [
+        35021,
+        76003
+      ],
+      "typeNameTextID": 1900524,
+      "vocationID": "2;3;7"
+    },
+    "40205": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40205,
+      "imageID": 14474,
+      "level": 14,
+      "levelShow": 160,
+      "mayDropItems": [
+        31120,
+        31119,
+        70001
+      ],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 480,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        35021,
+        76003
+      ],
+      "typeNameTextID": 1900670,
+      "vocationID": "2;3;7"
+    },
+    "40206": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40206,
+      "imageID": 14474,
+      "level": 21,
+      "levelShow": 210,
+      "mayDropItems": [
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 480,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        35021,
+        76004
+      ],
+      "typeNameTextID": 1900671,
+      "vocationID": "2;3;7"
+    },
+    "40207": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40207,
+      "imageID": 14474,
+      "level": 23,
+      "levelShow": 220,
+      "mayDropItems": [
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 600,
+      "nodepos": "2380,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        35021,
+        76004
+      ],
+      "typeNameTextID": 1900672,
+      "vocationID": "2;3;7"
+    },
+    "40208": {
+      "describeTextID": 1900243,
+      "dungeonID": 402,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40208,
+      "imageID": 14474,
+      "level": 26,
+      "levelShow": 260,
+      "mayDropItems": [
+        31121,
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        110091
+      ],
+      "mopupTime": 600,
+      "nodepos": "2685,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        35021,
+        76005
+      ],
+      "typeNameTextID": 1900673,
+      "vocationID": "2;3;7"
+    },
+    "40301": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40301,
+      "imageID": 14474,
+      "level": 0,
+      "levelShow": 20,
+      "mayDropItems": [
+        31119,
+        31118
+      ],
+      "minEquipLevel": 5,
+      "minSkillLevel": 1,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 240,
+      "nodepos": "550,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 10,
+      "sureDropItems": [
+        76001,
+        76000
+      ],
+      "typeNameTextID": 1900525,
+      "vocationID": "4;6;7"
+    },
+    "40302": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40302,
+      "imageID": 14474,
+      "level": 4,
+      "levelShow": 40,
+      "mayDropItems": [
+        31119,
+        31118
+      ],
+      "minEquipLevel": 5,
+      "minSkillLevel": 2,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 240,
+      "nodepos": "855,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 13,
+      "sureDropItems": [
+        35021,
+        76002
+      ],
+      "typeNameTextID": 1900526,
+      "vocationID": "4;6;7"
+    },
+    "40303": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40303,
+      "imageID": 14474,
+      "level": 6,
+      "levelShow": 90,
+      "mayDropItems": [
+        31119,
+        31118,
+        70001
+      ],
+      "minEquipLevel": 25,
+      "minSkillLevel": 3,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 360,
+      "nodepos": "1160,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 16,
+      "sureDropItems": [
+        35021,
+        76002
+      ],
+      "typeNameTextID": 1900527,
+      "vocationID": "4;6;7"
+    },
+    "40304": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40304,
+      "imageID": 14474,
+      "level": 11,
+      "levelShow": 140,
+      "mayDropItems": [
+        31119,
+        31118,
+        70001
+      ],
+      "minEquipLevel": 25,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 360,
+      "nodepos": "1465,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 19,
+      "sureDropItems": [
+        35021,
+        76003
+      ],
+      "typeNameTextID": 1900528,
+      "vocationID": "4;6;7"
+    },
+    "40305": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40305,
+      "imageID": 14474,
+      "level": 14,
+      "levelShow": 160,
+      "mayDropItems": [
+        31120,
+        31119,
+        70001
+      ],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 480,
+      "nodepos": "1770,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 21,
+      "sureDropItems": [
+        35021,
+        76003
+      ],
+      "typeNameTextID": 1900674,
+      "vocationID": "4;6;7"
+    },
+    "40306": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40306,
+      "imageID": 14474,
+      "level": 21,
+      "levelShow": 210,
+      "mayDropItems": [
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 30,
+      "minSkillLevel": 4,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 480,
+      "nodepos": "2075,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 24,
+      "sureDropItems": [
+        35021,
+        76004
+      ],
+      "typeNameTextID": 1900675,
+      "vocationID": "4;6;7"
+    },
+    "40307": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40307,
+      "imageID": 14474,
+      "level": 23,
+      "levelShow": 220,
+      "mayDropItems": [
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 600,
+      "nodepos": "2380,570",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 27,
+      "sureDropItems": [
+        35021,
+        76004
+      ],
+      "typeNameTextID": 1900676,
+      "vocationID": "4;6;7"
+    },
+    "40308": {
+      "describeTextID": 1900244,
+      "dungeonID": 403,
+      "firstItemNums": [
+        30
+      ],
+      "firstItems": [
+        35008
+      ],
+      "id": 40308,
+      "imageID": 14474,
+      "level": 26,
+      "levelShow": 260,
+      "mayDropItems": [
+        31121,
+        31120,
+        31119,
+        70002
+      ],
+      "minEquipLevel": 40,
+      "minSkillLevel": 5,
+      "monsterid": [
+        110092
+      ],
+      "mopupTime": 600,
+      "nodepos": "2685,260",
+      "recommendid": [],
+      "sceneID": 20025,
+      "shapeID": 20106,
+      "showCondition": 1,
+      "spirit": 30,
+      "sureDropItems": [
+        35021,
+        76005
+      ],
+      "typeNameTextID": 1900677,
+      "vocationID": "4;6;7"
+    }
+  }
+}

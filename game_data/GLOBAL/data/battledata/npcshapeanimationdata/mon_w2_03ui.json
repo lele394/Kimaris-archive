@@ -1,0 +1,11 @@
+{
+  "DeadDisappear": {
+    "endEventFrames": 50
+  },
+  "Magic": {
+    "endEventFrames": 45
+  },
+  "Move": {
+    "endEventFrames": 1
+  }
+}

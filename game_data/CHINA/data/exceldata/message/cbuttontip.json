@@ -1,0 +1,146 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    24,
+    25,
+    26,
+    27
+  ],
+  "Data": {
+    "1": {
+      "Content": "使用道具",
+      "ContentTextID": 700001,
+      "Icon": 10207,
+      "id": 1
+    },
+    "10": {
+      "Content": "打开",
+      "ContentTextID": 700010,
+      "Icon": 11884,
+      "id": 10
+    },
+    "11": {
+      "Content": "阅读",
+      "ContentTextID": 700011,
+      "Icon": 11893,
+      "id": 11
+    },
+    "12": {
+      "Content": "查看",
+      "ContentTextID": 700012,
+      "Icon": 11882,
+      "id": 12
+    },
+    "13": {
+      "Content": "对话",
+      "ContentTextID": 700013,
+      "Icon": 11885,
+      "id": 13
+    },
+    "14": {
+      "Content": "恢复",
+      "ContentTextID": 700014,
+      "Icon": 11888,
+      "id": 14
+    },
+    "15": {
+      "Content": "触碰",
+      "ContentTextID": 700015,
+      "Icon": 11883,
+      "id": 15
+    },
+    "16": {
+      "Content": "触碰",
+      "ContentTextID": 700016,
+      "Icon": 11883,
+      "id": 16
+    },
+    "2": {
+      "Content": "砍倒",
+      "ContentTextID": 700002,
+      "Icon": 10206,
+      "id": 2
+    },
+    "24": {
+      "Content": "激活",
+      "ContentTextID": 700017,
+      "Icon": 11890,
+      "id": 24
+    },
+    "25": {
+      "Content": "进入",
+      "ContentTextID": 700650,
+      "Icon": 11891,
+      "id": 25
+    },
+    "26": {
+      "Content": "离开",
+      "ContentTextID": 700655,
+      "Icon": 11892,
+      "id": 26
+    },
+    "27": {
+      "Content": "拾取",
+      "ContentTextID": 701138,
+      "Icon": 11884,
+      "id": 27
+    },
+    "3": {
+      "Content": "开门",
+      "ContentTextID": 700003,
+      "Icon": 10206,
+      "id": 3
+    },
+    "4": {
+      "Content": "推动",
+      "ContentTextID": 700004,
+      "Icon": 10205,
+      "id": 4
+    },
+    "5": {
+      "Content": "扳动",
+      "ContentTextID": 700005,
+      "Icon": 11881,
+      "id": 5
+    },
+    "6": {
+      "Content": "开锁",
+      "ContentTextID": 700006,
+      "Icon": 10206,
+      "id": 6
+    },
+    "7": {
+      "Content": "获得",
+      "ContentTextID": 700007,
+      "Icon": 11889,
+      "id": 7
+    },
+    "8": {
+      "Content": "翻转",
+      "ContentTextID": 700008,
+      "Icon": 11886,
+      "id": 8
+    },
+    "9": {
+      "Content": "发射",
+      "ContentTextID": 700009,
+      "Icon": 11887,
+      "id": 9
+    }
+  }
+}

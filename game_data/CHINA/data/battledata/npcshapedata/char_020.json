@@ -1,0 +1,43 @@
+{
+  "HitPoint": {
+    "x": 35,
+    "y": 187,
+    "z": -200
+  },
+  "HitPoint_Body": {
+    "x": 35,
+    "y": 187,
+    "z": -200
+  },
+  "HitPoint_Bottom": {
+    "x": 0,
+    "y": 0,
+    "z": -200
+  },
+  "HitPoint_Head": {
+    "x": 0,
+    "y": 474,
+    "z": -200
+  },
+  "ShootPoint": {
+    "x": 301,
+    "y": 430,
+    "z": -200
+  },
+  "attackColliserOffect": {
+    "x": 1267,
+    "y": 589
+  },
+  "attackColliserSize": {
+    "x": 2684,
+    "y": 1169
+  },
+  "attackedColliserOffect": {
+    "x": 0,
+    "y": 189
+  },
+  "attackedColliserSize": {
+    "x": 137,
+    "y": 379
+  }
+}

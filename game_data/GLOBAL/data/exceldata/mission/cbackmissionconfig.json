@@ -1,0 +1,121 @@
+{
+  "AllIds": [
+    130001,
+    130002,
+    130003,
+    130004,
+    130005
+  ],
+  "Data": {
+    "130001": {
+      "UIjumpvalue": 2,
+      "descriptionTextID": 1001598,
+      "endevent": 26,
+      "id": 130001,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missiontype": 13,
+      "rewardid": 4288,
+      "rewarditem": [
+        35002
+      ],
+      "rewardquantity": [
+        500000
+      ],
+      "unlockcondition": "2,4",
+      "unlockid": 1001202,
+      "worldname": 0
+    },
+    "130002": {
+      "UIjumpvalue": 1,
+      "descriptionTextID": 1001597,
+      "endevent": 2,
+      "id": 130002,
+      "jumpAim": 0,
+      "jumptype": 0,
+      "jumpvalue": [
+        0
+      ],
+      "missiontype": 13,
+      "rewardid": 4289,
+      "rewarditem": [
+        31038
+      ],
+      "rewardquantity": [
+        2
+      ],
+      "unlockcondition": "-1,-1",
+      "unlockid": 1001202,
+      "worldname": 0
+    },
+    "130003": {
+      "UIjumpvalue": 34,
+      "descriptionTextID": 1001596,
+      "endevent": 1,
+      "id": 130003,
+      "jumpAim": 2,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missiontype": 13,
+      "rewardid": 4290,
+      "rewarditem": [
+        70003
+      ],
+      "rewardquantity": [
+        2
+      ],
+      "unlockcondition": "-1,-1",
+      "unlockid": 1001202,
+      "worldname": 0
+    },
+    "130004": {
+      "UIjumpvalue": 15,
+      "descriptionTextID": 1001132,
+      "endevent": 8,
+      "id": 130004,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missiontype": 13,
+      "rewardid": 4291,
+      "rewarditem": [
+        74004
+      ],
+      "rewardquantity": [
+        20
+      ],
+      "unlockcondition": "2,16",
+      "unlockid": 1001185,
+      "worldname": 0
+    },
+    "130005": {
+      "UIjumpvalue": 20,
+      "descriptionTextID": 1001194,
+      "endevent": 9,
+      "id": 130005,
+      "jumpAim": 0,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missiontype": 13,
+      "rewardid": 4292,
+      "rewarditem": [
+        74005
+      ],
+      "rewardquantity": [
+        20
+      ],
+      "unlockcondition": "2,8",
+      "unlockid": 1001196,
+      "worldname": 0
+    }
+  }
+}

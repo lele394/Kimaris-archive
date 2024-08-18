@@ -1,0 +1,62 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "Data": [
+    {
+      "confort": 0,
+      "emotion": 800,
+      "id": 1,
+      "likability": 20
+    },
+    {
+      "confort": 40,
+      "emotion": 1000,
+      "id": 2,
+      "likability": 20
+    },
+    {
+      "confort": 80,
+      "emotion": 1200,
+      "id": 3,
+      "likability": 20
+    },
+    {
+      "confort": 120,
+      "emotion": 1400,
+      "id": 4,
+      "likability": 20
+    },
+    {
+      "confort": 160,
+      "emotion": 1600,
+      "id": 5,
+      "likability": 20
+    },
+    {
+      "confort": 200,
+      "emotion": 1800,
+      "id": 6,
+      "likability": 20
+    },
+    {
+      "confort": 240,
+      "emotion": 1900,
+      "id": 7,
+      "likability": 20
+    },
+    {
+      "confort": 280,
+      "emotion": 2000,
+      "id": 8,
+      "likability": 20
+    }
+  ]
+}

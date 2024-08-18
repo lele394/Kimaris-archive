@@ -1,0 +1,102 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "Data": [
+    {
+      "buffID": 71001,
+      "id": 1,
+      "nameID": 702343,
+      "typeID": 1,
+      "unlockCondition": 0
+    },
+    {
+      "buffID": 71002,
+      "id": 2,
+      "nameID": 702344,
+      "typeID": 1,
+      "unlockCondition": 15000
+    },
+    {
+      "buffID": 71003,
+      "id": 3,
+      "nameID": 702345,
+      "typeID": 1,
+      "unlockCondition": 30000
+    },
+    {
+      "buffID": 71004,
+      "id": 4,
+      "nameID": 702346,
+      "typeID": 2,
+      "unlockCondition": 0
+    },
+    {
+      "buffID": 71005,
+      "id": 5,
+      "nameID": 702347,
+      "typeID": 2,
+      "unlockCondition": 20000
+    },
+    {
+      "buffID": 71006,
+      "id": 6,
+      "nameID": 702348,
+      "typeID": 2,
+      "unlockCondition": 40000
+    },
+    {
+      "buffID": 71007,
+      "id": 7,
+      "nameID": 702349,
+      "typeID": 3,
+      "unlockCondition": 0
+    },
+    {
+      "buffID": 71008,
+      "id": 8,
+      "nameID": 702350,
+      "typeID": 3,
+      "unlockCondition": 20000
+    },
+    {
+      "buffID": 71009,
+      "id": 9,
+      "nameID": 702351,
+      "typeID": 3,
+      "unlockCondition": 40000
+    },
+    {
+      "buffID": 71010,
+      "id": 10,
+      "nameID": 702352,
+      "typeID": 4,
+      "unlockCondition": 0
+    },
+    {
+      "buffID": 71011,
+      "id": 11,
+      "nameID": 702353,
+      "typeID": 4,
+      "unlockCondition": 10000
+    },
+    {
+      "buffID": 71012,
+      "id": 12,
+      "nameID": 702354,
+      "typeID": 4,
+      "unlockCondition": 20000
+    }
+  ]
+}

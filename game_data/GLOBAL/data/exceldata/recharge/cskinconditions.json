@@ -1,0 +1,38 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "nameid": 502897,
+      "sort": 1,
+      "type": 1,
+      "typename": 502901
+    },
+    {
+      "id": 2,
+      "nameid": 502898,
+      "sort": 2,
+      "type": 1,
+      "typename": 502901
+    },
+    {
+      "id": 3,
+      "nameid": 502899,
+      "sort": 3,
+      "type": 2,
+      "typename": 502902
+    },
+    {
+      "id": 4,
+      "nameid": 502900,
+      "sort": 4,
+      "type": 2,
+      "typename": 502902
+    }
+  ]
+}

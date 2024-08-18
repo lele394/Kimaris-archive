@@ -1,0 +1,20 @@
+{
+  "Attack": {
+    "endEventFrames": 46
+  },
+  "Attack2": {
+    "endEventFrames": 146
+  },
+  "DeadDisappear": {
+    "endEventFrames": 50
+  },
+  "LogicBattleEnd": {
+    "endEventFrames": 11
+  },
+  "Move": {
+    "endEventFrames": 1
+  },
+  "MoveLoop": {
+    "endEventFrames": 1
+  }
+}

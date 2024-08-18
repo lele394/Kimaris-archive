@@ -1,0 +1,168 @@
+{
+  "AllIds": [
+    31005,
+    31006,
+    31007,
+    31008,
+    31009,
+    31010,
+    31011,
+    31012,
+    31013,
+    31014,
+    31015,
+    31016,
+    31017,
+    31018,
+    31019,
+    31137,
+    31257,
+    31312
+  ],
+  "Data": {
+    "31005": {
+      "exfavour": 0,
+      "favour": 100,
+      "id": 31005,
+      "presenttype": 1,
+      "presenttypename": "战斗类（通用）",
+      "presentuplevel": 1
+    },
+    "31006": {
+      "exfavour": 0,
+      "favour": 150,
+      "id": 31006,
+      "presenttype": 1,
+      "presenttypename": "战斗类（通用）",
+      "presentuplevel": 2
+    },
+    "31007": {
+      "exfavour": 0,
+      "favour": 200,
+      "id": 31007,
+      "presenttype": 1,
+      "presenttypename": "战斗类（通用）",
+      "presentuplevel": 3
+    },
+    "31008": {
+      "exfavour": 100,
+      "favour": 100,
+      "id": 31008,
+      "presenttype": 2,
+      "presenttypename": "花卉类",
+      "presentuplevel": 1
+    },
+    "31009": {
+      "exfavour": 150,
+      "favour": 150,
+      "id": 31009,
+      "presenttype": 2,
+      "presenttypename": "花卉类",
+      "presentuplevel": 2
+    },
+    "31010": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31010,
+      "presenttype": 2,
+      "presenttypename": "花卉类",
+      "presentuplevel": 3
+    },
+    "31011": {
+      "exfavour": 100,
+      "favour": 100,
+      "id": 31011,
+      "presenttype": 3,
+      "presenttypename": "饮食类",
+      "presentuplevel": 1
+    },
+    "31012": {
+      "exfavour": 150,
+      "favour": 150,
+      "id": 31012,
+      "presenttype": 3,
+      "presenttypename": "饮食类",
+      "presentuplevel": 2
+    },
+    "31013": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31013,
+      "presenttype": 3,
+      "presenttypename": "饮食类",
+      "presentuplevel": 3
+    },
+    "31014": {
+      "exfavour": 100,
+      "favour": 100,
+      "id": 31014,
+      "presenttype": 4,
+      "presenttypename": "饰品类",
+      "presentuplevel": 1
+    },
+    "31015": {
+      "exfavour": 150,
+      "favour": 150,
+      "id": 31015,
+      "presenttype": 4,
+      "presenttypename": "饰品类",
+      "presentuplevel": 2
+    },
+    "31016": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31016,
+      "presenttype": 4,
+      "presenttypename": "饰品类",
+      "presentuplevel": 3
+    },
+    "31017": {
+      "exfavour": 100,
+      "favour": 100,
+      "id": 31017,
+      "presenttype": 5,
+      "presenttypename": "杂物类",
+      "presentuplevel": 1
+    },
+    "31018": {
+      "exfavour": 150,
+      "favour": 150,
+      "id": 31018,
+      "presenttype": 5,
+      "presenttypename": "杂物类",
+      "presentuplevel": 2
+    },
+    "31019": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31019,
+      "presenttype": 5,
+      "presenttypename": "杂物类",
+      "presentuplevel": 3
+    },
+    "31137": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31137,
+      "presenttype": 6,
+      "presenttypename": "特殊类",
+      "presentuplevel": 3
+    },
+    "31257": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31257,
+      "presenttype": 6,
+      "presenttypename": "特殊类",
+      "presentuplevel": 3
+    },
+    "31312": {
+      "exfavour": 200,
+      "favour": 200,
+      "id": 31312,
+      "presenttype": 6,
+      "presenttypename": "特殊类",
+      "presentuplevel": 3
+    }
+  }
+}

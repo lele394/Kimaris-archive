@@ -1,0 +1,2349 @@
+{
+  "AllIds": [
+    3,
+    4,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    102,
+    103,
+    104,
+    105,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183
+  ],
+  "Data": {
+    "10": {
+      "Arrow": 0,
+      "GateID": [
+        9
+      ],
+      "SceneID": 12018,
+      "coordinate": "25,32",
+      "direction": 0,
+      "id": 10,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "102": {
+      "Arrow": 0,
+      "GateID": [
+        103
+      ],
+      "SceneID": 12020,
+      "coordinate": "27,23",
+      "direction": 0,
+      "id": 102,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "103": {
+      "Arrow": 0,
+      "GateID": [
+        102
+      ],
+      "SceneID": 12020,
+      "coordinate": "24,4",
+      "direction": 0,
+      "id": 103,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "104": {
+      "Arrow": 0,
+      "GateID": [
+        105
+      ],
+      "SceneID": 12010,
+      "coordinate": "4,18",
+      "direction": 0,
+      "id": 104,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "105": {
+      "Arrow": 0,
+      "GateID": [
+        104
+      ],
+      "SceneID": 12010,
+      "coordinate": "26,13",
+      "direction": 0,
+      "id": 105,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "108": {
+      "Arrow": 0,
+      "GateID": [
+        109
+      ],
+      "SceneID": 13019,
+      "coordinate": "3,23",
+      "direction": 0,
+      "id": 108,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "109": {
+      "Arrow": 0,
+      "GateID": [
+        108
+      ],
+      "SceneID": 13019,
+      "coordinate": "23,6",
+      "direction": 0,
+      "id": 109,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "11": {
+      "Arrow": 0,
+      "GateID": [
+        12
+      ],
+      "SceneID": 12019,
+      "coordinate": "22,16",
+      "direction": 0,
+      "id": 11,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "110": {
+      "Arrow": 0,
+      "GateID": [
+        111
+      ],
+      "SceneID": 13033,
+      "coordinate": "25,12",
+      "direction": 0,
+      "id": 110,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "111": {
+      "Arrow": 0,
+      "GateID": [
+        110
+      ],
+      "SceneID": 13033,
+      "coordinate": "23,26",
+      "direction": 0,
+      "id": 111,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "112": {
+      "Arrow": 0,
+      "GateID": [
+        113
+      ],
+      "SceneID": 13010,
+      "coordinate": "4,4",
+      "direction": 0,
+      "id": 112,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "113": {
+      "Arrow": 0,
+      "GateID": [
+        112
+      ],
+      "SceneID": 13010,
+      "coordinate": "21,27",
+      "direction": 0,
+      "id": 113,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "114": {
+      "Arrow": 0,
+      "GateID": [
+        115
+      ],
+      "SceneID": 14011,
+      "coordinate": "14,4",
+      "direction": 0,
+      "id": 114,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "115": {
+      "Arrow": 0,
+      "GateID": [
+        114
+      ],
+      "SceneID": 14011,
+      "coordinate": "23,23",
+      "direction": 0,
+      "id": 115,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "116": {
+      "Arrow": 0,
+      "GateID": [
+        117
+      ],
+      "SceneID": 14012,
+      "coordinate": "11,8",
+      "direction": 0,
+      "id": 116,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "117": {
+      "Arrow": 0,
+      "GateID": [
+        116
+      ],
+      "SceneID": 14012,
+      "coordinate": "23,7",
+      "direction": 0,
+      "id": 117,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "118": {
+      "Arrow": 0,
+      "GateID": [
+        119
+      ],
+      "SceneID": 14012,
+      "coordinate": "26,13",
+      "direction": 0,
+      "id": 118,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "119": {
+      "Arrow": 0,
+      "GateID": [
+        118
+      ],
+      "SceneID": 14012,
+      "coordinate": "27,27",
+      "direction": 0,
+      "id": 119,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "12": {
+      "Arrow": 0,
+      "GateID": [
+        11
+      ],
+      "SceneID": 12019,
+      "coordinate": "16,19",
+      "direction": 0,
+      "id": 12,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "120": {
+      "Arrow": 0,
+      "GateID": [
+        121
+      ],
+      "SceneID": 14026,
+      "coordinate": "19,16",
+      "direction": 0,
+      "id": 120,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "121": {
+      "Arrow": 0,
+      "GateID": [
+        120
+      ],
+      "SceneID": 14026,
+      "coordinate": "19,23",
+      "direction": 0,
+      "id": 121,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "122": {
+      "Arrow": 0,
+      "GateID": [
+        123
+      ],
+      "SceneID": 14027,
+      "coordinate": "6,16",
+      "direction": 0,
+      "id": 122,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "123": {
+      "Arrow": 0,
+      "GateID": [
+        122
+      ],
+      "SceneID": 14027,
+      "coordinate": "10,16",
+      "direction": 0,
+      "id": 123,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "124": {
+      "Arrow": 0,
+      "GateID": [
+        125
+      ],
+      "SceneID": 14027,
+      "coordinate": "4,36",
+      "direction": 0,
+      "id": 124,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "125": {
+      "Arrow": 0,
+      "GateID": [
+        124
+      ],
+      "SceneID": 14027,
+      "coordinate": "29,37",
+      "direction": 0,
+      "id": 125,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "126": {
+      "Arrow": 0,
+      "GateID": [
+        127
+      ],
+      "SceneID": 14027,
+      "coordinate": "27,17",
+      "direction": 0,
+      "id": 126,
+      "minimapIcon": 12,
+      "path": "Gate5",
+      "type": 2
+    },
+    "127": {
+      "Arrow": 0,
+      "GateID": [
+        126
+      ],
+      "SceneID": 14027,
+      "coordinate": "27,21",
+      "direction": 0,
+      "id": 127,
+      "minimapIcon": 12,
+      "path": "Gate6",
+      "type": 2
+    },
+    "128": {
+      "Arrow": 0,
+      "GateID": [
+        129
+      ],
+      "SceneID": 14027,
+      "coordinate": "13,26",
+      "direction": 0,
+      "id": 128,
+      "minimapIcon": 12,
+      "path": "Gate7",
+      "type": 2
+    },
+    "129": {
+      "Arrow": 0,
+      "GateID": [
+        128
+      ],
+      "SceneID": 14027,
+      "coordinate": "12,36",
+      "direction": 0,
+      "id": 129,
+      "minimapIcon": 12,
+      "path": "Gate8",
+      "type": 2
+    },
+    "130": {
+      "Arrow": 0,
+      "GateID": [
+        131
+      ],
+      "SceneID": 14027,
+      "coordinate": "32,14",
+      "direction": 0,
+      "id": 130,
+      "minimapIcon": 12,
+      "path": "Gate9",
+      "type": 2
+    },
+    "131": {
+      "Arrow": 0,
+      "GateID": [
+        130
+      ],
+      "SceneID": 14027,
+      "coordinate": "32,34",
+      "direction": 0,
+      "id": 131,
+      "minimapIcon": 12,
+      "path": "Gate10",
+      "type": 2
+    },
+    "132": {
+      "Arrow": 0,
+      "GateID": [
+        133
+      ],
+      "SceneID": 14037,
+      "coordinate": "6,16",
+      "direction": 0,
+      "id": 132,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "133": {
+      "Arrow": 0,
+      "GateID": [
+        132
+      ],
+      "SceneID": 14037,
+      "coordinate": "10,16",
+      "direction": 0,
+      "id": 133,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "134": {
+      "Arrow": 0,
+      "GateID": [
+        135
+      ],
+      "SceneID": 14037,
+      "coordinate": "4,36",
+      "direction": 0,
+      "id": 134,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "135": {
+      "Arrow": 0,
+      "GateID": [
+        134
+      ],
+      "SceneID": 14037,
+      "coordinate": "29,37",
+      "direction": 0,
+      "id": 135,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "136": {
+      "Arrow": 0,
+      "GateID": [
+        137
+      ],
+      "SceneID": 14037,
+      "coordinate": "27,17",
+      "direction": 0,
+      "id": 136,
+      "minimapIcon": 12,
+      "path": "Gate5",
+      "type": 2
+    },
+    "137": {
+      "Arrow": 0,
+      "GateID": [
+        136
+      ],
+      "SceneID": 14037,
+      "coordinate": "27,21",
+      "direction": 0,
+      "id": 137,
+      "minimapIcon": 12,
+      "path": "Gate6",
+      "type": 2
+    },
+    "138": {
+      "Arrow": 0,
+      "GateID": [
+        139
+      ],
+      "SceneID": 14037,
+      "coordinate": "13,26",
+      "direction": 0,
+      "id": 138,
+      "minimapIcon": 12,
+      "path": "Gate7",
+      "type": 2
+    },
+    "139": {
+      "Arrow": 0,
+      "GateID": [
+        138
+      ],
+      "SceneID": 14037,
+      "coordinate": "12,36",
+      "direction": 0,
+      "id": 139,
+      "minimapIcon": 12,
+      "path": "Gate8",
+      "type": 2
+    },
+    "140": {
+      "Arrow": 0,
+      "GateID": [
+        141
+      ],
+      "SceneID": 14037,
+      "coordinate": "32,14",
+      "direction": 0,
+      "id": 140,
+      "minimapIcon": 12,
+      "path": "Gate9",
+      "type": 2
+    },
+    "141": {
+      "Arrow": 0,
+      "GateID": [
+        140
+      ],
+      "SceneID": 14037,
+      "coordinate": "32,34",
+      "direction": 0,
+      "id": 141,
+      "minimapIcon": 12,
+      "path": "Gate10",
+      "type": 2
+    },
+    "142": {
+      "Arrow": 0,
+      "GateID": [
+        143
+      ],
+      "SceneID": 12016,
+      "coordinate": "8,8",
+      "direction": 0,
+      "id": 142,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "143": {
+      "Arrow": 0,
+      "GateID": [
+        142
+      ],
+      "SceneID": 12016,
+      "coordinate": "20,20",
+      "direction": 0,
+      "id": 143,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "144": {
+      "Arrow": 0,
+      "GateID": [
+        145
+      ],
+      "SceneID": 16005,
+      "coordinate": "7,7",
+      "direction": 0,
+      "id": 144,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "145": {
+      "Arrow": 0,
+      "GateID": [
+        144
+      ],
+      "SceneID": 16005,
+      "coordinate": "22,28",
+      "direction": 0,
+      "id": 145,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "146": {
+      "Arrow": 0,
+      "GateID": [
+        147
+      ],
+      "SceneID": 16024,
+      "coordinate": "5,15",
+      "direction": 0,
+      "id": 146,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "147": {
+      "Arrow": 0,
+      "GateID": [
+        146
+      ],
+      "SceneID": 16024,
+      "coordinate": "14,22",
+      "direction": 0,
+      "id": 147,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "148": {
+      "Arrow": 0,
+      "GateID": [
+        149
+      ],
+      "SceneID": 16024,
+      "coordinate": "16,26",
+      "direction": 0,
+      "id": 148,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "149": {
+      "Arrow": 0,
+      "GateID": [
+        148
+      ],
+      "SceneID": 16024,
+      "coordinate": "21,24",
+      "direction": 0,
+      "id": 149,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "150": {
+      "Arrow": 0,
+      "GateID": [
+        151
+      ],
+      "SceneID": 16024,
+      "coordinate": "11,15",
+      "direction": 0,
+      "id": 150,
+      "minimapIcon": 12,
+      "path": "Gate5",
+      "type": 2
+    },
+    "151": {
+      "Arrow": 0,
+      "GateID": [
+        150
+      ],
+      "SceneID": 16024,
+      "coordinate": "18,21",
+      "direction": 0,
+      "id": 151,
+      "minimapIcon": 12,
+      "path": "Gate6",
+      "type": 2
+    },
+    "152": {
+      "Arrow": 0,
+      "GateID": [
+        153
+      ],
+      "SceneID": 16024,
+      "coordinate": "14,6",
+      "direction": 0,
+      "id": 152,
+      "minimapIcon": 12,
+      "path": "Gate7",
+      "type": 2
+    },
+    "153": {
+      "Arrow": 0,
+      "GateID": [
+        152
+      ],
+      "SceneID": 16024,
+      "coordinate": "26,13",
+      "direction": 0,
+      "id": 153,
+      "minimapIcon": 12,
+      "path": "Gate8",
+      "type": 2
+    },
+    "154": {
+      "Arrow": 0,
+      "GateID": [
+        155
+      ],
+      "SceneID": 16024,
+      "coordinate": "23,21",
+      "direction": 0,
+      "id": 154,
+      "minimapIcon": 12,
+      "path": "Gate9",
+      "type": 2
+    },
+    "155": {
+      "Arrow": 0,
+      "GateID": [
+        154
+      ],
+      "SceneID": 16024,
+      "coordinate": "25,16",
+      "direction": 0,
+      "id": 155,
+      "minimapIcon": 12,
+      "path": "Gate10",
+      "type": 2
+    },
+    "156": {
+      "Arrow": 0,
+      "GateID": [
+        157
+      ],
+      "SceneID": 16025,
+      "coordinate": "5,16",
+      "direction": 0,
+      "id": 156,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "157": {
+      "Arrow": 0,
+      "GateID": [
+        156
+      ],
+      "SceneID": 16025,
+      "coordinate": "5,8",
+      "direction": 0,
+      "id": 157,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "158": {
+      "Arrow": 0,
+      "GateID": [
+        159
+      ],
+      "SceneID": 16025,
+      "coordinate": "17,6",
+      "direction": 0,
+      "id": 158,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "159": {
+      "Arrow": 0,
+      "GateID": [
+        158
+      ],
+      "SceneID": 16025,
+      "coordinate": "15,12",
+      "direction": 0,
+      "id": 159,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "160": {
+      "Arrow": 0,
+      "GateID": [
+        161
+      ],
+      "SceneID": 16025,
+      "coordinate": "16,20",
+      "direction": 0,
+      "id": 160,
+      "minimapIcon": 12,
+      "path": "Gate5",
+      "type": 2
+    },
+    "161": {
+      "Arrow": 0,
+      "GateID": [
+        160
+      ],
+      "SceneID": 16025,
+      "coordinate": "19,2",
+      "direction": 0,
+      "id": 161,
+      "minimapIcon": 12,
+      "path": "Gate6",
+      "type": 2
+    },
+    "162": {
+      "Arrow": 0,
+      "GateID": [
+        163
+      ],
+      "SceneID": 16032,
+      "coordinate": "11,10",
+      "direction": 0,
+      "id": 162,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "163": {
+      "Arrow": 0,
+      "GateID": [
+        162
+      ],
+      "SceneID": 16032,
+      "coordinate": "18,22",
+      "direction": 0,
+      "id": 163,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "164": {
+      "Arrow": 0,
+      "GateID": [
+        165
+      ],
+      "SceneID": 16033,
+      "coordinate": "21,20",
+      "direction": 0,
+      "id": 164,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "165": {
+      "Arrow": 0,
+      "GateID": [
+        164
+      ],
+      "SceneID": 16033,
+      "coordinate": "23,27",
+      "direction": 0,
+      "id": 165,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "166": {
+      "Arrow": 0,
+      "GateID": [
+        167
+      ],
+      "SceneID": 16034,
+      "coordinate": "7,28",
+      "direction": 0,
+      "id": 166,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "167": {
+      "Arrow": 0,
+      "GateID": [
+        166
+      ],
+      "SceneID": 16034,
+      "coordinate": "7,23",
+      "direction": 0,
+      "id": 167,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "168": {
+      "Arrow": 0,
+      "GateID": [
+        169
+      ],
+      "SceneID": 16034,
+      "coordinate": "20,29",
+      "direction": 0,
+      "id": 168,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "169": {
+      "Arrow": 0,
+      "GateID": [
+        168
+      ],
+      "SceneID": 16034,
+      "coordinate": "25,23",
+      "direction": 0,
+      "id": 169,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "17": {
+      "Arrow": 0,
+      "GateID": [
+        18
+      ],
+      "SceneID": 12022,
+      "coordinate": "25,17",
+      "direction": 0,
+      "id": 17,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "170": {
+      "Arrow": 0,
+      "GateID": [
+        171
+      ],
+      "SceneID": 16031,
+      "coordinate": "8,22",
+      "direction": 0,
+      "id": 170,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "171": {
+      "Arrow": 0,
+      "GateID": [
+        170
+      ],
+      "SceneID": 16031,
+      "coordinate": "8,18",
+      "direction": 0,
+      "id": 171,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "172": {
+      "Arrow": 0,
+      "GateID": [
+        173
+      ],
+      "SceneID": 16031,
+      "coordinate": "5,7",
+      "direction": 0,
+      "id": 172,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 2
+    },
+    "173": {
+      "Arrow": 0,
+      "GateID": [
+        172
+      ],
+      "SceneID": 16031,
+      "coordinate": "17,5",
+      "direction": 0,
+      "id": 173,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 2
+    },
+    "174": {
+      "Arrow": 0,
+      "GateID": [
+        175
+      ],
+      "SceneID": 16031,
+      "coordinate": "19,7",
+      "direction": 0,
+      "id": 174,
+      "minimapIcon": 12,
+      "path": "Gate5",
+      "type": 2
+    },
+    "175": {
+      "Arrow": 0,
+      "GateID": [
+        174
+      ],
+      "SceneID": 16031,
+      "coordinate": "24,9",
+      "direction": 0,
+      "id": 175,
+      "minimapIcon": 12,
+      "path": "Gate6",
+      "type": 2
+    },
+    "176": {
+      "Arrow": 0,
+      "GateID": [
+        177
+      ],
+      "SceneID": 16031,
+      "coordinate": "12,25",
+      "direction": 0,
+      "id": 176,
+      "minimapIcon": 12,
+      "path": "Gate7",
+      "type": 2
+    },
+    "177": {
+      "Arrow": 0,
+      "GateID": [
+        176
+      ],
+      "SceneID": 16031,
+      "coordinate": "18,29",
+      "direction": 0,
+      "id": 177,
+      "minimapIcon": 12,
+      "path": "Gate8",
+      "type": 2
+    },
+    "178": {
+      "Arrow": 0,
+      "GateID": [
+        179
+      ],
+      "SceneID": 16031,
+      "coordinate": "25,23",
+      "direction": 0,
+      "id": 178,
+      "minimapIcon": 12,
+      "path": "Gate9",
+      "type": 2
+    },
+    "179": {
+      "Arrow": 0,
+      "GateID": [
+        178
+      ],
+      "SceneID": 16031,
+      "coordinate": "19,18",
+      "direction": 0,
+      "id": 179,
+      "minimapIcon": 12,
+      "path": "Gate10",
+      "type": 2
+    },
+    "18": {
+      "Arrow": 0,
+      "GateID": [
+        17
+      ],
+      "SceneID": 12022,
+      "coordinate": "33,30",
+      "direction": 0,
+      "id": 18,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "180": {
+      "Arrow": 0,
+      "GateID": [
+        181
+      ],
+      "SceneID": 16025,
+      "coordinate": "14,2",
+      "direction": 0,
+      "id": 180,
+      "minimapIcon": 12,
+      "path": "Gate7",
+      "type": 2
+    },
+    "181": {
+      "Arrow": 0,
+      "GateID": [
+        180
+      ],
+      "SceneID": 16025,
+      "coordinate": "7,2",
+      "direction": 0,
+      "id": 181,
+      "minimapIcon": 12,
+      "path": "Gate8",
+      "type": 2
+    },
+    "182": {
+      "Arrow": 0,
+      "GateID": [
+        183
+      ],
+      "SceneID": 16025,
+      "coordinate": "24,7",
+      "direction": 0,
+      "id": 182,
+      "minimapIcon": 12,
+      "path": "Gate9",
+      "type": 2
+    },
+    "183": {
+      "Arrow": 0,
+      "GateID": [
+        182
+      ],
+      "SceneID": 16025,
+      "coordinate": "17,26",
+      "direction": 0,
+      "id": 183,
+      "minimapIcon": 12,
+      "path": "Gate10",
+      "type": 2
+    },
+    "21": {
+      "Arrow": 0,
+      "GateID": [
+        22
+      ],
+      "SceneID": 13011,
+      "coordinate": "14,4",
+      "direction": 0,
+      "id": 21,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "22": {
+      "Arrow": 0,
+      "GateID": [
+        21
+      ],
+      "SceneID": 13011,
+      "coordinate": "23,23",
+      "direction": 0,
+      "id": 22,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "23": {
+      "Arrow": 0,
+      "GateID": [
+        24
+      ],
+      "SceneID": 13031,
+      "coordinate": "18,22",
+      "direction": 0,
+      "id": 23,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "24": {
+      "Arrow": 0,
+      "GateID": [
+        23
+      ],
+      "SceneID": 13031,
+      "coordinate": "18,15",
+      "direction": 0,
+      "id": 24,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "25": {
+      "Arrow": 0,
+      "GateID": [
+        26
+      ],
+      "SceneID": 13034,
+      "coordinate": "11,32",
+      "direction": 1,
+      "id": 25,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 1
+    },
+    "26": {
+      "Arrow": 0,
+      "GateID": [
+        25,
+        33,
+        34
+      ],
+      "SceneID": 13034,
+      "coordinate": "40,26",
+      "direction": 2,
+      "id": 26,
+      "minimapIcon": 12,
+      "path": "Gate1_1",
+      "type": 1
+    },
+    "27": {
+      "Arrow": 0,
+      "GateID": [
+        28
+      ],
+      "SceneID": 13034,
+      "coordinate": "43,17",
+      "direction": 1,
+      "id": 27,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 1
+    },
+    "28": {
+      "Arrow": 0,
+      "GateID": [
+        27
+      ],
+      "SceneID": 13034,
+      "coordinate": "22,14",
+      "direction": 2,
+      "id": 28,
+      "minimapIcon": 12,
+      "path": "Gate2_1",
+      "type": 1
+    },
+    "29": {
+      "Arrow": 0,
+      "GateID": [
+        30
+      ],
+      "SceneID": 13034,
+      "coordinate": "24,21",
+      "direction": 1,
+      "id": 29,
+      "minimapIcon": 12,
+      "path": "Gate3",
+      "type": 1
+    },
+    "3": {
+      "Arrow": 0,
+      "GateID": [
+        4
+      ],
+      "SceneID": 12013,
+      "coordinate": "4,7",
+      "direction": 0,
+      "id": 3,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "30": {
+      "Arrow": 0,
+      "GateID": [
+        29,
+        48
+      ],
+      "SceneID": 13034,
+      "coordinate": "31,18",
+      "direction": 2,
+      "id": 30,
+      "minimapIcon": 12,
+      "path": "Gate3_1",
+      "type": 1
+    },
+    "31": {
+      "Arrow": 0,
+      "GateID": [
+        32
+      ],
+      "SceneID": 13034,
+      "coordinate": "32,13",
+      "direction": 1,
+      "id": 31,
+      "minimapIcon": 12,
+      "path": "Gate4",
+      "type": 1
+    },
+    "32": {
+      "Arrow": 0,
+      "GateID": [
+        31
+      ],
+      "SceneID": 13034,
+      "coordinate": "3,11",
+      "direction": 2,
+      "id": 32,
+      "minimapIcon": 12,
+      "path": "Gate4_1",
+      "type": 1
+    },
+    "33": {
+      "Arrow": 0,
+      "GateID": [
+        26
+      ],
+      "SceneID": 13034,
+      "coordinate": "11,3",
+      "direction": 1,
+      "id": 33,
+      "minimapIcon": 12,
+      "path": "Gate5",
+      "type": 1
+    },
+    "34": {
+      "Arrow": 0,
+      "GateID": [
+        26
+      ],
+      "SceneID": 13034,
+      "coordinate": "31,24",
+      "direction": 1,
+      "id": 34,
+      "minimapIcon": 12,
+      "path": "Gate6",
+      "type": 1
+    },
+    "35": {
+      "Arrow": 0,
+      "GateID": [
+        36
+      ],
+      "SceneID": 13034,
+      "coordinate": "17,21",
+      "direction": 1,
+      "id": 35,
+      "minimapIcon": 12,
+      "path": "Gate7",
+      "type": 1
+    },
+    "36": {
+      "Arrow": 0,
+      "GateID": [
+        35,
+        45
+      ],
+      "SceneID": 13034,
+      "coordinate": "12,21",
+      "direction": 2,
+      "id": 36,
+      "minimapIcon": 12,
+      "path": "Gate7_1",
+      "type": 1
+    },
+    "37": {
+      "Arrow": 0,
+      "GateID": [
+        38
+      ],
+      "SceneID": 13034,
+      "coordinate": "8,13",
+      "direction": 1,
+      "id": 37,
+      "minimapIcon": 12,
+      "path": "Gate8",
+      "type": 1
+    },
+    "38": {
+      "Arrow": 0,
+      "GateID": [
+        37
+      ],
+      "SceneID": 13034,
+      "coordinate": "24,32",
+      "direction": 2,
+      "id": 38,
+      "minimapIcon": 12,
+      "path": "Gate8_1",
+      "type": 1
+    },
+    "39": {
+      "Arrow": 0,
+      "GateID": [
+        40
+      ],
+      "SceneID": 13034,
+      "coordinate": "24,26",
+      "direction": 1,
+      "id": 39,
+      "minimapIcon": 12,
+      "path": "Gate9",
+      "type": 1
+    },
+    "4": {
+      "Arrow": 0,
+      "GateID": [
+        3
+      ],
+      "SceneID": 12013,
+      "coordinate": "15,27",
+      "direction": 0,
+      "id": 4,
+      "minimapIcon": 12,
+      "path": "Gate2",
+      "type": 2
+    },
+    "40": {
+      "Arrow": 0,
+      "GateID": [
+        39
+      ],
+      "SceneID": 13034,
+      "coordinate": "22,9",
+      "direction": 2,
+      "id": 40,
+      "minimapIcon": 12,
+      "path": "Gate9_1",
+      "type": 1
+    },
+    "41": {
+      "Arrow": 0,
+      "GateID": [
+        42
+      ],
+      "SceneID": 13034,
+      "coordinate": "25,5",
+      "direction": 1,
+      "id": 41,
+      "minimapIcon": 12,
+      "path": "Gate10",
+      "type": 1
+    },
+    "42": {
+      "Arrow": 0,
+      "GateID": [
+        41
+      ],
+      "SceneID": 13034,
+      "coordinate": "31,5",
+      "direction": 2,
+      "id": 42,
+      "minimapIcon": 12,
+      "path": "Gate10_1",
+      "type": 1
+    },
+    "43": {
+      "Arrow": 0,
+      "GateID": [
+        44
+      ],
+      "SceneID": 13034,
+      "coordinate": "4,17",
+      "direction": 1,
+      "id": 43,
+      "minimapIcon": 12,
+      "path": "Gate11",
+      "type": 1
+    },
+    "44": {
+      "Arrow": 0,
+      "GateID": [
+        43
+      ],
+      "SceneID": 13034,
+      "coordinate": "16,29",
+      "direction": 2,
+      "id": 44,
+      "minimapIcon": 12,
+      "path": "Gate11_1",
+      "type": 1
+    },
+    "45": {
+      "Arrow": 0,
+      "GateID": [
+        36
+      ],
+      "SceneID": 13034,
+      "coordinate": "17,25",
+      "direction": 1,
+      "id": 45,
+      "minimapIcon": 12,
+      "path": "Gate12",
+      "type": 1
+    },
+    "46": {
+      "Arrow": 0,
+      "GateID": [
+        47
+      ],
+      "SceneID": 13034,
+      "coordinate": "37,17",
+      "direction": 1,
+      "id": 46,
+      "minimapIcon": 12,
+      "path": "Gate13",
+      "type": 1
+    },
+    "47": {
+      "Arrow": 0,
+      "GateID": [
+        46,
+        49
+      ],
+      "SceneID": 13034,
+      "coordinate": "3,34",
+      "direction": 2,
+      "id": 47,
+      "minimapIcon": 12,
+      "path": "Gate13_1",
+      "type": 1
+    },
+    "48": {
+      "Arrow": 0,
+      "GateID": [
+        30
+      ],
+      "SceneID": 13034,
+      "coordinate": "34,27",
+      "direction": 1,
+      "id": 48,
+      "minimapIcon": 12,
+      "path": "Gate14",
+      "type": 1
+    },
+    "49": {
+      "Arrow": 0,
+      "GateID": [
+        47
+      ],
+      "SceneID": 13034,
+      "coordinate": "36,9",
+      "direction": 1,
+      "id": 49,
+      "minimapIcon": 12,
+      "path": "Gate15",
+      "type": 1
+    },
+    "50": {
+      "Arrow": 1,
+      "GateID": [
+        51
+      ],
+      "SceneID": 13032,
+      "coordinate": "5,39",
+      "direction": 1,
+      "id": 50,
+      "minimapIcon": 13,
+      "path": "Gate1",
+      "type": 1
+    },
+    "51": {
+      "Arrow": 0,
+      "GateID": [
+        50
+      ],
+      "SceneID": 13032,
+      "coordinate": "5,36",
+      "direction": 2,
+      "id": 51,
+      "minimapIcon": 12,
+      "path": "Gate1_1",
+      "type": 1
+    },
+    "52": {
+      "Arrow": 2,
+      "GateID": [
+        53
+      ],
+      "SceneID": 13032,
+      "coordinate": "6,34",
+      "direction": 1,
+      "id": 52,
+      "minimapIcon": 15,
+      "path": "Gate2",
+      "type": 1
+    },
+    "53": {
+      "Arrow": 0,
+      "GateID": [
+        52
+      ],
+      "SceneID": 13032,
+      "coordinate": "9,34",
+      "direction": 2,
+      "id": 53,
+      "minimapIcon": 12,
+      "path": "Gate2_1",
+      "type": 1
+    },
+    "54": {
+      "Arrow": 2,
+      "GateID": [
+        55
+      ],
+      "SceneID": 13032,
+      "coordinate": "13,34",
+      "direction": 1,
+      "id": 54,
+      "minimapIcon": 15,
+      "path": "Gate4",
+      "type": 1
+    },
+    "55": {
+      "Arrow": 0,
+      "GateID": [
+        54
+      ],
+      "SceneID": 13032,
+      "coordinate": "18,34",
+      "direction": 2,
+      "id": 55,
+      "minimapIcon": 12,
+      "path": "Gate4_1",
+      "type": 1
+    },
+    "56": {
+      "Arrow": 1,
+      "GateID": [
+        57
+      ],
+      "SceneID": 13032,
+      "coordinate": "25,30",
+      "direction": 1,
+      "id": 56,
+      "minimapIcon": 13,
+      "path": "Gate5",
+      "type": 1
+    },
+    "57": {
+      "Arrow": 0,
+      "GateID": [
+        56
+      ],
+      "SceneID": 13032,
+      "coordinate": "26,26",
+      "direction": 2,
+      "id": 57,
+      "minimapIcon": 12,
+      "path": "Gate5_1",
+      "type": 1
+    },
+    "58": {
+      "Arrow": 1,
+      "GateID": [
+        59
+      ],
+      "SceneID": 13032,
+      "coordinate": "27,22",
+      "direction": 1,
+      "id": 58,
+      "minimapIcon": 13,
+      "path": "Gate6",
+      "type": 1
+    },
+    "59": {
+      "Arrow": 0,
+      "GateID": [
+        58
+      ],
+      "SceneID": 13032,
+      "coordinate": "26,18",
+      "direction": 2,
+      "id": 59,
+      "minimapIcon": 12,
+      "path": "Gate6_1",
+      "type": 1
+    },
+    "60": {
+      "Arrow": 2,
+      "GateID": [
+        61
+      ],
+      "SceneID": 13032,
+      "coordinate": "28,17",
+      "direction": 1,
+      "id": 60,
+      "minimapIcon": 15,
+      "path": "Gate7",
+      "type": 1
+    },
+    "61": {
+      "Arrow": 0,
+      "GateID": [
+        60
+      ],
+      "SceneID": 13032,
+      "coordinate": "31,17",
+      "direction": 2,
+      "id": 61,
+      "minimapIcon": 12,
+      "path": "Gate7_1",
+      "type": 1
+    },
+    "62": {
+      "Arrow": 3,
+      "GateID": [
+        63
+      ],
+      "SceneID": 13032,
+      "coordinate": "33,21",
+      "direction": 1,
+      "id": 62,
+      "minimapIcon": 14,
+      "path": "Gate8",
+      "type": 1
+    },
+    "63": {
+      "Arrow": 0,
+      "GateID": [
+        62
+      ],
+      "SceneID": 13032,
+      "coordinate": "33,25",
+      "direction": 2,
+      "id": 63,
+      "minimapIcon": 12,
+      "path": "Gate8_1",
+      "type": 1
+    },
+    "64": {
+      "Arrow": 3,
+      "GateID": [
+        65
+      ],
+      "SceneID": 13032,
+      "coordinate": "32,27",
+      "direction": 1,
+      "id": 64,
+      "minimapIcon": 14,
+      "path": "Gate9",
+      "type": 1
+    },
+    "65": {
+      "Arrow": 0,
+      "GateID": [
+        64
+      ],
+      "SceneID": 13032,
+      "coordinate": "32,32",
+      "direction": 2,
+      "id": 65,
+      "minimapIcon": 12,
+      "path": "Gate9_1",
+      "type": 1
+    },
+    "66": {
+      "Arrow": 3,
+      "GateID": [
+        67
+      ],
+      "SceneID": 13032,
+      "coordinate": "32,34",
+      "direction": 1,
+      "id": 66,
+      "minimapIcon": 14,
+      "path": "Gate10",
+      "type": 1
+    },
+    "67": {
+      "Arrow": 0,
+      "GateID": [
+        66
+      ],
+      "SceneID": 13032,
+      "coordinate": "32,39",
+      "direction": 2,
+      "id": 67,
+      "minimapIcon": 12,
+      "path": "Gate10_1",
+      "type": 1
+    },
+    "68": {
+      "Arrow": 4,
+      "GateID": [
+        69
+      ],
+      "SceneID": 13032,
+      "coordinate": "19,40",
+      "direction": 1,
+      "id": 68,
+      "minimapIcon": 16,
+      "path": "Gate11",
+      "type": 1
+    },
+    "69": {
+      "Arrow": 0,
+      "GateID": [
+        68
+      ],
+      "SceneID": 13032,
+      "coordinate": "14,40",
+      "direction": 2,
+      "id": 69,
+      "minimapIcon": 12,
+      "path": "Gate11_1",
+      "type": 1
+    },
+    "70": {
+      "Arrow": 4,
+      "GateID": [
+        71
+      ],
+      "SceneID": 13032,
+      "coordinate": "10,42",
+      "direction": 1,
+      "id": 70,
+      "minimapIcon": 16,
+      "path": "Gate12",
+      "type": 1
+    },
+    "71": {
+      "Arrow": 0,
+      "GateID": [
+        70
+      ],
+      "SceneID": 13032,
+      "coordinate": "7,42",
+      "direction": 2,
+      "id": 71,
+      "minimapIcon": 12,
+      "path": "Gate12_1",
+      "type": 1
+    },
+    "72": {
+      "Arrow": 4,
+      "GateID": [
+        73
+      ],
+      "SceneID": 13032,
+      "coordinate": "25,16",
+      "direction": 1,
+      "id": 72,
+      "minimapIcon": 16,
+      "path": "Gate13",
+      "type": 1
+    },
+    "73": {
+      "Arrow": 0,
+      "GateID": [
+        72
+      ],
+      "SceneID": 13032,
+      "coordinate": "21,16",
+      "direction": 2,
+      "id": 73,
+      "minimapIcon": 12,
+      "path": "Gate13_1",
+      "type": 1
+    },
+    "74": {
+      "Arrow": 4,
+      "GateID": [
+        75
+      ],
+      "SceneID": 13032,
+      "coordinate": "19,17",
+      "direction": 1,
+      "id": 74,
+      "minimapIcon": 16,
+      "path": "Gate14",
+      "type": 1
+    },
+    "75": {
+      "Arrow": 0,
+      "GateID": [
+        74
+      ],
+      "SceneID": 13032,
+      "coordinate": "13,18",
+      "direction": 2,
+      "id": 75,
+      "minimapIcon": 12,
+      "path": "Gate14_1",
+      "type": 1
+    },
+    "76": {
+      "Arrow": 1,
+      "GateID": [
+        77
+      ],
+      "SceneID": 13032,
+      "coordinate": "11,15",
+      "direction": 1,
+      "id": 76,
+      "minimapIcon": 13,
+      "path": "Gate15",
+      "type": 1
+    },
+    "77": {
+      "Arrow": 0,
+      "GateID": [
+        76
+      ],
+      "SceneID": 13032,
+      "coordinate": "11,12",
+      "direction": 2,
+      "id": 77,
+      "minimapIcon": 12,
+      "path": "Gate15_1",
+      "type": 1
+    },
+    "78": {
+      "Arrow": 2,
+      "GateID": [
+        79
+      ],
+      "SceneID": 13032,
+      "coordinate": "13,10",
+      "direction": 1,
+      "id": 78,
+      "minimapIcon": 15,
+      "path": "Gate16",
+      "type": 1
+    },
+    "79": {
+      "Arrow": 0,
+      "GateID": [
+        78
+      ],
+      "SceneID": 13032,
+      "coordinate": "19,10",
+      "direction": 2,
+      "id": 79,
+      "minimapIcon": 12,
+      "path": "Gate16_1",
+      "type": 1
+    },
+    "80": {
+      "Arrow": 2,
+      "GateID": [
+        81
+      ],
+      "SceneID": 13032,
+      "coordinate": "21,11",
+      "direction": 1,
+      "id": 80,
+      "minimapIcon": 15,
+      "path": "Gate17",
+      "type": 1
+    },
+    "81": {
+      "Arrow": 0,
+      "GateID": [
+        80
+      ],
+      "SceneID": 13032,
+      "coordinate": "26,10",
+      "direction": 2,
+      "id": 81,
+      "minimapIcon": 12,
+      "path": "Gate17_1",
+      "type": 1
+    },
+    "82": {
+      "Arrow": 2,
+      "GateID": [
+        83
+      ],
+      "SceneID": 13032,
+      "coordinate": "28,12",
+      "direction": 1,
+      "id": 82,
+      "minimapIcon": 15,
+      "path": "Gate18",
+      "type": 1
+    },
+    "83": {
+      "Arrow": 0,
+      "GateID": [
+        82
+      ],
+      "SceneID": 13032,
+      "coordinate": "31,12",
+      "direction": 2,
+      "id": 83,
+      "minimapIcon": 12,
+      "path": "Gate18_1",
+      "type": 1
+    },
+    "84": {
+      "Arrow": 3,
+      "GateID": [
+        85
+      ],
+      "SceneID": 13032,
+      "coordinate": "20,20",
+      "direction": 1,
+      "id": 84,
+      "minimapIcon": 14,
+      "path": "Gate19",
+      "type": 1
+    },
+    "85": {
+      "Arrow": 0,
+      "GateID": [
+        84
+      ],
+      "SceneID": 13032,
+      "coordinate": "21,24",
+      "direction": 2,
+      "id": 85,
+      "minimapIcon": 12,
+      "path": "Gate19_1",
+      "type": 1
+    },
+    "86": {
+      "Arrow": 4,
+      "GateID": [
+        87
+      ],
+      "SceneID": 13032,
+      "coordinate": "19,26",
+      "direction": 1,
+      "id": 86,
+      "minimapIcon": 16,
+      "path": "Gate20",
+      "type": 1
+    },
+    "87": {
+      "Arrow": 0,
+      "GateID": [
+        86
+      ],
+      "SceneID": 13032,
+      "coordinate": "16,26",
+      "direction": 2,
+      "id": 87,
+      "minimapIcon": 12,
+      "path": "Gate20_1",
+      "type": 1
+    },
+    "88": {
+      "Arrow": 4,
+      "GateID": [
+        89
+      ],
+      "SceneID": 13032,
+      "coordinate": "13,27",
+      "direction": 1,
+      "id": 88,
+      "minimapIcon": 16,
+      "path": "Gate21",
+      "type": 1
+    },
+    "89": {
+      "Arrow": 0,
+      "GateID": [
+        88
+      ],
+      "SceneID": 13032,
+      "coordinate": "6,26",
+      "direction": 2,
+      "id": 89,
+      "minimapIcon": 12,
+      "path": "Gate21_1",
+      "type": 1
+    },
+    "9": {
+      "Arrow": 0,
+      "GateID": [
+        10
+      ],
+      "SceneID": 12018,
+      "coordinate": "21,18",
+      "direction": 0,
+      "id": 9,
+      "minimapIcon": 12,
+      "path": "Gate1",
+      "type": 2
+    },
+    "90": {
+      "Arrow": 1,
+      "GateID": [
+        91
+      ],
+      "SceneID": 13032,
+      "coordinate": "5,22",
+      "direction": 1,
+      "id": 90,
+      "minimapIcon": 13,
+      "path": "Gate22",
+      "type": 1
+    },
+    "91": {
+      "Arrow": 0,
+      "GateID": [
+        90
+      ],
+      "SceneID": 13032,
+      "coordinate": "5,18",
+      "direction": 2,
+      "id": 91,
+      "minimapIcon": 12,
+      "path": "Gate22_1",
+      "type": 1
+    },
+    "92": {
+      "Arrow": 2,
+      "GateID": [
+        93
+      ],
+      "SceneID": 13032,
+      "coordinate": "5,12",
+      "direction": 1,
+      "id": 92,
+      "minimapIcon": 15,
+      "path": "Gate23",
+      "type": 1
+    },
+    "93": {
+      "Arrow": 0,
+      "GateID": [
+        92
+      ],
+      "SceneID": 13032,
+      "coordinate": "9,11",
+      "direction": 2,
+      "id": 93,
+      "minimapIcon": 12,
+      "path": "Gate23_1",
+      "type": 1
+    },
+    "94": {
+      "Arrow": 2,
+      "GateID": [
+        95
+      ],
+      "SceneID": 13032,
+      "coordinate": "13,5",
+      "direction": 1,
+      "id": 94,
+      "minimapIcon": 15,
+      "path": "Gate24",
+      "type": 1
+    },
+    "95": {
+      "Arrow": 0,
+      "GateID": [
+        94
+      ],
+      "SceneID": 13032,
+      "coordinate": "19,4",
+      "direction": 2,
+      "id": 95,
+      "minimapIcon": 12,
+      "path": "Gate24_1",
+      "type": 1
+    },
+    "96": {
+      "Arrow": 2,
+      "GateID": [
+        97
+      ],
+      "SceneID": 13032,
+      "coordinate": "27,5",
+      "direction": 1,
+      "id": 96,
+      "minimapIcon": 15,
+      "path": "Gate25",
+      "type": 1
+    },
+    "97": {
+      "Arrow": 0,
+      "GateID": [
+        96
+      ],
+      "SceneID": 13032,
+      "coordinate": "32,5",
+      "direction": 2,
+      "id": 97,
+      "minimapIcon": 12,
+      "path": "Gate25_1",
+      "type": 1
+    },
+    "98": {
+      "Arrow": 3,
+      "GateID": [
+        99
+      ],
+      "SceneID": 13032,
+      "coordinate": "33,7",
+      "direction": 1,
+      "id": 98,
+      "minimapIcon": 14,
+      "path": "Gate26",
+      "type": 1
+    },
+    "99": {
+      "Arrow": 0,
+      "GateID": [
+        98
+      ],
+      "SceneID": 13032,
+      "coordinate": "34,11",
+      "direction": 2,
+      "id": 99,
+      "minimapIcon": 12,
+      "path": "Gate26_1",
+      "type": 1
+    }
+  }
+}

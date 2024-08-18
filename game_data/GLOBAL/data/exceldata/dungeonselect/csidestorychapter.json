@@ -1,0 +1,33 @@
+{
+  "AllIds": [
+    101
+  ],
+  "Data": {
+    "101": {
+      "chapternumname": "破碎断片",
+      "chapternumnametxt": 1900408,
+      "charsideuiprefab": 1,
+      "floorlist": [
+        5001,
+        5002,
+        5003,
+        5004,
+        5005,
+        5006
+      ],
+      "id": 101,
+      "selectroleback": 12236,
+      "selectstageeffect": 1083,
+      "sidestoryroleid": 100,
+      "sidestorytitle": "德亚丝的支线",
+      "sidestorytitletxt": 1900410,
+      "stagebackground": 12245,
+      "stagebackgroundeffect": 1074,
+      "stageinillu": 1017,
+      "unlockStageid": -1,
+      "unlockdialog": "“我的选择，轮不到你们来指手画脚。”",
+      "unlockdialogtxt": 1900412,
+      "unlockitem": 31091
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "AllIds": [
+    6349,
+    6350,
+    6351,
+    6352,
+    6357,
+    6358,
+    6359,
+    6360,
+    6373,
+    6374,
+    6375,
+    6376
+  ],
+  "Data": {
+    "6349": {
+      "id": 6349,
+      "image": 13249,
+      "nameTextID": 1901021,
+      "points": 3000,
+      "recommendpoints": 3900
+    },
+    "6350": {
+      "id": 6350,
+      "image": 13250,
+      "nameTextID": 1901022,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6351": {
+      "id": 6351,
+      "image": 13248,
+      "nameTextID": 1901023,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6352": {
+      "id": 6352,
+      "image": 13251,
+      "nameTextID": 1901024,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6357": {
+      "id": 6357,
+      "image": 13424,
+      "nameTextID": 1901186,
+      "points": 3000,
+      "recommendpoints": 3900
+    },
+    "6358": {
+      "id": 6358,
+      "image": 13425,
+      "nameTextID": 1901187,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6359": {
+      "id": 6359,
+      "image": 13426,
+      "nameTextID": 1901188,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6360": {
+      "id": 6360,
+      "image": 13427,
+      "nameTextID": 1901189,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6373": {
+      "id": 6373,
+      "image": 13554,
+      "nameTextID": 1901199,
+      "points": 3000,
+      "recommendpoints": 3900
+    },
+    "6374": {
+      "id": 6374,
+      "image": 13552,
+      "nameTextID": 1901200,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6375": {
+      "id": 6375,
+      "image": 13553,
+      "nameTextID": 1901201,
+      "points": 1500,
+      "recommendpoints": 2400
+    },
+    "6376": {
+      "id": 6376,
+      "image": 13551,
+      "nameTextID": 1901202,
+      "points": 1500,
+      "recommendpoints": 2400
+    }
+  }
+}

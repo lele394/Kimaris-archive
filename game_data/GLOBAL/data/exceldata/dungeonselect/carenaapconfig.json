@@ -1,0 +1,18 @@
+{
+  "AllIds": [
+    1
+  ],
+  "Data": [
+    {
+      "apCost": 1,
+      "apLimit": 5,
+      "exchangeScoreCost": [
+        5,
+        8,
+        10
+      ],
+      "exchangeTimes": 3,
+      "id": 1
+    }
+  ]
+}

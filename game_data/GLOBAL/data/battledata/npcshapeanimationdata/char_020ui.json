@@ -1,0 +1,29 @@
+{
+  "Attack": {
+    "endEventFrames": 60
+  },
+  "AttackEnd": {
+    "endEventFrames": 1
+  },
+  "AttackLoop": {
+    "endEventFrames": 24
+  },
+  "AttackStart": {
+    "endEventFrames": 18
+  },
+  "Magic": {
+    "endEventFrames": 109
+  },
+  "MagicEnd": {
+    "endEventFrames": 1
+  },
+  "MagicLoop": {
+    "endEventFrames": 24
+  },
+  "MagicStart": {
+    "endEventFrames": 18
+  },
+  "Move": {
+    "endEventFrames": 1
+  }
+}

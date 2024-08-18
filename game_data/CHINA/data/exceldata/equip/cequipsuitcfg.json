@@ -1,0 +1,69 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "image": 10341,
+      "showtype": 1,
+      "txtid": 1500001
+    },
+    {
+      "id": 2,
+      "image": 10338,
+      "showtype": 1,
+      "txtid": 1500002
+    },
+    {
+      "id": 3,
+      "image": 10316,
+      "showtype": 1,
+      "txtid": 1500003
+    },
+    {
+      "id": 4,
+      "image": 10319,
+      "showtype": 1,
+      "txtid": 1500004
+    },
+    {
+      "id": 5,
+      "image": 10322,
+      "showtype": 1,
+      "txtid": 1500005
+    },
+    {
+      "id": 6,
+      "image": 10325,
+      "showtype": 1,
+      "txtid": 1500006
+    },
+    {
+      "id": 7,
+      "image": 10328,
+      "showtype": 1,
+      "txtid": 1500007
+    },
+    {
+      "id": 8,
+      "image": 0,
+      "showtype": 2,
+      "txtid": 1500008
+    },
+    {
+      "id": 9,
+      "image": 0,
+      "showtype": 2,
+      "txtid": 1500013
+    }
+  ]
+}

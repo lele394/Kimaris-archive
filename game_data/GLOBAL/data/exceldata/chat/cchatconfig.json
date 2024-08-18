@@ -1,0 +1,20 @@
+{
+  "AllIds": [
+    1
+  ],
+  "Data": [
+    {
+      "channelautonum": 500,
+      "channelmax": 30,
+      "channelmaxnum": 700,
+      "channelmin": 1,
+      "charactermax": 200,
+      "chatpoptime": 10,
+      "id": 1,
+      "period": 5,
+      "repeatmax": 2,
+      "repeattime": 60,
+      "waiting": 60
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "AllIds": [
+    10007,
+    10015,
+    10047,
+    9001701,
+    9001702,
+    9001703,
+    40001417,
+    40001418
+  ],
+  "Data": {
+    "10007": {
+      "bossbattleid": 10011,
+      "bosspos": "50,-210",
+      "bossscale": "1.2",
+      "bossshapeid": 20163,
+      "eventid": 6001,
+      "id": 10007,
+      "name": "命运的化身",
+      "nametextid": 1900576,
+      "rankingmarkpic": 13010,
+      "rankingmarktxt": 1900768,
+      "tapimageid": 13020
+    },
+    "10015": {
+      "bossbattleid": 10016,
+      "bosspos": "31,-293",
+      "bossscale": "1.1",
+      "bossshapeid": 20164,
+      "eventid": 6001,
+      "id": 10015,
+      "name": "绝・命运的化身",
+      "nametextid": 1900577,
+      "rankingmarkpic": 13011,
+      "rankingmarktxt": 1900769,
+      "tapimageid": 13021
+    },
+    "10047": {
+      "bossbattleid": 11117,
+      "bosspos": "50,-210",
+      "bossscale": "1.2",
+      "bossshapeid": 20163,
+      "eventid": 47001,
+      "id": 10047,
+      "name": "命运的化身",
+      "nametextid": 1900576,
+      "rankingmarkpic": 13010,
+      "rankingmarktxt": 1900768,
+      "tapimageid": 13020
+    },
+    "40001417": {
+      "bossbattleid": 11157,
+      "bosspos": "70,-300",
+      "bossscale": "0.5",
+      "bossshapeid": 20209,
+      "eventid": 40001,
+      "id": 40001417,
+      "name": "枯萎之心",
+      "nametextid": 1901710,
+      "rankingmarkpic": 13010,
+      "rankingmarktxt": 1900768,
+      "tapimageid": 15648
+    },
+    "40001418": {
+      "bossbattleid": 11158,
+      "bosspos": "70,-300",
+      "bossscale": "0.5",
+      "bossshapeid": 20216,
+      "eventid": 40001,
+      "id": 40001418,
+      "name": "枯萎之心",
+      "nametextid": 1901710,
+      "rankingmarkpic": 13011,
+      "rankingmarktxt": 1900769,
+      "tapimageid": 15649
+    },
+    "9001701": {
+      "bossbattleid": 10094,
+      "bosspos": "0,-279",
+      "bossscale": "0.7",
+      "bossshapeid": 20030,
+      "eventid": 9001,
+      "id": 9001701,
+      "name": "小西瓜",
+      "nametextid": 701335,
+      "rankingmarkpic": 13011,
+      "rankingmarktxt": 1900769,
+      "tapimageid": 19004
+    },
+    "9001702": {
+      "bossbattleid": 10095,
+      "bosspos": "0,-163",
+      "bossscale": "0.6",
+      "bossshapeid": 20006,
+      "eventid": 9001,
+      "id": 9001702,
+      "name": "大西瓜",
+      "nametextid": 701336,
+      "rankingmarkpic": 13011,
+      "rankingmarktxt": 1900769,
+      "tapimageid": 10995
+    },
+    "9001703": {
+      "bossbattleid": 10096,
+      "bosspos": "42,-202",
+      "bossscale": "0.9",
+      "bossshapeid": 20016,
+      "eventid": 9001,
+      "id": 9001703,
+      "name": "战斗西瓜",
+      "nametextid": 701337,
+      "rankingmarkpic": 13011,
+      "rankingmarktxt": 1900769,
+      "tapimageid": 10996
+    }
+  }
+}

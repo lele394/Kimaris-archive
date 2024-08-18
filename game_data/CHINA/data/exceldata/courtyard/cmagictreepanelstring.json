@@ -1,0 +1,90 @@
+{
+  "AllIds": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700
+  ],
+  "Data": {
+    "100": {
+      "id": 100,
+      "illustration": 11900,
+      "scenariostring": [
+        800092,
+        800093,
+        800094
+      ],
+      "stayingfunction": 800104,
+      "stayingnumber": -1
+    },
+    "200": {
+      "id": 200,
+      "illustration": 11901,
+      "scenariostring": [
+        800098,
+        800099,
+        800100
+      ],
+      "stayingfunction": 800088,
+      "stayingnumber": 1439
+    },
+    "300": {
+      "id": 300,
+      "illustration": 11902,
+      "scenariostring": [
+        800101,
+        800102,
+        800103
+      ],
+      "stayingfunction": 800105,
+      "stayingnumber": -1
+    },
+    "400": {
+      "id": 400,
+      "illustration": 11903,
+      "scenariostring": [
+        800089,
+        800090,
+        800091
+      ],
+      "stayingfunction": 800086,
+      "stayingnumber": 1439
+    },
+    "500": {
+      "id": 500,
+      "illustration": 11904,
+      "scenariostring": [
+        800095,
+        800096,
+        800097
+      ],
+      "stayingfunction": 800087,
+      "stayingnumber": 1330
+    },
+    "600": {
+      "id": 600,
+      "illustration": 11904,
+      "scenariostring": [
+        800185,
+        800186,
+        800187
+      ],
+      "stayingfunction": 800184,
+      "stayingnumber": 1439
+    },
+    "700": {
+      "id": 700,
+      "illustration": 11904,
+      "scenariostring": [
+        800192,
+        800192,
+        800192
+      ],
+      "stayingfunction": 800315,
+      "stayingnumber": -1
+    }
+  }
+}

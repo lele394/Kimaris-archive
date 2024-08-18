@@ -1,0 +1,65 @@
+{
+  "Attack": {
+    "endEventFrames": 24
+  },
+  "AttackEnd": {
+    "endEventFrames": 1
+  },
+  "AttackLoop": {
+    "endEventFrames": 21
+  },
+  "AttackStart": {
+    "endEventFrames": 1
+  },
+  "DeadDisappear": {
+    "endEventFrames": 44
+  },
+  "Magic1": {
+    "endEventFrames": 61
+  },
+  "Magic2": {
+    "endEventFrames": 67
+  },
+  "Magic2End": {
+    "endEventFrames": 24
+  },
+  "Magic2Loop": {
+    "endEventFrames": 10
+  },
+  "Magic2Start": {
+    "endEventFrames": 18
+  },
+  "Magic3": {
+    "endEventFrames": 73
+  },
+  "Magic3End": {
+    "endEventFrames": 18
+  },
+  "Magic3Loop": {
+    "endEventFrames": 10
+  },
+  "Magic3Start": {
+    "endEventFrames": 18
+  },
+  "Magic4": {
+    "endEventFrames": 119
+  },
+  "Magic5": {
+    "endEventFrames": 291
+  },
+  "MagicEnd": {
+    "endEventFrames": 1
+  },
+  "MagicLoop": {
+    "endEventFrames": 80
+  },
+  "MagicStart": {
+    "endEventFrames": 8
+  },
+  "Move": {
+    "endEventFrames": 1
+  },
+  "Special": {
+    "endEventFrames": 60
+  }
+}

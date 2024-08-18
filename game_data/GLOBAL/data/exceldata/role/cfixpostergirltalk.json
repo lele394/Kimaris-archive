@@ -1,0 +1,30 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3
+  ],
+  "Data": [
+    {
+      "SkipTime": 1,
+      "Voice_id": 0,
+      "content": "阵亡人偶的灵魂会收到不同程度的破损。",
+      "id": 1,
+      "time": "0.02"
+    },
+    {
+      "SkipTime": 1,
+      "Voice_id": 0,
+      "content": "放心吧，我会将他们修复。",
+      "id": 2,
+      "time": "0.02"
+    },
+    {
+      "SkipTime": 1,
+      "Voice_id": 0,
+      "content": "您的人偶马上就可以使用。",
+      "id": 3,
+      "time": "0.02"
+    }
+  ]
+}

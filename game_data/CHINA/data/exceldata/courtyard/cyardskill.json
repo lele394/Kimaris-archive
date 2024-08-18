@@ -1,0 +1,132 @@
+{
+  "AllIds": [
+    1001,
+    1002,
+    1003,
+    2001,
+    2002,
+    2003,
+    3001,
+    3002,
+    3003
+  ],
+  "Data": {
+    "1001": {
+      "alchemyProbability": 0,
+      "alchemyType": "",
+      "desc": "探索<color=#8CECFAff>异界之镜</color>时副产物掉落概率提升<color=#FFCA65ff>6%</color>。",
+      "descTextID": 800038,
+      "dormEmotion": 0,
+      "exploreSecondary": 6,
+      "functionID": 200,
+      "id": 1001,
+      "image": 10966,
+      "name": "新手",
+      "nameTextID": 800032
+    },
+    "1002": {
+      "alchemyProbability": 0,
+      "alchemyType": "",
+      "desc": "探索<color=#8CECFAff>异界之镜</color>时副产物掉落概率提升<color=#FFCA65ff>8%</color>。",
+      "descTextID": 800039,
+      "dormEmotion": 0,
+      "exploreSecondary": 8,
+      "functionID": 200,
+      "id": 1002,
+      "image": 10966,
+      "name": "探险队",
+      "nameTextID": 800033
+    },
+    "1003": {
+      "alchemyProbability": 0,
+      "alchemyType": "",
+      "desc": "探索<color=#8CECFAff>异界之镜</color>时副产物掉落概率提升<color=#FFCA65ff>10%</color>。",
+      "descTextID": 800073,
+      "dormEmotion": 0,
+      "exploreSecondary": 10,
+      "functionID": 200,
+      "id": 1003,
+      "image": 10966,
+      "name": "冒险大师",
+      "nameTextID": 800070
+    },
+    "2001": {
+      "alchemyProbability": 6,
+      "alchemyType": "2",
+      "desc": "对<color=#FBFAA5ff>结晶</color>进行炼金时，副产物产出概率提升<color=#FFCA65ff>6%</color>。",
+      "descTextID": 800040,
+      "dormEmotion": 0,
+      "exploreSecondary": 0,
+      "functionID": 400,
+      "id": 2001,
+      "image": 10965,
+      "name": "合成术",
+      "nameTextID": 800034
+    },
+    "2002": {
+      "alchemyProbability": 8,
+      "alchemyType": "2",
+      "desc": "对<color=#FBFAA5ff>结晶</color>进行炼金时，副产物产出概率提升<color=#FFCA65ff>8%</color>。",
+      "descTextID": 800041,
+      "dormEmotion": 0,
+      "exploreSecondary": 0,
+      "functionID": 400,
+      "id": 2002,
+      "image": 10965,
+      "name": "炼金术",
+      "nameTextID": 800035
+    },
+    "2003": {
+      "alchemyProbability": 10,
+      "alchemyType": "2",
+      "desc": "对<color=#FBFAA5ff>结晶</color>进行炼金时，副产物产出概率提升<color=#FFCA65ff>10%</color>。",
+      "descTextID": 800074,
+      "dormEmotion": 0,
+      "exploreSecondary": 0,
+      "functionID": 400,
+      "id": 2003,
+      "image": 10965,
+      "name": "点石成金",
+      "nameTextID": 800071
+    },
+    "3001": {
+      "alchemyProbability": 0,
+      "alchemyType": "",
+      "desc": "入驻<color=#B4F59Bff>小屋</color>时，该层所有人偶精力恢复速度提升<color=#FFCA65ff>6%</color>。",
+      "descTextID": 800042,
+      "dormEmotion": 6,
+      "exploreSecondary": 0,
+      "functionID": 500,
+      "id": 3001,
+      "image": 11505,
+      "name": "家务新手",
+      "nameTextID": 800036
+    },
+    "3002": {
+      "alchemyProbability": 0,
+      "alchemyType": "",
+      "desc": "入驻<color=#B4F59Bff>小屋</color>时，该层所有人偶精力恢复速度提升<color=#FFCA65ff>8%</color>。",
+      "descTextID": 800043,
+      "dormEmotion": 8,
+      "exploreSecondary": 0,
+      "functionID": 500,
+      "id": 3002,
+      "image": 11505,
+      "name": "家务达人",
+      "nameTextID": 800037
+    },
+    "3003": {
+      "alchemyProbability": 0,
+      "alchemyType": "",
+      "desc": "入驻<color=#B4F59Bff>小屋</color>时，该层所有人偶精力恢复速度提升<color=#FFCA65ff>10%</color>。",
+      "descTextID": 800075,
+      "dormEmotion": 10,
+      "exploreSecondary": 0,
+      "functionID": 500,
+      "id": 3003,
+      "image": 11505,
+      "name": "全能管家",
+      "nameTextID": 800072
+    }
+  }
+}

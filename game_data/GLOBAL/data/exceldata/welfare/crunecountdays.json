@@ -1,0 +1,18 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "dayCount": "100",
+      "dialogId": "31",
+      "id": 1
+    },
+    {
+      "dayCount": "365",
+      "dialogId": "32",
+      "id": 2
+    }
+  ]
+}

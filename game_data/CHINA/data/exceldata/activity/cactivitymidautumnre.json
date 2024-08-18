@@ -1,0 +1,64 @@
+{
+  "AllIds": [
+    12001,
+    12002
+  ],
+  "Data": {
+    "12001": {
+      "MoneyId": 35032,
+      "ResourceName": [
+        "ActivityMidAutumnMain",
+        "ActivityMidAutumnMainItemBuy",
+        "ActivityMidAutumnMainItemCell"
+      ],
+      "ResourcePath": [
+        "ui/layouts.activitymidautumn",
+        "ui/layouts.activitymidautumn",
+        "ui/layouts.activitymidautumn"
+      ],
+      "TimelineId": 2012,
+      "WordId": [
+        701947,
+        701948,
+        701949,
+        701950,
+        701951,
+        701952,
+        701953,
+        701954,
+        701955,
+        701305,
+        701958
+      ],
+      "id": 12001
+    },
+    "12002": {
+      "MoneyId": 35057,
+      "ResourceName": [
+        "ActivityEasterDayMain",
+        "ActivityEasterDayMainItemBuy",
+        "ActivityEasterDayMainItemCell"
+      ],
+      "ResourcePath": [
+        "ui/layouts.activityeasterday",
+        "ui/layouts.activityeasterday",
+        "ui/layouts.activityeasterday"
+      ],
+      "TimelineId": 2038,
+      "WordId": [
+        701947,
+        701948,
+        701949,
+        701956,
+        701957,
+        701952,
+        701953,
+        701954,
+        701955,
+        701305,
+        701958
+      ],
+      "id": 12002
+    }
+  }
+}

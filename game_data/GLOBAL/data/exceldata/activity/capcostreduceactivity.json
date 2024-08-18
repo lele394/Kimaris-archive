@@ -1,0 +1,13 @@
+{
+  "AllIds": [
+    1001
+  ],
+  "Data": {
+    "1001": {
+      "apTimes": 0.5,
+      "floorList": "1,2,3,4,5",
+      "id": 1001,
+      "resourceDungeon": "201,202,203"
+    }
+  }
+}

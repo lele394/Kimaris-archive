@@ -1,0 +1,201 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "itemAmount": [
+        100
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 1,
+      "playerAmount": 1,
+      "preID": 6
+    },
+    {
+      "id": 2,
+      "itemAmount": [
+        100
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 1,
+      "playerAmount": 2,
+      "preID": 7
+    },
+    {
+      "id": 3,
+      "itemAmount": [
+        200
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 1,
+      "playerAmount": 3,
+      "preID": 8
+    },
+    {
+      "id": 4,
+      "itemAmount": [
+        200
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 1,
+      "playerAmount": 4,
+      "preID": 9
+    },
+    {
+      "id": 5,
+      "itemAmount": [
+        200
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 1,
+      "playerAmount": 5,
+      "preID": 10
+    },
+    {
+      "id": 6,
+      "itemAmount": [
+        200
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 5,
+      "playerAmount": 1,
+      "preID": 11
+    },
+    {
+      "id": 7,
+      "itemAmount": [
+        200
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 5,
+      "playerAmount": 2,
+      "preID": 12
+    },
+    {
+      "id": 8,
+      "itemAmount": [
+        300
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 5,
+      "playerAmount": 3,
+      "preID": 13
+    },
+    {
+      "id": 9,
+      "itemAmount": [
+        300
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 5,
+      "playerAmount": 4,
+      "preID": 14
+    },
+    {
+      "id": 10,
+      "itemAmount": [
+        300
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 5,
+      "playerAmount": 5,
+      "preID": 15
+    },
+    {
+      "id": 11,
+      "itemAmount": [
+        300
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 10,
+      "playerAmount": 1,
+      "preID": 0
+    },
+    {
+      "id": 12,
+      "itemAmount": [
+        300
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 10,
+      "playerAmount": 2,
+      "preID": 0
+    },
+    {
+      "id": 13,
+      "itemAmount": [
+        400
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 10,
+      "playerAmount": 3,
+      "preID": 0
+    },
+    {
+      "id": 14,
+      "itemAmount": [
+        400
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 10,
+      "playerAmount": 4,
+      "preID": 0
+    },
+    {
+      "id": 15,
+      "itemAmount": [
+        400
+      ],
+      "itemID": [
+        35008
+      ],
+      "level": 10,
+      "playerAmount": 5,
+      "preID": 0
+    }
+  ]
+}

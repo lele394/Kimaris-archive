@@ -1,0 +1,134 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "Data": [
+    {
+      "closeTime": "2022-02-22 04:00:00",
+      "id": 1,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-02-15 04:00:00"
+    },
+    {
+      "closeTime": "2022-03-22 03:59:59",
+      "id": 2,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-03-15 04:00:00"
+    },
+    {
+      "closeTime": "2022-04-19 03:59:59",
+      "id": 3,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-04-12 04:00:00"
+    },
+    {
+      "closeTime": "2022-05-17 03:59:59",
+      "id": 4,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-05-10 04:00:00"
+    },
+    {
+      "closeTime": "2022-06-14 03:59:59",
+      "id": 5,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-06-07 04:00:00"
+    },
+    {
+      "closeTime": "2022-07-12 03:59:59",
+      "id": 6,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-07-05 04:00:00"
+    },
+    {
+      "closeTime": "2022-08-09 03:59:59",
+      "id": 7,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-08-02 04:00:00"
+    },
+    {
+      "closeTime": "2022-09-06 03:59:59",
+      "id": 8,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-08-30 04:00:00"
+    },
+    {
+      "closeTime": "2022-10-04 03:59:59",
+      "id": 9,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-09-27 04:00:00"
+    },
+    {
+      "closeTime": "2022-11-01 03:59:59",
+      "id": 10,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-10-25 04:00:00"
+    },
+    {
+      "closeTime": "2022-11-29 03:59:59",
+      "id": 11,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-11-22 04:00:00"
+    },
+    {
+      "closeTime": "2022-12-27 03:59:59",
+      "id": 12,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2022-12-20 04:00:00"
+    },
+    {
+      "closeTime": "2023-01-24 03:59:59",
+      "id": 13,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2023-01-17 04:00:00"
+    },
+    {
+      "closeTime": "2023-02-21 03:59:59",
+      "id": 14,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2023-02-14 04:00:00"
+    },
+    {
+      "closeTime": "2023-03-21 03:59:59",
+      "id": 15,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2023-03-14 04:00:00"
+    },
+    {
+      "closeTime": "2023-04-18 03:59:59",
+      "id": 16,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2023-04-11 04:00:00"
+    }
+  ]
+}

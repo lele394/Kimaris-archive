@@ -1,0 +1,19 @@
+{
+  "AllIds": [
+    1
+  ],
+  "Data": [
+    {
+      "callItem": 35042,
+      "callNum": 1,
+      "charTalk": [
+        1053019,
+        1010018,
+        101103015
+      ],
+      "convertNum": 1,
+      "id": 1,
+      "maxReward": 700
+    }
+  ]
+}

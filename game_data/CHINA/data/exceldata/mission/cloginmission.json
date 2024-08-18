@@ -1,0 +1,146 @@
+{
+  "AllIds": [
+    120001,
+    120002,
+    120003,
+    120004,
+    120005
+  ],
+  "Data": {
+    "120001": {
+      "UIjumpvalue": 16,
+      "description": [
+        "庆生准备第一日。瑟兰雅正在读父亲信件时，被路过的魔女偶然听到，魔女发现瑟兰雅的生日就在最近，决定为最近过生日的人庆生。",
+        "目标地点：2-2 森之西",
+        "直直向前走，会看到一棵显眼的大树。"
+      ],
+      "descriptionTextID": [
+        1001554,
+        1001559,
+        1001564
+      ],
+      "endevent": 1,
+      "id": 120001,
+      "itemid": 31252,
+      "itemnum": 1,
+      "jumpAim": 6,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionnameTextID": 1001553,
+      "missiontype": 12,
+      "progresspath": [
+        "1,1"
+      ]
+    },
+    "120002": {
+      "UIjumpvalue": 16,
+      "description": [
+        "庆生准备第二日。魔女了解一番后，发现夏尔和凯瑟琳的生日也在最近，爱珐怜和莉莉娅决定来参加庆生的准备。",
+        "目标地点：2-3 林中空地",
+        "还记得那只黑猫吗？找找它的旁边或许会有收获。"
+      ],
+      "descriptionTextID": [
+        1001555,
+        1001560,
+        1001565
+      ],
+      "endevent": 2,
+      "id": 120002,
+      "itemid": 31253,
+      "itemnum": 1,
+      "jumpAim": 7,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionnameTextID": 1001553,
+      "missiontype": 12,
+      "progresspath": [
+        "2,1"
+      ]
+    },
+    "120003": {
+      "UIjumpvalue": 16,
+      "description": [
+        "庆生准备第三日。爱珐怜和莉莉娅，在蛋糕怎样做更漂亮上出现了分歧。托奈兰也在交谈中参与进来。",
+        "目标地点：2-5 商业区",
+        "遇见过毛虫兄弟的地方，就能找到你想要的。"
+      ],
+      "descriptionTextID": [
+        1001556,
+        1001561,
+        1001566
+      ],
+      "endevent": 3,
+      "id": 120003,
+      "itemid": 31254,
+      "itemnum": 1,
+      "jumpAim": 9,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionnameTextID": 1001553,
+      "missiontype": 12,
+      "progresspath": [
+        "3,1"
+      ]
+    },
+    "120004": {
+      "UIjumpvalue": 16,
+      "description": [
+        "庆生准备第四日。生日蛋糕终于做好了，魔女和大家决定将庆生现场布置的更华丽些。",
+        "目标地点：2-7 哨戒营",
+        "可以扳动的机关处，有一些可收集的食材。"
+      ],
+      "descriptionTextID": [
+        1001557,
+        1001562,
+        1001567
+      ],
+      "endevent": 4,
+      "id": 120004,
+      "itemid": 31255,
+      "itemnum": 1,
+      "jumpAim": 11,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionnameTextID": 1001553,
+      "missiontype": 12,
+      "progresspath": [
+        "4,1"
+      ]
+    },
+    "120005": {
+      "UIjumpvalue": 16,
+      "description": [
+        "庆生准备第五日。瑟兰雅、夏尔、凯瑟琳被魔女邀请到庆生现场，众人为她们庆祝了生日，并且各自许下了愿望。",
+        "目标地点：2-11 艾琳岛",
+        "走到场景尽头吧，在进入下一地区前留意周围。"
+      ],
+      "descriptionTextID": [
+        1001558,
+        1001563,
+        1001568
+      ],
+      "endevent": 5,
+      "id": 120005,
+      "itemid": 31256,
+      "itemnum": 1,
+      "jumpAim": 15,
+      "jumptype": 2,
+      "jumpvalue": [
+        0
+      ],
+      "missionnameTextID": 1001553,
+      "missiontype": 12,
+      "progresspath": [
+        "5,1"
+      ]
+    }
+  }
+}

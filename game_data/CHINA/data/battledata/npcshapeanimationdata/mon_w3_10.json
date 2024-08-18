@@ -1,0 +1,35 @@
+{
+  "Attack": {
+    "endEventFrames": 24
+  },
+  "DeadDisappear": {
+    "endEventFrames": 50
+  },
+  "LogicBattleEnd": {
+    "endEventFrames": 11
+  },
+  "Magic": {
+    "endEventFrames": 31
+  },
+  "Magic2": {
+    "endEventFrames": 31
+  },
+  "Magic2a": {
+    "endEventFrames": 26
+  },
+  "Magic2b": {
+    "endEventFrames": 26
+  },
+  "Magic2loop": {
+    "endEventFrames": 31
+  },
+  "Magic2s": {
+    "endEventFrames": 156
+  },
+  "Magic3": {
+    "endEventFrames": 22
+  },
+  "Move": {
+    "endEventFrames": 1
+  }
+}

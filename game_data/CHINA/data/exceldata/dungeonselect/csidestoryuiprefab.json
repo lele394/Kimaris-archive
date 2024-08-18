@@ -1,0 +1,32 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "grouptxtboard": 12113,
+      "id": 1,
+      "stagemainnodelock": 12116,
+      "stagemainnodeunlock": 12115,
+      "stagemenuboard": 12114,
+      "stageprogresslock": 12119,
+      "stageprogressunlock": 12118,
+      "suggestlvltxtboard": 12120,
+      "worldname": "奇洛拉",
+      "worldtxtboard": 12112
+    },
+    {
+      "grouptxtboard": 12113,
+      "id": 2,
+      "stagemainnodelock": 12116,
+      "stagemainnodeunlock": 12115,
+      "stagemenuboard": 12114,
+      "stageprogresslock": 12119,
+      "stageprogressunlock": 12118,
+      "suggestlvltxtboard": 12120,
+      "worldname": "奇洛拉",
+      "worldtxtboard": 12112
+    }
+  ]
+}

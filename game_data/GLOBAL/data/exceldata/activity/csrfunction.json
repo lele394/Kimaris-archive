@@ -1,0 +1,346 @@
+{
+  "AllIds": [
+    46001101,
+    46001102,
+    46001103,
+    46001104,
+    46001105,
+    46001106,
+    46001107,
+    46001108,
+    46001201,
+    46001202,
+    46001203,
+    46001204,
+    46001205,
+    46001206,
+    46001207,
+    46001208,
+    46001301,
+    46001302,
+    46001303,
+    46001304,
+    46001305,
+    46001306,
+    46001307,
+    46001308,
+    46001309,
+    46001310,
+    46001401,
+    46001402,
+    46001501,
+    46001601,
+    46001602,
+    46001603,
+    46001604,
+    46001605
+  ],
+  "Data": {
+    "46001101": {
+      "condition": 0,
+      "destribeTextID": 702474,
+      "id": 46001101,
+      "levelID": 0,
+      "sectionID": 1,
+      "tagName": 702276,
+      "type": 1
+    },
+    "46001102": {
+      "condition": 46001201,
+      "destribeTextID": 702475,
+      "id": 46001102,
+      "levelID": 0,
+      "sectionID": 3,
+      "tagName": 702277,
+      "type": 1
+    },
+    "46001103": {
+      "condition": 46001202,
+      "destribeTextID": 702476,
+      "id": 46001103,
+      "levelID": 0,
+      "sectionID": 5,
+      "tagName": 702278,
+      "type": 1
+    },
+    "46001104": {
+      "condition": 46001203,
+      "destribeTextID": 702477,
+      "id": 46001104,
+      "levelID": 0,
+      "sectionID": 7,
+      "tagName": 702279,
+      "type": 1
+    },
+    "46001105": {
+      "condition": 46001204,
+      "destribeTextID": 702478,
+      "id": 46001105,
+      "levelID": 0,
+      "sectionID": 9,
+      "tagName": 702280,
+      "type": 1
+    },
+    "46001106": {
+      "condition": 46001205,
+      "destribeTextID": 702479,
+      "id": 46001106,
+      "levelID": 0,
+      "sectionID": 11,
+      "tagName": 702281,
+      "type": 1
+    },
+    "46001107": {
+      "condition": 46001206,
+      "destribeTextID": 702480,
+      "id": 46001107,
+      "levelID": 0,
+      "sectionID": 13,
+      "tagName": 702282,
+      "type": 1
+    },
+    "46001108": {
+      "condition": 46001207,
+      "destribeTextID": 702481,
+      "id": 46001108,
+      "levelID": 0,
+      "sectionID": 15,
+      "tagName": 702283,
+      "type": 1
+    },
+    "46001201": {
+      "condition": 46001101,
+      "destribeTextID": 702482,
+      "id": 46001201,
+      "levelID": 20101,
+      "sectionID": 2,
+      "tagName": 702284,
+      "type": 2
+    },
+    "46001202": {
+      "condition": 46001102,
+      "destribeTextID": 702465,
+      "id": 46001202,
+      "levelID": 20201,
+      "sectionID": 4,
+      "tagName": 702285,
+      "type": 2
+    },
+    "46001203": {
+      "condition": 46001103,
+      "destribeTextID": 702466,
+      "id": 46001203,
+      "levelID": 20301,
+      "sectionID": 6,
+      "tagName": 702286,
+      "type": 2
+    },
+    "46001204": {
+      "condition": 46001104,
+      "destribeTextID": 702467,
+      "id": 46001204,
+      "levelID": 20401,
+      "sectionID": 8,
+      "tagName": 702287,
+      "type": 2
+    },
+    "46001205": {
+      "condition": 46001105,
+      "destribeTextID": 702468,
+      "id": 46001205,
+      "levelID": 20501,
+      "sectionID": 10,
+      "tagName": 702288,
+      "type": 2
+    },
+    "46001206": {
+      "condition": 46001106,
+      "destribeTextID": 702469,
+      "id": 46001206,
+      "levelID": 20601,
+      "sectionID": 12,
+      "tagName": 702289,
+      "type": 2
+    },
+    "46001207": {
+      "condition": 46001107,
+      "destribeTextID": 702470,
+      "id": 46001207,
+      "levelID": 20701,
+      "sectionID": 14,
+      "tagName": 702290,
+      "type": 2
+    },
+    "46001208": {
+      "condition": 46001108,
+      "destribeTextID": 702471,
+      "id": 46001208,
+      "levelID": 20801,
+      "sectionID": 16,
+      "tagName": 702291,
+      "type": 2
+    },
+    "46001301": {
+      "condition": 46001203,
+      "destribeTextID": 702472,
+      "id": 46001301,
+      "levelID": 30101,
+      "sectionID": 0,
+      "tagName": 702292,
+      "type": 3
+    },
+    "46001302": {
+      "condition": 46001301,
+      "destribeTextID": 702472,
+      "id": 46001302,
+      "levelID": 30201,
+      "sectionID": 0,
+      "tagName": 702298,
+      "type": 3
+    },
+    "46001303": {
+      "condition": 46001302,
+      "destribeTextID": 702472,
+      "id": 46001303,
+      "levelID": 30301,
+      "sectionID": 0,
+      "tagName": 702299,
+      "type": 3
+    },
+    "46001304": {
+      "condition": 46001303,
+      "destribeTextID": 702472,
+      "id": 46001304,
+      "levelID": 30401,
+      "sectionID": 0,
+      "tagName": 702300,
+      "type": 3
+    },
+    "46001305": {
+      "condition": 46001304,
+      "destribeTextID": 702472,
+      "id": 46001305,
+      "levelID": 30501,
+      "sectionID": 0,
+      "tagName": 702301,
+      "type": 3
+    },
+    "46001306": {
+      "condition": 46001208,
+      "destribeTextID": 702473,
+      "id": 46001306,
+      "levelID": 30601,
+      "sectionID": 0,
+      "tagName": 702293,
+      "type": 3
+    },
+    "46001307": {
+      "condition": 46001306,
+      "destribeTextID": 702473,
+      "id": 46001307,
+      "levelID": 30701,
+      "sectionID": 0,
+      "tagName": 702303,
+      "type": 3
+    },
+    "46001308": {
+      "condition": 46001307,
+      "destribeTextID": 702473,
+      "id": 46001308,
+      "levelID": 30801,
+      "sectionID": 0,
+      "tagName": 702304,
+      "type": 3
+    },
+    "46001309": {
+      "condition": 46001308,
+      "destribeTextID": 702473,
+      "id": 46001309,
+      "levelID": 30901,
+      "sectionID": 0,
+      "tagName": 702305,
+      "type": 3
+    },
+    "46001310": {
+      "condition": 46001309,
+      "destribeTextID": 702473,
+      "id": 46001310,
+      "levelID": 31001,
+      "sectionID": 0,
+      "tagName": 702306,
+      "type": 3
+    },
+    "46001401": {
+      "condition": 46001203,
+      "destribeTextID": 702294,
+      "id": 46001401,
+      "levelID": 52,
+      "sectionID": 0,
+      "tagName": 702294,
+      "type": 4
+    },
+    "46001402": {
+      "condition": 46001203,
+      "destribeTextID": 702294,
+      "id": 46001402,
+      "levelID": 53,
+      "sectionID": 0,
+      "tagName": 702294,
+      "type": 4
+    },
+    "46001501": {
+      "condition": 46001101,
+      "destribeTextID": 702295,
+      "id": 46001501,
+      "levelID": 0,
+      "sectionID": 0,
+      "tagName": 702295,
+      "type": 5
+    },
+    "46001601": {
+      "condition": 46001208,
+      "destribeTextID": 702296,
+      "id": 46001601,
+      "levelID": 60101,
+      "sectionID": 17,
+      "tagName": 702296,
+      "type": 6
+    },
+    "46001602": {
+      "condition": 46001208,
+      "destribeTextID": 702296,
+      "id": 46001602,
+      "levelID": 62021,
+      "sectionID": 0,
+      "tagName": 702296,
+      "type": 6
+    },
+    "46001603": {
+      "condition": 46001208,
+      "destribeTextID": 702296,
+      "id": 46001603,
+      "levelID": 60301,
+      "sectionID": 0,
+      "tagName": 702296,
+      "type": 6
+    },
+    "46001604": {
+      "condition": 46001208,
+      "destribeTextID": 702296,
+      "id": 46001604,
+      "levelID": 60401,
+      "sectionID": 0,
+      "tagName": 702296,
+      "type": 6
+    },
+    "46001605": {
+      "condition": 46001208,
+      "destribeTextID": 702296,
+      "id": 46001605,
+      "levelID": 60501,
+      "sectionID": 19,
+      "tagName": 702296,
+      "type": 6
+    }
+  }
+}

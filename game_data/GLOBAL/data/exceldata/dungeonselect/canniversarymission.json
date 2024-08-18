@@ -1,0 +1,306 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "Data": [
+    {
+      "battlecount": 3,
+      "eventid": 1,
+      "id": 1,
+      "itemid": 31386,
+      "itemnum": 5,
+      "levelid": 40001401,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 1,
+      "id": 2,
+      "itemid": 31383,
+      "itemnum": 5,
+      "levelid": 40001404,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 2,
+      "id": 3,
+      "itemid": 31389,
+      "itemnum": 5,
+      "levelid": 40001402,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 2,
+      "id": 4,
+      "itemid": 31380,
+      "itemnum": 5,
+      "levelid": 40001405,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 3,
+      "id": 5,
+      "itemid": 31383,
+      "itemnum": 5,
+      "levelid": 40001403,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 3,
+      "id": 6,
+      "itemid": 31386,
+      "itemnum": 5,
+      "levelid": 40001406,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 4,
+      "id": 7,
+      "itemid": 31380,
+      "itemnum": 5,
+      "levelid": 40001401,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 4,
+      "id": 8,
+      "itemid": 31389,
+      "itemnum": 5,
+      "levelid": 40001404,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 5,
+      "id": 9,
+      "itemid": 31386,
+      "itemnum": 5,
+      "levelid": 40001402,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 5,
+      "id": 10,
+      "itemid": 31383,
+      "itemnum": 5,
+      "levelid": 40001405,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 6,
+      "id": 11,
+      "itemid": 31389,
+      "itemnum": 5,
+      "levelid": 40001403,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 6,
+      "id": 12,
+      "itemid": 31380,
+      "itemnum": 5,
+      "levelid": 40001406,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 7,
+      "id": 13,
+      "itemid": 31383,
+      "itemnum": 5,
+      "levelid": 40001404,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 7,
+      "id": 14,
+      "itemid": 31386,
+      "itemnum": 5,
+      "levelid": 40001407,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 8,
+      "id": 15,
+      "itemid": 31380,
+      "itemnum": 5,
+      "levelid": 40001401,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 8,
+      "id": 16,
+      "itemid": 31387,
+      "itemnum": 5,
+      "levelid": 40001409,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 9,
+      "id": 17,
+      "itemid": 31386,
+      "itemnum": 5,
+      "levelid": 40001402,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 9,
+      "id": 18,
+      "itemid": 31390,
+      "itemnum": 5,
+      "levelid": 40001410,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 10,
+      "id": 19,
+      "itemid": 31389,
+      "itemnum": 5,
+      "levelid": 40001403,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 10,
+      "id": 20,
+      "itemid": 31384,
+      "itemnum": 5,
+      "levelid": 40001411,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 11,
+      "id": 21,
+      "itemid": 31383,
+      "itemnum": 5,
+      "levelid": 40001404,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 11,
+      "id": 22,
+      "itemid": 31381,
+      "itemnum": 5,
+      "levelid": 40001412,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 12,
+      "id": 23,
+      "itemid": 31380,
+      "itemnum": 5,
+      "levelid": 40001405,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 12,
+      "id": 24,
+      "itemid": 31387,
+      "itemnum": 5,
+      "levelid": 40001413,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 13,
+      "id": 25,
+      "itemid": 31386,
+      "itemnum": 5,
+      "levelid": 40001406,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 13,
+      "id": 26,
+      "itemid": 31390,
+      "itemnum": 5,
+      "levelid": 40001414,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 14,
+      "id": 27,
+      "itemid": 31389,
+      "itemnum": 5,
+      "levelid": 40001407,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 14,
+      "id": 28,
+      "itemid": 31384,
+      "itemnum": 5,
+      "levelid": 40001415,
+      "missiontype": 2
+    },
+    {
+      "battlecount": 3,
+      "eventid": 15,
+      "id": 29,
+      "itemid": 31380,
+      "itemnum": 5,
+      "levelid": 40001401,
+      "missiontype": 1
+    },
+    {
+      "battlecount": 3,
+      "eventid": 15,
+      "id": 30,
+      "itemid": 31387,
+      "itemnum": 5,
+      "levelid": 40001409,
+      "missiontype": 2
+    }
+  ]
+}

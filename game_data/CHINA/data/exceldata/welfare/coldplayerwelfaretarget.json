@@ -1,0 +1,316 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "itemID": 35002,
+      "itemNum": 200000,
+      "payItemID": [
+        35008
+      ],
+      "payItemNum": [
+        100
+      ],
+      "target": 30,
+      "targetType": 2
+    },
+    {
+      "id": 2,
+      "itemID": 35008,
+      "itemNum": 100,
+      "payItemID": [
+        35008,
+        31038
+      ],
+      "payItemNum": [
+        200,
+        2
+      ],
+      "target": 45,
+      "targetType": 2
+    },
+    {
+      "id": 3,
+      "itemID": 30076,
+      "itemNum": 1,
+      "payItemID": [
+        30076,
+        74001
+      ],
+      "payItemNum": [
+        1,
+        50
+      ],
+      "target": 60,
+      "targetType": 2
+    },
+    {
+      "id": 4,
+      "itemID": 70002,
+      "itemNum": 2,
+      "payItemID": [
+        79002,
+        74002
+      ],
+      "payItemNum": [
+        40,
+        50
+      ],
+      "target": 75,
+      "targetType": 2
+    },
+    {
+      "id": 5,
+      "itemID": 30076,
+      "itemNum": 2,
+      "payItemID": [
+        30076,
+        35026
+      ],
+      "payItemNum": [
+        1,
+        200
+      ],
+      "target": 90,
+      "targetType": 2
+    },
+    {
+      "id": 6,
+      "itemID": 70003,
+      "itemNum": 1,
+      "payItemID": [
+        30076,
+        79004
+      ],
+      "payItemNum": [
+        2,
+        2
+      ],
+      "target": 100,
+      "targetType": 2
+    },
+    {
+      "id": 7,
+      "itemID": 31038,
+      "itemNum": 1,
+      "payItemID": [
+        35008
+      ],
+      "payItemNum": [
+        100
+      ],
+      "target": 7,
+      "targetType": 1
+    },
+    {
+      "id": 8,
+      "itemID": 35008,
+      "itemNum": 100,
+      "payItemID": [
+        35008,
+        79002
+      ],
+      "payItemNum": [
+        100,
+        20
+      ],
+      "target": 15,
+      "targetType": 1
+    },
+    {
+      "id": 9,
+      "itemID": 30076,
+      "itemNum": 1,
+      "payItemID": [
+        74004,
+        74005
+      ],
+      "payItemNum": [
+        20,
+        20
+      ],
+      "target": 30,
+      "targetType": 1
+    },
+    {
+      "id": 10,
+      "itemID": 79001,
+      "itemNum": 100,
+      "payItemID": [
+        30076,
+        70002
+      ],
+      "payItemNum": [
+        1,
+        5
+      ],
+      "target": 60,
+      "targetType": 1
+    },
+    {
+      "id": 11,
+      "itemID": 30076,
+      "itemNum": 1,
+      "payItemID": [
+        30076,
+        79004
+      ],
+      "payItemNum": [
+        2,
+        1
+      ],
+      "target": 90,
+      "targetType": 1
+    },
+    {
+      "id": 12,
+      "itemID": 79002,
+      "itemNum": 40,
+      "payItemID": [
+        31721
+      ],
+      "payItemNum": [
+        1
+      ],
+      "target": 120,
+      "targetType": 1
+    },
+    {
+      "id": 13,
+      "itemID": 30076,
+      "itemNum": 3,
+      "payItemID": [
+        30076,
+        70003
+      ],
+      "payItemNum": [
+        5,
+        1
+      ],
+      "target": 180,
+      "targetType": 1
+    },
+    {
+      "id": 14,
+      "itemID": 74000,
+      "itemNum": 40,
+      "payItemID": [
+        35008
+      ],
+      "payItemNum": [
+        200
+      ],
+      "target": 60,
+      "targetType": 3
+    },
+    {
+      "id": 15,
+      "itemID": 30076,
+      "itemNum": 1,
+      "payItemID": [
+        31380,
+        31383
+      ],
+      "payItemNum": [
+        20,
+        20
+      ],
+      "target": 300,
+      "targetType": 3
+    },
+    {
+      "id": 16,
+      "itemID": 70002,
+      "itemNum": 2,
+      "payItemID": [
+        31386,
+        31389
+      ],
+      "payItemNum": [
+        20,
+        20
+      ],
+      "target": 680,
+      "targetType": 3
+    },
+    {
+      "id": 17,
+      "itemID": 30076,
+      "itemNum": 2,
+      "payItemID": [
+        30076,
+        79002
+      ],
+      "payItemNum": [
+        2,
+        40
+      ],
+      "target": 1280,
+      "targetType": 3
+    },
+    {
+      "id": 18,
+      "itemID": 70003,
+      "itemNum": 1,
+      "payItemID": [
+        35026,
+        70002
+      ],
+      "payItemNum": [
+        500,
+        5
+      ],
+      "target": 3280,
+      "targetType": 3
+    },
+    {
+      "id": 19,
+      "itemID": 30076,
+      "itemNum": 3,
+      "payItemID": [
+        30077,
+        70003
+      ],
+      "payItemNum": [
+        1,
+        1
+      ],
+      "target": 6480,
+      "targetType": 3
+    },
+    {
+      "id": 20,
+      "itemID": 30076,
+      "itemNum": 5,
+      "payItemID": [
+        95029
+      ],
+      "payItemNum": [
+        1
+      ],
+      "target": 13000,
+      "targetType": 3
+    }
+  ]
+}

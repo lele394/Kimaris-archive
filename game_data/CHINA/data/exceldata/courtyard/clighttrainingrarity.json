@@ -1,0 +1,38 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "manatransfer": 25,
+      "trainingraritypicid": 12096,
+      "trainingraritytxtid": 800163,
+      "trainingunlocklvl": 1
+    },
+    {
+      "id": 2,
+      "manatransfer": 25,
+      "trainingraritypicid": 12097,
+      "trainingraritytxtid": 800164,
+      "trainingunlocklvl": 2
+    },
+    {
+      "id": 3,
+      "manatransfer": 25,
+      "trainingraritypicid": 12098,
+      "trainingraritytxtid": 800165,
+      "trainingunlocklvl": 3
+    },
+    {
+      "id": 4,
+      "manatransfer": 25,
+      "trainingraritypicid": 12382,
+      "trainingraritytxtid": 800166,
+      "trainingunlocklvl": 3
+    }
+  ]
+}

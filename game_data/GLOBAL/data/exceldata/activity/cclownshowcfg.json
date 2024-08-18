@@ -1,0 +1,36 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "Data": [
+    {
+      "clowntype": "BattleIdle",
+      "id": 1,
+      "text": 701814
+    },
+    {
+      "clowntype": "BattleIdle",
+      "id": 2,
+      "text": 701815
+    },
+    {
+      "clowntype": "Weak",
+      "id": 3,
+      "text": 701816
+    },
+    {
+      "clowntype": "Weak",
+      "id": 4,
+      "text": 701817
+    },
+    {
+      "clowntype": "Down",
+      "id": 5,
+      "text": 701818
+    }
+  ]
+}

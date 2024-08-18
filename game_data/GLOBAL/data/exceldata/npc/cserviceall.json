@@ -1,0 +1,86 @@
+{
+  "AllIds": [
+    10001,
+    10002,
+    10003,
+    10004,
+    10005,
+    10006,
+    10007,
+    10008
+  ],
+  "Data": {
+    "10001": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10001,
+      "isrepeat": 0,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10002": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10002,
+      "isrepeat": 0,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10003": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10003,
+      "isrepeat": 0,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10004": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10004,
+      "isrepeat": 0,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10005": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10005,
+      "isrepeat": 0,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10006": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10006,
+      "isrepeat": 1,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10007": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10007,
+      "isrepeat": 1,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    },
+    "10008": {
+      "childservice": [],
+      "effect": 0,
+      "id": 10008,
+      "isrepeat": 0,
+      "quick": 1,
+      "servicedescribe": "",
+      "severStr": ""
+    }
+  }
+}

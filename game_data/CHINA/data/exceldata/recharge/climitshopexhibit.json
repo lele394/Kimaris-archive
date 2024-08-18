@@ -1,0 +1,42 @@
+{
+  "AllIds": [
+    21,
+    22,
+    54,
+    55
+  ],
+  "Data": {
+    "21": {
+      "eventid": 6001,
+      "id": 21,
+      "roleid": 42,
+      "rolepos": "-382,24,0",
+      "rolescale": "1",
+      "shoptitletxt": 1100071
+    },
+    "22": {
+      "eventid": 6001,
+      "id": 22,
+      "roleid": 42,
+      "rolepos": "-382,24,0",
+      "rolescale": "1",
+      "shoptitletxt": 1100072
+    },
+    "54": {
+      "eventid": 6001,
+      "id": 54,
+      "roleid": 42,
+      "rolepos": "-382,24,0",
+      "rolescale": "1",
+      "shoptitletxt": 1100071
+    },
+    "55": {
+      "eventid": 6001,
+      "id": 55,
+      "roleid": 42,
+      "rolepos": "-382,24,0",
+      "rolescale": "1",
+      "shoptitletxt": 1100072
+    }
+  }
+}

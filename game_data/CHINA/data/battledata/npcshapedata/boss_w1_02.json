@@ -1,0 +1,58 @@
+{
+  "BOSS_TX_w1_02_Stand": {
+    "x": 0,
+    "y": 0,
+    "z": 544
+  },
+  "HitPoint": {
+    "x": 103,
+    "y": 954,
+    "z": -555
+  },
+  "HitPoint_Alarm": {
+    "x": 149,
+    "y": 1167,
+    "z": -500
+  },
+  "HitPoint_Body": {
+    "x": 89,
+    "y": 1149,
+    "z": -555
+  },
+  "HitPoint_Bottom": {
+    "x": 0,
+    "y": 0,
+    "z": -555
+  },
+  "HitPoint_Bottom2": {
+    "x": 977,
+    "y": 0,
+    "z": -555
+  },
+  "HitPoint_Head": {
+    "x": 290,
+    "y": 1533,
+    "z": -108
+  },
+  "Leafs": {
+    "x": 0,
+    "y": 0,
+    "z": 544
+  },
+  "attackColliserOffect": {
+    "x": 3700,
+    "y": 819
+  },
+  "attackColliserSize": {
+    "x": 8399,
+    "y": 1769
+  },
+  "attackedColliserOffect": {
+    "x": 73,
+    "y": 787
+  },
+  "attackedColliserSize": {
+    "x": 199,
+    "y": 1559
+  }
+}

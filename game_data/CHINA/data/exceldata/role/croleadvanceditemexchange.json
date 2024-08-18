@@ -1,0 +1,114 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "Data": [
+    {
+      "exchangeItem": 31381,
+      "exchangeNum": 1,
+      "id": 1,
+      "itemNum": 3,
+      "itemQuality": 1,
+      "nowItem": 31380
+    },
+    {
+      "exchangeItem": 31384,
+      "exchangeNum": 1,
+      "id": 2,
+      "itemNum": 3,
+      "itemQuality": 1,
+      "nowItem": 31383
+    },
+    {
+      "exchangeItem": 31387,
+      "exchangeNum": 1,
+      "id": 3,
+      "itemNum": 3,
+      "itemQuality": 1,
+      "nowItem": 31386
+    },
+    {
+      "exchangeItem": 31390,
+      "exchangeNum": 1,
+      "id": 4,
+      "itemNum": 3,
+      "itemQuality": 1,
+      "nowItem": 31389
+    },
+    {
+      "exchangeItem": 31382,
+      "exchangeNum": 1,
+      "id": 5,
+      "itemNum": 3,
+      "itemQuality": 2,
+      "nowItem": 31381
+    },
+    {
+      "exchangeItem": 31388,
+      "exchangeNum": 1,
+      "id": 6,
+      "itemNum": 3,
+      "itemQuality": 2,
+      "nowItem": 31387
+    },
+    {
+      "exchangeItem": 31385,
+      "exchangeNum": 1,
+      "id": 7,
+      "itemNum": 3,
+      "itemQuality": 2,
+      "nowItem": 31384
+    },
+    {
+      "exchangeItem": 31391,
+      "exchangeNum": 1,
+      "id": 8,
+      "itemNum": 3,
+      "itemQuality": 2,
+      "nowItem": 31390
+    },
+    {
+      "exchangeItem": 31410,
+      "exchangeNum": 1,
+      "id": 9,
+      "itemNum": 3,
+      "itemQuality": 3,
+      "nowItem": 31382
+    },
+    {
+      "exchangeItem": 31411,
+      "exchangeNum": 1,
+      "id": 10,
+      "itemNum": 3,
+      "itemQuality": 3,
+      "nowItem": 31388
+    },
+    {
+      "exchangeItem": 31412,
+      "exchangeNum": 1,
+      "id": 11,
+      "itemNum": 3,
+      "itemQuality": 3,
+      "nowItem": 31385
+    },
+    {
+      "exchangeItem": 31413,
+      "exchangeNum": 1,
+      "id": 12,
+      "itemNum": 3,
+      "itemQuality": 3,
+      "nowItem": 31391
+    }
+  ]
+}

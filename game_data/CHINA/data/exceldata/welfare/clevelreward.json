@@ -1,0 +1,94 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "Data": [
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 1,
+      "itemID": [
+        35001
+      ],
+      "level": 5
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 2,
+      "itemID": [
+        35001
+      ],
+      "level": 10
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 3,
+      "itemID": [
+        35001
+      ],
+      "level": 15
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 4,
+      "itemID": [
+        35001
+      ],
+      "level": 20
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 5,
+      "itemID": [
+        35001
+      ],
+      "level": 25
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 6,
+      "itemID": [
+        35001
+      ],
+      "level": 30
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 7,
+      "itemID": [
+        35001
+      ],
+      "level": 35
+    },
+    {
+      "ItemNum": [
+        60
+      ],
+      "id": 8,
+      "itemID": [
+        35001
+      ],
+      "level": 40
+    }
+  ]
+}

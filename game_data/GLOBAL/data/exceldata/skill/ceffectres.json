@@ -1,0 +1,841 @@
+{
+  "AllIds": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049,
+    1050,
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1057,
+    1058,
+    1059,
+    1060,
+    1061,
+    1062,
+    1063,
+    1064,
+    1065,
+    1066,
+    1067,
+    1068,
+    1069,
+    1070,
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1078,
+    1079,
+    1080,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1090,
+    1091,
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099,
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    1109,
+    1110,
+    1111,
+    1112,
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    1122,
+    1123,
+    1124,
+    1125,
+    1126,
+    1127,
+    1128,
+    1129,
+    1130,
+    1131,
+    1132,
+    1133,
+    1134,
+    1135,
+    1136,
+    1137,
+    1138,
+    1139,
+    1140,
+    1141,
+    1142,
+    1143,
+    1144,
+    1145,
+    1146,
+    1147,
+    1148,
+    1149,
+    1150,
+    1151,
+    1152,
+    1153,
+    1154,
+    1155,
+    1156,
+    1157,
+    1158,
+    1159,
+    1160,
+    1161,
+    1162,
+    1163,
+    1164,
+    1165,
+    1166,
+    1167
+  ],
+  "Data": {
+    "1001": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_TempLevelUp.prefab",
+      "id": 1001
+    },
+    "1002": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_GuideClick_alone.prefab",
+      "id": 1002
+    },
+    "1003": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_zhaohuan_R.prefab",
+      "id": 1003
+    },
+    "1004": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_zhaohuan_SR.prefab",
+      "id": 1004
+    },
+    "1005": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_zhaohuan_SSR.prefab",
+      "id": 1005
+    },
+    "1006": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_zhuangbeifumo.prefab",
+      "id": 1006
+    },
+    "1007": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_zhuangbeiqianghua.prefab",
+      "id": 1007
+    },
+    "1008": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_jinhua.prefab",
+      "id": 1008
+    },
+    "1009": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_XuanXiang.prefab",
+      "id": 1009
+    },
+    "1010": {
+      "effectPath": "Effects/Particles/Prefabs/Weather_TX_Prefab_XueDi_JiaoYin.prefab",
+      "id": 1010
+    },
+    "1011": {
+      "effectPath": "Effects/Particles/Prefabs/Weather_TX_Prefab_XiaoYu.prefab",
+      "id": 1011
+    },
+    "1012": {
+      "effectPath": "Effects/Particles/Prefabs/Weather_TX_Prefab_XiaoXue.prefab",
+      "id": 1012
+    },
+    "1013": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_Ka_R.prefab",
+      "id": 1013
+    },
+    "1014": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_Ka_SR.prefab",
+      "id": 1014
+    },
+    "1015": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_Ka_SSR.prefab",
+      "id": 1015
+    },
+    "1016": {
+      "effectPath": "Effects/Particles/Prefabs/UIModalBack.prefab",
+      "id": 1016
+    },
+    "1017": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_guanqia_xuan_hui.prefab",
+      "id": 1017
+    },
+    "1018": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_guanqia_xuan_dalan.prefab",
+      "id": 1018
+    },
+    "1019": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_guanqia_xuan_dalan.prefab",
+      "id": 1019
+    },
+    "1020": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_guanqia_xuan_xiaohui.prefab",
+      "id": 1020
+    },
+    "1021": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_guanqia_xuan_xiaolan.prefab",
+      "id": 1021
+    },
+    "1022": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_TuPo.prefab",
+      "id": 1022
+    },
+    "1023": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_yinghuochong_baise.prefab",
+      "id": 1023
+    },
+    "1024": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_yinghuochong_lanse.prefab",
+      "id": 1024
+    },
+    "1025": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_yinghuochong_huang.prefab",
+      "id": 1025
+    },
+    "1026": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_mana_fankui.prefab",
+      "id": 1026
+    },
+    "1027": {
+      "effectPath": "Effects/Particles/Prefabs/TingYuan_TX_shu_white.prefab",
+      "id": 1027
+    },
+    "1028": {
+      "effectPath": "Effects/Particles/Prefabs/TingYuan_TX_shu_blue.prefab",
+      "id": 1028
+    },
+    "1029": {
+      "effectPath": "Effects/Particles/Prefabs/TingYuan_TX_shu_gold.prefab",
+      "id": 1029
+    },
+    "1030": {
+      "effectPath": "Effects/Particles/Prefabs/TingYuan_TX_shu_collect.prefab",
+      "id": 1030
+    },
+    "1031": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_100.prefab",
+      "id": 1031
+    },
+    "1032": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_zidong_X2.prefab",
+      "id": 1032
+    },
+    "1033": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_TempLevelUp_loop.prefab",
+      "id": 1033
+    },
+    "1034": {
+      "effectPath": "Effects/Particles/Prefabs/Sence_TX_Prefab_Mana_fly.prefab",
+      "id": 1034
+    },
+    "1035": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_JieSuo.prefab",
+      "id": 1035
+    },
+    "1036": {
+      "effectPath": "Effects/Particles/Prefabs/Sence_TX_Prefab_JingZi_click.prefab",
+      "id": 1036
+    },
+    "1037": {
+      "effectPath": "Effects/Particles/Prefabs/TX_Prefab_Death.prefab",
+      "id": 1037
+    },
+    "1038": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_NLT_Alone.prefab",
+      "id": 1038
+    },
+    "1039": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_NLT.prefab",
+      "id": 1039
+    },
+    "1040": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_NLT_liudong_alone.prefab",
+      "id": 1040
+    },
+    "1041": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_nengliangmange_zi_alone.prefab",
+      "id": 1041
+    },
+    "1042": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_jindutiao.prefab",
+      "id": 1042
+    },
+    "1043": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_jindutiao1.prefab",
+      "id": 1043
+    },
+    "1044": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_NLT_liudong.prefab",
+      "id": 1044
+    },
+    "1045": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_nengliangmange_zi.prefab",
+      "id": 1045
+    },
+    "1046": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_nengliangmange.prefab",
+      "id": 1046
+    },
+    "1047": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_baodian_zi_battle_guide.prefab",
+      "id": 1047
+    },
+    "1048": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_baodian_zi_alone.prefab",
+      "id": 1048
+    },
+    "1049": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_baodian_zi.prefab",
+      "id": 1049
+    },
+    "1050": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_baodian_huang.prefab",
+      "id": 1050
+    },
+    "1051": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ZhanDou_ChongNeng.prefab",
+      "id": 1051
+    },
+    "1052": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_SkillPanel.prefab",
+      "id": 1052
+    },
+    "1053": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_SkillPanel_zidong.prefab",
+      "id": 1053
+    },
+    "1054": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_SkillPanel_zidong_zise.prefab",
+      "id": 1054
+    },
+    "1055": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_jinengjihuo.prefab",
+      "id": 1055
+    },
+    "1056": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_baodian_lan.prefab",
+      "id": 1056
+    },
+    "1057": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_qiandao.prefab",
+      "id": 1057
+    },
+    "1058": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_GuideClick.prefab",
+      "id": 1058
+    },
+    "1059": {
+      "effectPath": "Effects/Particles/Prefabs/BOSS_TX_w1_02_Stand.prefab",
+      "id": 1059
+    },
+    "1060": {
+      "effectPath": "Effects/Particles/Prefabs/TX_Prefab_shehun.prefab",
+      "id": 1060
+    },
+    "1061": {
+      "effectPath": "Effects/Particles/Prefabs/GuoChang_TX_Prefab_YeWan.prefab",
+      "id": 1061
+    },
+    "1062": {
+      "effectPath": "Effects/Particles/Prefabs/GuoChang_TX_Prefab_YeWanBianfu.prefab",
+      "id": 1062
+    },
+    "1063": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_zhaohuan_SSR.prefab",
+      "id": 1063
+    },
+    "1064": {
+      "effectPath": "Effects/Particles/Prefabs/Scene_TX_Prefab_AuxiliaryLine.prefab",
+      "id": 1064
+    },
+    "1065": {
+      "effectPath": "Effects/Particles/Prefabs/Sence_TX_W2_bullet.prefab",
+      "id": 1065
+    },
+    "1066": {
+      "effectPath": "Effects/Particles/Prefabs/Sence_TX_W2_miaozhun.prefab",
+      "id": 1066
+    },
+    "1067": {
+      "effectPath": "Effects/Particles/Prefabs/Sence_TX_Memory_kongqiqiang.prefab",
+      "id": 1067
+    },
+    "1068": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_PaTa_putongbaoxiang.prefab",
+      "id": 1068
+    },
+    "1069": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_PaTa_jinbaoxiang.prefab",
+      "id": 1069
+    },
+    "1070": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_PaTa_jinbaoxiang.prefab",
+      "id": 1070
+    },
+    "1071": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_YardGlowNew_lv.prefab",
+      "id": 1071
+    },
+    "1072": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_YardGlowNew_lan.prefab",
+      "id": 1072
+    },
+    "1073": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_YardGlowNew_fen.prefab",
+      "id": 1073
+    },
+    "1074": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_DungeonSelect.prefab",
+      "id": 1074
+    },
+    "1075": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_DungeonSelect_shu.prefab",
+      "id": 1075
+    },
+    "1076": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_DungeonSelect_Xue.prefab",
+      "id": 1076
+    },
+    "1077": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_haogandu.prefab",
+      "id": 1077
+    },
+    "1078": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_Ka_Color.prefab",
+      "id": 1078
+    },
+    "1079": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_QiangHuaChengGong.prefab",
+      "id": 1079
+    },
+    "1080": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_TuPoChengGong.prefab",
+      "id": 1080
+    },
+    "1081": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_FuMoChengGong_en.prefab",
+      "id": 1081
+    },
+    "1082": {
+      "effectPath": "Effects/Particles/Prefabs/Weather_TX_Prefab_daXue.prefab",
+      "id": 1082
+    },
+    "1083": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_MainLineWorld_ta.prefab",
+      "id": 1083
+    },
+    "1084": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_MainLineWorld_shu.prefab",
+      "id": 1084
+    },
+    "1085": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_MainLineWorld_qiu_lv.prefab",
+      "id": 1085
+    },
+    "1086": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_MainLineWorld_xue.prefab",
+      "id": 1086
+    },
+    "1087": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_MainLineWorld_qiu_lan.prefab",
+      "id": 1087
+    },
+    "1088": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_MainLineWorld_huo.prefab",
+      "id": 1088
+    },
+    "1089": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_zhaohuan_SSR.prefab",
+      "id": 1089
+    },
+    "1090": {
+      "effectPath": "Effects/Particles/Prefabs/HeXinHuaDong_UI.prefab",
+      "id": 1090
+    },
+    "1091": {
+      "effectPath": "Effects/Particles/Prefabs/WanZhengXunHuan_ui.prefab",
+      "id": 1091
+    },
+    "1092": {
+      "effectPath": "Effects/Particles/Prefabs/WanZhengYiCiBaoFa_ui.prefab",
+      "id": 1092
+    },
+    "1093": {
+      "effectPath": "Effects/Particles/Prefabs/UI_ZhanDou_LiZiTuoWei_HiangSe.prefab",
+      "id": 1093
+    },
+    "1094": {
+      "effectPath": "Effects/Particles/Prefabs/UI_ZhanDou_LiZiTuoWei_ZiSe.prefab",
+      "id": 1094
+    },
+    "1095": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_XuanDingKuang_LanSe.prefab",
+      "id": 1095
+    },
+    "1096": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_XuanKuang_HongSe.prefab",
+      "id": 1096
+    },
+    "1097": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_XuanKuang_BaiSe.prefab",
+      "id": 1097
+    },
+    "1098": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_HeiDaoBai.prefab",
+      "id": 1098
+    },
+    "1099": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_BaiDaoHei.prefab",
+      "id": 1099
+    },
+    "1100": {
+      "effectPath": "Effects/Particles/Prefabs/Scene_DungeonBuff01_ActorBUFF.prefab",
+      "id": 1100
+    },
+    "1101": {
+      "effectPath": "Effects/Particles/Prefabs/Scene_DungeonBuff02_ActorBUFF.prefab",
+      "id": 1101
+    },
+    "1102": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_EquipFM_HuXi.prefab",
+      "id": 1102
+    },
+    "1103": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_EquipFMCell_LiuGuang.prefab",
+      "id": 1103
+    },
+    "1104": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_C17_AnHeiZhiShou.prefab",
+      "id": 1104
+    },
+    "1105": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_EquipFMCell_LiuGuang_Daun.prefab",
+      "id": 1105
+    },
+    "1106": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_EquipFM_HuXi_Chang.prefab",
+      "id": 1106
+    },
+    "1107": {
+      "effectPath": "Effects/Particles/Prefabs/UI_Energy_loop.prefab",
+      "id": 1107
+    },
+    "1108": {
+      "effectPath": "Effects/Particles/Prefabs/UI_Energy_shan_450.prefab",
+      "id": 1108
+    },
+    "1109": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_MoFaShu_ChengZhangDongHua_ChuJi.prefab",
+      "id": 1109
+    },
+    "1110": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_MoFaShu_ChengZhangDongHua_ZhongJi.prefab",
+      "id": 1110
+    },
+    "1111": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_MoFaShu_ChuJi_HuXi.prefab",
+      "id": 1111
+    },
+    "1112": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_MoFaShu_ZhongJii_HuXi.prefab",
+      "id": 1112
+    },
+    "1113": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_MoFaShu_GaoJii_HuXi.prefab",
+      "id": 1113
+    },
+    "1114": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_HaoGanDuManJi.prefab",
+      "id": 1114
+    },
+    "1115": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_HaoGanDuShengJi_en.prefab",
+      "id": 1115
+    },
+    "1116": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_SongLiFanKui_PuTong_1.prefab",
+      "id": 1116
+    },
+    "1117": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_SongLiFanKui_PuTong_2.prefab",
+      "id": 1117
+    },
+    "1118": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_SongLiFanKui_PuTong_3.prefab",
+      "id": 1118
+    },
+    "1119": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_SongLiFanKui_XiHuan_1.prefab",
+      "id": 1119
+    },
+    "1120": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_SongLiFanKui_XiHuan_2.prefab",
+      "id": 1120
+    },
+    "1121": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_CharDataMain_SongLiFanKui_XiHuan_3.prefab",
+      "id": 1121
+    },
+    "1122": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Favour_Box.prefab",
+      "id": 1122
+    },
+    "1123": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Favour_HaoGanDuCaoTianChong_Ban.prefab",
+      "id": 1123
+    },
+    "1124": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Favour_HaoGanDuCaoTianChong_Zheng.prefab",
+      "id": 1124
+    },
+    "1125": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Favour_ShangShengChangZhu_450.prefab",
+      "id": 1125
+    },
+    "1126": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_mengjing_lingqu_cell.prefab",
+      "id": 1126
+    },
+    "1127": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_mengjing_lingqu_cell_big.prefab",
+      "id": 1127
+    },
+    "1128": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Favour_HaoGanDuCaoTianChong_WanZheng.prefab",
+      "id": 1128
+    },
+    "1129": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai.prefab",
+      "id": 1129
+    },
+    "1130": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai_QianLan.prefab",
+      "id": 1130
+    },
+    "1131": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai_ShenLan.prefab",
+      "id": 1131
+    },
+    "1132": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai_FengSe.prefab",
+      "id": 1132
+    },
+    "1133": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai_QianLan_DanChu.prefab",
+      "id": 1133
+    },
+    "1134": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai_ShenLan_DanChu.prefab",
+      "id": 1134
+    },
+    "1135": {
+      "effectPath": "Effects/Particles/Prefabs/UI_YardLight_YingGuangDengTai_FengSe_DanChu.prefab",
+      "id": 1135
+    },
+    "1136": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_SignboardMain.prefab",
+      "id": 1136
+    },
+    "1137": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_SignActivity.prefab",
+      "id": 1137
+    },
+    "1138": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_BattleEnergyBtn_bao.prefab",
+      "id": 1138
+    },
+    "1139": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_RechargeShop_baoxiang.prefab",
+      "id": 1139
+    },
+    "1140": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_RechargeShop_zuanshi.prefab",
+      "id": 1140
+    },
+    "1141": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_HuiZhang_HuangSe.prefab",
+      "id": 1141
+    },
+    "1142": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_HuiZhang_LanSe.prefab",
+      "id": 1142
+    },
+    "1143": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_HuiZhang_ZiSe.prefab",
+      "id": 1143
+    },
+    "1144": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_BattleEnergyBtn_buff.prefab",
+      "id": 1144
+    },
+    "1145": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityStarCell_zhuanchang.prefab",
+      "id": 1145
+    },
+    "1146": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityStarCell_beijing_fen.prefab",
+      "id": 1146
+    },
+    "1147": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityStarCell_beijing_lan.prefab",
+      "id": 1147
+    },
+    "1148": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityStarCell_yindao.prefab",
+      "id": 1148
+    },
+    "1149": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityStarBossDetail_lan.prefab",
+      "id": 1149
+    },
+    "1150": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityStarBossDetail_red.prefab",
+      "id": 1150
+    },
+    "1151": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_yanhua.prefab",
+      "id": 1151
+    },
+    "1152": {
+      "effectPath": "Effects/Particles/Prefabs/GuoChang_TX_ActivityChristmas.prefab",
+      "id": 1152
+    },
+    "1153": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityChristmasMain.prefab",
+      "id": 1153
+    },
+    "1154": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityChristmasMain2.prefab",
+      "id": 1154
+    },
+    "1155": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityChristmasMain2_Click.prefab",
+      "id": 1155
+    },
+    "1156": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ActivityChristmasMain_Click.prefab",
+      "id": 1156
+    },
+    "1157": {
+      "effectPath": "Effects/Particles/Prefabs/UI_ActivityChristmas.prefab",
+      "id": 1157
+    },
+    "1158": {
+      "effectPath": "Effects/Particles/Prefabs/UI_springfestival.prefab",
+      "id": 1158
+    },
+    "1159": {
+      "effectPath": "Effects/Particles/Prefabs/UI_QingRenJie.prefab",
+      "id": 1159
+    },
+    "1160": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_ChongSu.prefab",
+      "id": 1160
+    },
+    "1161": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_yanhua.prefab",
+      "id": 1161
+    },
+    "1162": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_huodongrukou.prefab",
+      "id": 1162
+    },
+    "1163": {
+      "effectPath": "Effects/Particles/Prefabs/UI_HaiDaoMaoXian.prefab",
+      "id": 1163
+    },
+    "1164": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_sutijinjie_wenzhangshengji.prefab",
+      "id": 1164
+    },
+    "1165": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_sutijinjie_fuwenshengji.prefab",
+      "id": 1165
+    },
+    "1166": {
+      "effectPath": "Effects/Particles/Prefabs/UI_TX_Prefab_zhounianqing_rukou.prefab",
+      "id": 1166
+    },
+    "1167": {
+      "effectPath": "Effects/Particles/Prefabs/UI_Activity_Summer.prefab",
+      "id": 1167
+    }
+  }
+}

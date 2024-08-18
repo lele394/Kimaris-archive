@@ -1,0 +1,132 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "Data": [
+    {
+      "dungeondifficulty": 1,
+      "dungeondifficultytext": 701871,
+      "dungeonnametext": 701868,
+      "dungeontype": 1,
+      "enemyATK": 45,
+      "enemyHP": 400,
+      "eventtext": 701864,
+      "handbookid": 11001,
+      "id": 1,
+      "position": "0;-109",
+      "scale": 0.35
+    },
+    {
+      "dungeondifficulty": 2,
+      "dungeondifficultytext": 701872,
+      "dungeonnametext": 701868,
+      "dungeontype": 1,
+      "enemyATK": 300,
+      "enemyHP": 3500,
+      "eventtext": 701864,
+      "handbookid": 11001,
+      "id": 2,
+      "position": "0;-109",
+      "scale": 0.35
+    },
+    {
+      "dungeondifficulty": 3,
+      "dungeondifficultytext": 701873,
+      "dungeonnametext": 701868,
+      "dungeontype": 1,
+      "enemyATK": 600,
+      "enemyHP": 7700,
+      "eventtext": 701864,
+      "handbookid": 11001,
+      "id": 3,
+      "position": "0;-109",
+      "scale": 0.35
+    },
+    {
+      "dungeondifficulty": 1,
+      "dungeondifficultytext": 701871,
+      "dungeonnametext": 701869,
+      "dungeontype": 2,
+      "enemyATK": 150,
+      "enemyHP": 1000,
+      "eventtext": 701864,
+      "handbookid": 11006,
+      "id": 4,
+      "position": "0;-116",
+      "scale": 0.18
+    },
+    {
+      "dungeondifficulty": 2,
+      "dungeondifficultytext": 701872,
+      "dungeonnametext": 701869,
+      "dungeontype": 2,
+      "enemyATK": 400,
+      "enemyHP": 5000,
+      "eventtext": 701864,
+      "handbookid": 11006,
+      "id": 5,
+      "position": "0;-116",
+      "scale": 0.18
+    },
+    {
+      "dungeondifficulty": 3,
+      "dungeondifficultytext": 701873,
+      "dungeonnametext": 701869,
+      "dungeontype": 2,
+      "enemyATK": 700,
+      "enemyHP": 9000,
+      "eventtext": 701864,
+      "handbookid": 11006,
+      "id": 6,
+      "position": "0;-116",
+      "scale": 0.18
+    },
+    {
+      "dungeondifficulty": 1,
+      "dungeondifficultytext": 701871,
+      "dungeonnametext": 701870,
+      "dungeontype": 3,
+      "enemyATK": 150,
+      "enemyHP": 1000,
+      "eventtext": 701864,
+      "handbookid": 11008,
+      "id": 7,
+      "position": "0;-105",
+      "scale": 0.2
+    },
+    {
+      "dungeondifficulty": 2,
+      "dungeondifficultytext": 701872,
+      "dungeonnametext": 701870,
+      "dungeontype": 3,
+      "enemyATK": 400,
+      "enemyHP": 5000,
+      "eventtext": 701864,
+      "handbookid": 11008,
+      "id": 8,
+      "position": "0;-105",
+      "scale": 0.2
+    },
+    {
+      "dungeondifficulty": 3,
+      "dungeondifficultytext": 701873,
+      "dungeonnametext": 701870,
+      "dungeontype": 3,
+      "enemyATK": 700,
+      "enemyHP": 9000,
+      "eventtext": 701864,
+      "handbookid": 11008,
+      "id": 9,
+      "position": "0;-105",
+      "scale": 0.2
+    }
+  ]
+}

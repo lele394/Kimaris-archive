@@ -1,0 +1,298 @@
+{
+  "AllIds": [
+    101,
+    102,
+    103,
+    201,
+    202,
+    203,
+    204,
+    301,
+    401,
+    402,
+    403,
+    501,
+    502,
+    503,
+    601,
+    602,
+    603,
+    701
+  ],
+  "Data": {
+    "101": {
+      "functionID": 100,
+      "houseState": 0,
+      "id": 101,
+      "items": [],
+      "nums": [],
+      "openCondition": -1,
+      "time": 0,
+      "unlockEffect": []
+    },
+    "102": {
+      "functionID": 100,
+      "houseState": 0,
+      "id": 102,
+      "items": [
+        35014,
+        31083
+      ],
+      "nums": [
+        100,
+        1
+      ],
+      "openCondition": 1,
+      "time": 60,
+      "unlockEffect": [
+        6,
+        1,
+        4,
+        22
+      ]
+    },
+    "103": {
+      "functionID": 100,
+      "houseState": 0,
+      "id": 103,
+      "items": [
+        35015,
+        31085
+      ],
+      "nums": [
+        500,
+        1
+      ],
+      "openCondition": 2,
+      "time": 600,
+      "unlockEffect": [
+        6,
+        2,
+        21,
+        5,
+        27
+      ]
+    },
+    "201": {
+      "functionID": 200,
+      "houseState": 0,
+      "id": 201,
+      "items": [],
+      "nums": [],
+      "openCondition": 1,
+      "time": 0,
+      "unlockEffect": [
+        7
+      ]
+    },
+    "202": {
+      "functionID": 200,
+      "houseState": 0,
+      "id": 202,
+      "items": [
+        35014
+      ],
+      "nums": [
+        100
+      ],
+      "openCondition": 1,
+      "time": 60,
+      "unlockEffect": [
+        8,
+        9
+      ]
+    },
+    "203": {
+      "functionID": 200,
+      "houseState": 0,
+      "id": 203,
+      "items": [
+        35015
+      ],
+      "nums": [
+        1000
+      ],
+      "openCondition": 2,
+      "time": 300,
+      "unlockEffect": [
+        10,
+        11
+      ]
+    },
+    "204": {
+      "functionID": 200,
+      "houseState": 0,
+      "id": 204,
+      "items": [
+        35016
+      ],
+      "nums": [
+        3000
+      ],
+      "openCondition": 3,
+      "time": 600,
+      "unlockEffect": [
+        12,
+        13
+      ]
+    },
+    "301": {
+      "functionID": 300,
+      "houseState": 0,
+      "id": 301,
+      "items": [],
+      "nums": [],
+      "openCondition": 1,
+      "time": 0,
+      "unlockEffect": [
+        14
+      ]
+    },
+    "401": {
+      "functionID": 400,
+      "houseState": 1,
+      "id": 401,
+      "items": [],
+      "nums": [],
+      "openCondition": 1,
+      "time": 0,
+      "unlockEffect": [
+        15
+      ]
+    },
+    "402": {
+      "functionID": 400,
+      "houseState": 1,
+      "id": 402,
+      "items": [
+        35015
+      ],
+      "nums": [
+        500
+      ],
+      "openCondition": 2,
+      "time": 60,
+      "unlockEffect": [
+        16
+      ]
+    },
+    "403": {
+      "functionID": 400,
+      "houseState": 2,
+      "id": 403,
+      "items": [
+        35016
+      ],
+      "nums": [
+        1500
+      ],
+      "openCondition": 3,
+      "time": 300,
+      "unlockEffect": [
+        29
+      ]
+    },
+    "501": {
+      "functionID": 500,
+      "houseState": 1,
+      "id": 501,
+      "items": [],
+      "nums": [],
+      "openCondition": 1,
+      "time": 0,
+      "unlockEffect": [
+        18
+      ]
+    },
+    "502": {
+      "functionID": 500,
+      "houseState": 1,
+      "id": 502,
+      "items": [
+        35015
+      ],
+      "nums": [
+        500
+      ],
+      "openCondition": 2,
+      "time": 60,
+      "unlockEffect": [
+        19
+      ]
+    },
+    "503": {
+      "functionID": 500,
+      "houseState": 2,
+      "id": 503,
+      "items": [
+        35016
+      ],
+      "nums": [
+        1500
+      ],
+      "openCondition": 3,
+      "time": 300,
+      "unlockEffect": [
+        20
+      ]
+    },
+    "601": {
+      "functionID": 600,
+      "houseState": 0,
+      "id": 601,
+      "items": [],
+      "nums": [],
+      "openCondition": 2,
+      "time": 0,
+      "unlockEffect": [
+        22
+      ]
+    },
+    "602": {
+      "functionID": 600,
+      "houseState": 0,
+      "id": 602,
+      "items": [
+        35015
+      ],
+      "nums": [
+        500
+      ],
+      "openCondition": 2,
+      "time": 60,
+      "unlockEffect": [
+        23,
+        24
+      ]
+    },
+    "603": {
+      "functionID": 600,
+      "houseState": 0,
+      "id": 603,
+      "items": [
+        35016
+      ],
+      "nums": [
+        1500
+      ],
+      "openCondition": 3,
+      "time": 300,
+      "unlockEffect": [
+        25,
+        26
+      ]
+    },
+    "701": {
+      "functionID": 700,
+      "houseState": 0,
+      "id": 701,
+      "items": [],
+      "nums": [],
+      "openCondition": 3,
+      "time": 0,
+      "unlockEffect": [
+        27
+      ]
+    }
+  }
+}

@@ -1,0 +1,1239 @@
+{
+  "AllIds": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1057,
+    1061,
+    1062,
+    1063,
+    1064,
+    1065,
+    1066,
+    1067,
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1091,
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1111,
+    1112,
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1121,
+    1122,
+    1123,
+    1124,
+    1125,
+    1126,
+    1127,
+    1131,
+    1132,
+    1133,
+    1134,
+    1135,
+    1136,
+    1137,
+    1141,
+    1142,
+    1143,
+    1144,
+    1145,
+    1146,
+    1147,
+    1151,
+    1152,
+    1153,
+    1154,
+    1155,
+    1156,
+    1157,
+    20001,
+    20002,
+    20003,
+    20004,
+    20005,
+    20006,
+    20007,
+    20008,
+    20009,
+    20010,
+    20011,
+    20012,
+    20013,
+    20014,
+    20015,
+    20016,
+    20017,
+    20018,
+    20019,
+    20020,
+    20021,
+    20022,
+    20023,
+    20024,
+    20025,
+    20026,
+    20027,
+    20028,
+    20029,
+    20030,
+    20031,
+    20032
+  ],
+  "Data": {
+    "1001": {
+      "attrID": 131,
+      "attrRange": "10101;10102",
+      "id": 1001,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1002": {
+      "attrID": 131,
+      "attrRange": "10103;10104",
+      "id": 1002,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1003": {
+      "attrID": 131,
+      "attrRange": "10105;10106",
+      "id": 1003,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1004": {
+      "attrID": 131,
+      "attrRange": "10107;10108",
+      "id": 1004,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1005": {
+      "attrID": 131,
+      "attrRange": "10109;10110",
+      "id": 1005,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1006": {
+      "attrID": 131,
+      "attrRange": "10111;10112",
+      "id": 1006,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1007": {
+      "attrID": 131,
+      "attrRange": "10113;10114",
+      "id": 1007,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1011": {
+      "attrID": 141,
+      "attrRange": "10201;10202",
+      "id": 1011,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1012": {
+      "attrID": 141,
+      "attrRange": "10203;10204",
+      "id": 1012,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1013": {
+      "attrID": 141,
+      "attrRange": "10205;10206",
+      "id": 1013,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1014": {
+      "attrID": 141,
+      "attrRange": "10207;10208",
+      "id": 1014,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1015": {
+      "attrID": 141,
+      "attrRange": "10209;10210",
+      "id": 1015,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1016": {
+      "attrID": 141,
+      "attrRange": "10211;10212",
+      "id": 1016,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1017": {
+      "attrID": 141,
+      "attrRange": "10213;10214",
+      "id": 1017,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1021": {
+      "attrID": 31,
+      "attrRange": "10301;10302",
+      "id": 1021,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1022": {
+      "attrID": 31,
+      "attrRange": "10303;10304",
+      "id": 1022,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1023": {
+      "attrID": 31,
+      "attrRange": "10305;10306",
+      "id": 1023,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1024": {
+      "attrID": 31,
+      "attrRange": "10307;10308",
+      "id": 1024,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1025": {
+      "attrID": 31,
+      "attrRange": "10309;10310",
+      "id": 1025,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1026": {
+      "attrID": 31,
+      "attrRange": "10311;10312",
+      "id": 1026,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1027": {
+      "attrID": 31,
+      "attrRange": "10313;10314",
+      "id": 1027,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1031": {
+      "attrID": 551,
+      "attrRange": "10401;10402",
+      "id": 1031,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1032": {
+      "attrID": 551,
+      "attrRange": "10403;10404",
+      "id": 1032,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1033": {
+      "attrID": 551,
+      "attrRange": "10405;10406",
+      "id": 1033,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1034": {
+      "attrID": 551,
+      "attrRange": "10407;10408",
+      "id": 1034,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1035": {
+      "attrID": 551,
+      "attrRange": "10409;10410",
+      "id": 1035,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1036": {
+      "attrID": 551,
+      "attrRange": "10411;10412",
+      "id": 1036,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1037": {
+      "attrID": 551,
+      "attrRange": "10413;10414",
+      "id": 1037,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1051": {
+      "attrID": 91,
+      "attrRange": "10601;10602",
+      "id": 1051,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1052": {
+      "attrID": 91,
+      "attrRange": "10603;10604",
+      "id": 1052,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1053": {
+      "attrID": 91,
+      "attrRange": "10605;10606",
+      "id": 1053,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1054": {
+      "attrID": 91,
+      "attrRange": "10607;10608",
+      "id": 1054,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1055": {
+      "attrID": 91,
+      "attrRange": "10609;10610",
+      "id": 1055,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1056": {
+      "attrID": 91,
+      "attrRange": "10611;10612",
+      "id": 1056,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1057": {
+      "attrID": 91,
+      "attrRange": "10613;10614",
+      "id": 1057,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1061": {
+      "attrID": 111,
+      "attrRange": "10701;10702",
+      "id": 1061,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1062": {
+      "attrID": 111,
+      "attrRange": "10703;10704",
+      "id": 1062,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1063": {
+      "attrID": 111,
+      "attrRange": "10705;10706",
+      "id": 1063,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1064": {
+      "attrID": 111,
+      "attrRange": "10707;10708",
+      "id": 1064,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1065": {
+      "attrID": 111,
+      "attrRange": "10709;10710",
+      "id": 1065,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1066": {
+      "attrID": 111,
+      "attrRange": "10711;10712",
+      "id": 1066,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1067": {
+      "attrID": 111,
+      "attrRange": "10713;10714",
+      "id": 1067,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1071": {
+      "attrID": 531,
+      "attrRange": "10801;10802",
+      "id": 1071,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1072": {
+      "attrID": 531,
+      "attrRange": "10803;10804",
+      "id": 1072,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1073": {
+      "attrID": 531,
+      "attrRange": "10805;10806",
+      "id": 1073,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1074": {
+      "attrID": 531,
+      "attrRange": "10807;10808",
+      "id": 1074,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1075": {
+      "attrID": 531,
+      "attrRange": "10809;10810",
+      "id": 1075,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1076": {
+      "attrID": 531,
+      "attrRange": "10811;10812",
+      "id": 1076,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1077": {
+      "attrID": 531,
+      "attrRange": "10813;10814",
+      "id": 1077,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1081": {
+      "attrID": 61,
+      "attrRange": "10901;10902",
+      "id": 1081,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1082": {
+      "attrID": 61,
+      "attrRange": "10903;10904",
+      "id": 1082,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1083": {
+      "attrID": 61,
+      "attrRange": "10905;10906",
+      "id": 1083,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1084": {
+      "attrID": 61,
+      "attrRange": "10907;10908",
+      "id": 1084,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1085": {
+      "attrID": 61,
+      "attrRange": "10909;10910",
+      "id": 1085,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1086": {
+      "attrID": 61,
+      "attrRange": "10911;10912",
+      "id": 1086,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1087": {
+      "attrID": 61,
+      "attrRange": "10913;10914",
+      "id": 1087,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1091": {
+      "attrID": 571,
+      "attrRange": "11001;11002",
+      "id": 1091,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1092": {
+      "attrID": 571,
+      "attrRange": "11003;11004",
+      "id": 1092,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1093": {
+      "attrID": 571,
+      "attrRange": "11005;11006",
+      "id": 1093,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1094": {
+      "attrID": 571,
+      "attrRange": "11007;11008",
+      "id": 1094,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1095": {
+      "attrID": 571,
+      "attrRange": "11009;11010",
+      "id": 1095,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1096": {
+      "attrID": 571,
+      "attrRange": "11011;11012",
+      "id": 1096,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1097": {
+      "attrID": 571,
+      "attrRange": "11013;11014",
+      "id": 1097,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1101": {
+      "attrID": 51,
+      "attrRange": "11101;11102",
+      "id": 1101,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1102": {
+      "attrID": 51,
+      "attrRange": "11103;11104",
+      "id": 1102,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1103": {
+      "attrID": 51,
+      "attrRange": "11105;11106",
+      "id": 1103,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1104": {
+      "attrID": 51,
+      "attrRange": "11107;11108",
+      "id": 1104,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1105": {
+      "attrID": 51,
+      "attrRange": "11109;11110",
+      "id": 1105,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1106": {
+      "attrID": 51,
+      "attrRange": "11111;11112",
+      "id": 1106,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1107": {
+      "attrID": 51,
+      "attrRange": "11113;11114",
+      "id": 1107,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1111": {
+      "attrID": 561,
+      "attrRange": "11201;11202",
+      "id": 1111,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1112": {
+      "attrID": 561,
+      "attrRange": "11203;11204",
+      "id": 1112,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1113": {
+      "attrID": 561,
+      "attrRange": "11205;11206",
+      "id": 1113,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1114": {
+      "attrID": 561,
+      "attrRange": "11207;11208",
+      "id": 1114,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1115": {
+      "attrID": 561,
+      "attrRange": "11209;11210",
+      "id": 1115,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1116": {
+      "attrID": 561,
+      "attrRange": "11211;11212",
+      "id": 1116,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1117": {
+      "attrID": 561,
+      "attrRange": "11213;11214",
+      "id": 1117,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1121": {
+      "attrID": 21,
+      "attrRange": "11301;11302",
+      "id": 1121,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1122": {
+      "attrID": 21,
+      "attrRange": "11303;11304",
+      "id": 1122,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1123": {
+      "attrID": 21,
+      "attrRange": "11305;11306",
+      "id": 1123,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1124": {
+      "attrID": 21,
+      "attrRange": "11307;11308",
+      "id": 1124,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1125": {
+      "attrID": 21,
+      "attrRange": "11309;11310",
+      "id": 1125,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1126": {
+      "attrID": 21,
+      "attrRange": "11311;11312",
+      "id": 1126,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1127": {
+      "attrID": 21,
+      "attrRange": "11313;11314",
+      "id": 1127,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1131": {
+      "attrID": 581,
+      "attrRange": "11401;11402",
+      "id": 1131,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1132": {
+      "attrID": 581,
+      "attrRange": "11403;11404",
+      "id": 1132,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1133": {
+      "attrID": 581,
+      "attrRange": "11405;11406",
+      "id": 1133,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1134": {
+      "attrID": 581,
+      "attrRange": "11407;11408",
+      "id": 1134,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1135": {
+      "attrID": 581,
+      "attrRange": "11409;11410",
+      "id": 1135,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1136": {
+      "attrID": 581,
+      "attrRange": "11411;11412",
+      "id": 1136,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1137": {
+      "attrID": 581,
+      "attrRange": "11413;11414",
+      "id": 1137,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1141": {
+      "attrID": 121,
+      "attrRange": "11501;11502",
+      "id": 1141,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1142": {
+      "attrID": 121,
+      "attrRange": "11503;11504",
+      "id": 1142,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1143": {
+      "attrID": 121,
+      "attrRange": "11505;11506",
+      "id": 1143,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1144": {
+      "attrID": 121,
+      "attrRange": "11507;11508",
+      "id": 1144,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1145": {
+      "attrID": 121,
+      "attrRange": "11509;11510",
+      "id": 1145,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1146": {
+      "attrID": 121,
+      "attrRange": "11511;11512",
+      "id": 1146,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1147": {
+      "attrID": 121,
+      "attrRange": "11513;11514",
+      "id": 1147,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "1151": {
+      "attrID": 101,
+      "attrRange": "11601;11602",
+      "id": 1151,
+      "rank": 1,
+      "skillID": 0,
+      "type": 1
+    },
+    "1152": {
+      "attrID": 101,
+      "attrRange": "11603;11604",
+      "id": 1152,
+      "rank": 2,
+      "skillID": 0,
+      "type": 1
+    },
+    "1153": {
+      "attrID": 101,
+      "attrRange": "11605;11606",
+      "id": 1153,
+      "rank": 3,
+      "skillID": 0,
+      "type": 1
+    },
+    "1154": {
+      "attrID": 101,
+      "attrRange": "11607;11608",
+      "id": 1154,
+      "rank": 4,
+      "skillID": 0,
+      "type": 1
+    },
+    "1155": {
+      "attrID": 101,
+      "attrRange": "11609;11610",
+      "id": 1155,
+      "rank": 5,
+      "skillID": 0,
+      "type": 1
+    },
+    "1156": {
+      "attrID": 101,
+      "attrRange": "11611;11612",
+      "id": 1156,
+      "rank": 6,
+      "skillID": 0,
+      "type": 1
+    },
+    "1157": {
+      "attrID": 101,
+      "attrRange": "11613;11614",
+      "id": 1157,
+      "rank": 7,
+      "skillID": 0,
+      "type": 1
+    },
+    "20001": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20001,
+      "rank": 0,
+      "skillID": 20039,
+      "type": 2
+    },
+    "20002": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20002,
+      "rank": 0,
+      "skillID": 20040,
+      "type": 2
+    },
+    "20003": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20003,
+      "rank": 0,
+      "skillID": 20041,
+      "type": 2
+    },
+    "20004": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20004,
+      "rank": 0,
+      "skillID": 20042,
+      "type": 2
+    },
+    "20005": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20005,
+      "rank": 0,
+      "skillID": 20043,
+      "type": 2
+    },
+    "20006": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20006,
+      "rank": 0,
+      "skillID": 20044,
+      "type": 2
+    },
+    "20007": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20007,
+      "rank": 0,
+      "skillID": 20045,
+      "type": 2
+    },
+    "20008": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20008,
+      "rank": 0,
+      "skillID": 20046,
+      "type": 2
+    },
+    "20009": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20009,
+      "rank": 0,
+      "skillID": 20047,
+      "type": 2
+    },
+    "20010": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20010,
+      "rank": 0,
+      "skillID": 20048,
+      "type": 2
+    },
+    "20011": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20011,
+      "rank": 0,
+      "skillID": 20049,
+      "type": 2
+    },
+    "20012": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20012,
+      "rank": 0,
+      "skillID": 20050,
+      "type": 2
+    },
+    "20013": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20013,
+      "rank": 0,
+      "skillID": 20051,
+      "type": 2
+    },
+    "20014": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20014,
+      "rank": 0,
+      "skillID": 20052,
+      "type": 2
+    },
+    "20015": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20015,
+      "rank": 0,
+      "skillID": 20055,
+      "type": 2
+    },
+    "20016": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20016,
+      "rank": 0,
+      "skillID": 20056,
+      "type": 2
+    },
+    "20017": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20017,
+      "rank": 0,
+      "skillID": 20038,
+      "type": 2
+    },
+    "20018": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20018,
+      "rank": 0,
+      "skillID": 20058,
+      "type": 2
+    },
+    "20019": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20019,
+      "rank": 0,
+      "skillID": 20059,
+      "type": 2
+    },
+    "20020": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20020,
+      "rank": 0,
+      "skillID": 20060,
+      "type": 2
+    },
+    "20021": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20021,
+      "rank": 0,
+      "skillID": 20061,
+      "type": 2
+    },
+    "20022": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20022,
+      "rank": 0,
+      "skillID": 20062,
+      "type": 2
+    },
+    "20023": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20023,
+      "rank": 0,
+      "skillID": 20063,
+      "type": 2
+    },
+    "20024": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20024,
+      "rank": 0,
+      "skillID": 20064,
+      "type": 2
+    },
+    "20025": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20025,
+      "rank": 0,
+      "skillID": 20065,
+      "type": 2
+    },
+    "20026": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20026,
+      "rank": 0,
+      "skillID": 20066,
+      "type": 2
+    },
+    "20027": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20027,
+      "rank": 0,
+      "skillID": 20075,
+      "type": 2
+    },
+    "20028": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20028,
+      "rank": 0,
+      "skillID": 20076,
+      "type": 2
+    },
+    "20029": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20029,
+      "rank": 0,
+      "skillID": 20077,
+      "type": 2
+    },
+    "20030": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20030,
+      "rank": 0,
+      "skillID": 20078,
+      "type": 2
+    },
+    "20031": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20031,
+      "rank": 0,
+      "skillID": 20079,
+      "type": 2
+    },
+    "20032": {
+      "attrID": 0,
+      "attrRange": "",
+      "id": 20032,
+      "rank": 0,
+      "skillID": 20009,
+      "type": 2
+    }
+  }
+}

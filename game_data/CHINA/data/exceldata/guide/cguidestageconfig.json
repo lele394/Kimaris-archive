@@ -1,0 +1,1666 @@
+{
+  "AllIds": [
+    101,
+    102,
+    201,
+    202,
+    203,
+    204,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    401,
+    402,
+    501,
+    502,
+    503,
+    504,
+    601,
+    701,
+    702,
+    801,
+    901,
+    902,
+    1001,
+    1002,
+    1003,
+    1101,
+    1102,
+    1103,
+    1201,
+    1301,
+    1401,
+    1402,
+    1501,
+    1601,
+    1602,
+    1603,
+    1701,
+    1702,
+    1901,
+    1902,
+    1903,
+    2001,
+    2002,
+    2101,
+    2201,
+    2202,
+    2203,
+    2301,
+    2302,
+    2303,
+    2304,
+    2305,
+    2401,
+    2402,
+    2403,
+    2501,
+    2502,
+    2503,
+    2504,
+    2601,
+    2602,
+    2603,
+    2701,
+    2702,
+    2703,
+    2704,
+    2801,
+    2802,
+    2803,
+    3001,
+    3201,
+    3301,
+    3401,
+    4301,
+    4302,
+    4303,
+    4304,
+    4501,
+    4502,
+    4503,
+    4603,
+    4702,
+    4703,
+    4903,
+    5001,
+    5101,
+    5302,
+    5303,
+    5304,
+    5305,
+    5401,
+    5402,
+    5403,
+    5501,
+    5601,
+    5602,
+    5701,
+    5801,
+    5802,
+    5803,
+    5901,
+    5902,
+    6401,
+    6501,
+    6502,
+    6503,
+    6504,
+    6505,
+    6601,
+    6602,
+    6603,
+    6701,
+    6702
+  ],
+  "Data": {
+    "1001": {
+      "GuideFrame": [
+        "teamedit.teameditprewardialog",
+        "TeamBack/CharacterPanel/CellFrame/Pos1/Guide"
+      ],
+      "direction": "Down",
+      "event": 9,
+      "hideBlack": 0,
+      "id": 1001,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301045
+    },
+    "1002": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 10,
+      "hideBlack": 0,
+      "id": 1002,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 6,
+      "wordId": 2301046
+    },
+    "1003": {
+      "GuideFrame": [
+        "teamedit.changeteamroledialog",
+        "Back/ConfirmBtn/Effect"
+      ],
+      "direction": "Down",
+      "event": 11,
+      "hideBlack": 0,
+      "id": 1003,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301047
+    },
+    "101": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "MenuBtn"
+      ],
+      "direction": "Up",
+      "event": 5,
+      "hideBlack": 0,
+      "id": 101,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301032
+    },
+    "102": {
+      "GuideFrame": [
+        "fastmenu.fastmenudialog",
+        "Back/HomeBtn"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 102,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301033
+    },
+    "1101": {
+      "GuideFrame": [
+        "mainline.mainline.mainlineworlddialog",
+        "ResourceGroupBtn/Guide"
+      ],
+      "direction": "Up",
+      "event": 25,
+      "hideBlack": 0,
+      "id": 1101,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301062
+    },
+    "1102": {
+      "GuideFrame": [
+        "1",
+        "Frame/Back"
+      ],
+      "direction": "Up",
+      "event": 4,
+      "hideBlack": 0,
+      "id": 1102,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 28,
+      "wordId": 2301063
+    },
+    "1103": {
+      "GuideFrame": [
+        "mainline.resource.resourcefloordialog",
+        "Detail/AutoBtn"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 1103,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301095
+    },
+    "1201": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 1,
+      "id": 1201,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301083
+    },
+    "1301": {
+      "GuideFrame": [
+        "teamedit.teameditprewardialog",
+        "Btn4/Effect"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 1301,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301048
+    },
+    "1401": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 1401,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301162
+    },
+    "1402": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 1402,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301163
+    },
+    "1501": {
+      "GuideFrame": [
+        "dungeon.dungeonhud",
+        "Back/Leave"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 1501,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301044
+    },
+    "1601": {
+      "GuideFrame": [
+        "100"
+      ],
+      "direction": "Down",
+      "event": 26,
+      "hideBlack": 0,
+      "id": 1601,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 15,
+      "wordId": 2301073
+    },
+    "1602": {
+      "GuideFrame": [
+        "magictree.magictreedialog",
+        "TreeDetail/Cell3"
+      ],
+      "direction": "Down",
+      "event": 27,
+      "hideBlack": 0,
+      "id": 1602,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301160
+    },
+    "1603": {
+      "GuideFrame": [
+        "magictree.magictreedialog",
+        "DetailPanel/LockState/OpenBtn/Image"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 1603,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301074
+    },
+    "1701": {
+      "GuideFrame": [
+        "dungeon.dungeonnextfloordialog",
+        "Detail/GoBtn/Effect"
+      ],
+      "direction": "Down",
+      "event": 13,
+      "hideBlack": 0,
+      "id": 1701,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301017
+    },
+    "1702": {
+      "GuideFrame": [
+        "teamedit.teameditprewardialog",
+        "Btn4/Effect"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 1702,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301018
+    },
+    "1901": {
+      "GuideFrame": [
+        "base.basemainmenudialog",
+        "Friends"
+      ],
+      "direction": "Up",
+      "event": 32,
+      "hideBlack": 0,
+      "id": 1901,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301085
+    },
+    "1902": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 1902,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301086
+    },
+    "1903": {
+      "GuideFrame": [],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 1903,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 17,
+      "wordId": 2301087
+    },
+    "2001": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 33,
+      "hideBlack": 0,
+      "id": 2001,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 18,
+      "wordId": 2301088
+    },
+    "2002": {
+      "GuideFrame": [
+        "assistbattle.choosesupportroledialog",
+        "ConfirmBtn/Effect"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2002,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301089
+    },
+    "201": {
+      "GuideFrame": [
+        "base.basemainmenudialog",
+        "CharInfo"
+      ],
+      "direction": "Down",
+      "event": 1,
+      "hideBlack": 0,
+      "id": 201,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301026
+    },
+    "202": {
+      "GuideFrame": [
+        "1"
+      ],
+      "direction": "Down",
+      "event": 2,
+      "hideBlack": 0,
+      "id": 202,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 2,
+      "wordId": 2301027
+    },
+    "203": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackGround/RightPanel/LevelUp"
+      ],
+      "direction": "Down",
+      "event": 3,
+      "hideBlack": 0,
+      "id": 203,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301028
+    },
+    "204": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackGround/Frame/CharLevelUp/LevelUpBtn"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 204,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 3,
+      "wordId": 2301029
+    },
+    "2101": {
+      "GuideFrame": [
+        "base.basemainmenudialog",
+        "Yard"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2101,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301072
+    },
+    "2201": {
+      "GuideFrame": [
+        "InteractableObjs/Char"
+      ],
+      "direction": "Up",
+      "event": 6,
+      "hideBlack": 0,
+      "id": 2201,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 22,
+      "wordId": 0
+    },
+    "2202": {
+      "GuideFrame": [
+        "signboard.signboardmaindialog",
+        "UI/GiftBtnBack"
+      ],
+      "direction": "Down",
+      "event": 46,
+      "hideBlack": 0,
+      "id": 2202,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301150
+    },
+    "2203": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2203,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301151
+    },
+    "2301": {
+      "GuideFrame": [
+        "InteractableObjs/base_gate"
+      ],
+      "direction": "Up",
+      "event": 7,
+      "hideBlack": 0,
+      "id": 2301,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 22,
+      "wordId": 2301120
+    },
+    "2302": {
+      "GuideFrame": [
+        "mainline.mainline.mainlineworlddialog",
+        "BossRushBtn/Guide"
+      ],
+      "direction": "Up",
+      "event": 44,
+      "hideBlack": 0,
+      "id": 2302,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301090
+    },
+    "2303": {
+      "GuideFrame": [
+        "2"
+      ],
+      "direction": "Down",
+      "event": 45,
+      "hideBlack": 0,
+      "id": 2303,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 26,
+      "wordId": 2301157
+    },
+    "2304": {
+      "GuideFrame": [
+        "Photo"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 2304,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 27,
+      "wordId": 2301091
+    },
+    "2305": {
+      "GuideFrame": [
+        "Reward"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2305,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 27,
+      "wordId": 2301092
+    },
+    "2401": {
+      "GuideFrame": [
+        "InteractableObjs/Char"
+      ],
+      "direction": "Up",
+      "event": 6,
+      "hideBlack": 0,
+      "id": 2401,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 22,
+      "wordId": 2301164
+    },
+    "2402": {
+      "GuideFrame": [
+        "signboard.signboardmaindialog",
+        "UI/ChangeBtn"
+      ],
+      "direction": "Down",
+      "event": 12,
+      "hideBlack": 0,
+      "id": 2402,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301165
+    },
+    "2403": {
+      "GuideFrame": [
+        "2"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2403,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 29,
+      "wordId": 0
+    },
+    "2501": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 38,
+      "hideBlack": 1,
+      "id": 2501,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301096
+    },
+    "2502": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackBtn"
+      ],
+      "direction": "Down",
+      "event": 37,
+      "hideBlack": 0,
+      "id": 2502,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301097
+    },
+    "2503": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackGround/RightPanel/BreakBtn"
+      ],
+      "direction": "Down",
+      "event": 39,
+      "hideBlack": 0,
+      "id": 2503,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301098
+    },
+    "2504": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 1,
+      "id": 2504,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301099
+    },
+    "2601": {
+      "GuideFrame": [
+        "InteractableObjs/base_gate"
+      ],
+      "direction": "Up",
+      "event": 7,
+      "hideBlack": 0,
+      "id": 2601,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 22,
+      "wordId": 2301061
+    },
+    "2602": {
+      "GuideFrame": [
+        "mainline.mainline.mainlineworlddialog",
+        "BossRushBtn/Guide"
+      ],
+      "direction": "Up",
+      "event": 44,
+      "hideBlack": 0,
+      "id": 2602,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301100
+    },
+    "2603": {
+      "GuideFrame": [
+        "3"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2603,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 26,
+      "wordId": 2301158
+    },
+    "2701": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 2701,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301104
+    },
+    "2702": {
+      "GuideFrame": [
+        "alchemy.alchemydialog",
+        "ResultItemBack"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 2702,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301105
+    },
+    "2703": {
+      "GuideFrame": [
+        "alchemy.alchemydialog",
+        "Char/Add"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 2703,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301106
+    },
+    "2704": {
+      "GuideFrame": [
+        "alchemy.alchemydialog",
+        "Level"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2704,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301107
+    },
+    "2801": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 2801,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301108
+    },
+    "2802": {
+      "GuideFrame": [
+        "courtcabin.cabinmaindialog",
+        "Panel/Down/Btn1"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 2802,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301109
+    },
+    "2803": {
+      "GuideFrame": [
+        "courtcabin.cabinmaindialog",
+        "Panel/Down/Btn2"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 2803,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301110
+    },
+    "3001": {
+      "GuideFrame": [
+        "signboard.signboardmaindialog",
+        "BackBtn"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 3001,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 0
+    },
+    "301": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 301,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301064
+    },
+    "302": {
+      "GuideFrame": [
+        "1"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 302,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 21,
+      "wordId": 2301065
+    },
+    "303": {
+      "GuideFrame": [
+        "5"
+      ],
+      "direction": "Up",
+      "event": 40,
+      "hideBlack": 0,
+      "id": 303,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 21,
+      "wordId": 2301066
+    },
+    "304": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 304,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301067
+    },
+    "305": {
+      "GuideFrame": [
+        "4"
+      ],
+      "direction": "Up",
+      "event": 41,
+      "hideBlack": 0,
+      "id": 305,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 21,
+      "wordId": 2301068
+    },
+    "306": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 306,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301069
+    },
+    "307": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 1,
+      "id": 307,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301070
+    },
+    "3201": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 1,
+      "id": 3201,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301168
+    },
+    "3301": {
+      "GuideFrame": [
+        "towerv2.scene.towerv2scenedialog",
+        "Panel/AutoBtn"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 3301,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301172
+    },
+    "3401": {
+      "GuideFrame": [
+        "towerv2.scene.towerv2scenedialog",
+        "Panel/BuffBtn"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 3401,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301169
+    },
+    "401": {
+      "GuideFrame": [
+        "dungeon.dungeonhud",
+        "Back/Char1/Guide"
+      ],
+      "direction": "Down",
+      "event": 19,
+      "hideBlack": 0,
+      "id": 401,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301049
+    },
+    "402": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackGround/RightPanel/Equip/EquipBtn/Guide"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 402,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 10,
+      "wordId": 2301050
+    },
+    "4301": {
+      "GuideFrame": [
+        "InteractableObjs/base_gate"
+      ],
+      "direction": "Up",
+      "event": 7,
+      "hideBlack": 0,
+      "id": 4301,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 22,
+      "wordId": 2301140
+    },
+    "4302": {
+      "GuideFrame": [
+        "mainline.mainline.mainlineworlddialog",
+        "SideStoryBtn/Guide"
+      ],
+      "direction": "Up",
+      "event": 42,
+      "hideBlack": 0,
+      "id": 4302,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301141
+    },
+    "4303": {
+      "GuideFrame": [
+        "Panel/Lock/UnLockBtn/Effect"
+      ],
+      "direction": "Up",
+      "event": 43,
+      "hideBlack": 0,
+      "id": 4303,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 23,
+      "wordId": 2301142
+    },
+    "4304": {
+      "GuideFrame": [
+        "confirmbox.secondconfirmdialog",
+        "ConfirmButton",
+        "77"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 4304,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 24,
+      "wordId": 0
+    },
+    "4501": {
+      "GuideFrame": [
+        "teamedit.teameditprewardialog@TeamBack/CharacterPanel/CellFrame/Pos6/Guide",
+        "teamedit.teampresetmaindialog@TeamBack/CharacterPanel/CellFrame/Pos6"
+      ],
+      "direction": "Down",
+      "event": 16,
+      "hideBlack": 0,
+      "id": 4501,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 7,
+      "wordId": 2301144
+    },
+    "4502": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 17,
+      "hideBlack": 0,
+      "id": 4502,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 8,
+      "wordId": 2301145
+    },
+    "4503": {
+      "GuideFrame": [
+        "teamedit.changeteamroledialog",
+        "Back/ConfirmBtn/Effect"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 4503,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301146
+    },
+    "4603": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 4603,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 25,
+      "wordId": 2301143
+    },
+    "4702": {
+      "GuideFrame": [
+        "mainline.mainline.mainlineworlddialog",
+        "BossRushBtn/Guide"
+      ],
+      "direction": "Up",
+      "event": 44,
+      "hideBlack": 0,
+      "id": 4702,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301155
+    },
+    "4703": {
+      "GuideFrame": [
+        "4"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 4703,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 26,
+      "wordId": 2301159
+    },
+    "4903": {
+      "GuideFrame": [
+        "1"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 4903,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 26,
+      "wordId": 2301156
+    },
+    "5001": {
+      "GuideFrame": [
+        "gacha.gachamaindialog",
+        "BackBtn"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5001,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 0
+    },
+    "501": {
+      "GuideFrame": [
+        "base.baseinteractdialog"
+      ],
+      "direction": "",
+      "event": 7,
+      "hideBlack": 0,
+      "id": 501,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 4,
+      "wordId": 0
+    },
+    "502": {
+      "GuideFrame": [
+        "mainline.mainline.mainlineworlddialog"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 502,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 5,
+      "wordId": 0
+    },
+    "503": {
+      "GuideFrame": [],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 503,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 19,
+      "wordId": 0
+    },
+    "504": {
+      "GuideFrame": [
+        "teamedit.teameditprewardialog",
+        "Btn4"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 504,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 13,
+      "wordId": 0
+    },
+    "5101": {
+      "GuideFrame": [
+        "task.taskmaindialog",
+        "BackBtn/Effect"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5101,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 0
+    },
+    "5302": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackGround/RightPanel/Equip/Equip1/EquipCell"
+      ],
+      "direction": "Up",
+      "event": 20,
+      "hideBlack": 0,
+      "id": 5302,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301051
+    },
+    "5303": {
+      "GuideFrame": [
+        "equip.equipchangenewdialog",
+        "SelectTips/TipsBack/ForgeBtn"
+      ],
+      "direction": "Up",
+      "event": 21,
+      "hideBlack": 0,
+      "id": 5303,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301052
+    },
+    "5304": {
+      "GuideFrame": [],
+      "direction": "Up",
+      "event": 22,
+      "hideBlack": 0,
+      "id": 5304,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 11,
+      "wordId": 2301053
+    },
+    "5305": {
+      "GuideFrame": [],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5305,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 12,
+      "wordId": 2301054
+    },
+    "5401": {
+      "GuideFrame": [
+        "equipforge.equipforgedialog",
+        "BackBtn"
+      ],
+      "direction": "",
+      "event": 23,
+      "hideBlack": 0,
+      "id": 5401,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 13,
+      "wordId": 0
+    },
+    "5402": {
+      "GuideFrame": [
+        "equip.equipchangenewdialog",
+        "BackBtn"
+      ],
+      "direction": "",
+      "event": 24,
+      "hideBlack": 0,
+      "id": 5402,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 13,
+      "wordId": 0
+    },
+    "5403": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackBtn"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5403,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 13,
+      "wordId": 0
+    },
+    "5501": {
+      "GuideFrame": [],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5501,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 16,
+      "wordId": 2301075
+    },
+    "5601": {
+      "GuideFrame": [
+        "300"
+      ],
+      "direction": "Up",
+      "event": 28,
+      "hideBlack": 0,
+      "id": 5601,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 15,
+      "wordId": 2301076
+    },
+    "5602": {
+      "GuideFrame": [
+        "firefly.fireflydialog",
+        "RightPanel/Bai/AddBtn"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5602,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301077
+    },
+    "5701": {
+      "GuideFrame": [
+        "firefly.fireflydialog",
+        "BackBtn"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5701,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301078
+    },
+    "5801": {
+      "GuideFrame": [
+        "100"
+      ],
+      "direction": "Down",
+      "event": 26,
+      "hideBlack": 0,
+      "id": 5801,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 15,
+      "wordId": 2301079
+    },
+    "5802": {
+      "GuideFrame": [
+        "magictree.magictreedialog",
+        "TreeDetail/Cell2"
+      ],
+      "direction": "Down",
+      "event": 29,
+      "hideBlack": 0,
+      "id": 5802,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301161
+    },
+    "5803": {
+      "GuideFrame": [
+        "magictree.magictreedialog",
+        "DetailPanel/LockState/OpenBtn/Image"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 5803,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301080
+    },
+    "5901": {
+      "GuideFrame": [
+        "200"
+      ],
+      "direction": "Up",
+      "event": 30,
+      "hideBlack": 0,
+      "id": 5901,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 15,
+      "wordId": 2301081
+    },
+    "5902": {
+      "GuideFrame": [
+        "0"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 1,
+      "id": 5902,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301082
+    },
+    "601": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 601,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 14,
+      "wordId": 2301060
+    },
+    "6401": {
+      "GuideFrame": [
+        "activity.swimsuit.swimsuitmaindialog",
+        "Panel/Time/ChangeBtn"
+      ],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 6401,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301174
+    },
+    "6501": {
+      "GuideFrame": [
+        "equip.bagdialog",
+        "GroupBtnArea/Btn4/GroupBtn"
+      ],
+      "direction": "Down",
+      "event": 47,
+      "hideBlack": 0,
+      "id": 6501,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301200
+    },
+    "6502": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 48,
+      "hideBlack": 0,
+      "id": 6502,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 30,
+      "wordId": 2301201
+    },
+    "6503": {
+      "GuideFrame": [
+        "bag.rolereset.changeselectroledialog",
+        "Txt"
+      ],
+      "direction": "Down",
+      "event": 31,
+      "hideBlack": 0,
+      "id": 6503,
+      "profileId": 12398,
+      "raycastTarget": 1,
+      "type": 1,
+      "wordId": 2301202
+    },
+    "6504": {
+      "GuideFrame": [],
+      "direction": "Up",
+      "event": 49,
+      "hideBlack": 0,
+      "id": 6504,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 31,
+      "wordId": 2301203
+    },
+    "6505": {
+      "GuideFrame": [
+        "bag.rolereset.changeselectroledialog",
+        "Back/ConfirmBtn"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 6505,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301204
+    },
+    "6601": {
+      "GuideFrame": [],
+      "direction": "Down",
+      "event": 50,
+      "hideBlack": 0,
+      "id": 6601,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 32,
+      "wordId": 0
+    },
+    "6602": {
+      "GuideFrame": [
+        "activity.giftoftime.killbosscharacterinfodialog",
+        "ExpCost/UpBtn"
+      ],
+      "direction": "Down",
+      "event": 51,
+      "hideBlack": 0,
+      "id": 6602,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 0
+    },
+    "6603": {
+      "GuideFrame": [
+        "confirmbox.secondconfirmdialog",
+        "ConfirmButton"
+      ],
+      "direction": "Down",
+      "event": 52,
+      "hideBlack": 0,
+      "id": 6603,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 0
+    },
+    "6701": {
+      "GuideFrame": [
+        "1"
+      ],
+      "direction": "Down",
+      "event": 19,
+      "hideBlack": 0,
+      "id": 6701,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 33,
+      "wordId": 2301215
+    },
+    "6702": {
+      "GuideFrame": [
+        "character.newcharacterinfodialog",
+        "BackGround/RightPanel/Equip/CharUpgrade"
+      ],
+      "direction": "Up",
+      "event": 3,
+      "hideBlack": 0,
+      "id": 6702,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301216
+    },
+    "701": {
+      "GuideFrame": [
+        "base.basemainmenudialog",
+        "Gacha"
+      ],
+      "direction": "Up",
+      "event": 15,
+      "hideBlack": 0,
+      "id": 701,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301056
+    },
+    "702": {
+      "GuideFrame": [
+        "gacha.gachamaindialog",
+        "Frame/GachaMainCell(Clone)/First"
+      ],
+      "direction": "",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 702,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 0
+    },
+    "801": {
+      "GuideFrame": [
+        "dungeon.dungeonnextfloordialog",
+        "LeaveBtn"
+      ],
+      "direction": "Down",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 801,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301071
+    },
+    "901": {
+      "GuideFrame": [
+        "base.basemainmenudialog",
+        "Task"
+      ],
+      "direction": "Up",
+      "event": 18,
+      "hideBlack": 0,
+      "id": 901,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 1,
+      "wordId": 2301039
+    },
+    "902": {
+      "GuideFrame": [],
+      "direction": "Up",
+      "event": 8,
+      "hideBlack": 0,
+      "id": 902,
+      "profileId": 12398,
+      "raycastTarget": 0,
+      "type": 9,
+      "wordId": 2301040
+    }
+  }
+}

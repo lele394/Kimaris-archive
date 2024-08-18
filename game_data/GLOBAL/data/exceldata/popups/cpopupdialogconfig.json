@@ -1,0 +1,816 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+  ],
+  "Data": [
+    {
+      "ContentTextID": 600045,
+      "End": "NarratorClose",
+      "dialog_id": 1,
+      "id": 1,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600046,
+      "End": "NarratorClose",
+      "dialog_id": 2,
+      "id": 2,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600047,
+      "End": "NarratorClose",
+      "dialog_id": 3,
+      "id": 3,
+      "index": 1,
+      "time": 1
+    },
+    {
+      "ContentTextID": 600048,
+      "End": "NarratorClose",
+      "dialog_id": 4,
+      "id": 4,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600049,
+      "End": "NarratorClose",
+      "dialog_id": 5,
+      "id": 5,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600050,
+      "End": "NarratorClose",
+      "dialog_id": 6,
+      "id": 6,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600051,
+      "End": "NarratorClose",
+      "dialog_id": 7,
+      "id": 7,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600052,
+      "End": "NarratorClose",
+      "dialog_id": 8,
+      "id": 8,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600053,
+      "End": "NarratorClose",
+      "dialog_id": 9,
+      "id": 9,
+      "index": 1,
+      "time": 1
+    },
+    {
+      "ContentTextID": 600054,
+      "End": "NarratorClose",
+      "dialog_id": 10,
+      "id": 10,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600055,
+      "End": "NarratorClose",
+      "dialog_id": 11,
+      "id": 11,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600056,
+      "End": "NarratorClose",
+      "dialog_id": 12,
+      "id": 12,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600057,
+      "End": "NarratorClose",
+      "dialog_id": 13,
+      "id": 13,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600058,
+      "End": "NarratorClose",
+      "dialog_id": 13,
+      "id": 14,
+      "index": 2,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600059,
+      "End": "NarratorClose",
+      "dialog_id": 14,
+      "id": 15,
+      "index": 1,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600060,
+      "End": "NarratorClose",
+      "dialog_id": 15,
+      "id": 16,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600061,
+      "End": "NarratorClose",
+      "dialog_id": 15,
+      "id": 17,
+      "index": 2,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600062,
+      "End": "NarratorClose",
+      "dialog_id": 16,
+      "id": 18,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600063,
+      "End": "NarratorClose",
+      "dialog_id": 16,
+      "id": 19,
+      "index": 2,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600064,
+      "End": "NarratorClose",
+      "dialog_id": 17,
+      "id": 20,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600065,
+      "End": "NarratorClose",
+      "dialog_id": 17,
+      "id": 21,
+      "index": 2,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600066,
+      "End": "NarratorClose",
+      "dialog_id": 18,
+      "id": 22,
+      "index": 1,
+      "time": 1
+    },
+    {
+      "ContentTextID": 600067,
+      "End": "NarratorClose",
+      "dialog_id": 19,
+      "id": 23,
+      "index": 1,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600068,
+      "End": "NarratorClose",
+      "dialog_id": 20,
+      "id": 24,
+      "index": 1,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600069,
+      "End": "NarratorClose",
+      "dialog_id": 21,
+      "id": 25,
+      "index": 1,
+      "time": 6
+    },
+    {
+      "ContentTextID": 600070,
+      "End": "NarratorClose",
+      "dialog_id": 21,
+      "id": 26,
+      "index": 2,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600071,
+      "End": "NarratorClose",
+      "dialog_id": 22,
+      "id": 27,
+      "index": 1,
+      "time": 6
+    },
+    {
+      "ContentTextID": 600072,
+      "End": "NarratorClose",
+      "dialog_id": 22,
+      "id": 28,
+      "index": 2,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600073,
+      "End": "NarratorClose",
+      "dialog_id": 23,
+      "id": 29,
+      "index": 1,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600074,
+      "End": "NarratorClose",
+      "dialog_id": 24,
+      "id": 30,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600075,
+      "End": "NarratorClose",
+      "dialog_id": 25,
+      "id": 31,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600076,
+      "End": "NarratorClose",
+      "dialog_id": 26,
+      "id": 32,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600077,
+      "End": "NarratorClose",
+      "dialog_id": 27,
+      "id": 33,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600078,
+      "End": "NarratorClose",
+      "dialog_id": 28,
+      "id": 34,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600079,
+      "End": "NarratorClose",
+      "dialog_id": 26,
+      "id": 35,
+      "index": 2,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600080,
+      "End": "NarratorClose",
+      "dialog_id": 26,
+      "id": 36,
+      "index": 3,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600081,
+      "End": "NarratorClose",
+      "dialog_id": 26,
+      "id": 37,
+      "index": 4,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600082,
+      "End": "NarratorClose",
+      "dialog_id": 27,
+      "id": 38,
+      "index": 2,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600083,
+      "End": "NarratorClose",
+      "dialog_id": 29,
+      "id": 39,
+      "index": 1,
+      "time": 1
+    },
+    {
+      "ContentTextID": 600084,
+      "End": "NarratorClose",
+      "dialog_id": 29,
+      "id": 40,
+      "index": 2,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600085,
+      "End": "NarratorClose",
+      "dialog_id": 30,
+      "id": 41,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600076,
+      "End": "NarratorClose",
+      "dialog_id": 31,
+      "id": 42,
+      "index": 1,
+      "time": 1
+    },
+    {
+      "ContentTextID": 600079,
+      "End": "NarratorClose",
+      "dialog_id": 31,
+      "id": 43,
+      "index": 2,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600080,
+      "End": "NarratorClose",
+      "dialog_id": 31,
+      "id": 44,
+      "index": 3,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600101,
+      "End": "NarratorClose",
+      "dialog_id": 32,
+      "id": 45,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600102,
+      "End": "NarratorClose",
+      "dialog_id": 33,
+      "id": 46,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600103,
+      "End": "NarratorClose",
+      "dialog_id": 34,
+      "id": 47,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600104,
+      "End": "NarratorClose",
+      "dialog_id": 35,
+      "id": 48,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600105,
+      "End": "NarratorClose",
+      "dialog_id": 36,
+      "id": 49,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600106,
+      "End": "NarratorClose",
+      "dialog_id": 37,
+      "id": 50,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600107,
+      "End": "NarratorClose",
+      "dialog_id": 38,
+      "id": 51,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600110,
+      "End": "NarratorClose",
+      "dialog_id": 39,
+      "id": 52,
+      "index": 1,
+      "time": 5
+    },
+    {
+      "ContentTextID": 600115,
+      "End": "NarratorClose",
+      "dialog_id": 40,
+      "id": 53,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600116,
+      "End": "NarratorClose",
+      "dialog_id": 41,
+      "id": 54,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600117,
+      "End": "NarratorClose",
+      "dialog_id": 42,
+      "id": 55,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600118,
+      "End": "NarratorClose",
+      "dialog_id": 43,
+      "id": 56,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600119,
+      "End": "NarratorClose",
+      "dialog_id": 44,
+      "id": 57,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600120,
+      "End": "NarratorClose",
+      "dialog_id": 45,
+      "id": 58,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600121,
+      "End": "NarratorClose",
+      "dialog_id": 46,
+      "id": 59,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600122,
+      "End": "NarratorClose",
+      "dialog_id": 47,
+      "id": 60,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600123,
+      "End": "NarratorClose",
+      "dialog_id": 48,
+      "id": 61,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600124,
+      "End": "NarratorClose",
+      "dialog_id": 49,
+      "id": 62,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600125,
+      "End": "NarratorClose",
+      "dialog_id": 50,
+      "id": 63,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600126,
+      "End": "NarratorClose",
+      "dialog_id": 51,
+      "id": 64,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600127,
+      "End": "NarratorClose",
+      "dialog_id": 52,
+      "id": 65,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600128,
+      "End": "NarratorClose",
+      "dialog_id": 53,
+      "id": 66,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600129,
+      "End": "NarratorClose",
+      "dialog_id": 54,
+      "id": 67,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600130,
+      "End": "NarratorClose",
+      "dialog_id": 55,
+      "id": 68,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600131,
+      "End": "NarratorClose",
+      "dialog_id": 56,
+      "id": 69,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600132,
+      "End": "NarratorClose",
+      "dialog_id": 57,
+      "id": 70,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600133,
+      "End": "NarratorClose",
+      "dialog_id": 58,
+      "id": 71,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600134,
+      "End": "NarratorClose",
+      "dialog_id": 59,
+      "id": 72,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600135,
+      "End": "NarratorClose",
+      "dialog_id": 60,
+      "id": 73,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600136,
+      "End": "NarratorClose",
+      "dialog_id": 61,
+      "id": 74,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600137,
+      "End": "NarratorClose",
+      "dialog_id": 62,
+      "id": 75,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600138,
+      "End": "NarratorClose",
+      "dialog_id": 63,
+      "id": 76,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600139,
+      "End": "NarratorClose",
+      "dialog_id": 64,
+      "id": 77,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600140,
+      "End": "NarratorClose",
+      "dialog_id": 65,
+      "id": 78,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600141,
+      "End": "NarratorClose",
+      "dialog_id": 66,
+      "id": 79,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600142,
+      "End": "NarratorClose",
+      "dialog_id": 67,
+      "id": 80,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600143,
+      "End": "NarratorClose",
+      "dialog_id": 68,
+      "id": 81,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600144,
+      "End": "NarratorClose",
+      "dialog_id": 69,
+      "id": 82,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600145,
+      "End": "NarratorClose",
+      "dialog_id": 70,
+      "id": 83,
+      "index": 1,
+      "time": 8
+    },
+    {
+      "ContentTextID": 600151,
+      "End": "NarratorClose",
+      "dialog_id": 71,
+      "id": 84,
+      "index": 1,
+      "time": 3
+    },
+    {
+      "ContentTextID": 600152,
+      "End": "NarratorClose",
+      "dialog_id": 72,
+      "id": 85,
+      "index": 1,
+      "time": 2
+    },
+    {
+      "ContentTextID": 600153,
+      "End": "NarratorClose",
+      "dialog_id": 73,
+      "id": 86,
+      "index": 1,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600155,
+      "End": "NarratorClose",
+      "dialog_id": 74,
+      "id": 87,
+      "index": 1,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600156,
+      "End": "NarratorClose",
+      "dialog_id": 75,
+      "id": 88,
+      "index": 1,
+      "time": 6
+    },
+    {
+      "ContentTextID": 600157,
+      "End": "NarratorClose",
+      "dialog_id": 76,
+      "id": 89,
+      "index": 1,
+      "time": 4
+    },
+    {
+      "ContentTextID": 600196,
+      "End": "NarratorClose",
+      "dialog_id": 77,
+      "id": 90,
+      "index": 1,
+      "time": 2
+    }
+  ]
+}

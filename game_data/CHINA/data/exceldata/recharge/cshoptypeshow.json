@@ -1,0 +1,86 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    100,
+    2001,
+    2002
+  ],
+  "Data": {
+    "1": {
+      "Image": 0,
+      "Sort": 1,
+      "TypeName": "商品推荐",
+      "TypeNameTextID": 1100014,
+      "id": 1
+    },
+    "100": {
+      "Image": 0,
+      "Sort": 100,
+      "TypeName": "春节限时",
+      "TypeNameTextID": 1100019,
+      "id": 100
+    },
+    "2": {
+      "Image": 0,
+      "Sort": 2,
+      "TypeName": "充值",
+      "TypeNameTextID": 1100015,
+      "id": 2
+    },
+    "2001": {
+      "Image": 0,
+      "Sort": 3,
+      "TypeName": "梦境",
+      "TypeNameTextID": 1100020,
+      "id": 2001
+    },
+    "2002": {
+      "Image": 0,
+      "Sort": 3,
+      "TypeName": "梦境",
+      "TypeNameTextID": 1100021,
+      "id": 2002
+    },
+    "3": {
+      "Image": 0,
+      "Sort": 4,
+      "TypeName": "礼包",
+      "TypeNameTextID": 1100016,
+      "id": 3
+    },
+    "4": {
+      "Image": 0,
+      "Sort": 5,
+      "TypeName": "人偶外观",
+      "TypeNameTextID": 1100017,
+      "id": 4
+    },
+    "5": {
+      "Image": 0,
+      "Sort": 7,
+      "TypeName": "杂货",
+      "TypeNameTextID": 1100018,
+      "id": 5
+    },
+    "7": {
+      "Image": 0,
+      "Sort": 8,
+      "TypeName": "试炼",
+      "TypeNameTextID": 1100028,
+      "id": 7
+    },
+    "8": {
+      "Image": -1,
+      "Sort": -1,
+      "TypeName": "限时活动",
+      "TypeNameTextID": -1,
+      "id": 8
+    }
+  }
+}

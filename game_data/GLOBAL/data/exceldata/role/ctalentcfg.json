@@ -1,0 +1,110 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "Data": [
+    {
+      "costAP": 1,
+      "id": 1,
+      "parameter1": 20,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 1,
+      "id": 2,
+      "parameter1": 30,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 1,
+      "id": 3,
+      "parameter1": 40,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 1,
+      "id": 4,
+      "parameter1": 50,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 1,
+      "id": 5,
+      "parameter1": 60,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 1,
+      "id": 6,
+      "parameter1": 20,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 1,
+      "id": 7,
+      "parameter1": 30,
+      "parameter2": 10,
+      "type": 1
+    },
+    {
+      "costAP": 2,
+      "id": 8,
+      "parameter1": 40,
+      "parameter2": 20,
+      "type": 1
+    },
+    {
+      "costAP": 2,
+      "id": 9,
+      "parameter1": 50,
+      "parameter2": 20,
+      "type": 1
+    },
+    {
+      "costAP": 2,
+      "id": 10,
+      "parameter1": 60,
+      "parameter2": 20,
+      "type": 1
+    },
+    {
+      "costAP": 2,
+      "id": 11,
+      "parameter1": 20,
+      "parameter2": 20,
+      "type": 1
+    },
+    {
+      "costAP": 2,
+      "id": 12,
+      "parameter1": 40,
+      "parameter2": 20,
+      "type": 1
+    },
+    {
+      "costAP": 2,
+      "id": 13,
+      "parameter1": 500021,
+      "parameter2": 500041,
+      "type": 2
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-01 03:59:59",
+      "missionstart": "2022-10-31 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-01 03:59:59",
+      "missionstart": "2022-10-31 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 3,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-02 03:59:59",
+      "missionstart": "2022-11-01 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 4,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-02 03:59:59",
+      "missionstart": "2022-11-01 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 5,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-03 03:59:59",
+      "missionstart": "2022-11-02 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 6,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-03 03:59:59",
+      "missionstart": "2022-11-02 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 7,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-04 03:59:59",
+      "missionstart": "2022-11-03 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 8,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-04 03:59:59",
+      "missionstart": "2022-11-03 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 9,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-05 03:59:59",
+      "missionstart": "2022-11-04 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 10,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-05 03:59:59",
+      "missionstart": "2022-11-04 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 11,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-06 03:59:59",
+      "missionstart": "2022-11-05 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 12,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-06 03:59:59",
+      "missionstart": "2022-11-05 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 13,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-07 03:59:59",
+      "missionstart": "2022-11-06 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 14,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-07 03:59:59",
+      "missionstart": "2022-11-06 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 15,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-08 03:59:59",
+      "missionstart": "2022-11-07 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 16,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-08 03:59:59",
+      "missionstart": "2022-11-07 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 17,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-09 03:59:59",
+      "missionstart": "2022-11-08 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 18,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-09 03:59:59",
+      "missionstart": "2022-11-08 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 19,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-10 03:59:59",
+      "missionstart": "2022-11-09 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 20,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-10 03:59:59",
+      "missionstart": "2022-11-09 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 21,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-11 03:59:59",
+      "missionstart": "2022-11-10 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 22,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-11 03:59:59",
+      "missionstart": "2022-11-10 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 23,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-12 03:59:59",
+      "missionstart": "2022-11-11 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 24,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-12 03:59:59",
+      "missionstart": "2022-11-11 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 25,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-13 03:59:59",
+      "missionstart": "2022-11-12 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 26,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-13 03:59:59",
+      "missionstart": "2022-11-12 12:00:00",
+      "type": 2
+    },
+    {
+      "id": 27,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-14 03:59:59",
+      "missionstart": "2022-11-13 04:00:00",
+      "type": 1
+    },
+    {
+      "id": 28,
+      "itemid": 35003,
+      "itemnum": 30,
+      "missionend": "2022-11-14 03:59:59",
+      "missionstart": "2022-11-13 12:00:00",
+      "type": 2
+    }
+  ]
+}

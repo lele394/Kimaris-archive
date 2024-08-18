@@ -1,0 +1,216 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "Data": [
+    {
+      "Dialog": "EquipStrengthen",
+      "id": 1,
+      "target": 9
+    },
+    {
+      "Dialog": "RoleLevelUp",
+      "id": 2,
+      "target": 9
+    },
+    {
+      "Dialog": "RoleLimitUp",
+      "id": 3,
+      "target": 9
+    },
+    {
+      "Dialog": "RoleEvolute",
+      "id": 4,
+      "target": 9
+    },
+    {
+      "Dialog": "Card",
+      "id": 5,
+      "target": 2
+    },
+    {
+      "Dialog": "Handbook",
+      "id": 6,
+      "target": 10
+    },
+    {
+      "Dialog": "RoleHandbook",
+      "id": 7,
+      "target": 10
+    },
+    {
+      "Dialog": "CharacterList",
+      "id": 8,
+      "target": 9
+    },
+    {
+      "Dialog": "CharacterStatus",
+      "id": 9,
+      "target": 9
+    },
+    {
+      "Dialog": "CharacterEquip",
+      "id": 10,
+      "target": 9
+    },
+    {
+      "Dialog": "CharacterSkill",
+      "id": 11,
+      "target": 9
+    },
+    {
+      "Dialog": "Workshop",
+      "id": 12,
+      "target": 6
+    },
+    {
+      "Dialog": "WorkshopEquip",
+      "id": 13,
+      "target": 6
+    },
+    {
+      "Dialog": "WorkshopMaterial",
+      "id": 14,
+      "target": 6
+    },
+    {
+      "Dialog": "Friend",
+      "id": 15,
+      "target": 0
+    },
+    {
+      "Dialog": "Dungeon",
+      "id": 16,
+      "target": 1
+    },
+    {
+      "Dialog": "Relam",
+      "id": 17,
+      "target": 1
+    },
+    {
+      "Dialog": "Party",
+      "id": 18,
+      "target": 0
+    },
+    {
+      "Dialog": "Shop",
+      "id": 19,
+      "target": 0
+    },
+    {
+      "Dialog": "YardMain",
+      "id": 20,
+      "target": 0
+    },
+    {
+      "Dialog": "SideStory",
+      "id": 21,
+      "target": 0
+    },
+    {
+      "Dialog": "offlinepvp",
+      "id": 22,
+      "target": 0
+    },
+    {
+      "Dialog": "yardroom",
+      "id": 23,
+      "target": 0
+    },
+    {
+      "Dialog": "yardmirror",
+      "id": 24,
+      "target": 0
+    },
+    {
+      "Dialog": "friendshop",
+      "id": 25,
+      "target": 0
+    },
+    {
+      "Dialog": "rolestory",
+      "id": 26,
+      "target": 0
+    },
+    {
+      "Dialog": "guild",
+      "id": 27,
+      "target": 0
+    },
+    {
+      "Dialog": "bossrush",
+      "id": 28,
+      "target": 0
+    },
+    {
+      "Dialog": "Signboard",
+      "id": 29,
+      "target": 0
+    },
+    {
+      "Dialog": "Fragment",
+      "id": 30,
+      "target": 0
+    },
+    {
+      "Dialog": "TowerV2",
+      "id": 31,
+      "target": 0
+    },
+    {
+      "Dialog": "UndecidedRoad",
+      "id": 32,
+      "target": 0
+    },
+    {
+      "Dialog": "SpecificCharacter",
+      "id": 33,
+      "target": 0
+    },
+    {
+      "Dialog": "TaskMain",
+      "id": 34,
+      "target": 0
+    },
+    {
+      "Dialog": "AnniversaryMain",
+      "id": 35,
+      "target": 0
+    }
+  ]
+}

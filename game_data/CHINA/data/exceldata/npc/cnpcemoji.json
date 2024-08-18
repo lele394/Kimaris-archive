@@ -1,0 +1,34 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Data": [
+    {
+      "AnimationName": "emoji_001",
+      "AssetBundle": "sceneobjects.common.animations.emojibubbles.assetbundle",
+      "id": 1,
+      "shownAfter": 1
+    },
+    {
+      "AnimationName": "emoji_001L",
+      "AssetBundle": "sceneobjects.common.animations.emojibubbles.assetbundle",
+      "id": 2,
+      "shownAfter": 0
+    },
+    {
+      "AnimationName": "emoji_002",
+      "AssetBundle": "sceneobjects.common.animations.emojibubbles.assetbundle",
+      "id": 3,
+      "shownAfter": 1
+    },
+    {
+      "AnimationName": "emoji_002L",
+      "AssetBundle": "sceneobjects.common.animations.emojibubbles.assetbundle",
+      "id": 4,
+      "shownAfter": 0
+    }
+  ]
+}

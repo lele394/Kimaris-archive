@@ -1,0 +1,92 @@
+{
+  "AllIds": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7
+  ],
+  "Data": {
+    "1": {
+      "id": 1,
+      "rankRewardId": [
+        35008,
+        30077,
+        70003
+      ],
+      "rankRewardNum": [
+        2000,
+        2,
+        10
+      ],
+      "rankRewardType": 1
+    },
+    "2": {
+      "id": 2,
+      "rankRewardId": [
+        35008,
+        30077,
+        70003
+      ],
+      "rankRewardNum": [
+        1000,
+        1,
+        5
+      ],
+      "rankRewardType": 10
+    },
+    "4": {
+      "id": 4,
+      "rankRewardId": [
+        35008,
+        30076,
+        70003
+      ],
+      "rankRewardNum": [
+        800,
+        5,
+        4
+      ],
+      "rankRewardType": 25
+    },
+    "5": {
+      "id": 5,
+      "rankRewardId": [
+        35008,
+        30076,
+        70003
+      ],
+      "rankRewardNum": [
+        600,
+        2,
+        3
+      ],
+      "rankRewardType": 50
+    },
+    "6": {
+      "id": 6,
+      "rankRewardId": [
+        35008,
+        30076,
+        70003
+      ],
+      "rankRewardNum": [
+        400,
+        1,
+        1
+      ],
+      "rankRewardType": 100
+    },
+    "7": {
+      "id": 7,
+      "rankRewardId": [
+        35008
+      ],
+      "rankRewardNum": [
+        200
+      ],
+      "rankRewardType": 101
+    }
+  }
+}

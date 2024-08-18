@@ -1,0 +1,36 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3
+  ],
+  "Data": [
+    {
+      "battlesort": 2,
+      "equipid": 1,
+      "growATK": 40,
+      "growHP": 80,
+      "id": 1,
+      "roleid": 1,
+      "tipstextid": 701855
+    },
+    {
+      "battlesort": 1,
+      "equipid": 2,
+      "growATK": 20,
+      "growHP": 120,
+      "id": 2,
+      "roleid": 86,
+      "tipstextid": 701855
+    },
+    {
+      "battlesort": 3,
+      "equipid": 3,
+      "growATK": 60,
+      "growHP": 40,
+      "id": 3,
+      "roleid": 99,
+      "tipstextid": 701855
+    }
+  ]
+}

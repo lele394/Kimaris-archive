@@ -1,0 +1,354 @@
+{
+  "AllIds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309
+  ],
+  "Data": {
+    "101": {
+      "collectbonus": [
+        75016
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 200,
+      "collecttype": 35038,
+      "id": 101
+    },
+    "102": {
+      "collectbonus": [
+        75010
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 400,
+      "collecttype": 35038,
+      "id": 102
+    },
+    "103": {
+      "collectbonus": [
+        75010
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 600,
+      "collecttype": 35038,
+      "id": 103
+    },
+    "104": {
+      "collectbonus": [
+        74002
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 800,
+      "collecttype": 35038,
+      "id": 104
+    },
+    "105": {
+      "collectbonus": [
+        75017
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1000,
+      "collecttype": 35038,
+      "id": 105
+    },
+    "106": {
+      "collectbonus": [
+        75011
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1300,
+      "collecttype": 35038,
+      "id": 106
+    },
+    "107": {
+      "collectbonus": [
+        75011
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1600,
+      "collecttype": 35038,
+      "id": 107
+    },
+    "108": {
+      "collectbonus": [
+        79001
+      ],
+      "collectbonusnum": [
+        20
+      ],
+      "collectrequirenum": 2000,
+      "collecttype": 35038,
+      "id": 108
+    },
+    "109": {
+      "collectbonus": [
+        79003
+      ],
+      "collectbonusnum": [
+        5
+      ],
+      "collectrequirenum": 2500,
+      "collecttype": 35038,
+      "id": 109
+    },
+    "110": {
+      "collectbonus": [
+        30076
+      ],
+      "collectbonusnum": [
+        1
+      ],
+      "collectrequirenum": 3000,
+      "collecttype": 35038,
+      "id": 110
+    },
+    "201": {
+      "collectbonus": [
+        75016
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 200,
+      "collecttype": 35039,
+      "id": 201
+    },
+    "202": {
+      "collectbonus": [
+        75010
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 400,
+      "collecttype": 35039,
+      "id": 202
+    },
+    "203": {
+      "collectbonus": [
+        75010
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 600,
+      "collecttype": 35039,
+      "id": 203
+    },
+    "204": {
+      "collectbonus": [
+        74002
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 800,
+      "collecttype": 35039,
+      "id": 204
+    },
+    "205": {
+      "collectbonus": [
+        75017
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1000,
+      "collecttype": 35039,
+      "id": 205
+    },
+    "206": {
+      "collectbonus": [
+        75011
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1300,
+      "collecttype": 35039,
+      "id": 206
+    },
+    "207": {
+      "collectbonus": [
+        75011
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1600,
+      "collecttype": 35039,
+      "id": 207
+    },
+    "208": {
+      "collectbonus": [
+        75019
+      ],
+      "collectbonusnum": [
+        20
+      ],
+      "collectrequirenum": 2000,
+      "collecttype": 35039,
+      "id": 208
+    },
+    "209": {
+      "collectbonus": [
+        75018
+      ],
+      "collectbonusnum": [
+        20
+      ],
+      "collectrequirenum": 2500,
+      "collecttype": 35039,
+      "id": 209
+    },
+    "210": {
+      "collectbonus": [
+        30076
+      ],
+      "collectbonusnum": [
+        1
+      ],
+      "collectrequirenum": 3000,
+      "collecttype": 35039,
+      "id": 210
+    },
+    "301": {
+      "collectbonus": [
+        75016
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 200,
+      "collecttype": 35040,
+      "id": 301
+    },
+    "302": {
+      "collectbonus": [
+        75010
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 400,
+      "collecttype": 35040,
+      "id": 302
+    },
+    "303": {
+      "collectbonus": [
+        75010
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 600,
+      "collecttype": 35040,
+      "id": 303
+    },
+    "304": {
+      "collectbonus": [
+        74002
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 800,
+      "collecttype": 35040,
+      "id": 304
+    },
+    "305": {
+      "collectbonus": [
+        75017
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1000,
+      "collecttype": 35040,
+      "id": 305
+    },
+    "306": {
+      "collectbonus": [
+        75011
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1400,
+      "collecttype": 35040,
+      "id": 306
+    },
+    "307": {
+      "collectbonus": [
+        75011
+      ],
+      "collectbonusnum": [
+        10
+      ],
+      "collectrequirenum": 1800,
+      "collecttype": 35040,
+      "id": 307
+    },
+    "308": {
+      "collectbonus": [
+        79004
+      ],
+      "collectbonusnum": [
+        1
+      ],
+      "collectrequirenum": 2400,
+      "collecttype": 35040,
+      "id": 308
+    },
+    "309": {
+      "collectbonus": [
+        30076
+      ],
+      "collectbonusnum": [
+        1
+      ],
+      "collectrequirenum": 3000,
+      "collecttype": 35040,
+      "id": 309
+    }
+  }
+}

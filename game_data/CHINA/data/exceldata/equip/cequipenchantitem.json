@@ -1,0 +1,42 @@
+{
+  "AllIds": [
+    70001,
+    70002,
+    70003,
+    70004
+  ],
+  "Data": {
+    "70001": {
+      "Luck": 2,
+      "id": 70001,
+      "itemText": 1500063,
+      "needMana": 100,
+      "show": 1,
+      "sort": 1
+    },
+    "70002": {
+      "Luck": 3,
+      "id": 70002,
+      "itemText": 1500064,
+      "needMana": 200,
+      "show": 1,
+      "sort": 2
+    },
+    "70003": {
+      "Luck": 4,
+      "id": 70003,
+      "itemText": 1500065,
+      "needMana": 200,
+      "show": 1,
+      "sort": 3
+    },
+    "70004": {
+      "Luck": 4,
+      "id": 70004,
+      "itemText": 1500082,
+      "needMana": 200,
+      "show": 0,
+      "sort": 4
+    }
+  }
+}

@@ -1,0 +1,1136 @@
+{
+  "AllIds": [
+    6349,
+    6350,
+    6351,
+    6352,
+    6353,
+    6354,
+    6355,
+    6356,
+    6357,
+    6358,
+    6359,
+    6360,
+    6361,
+    6362,
+    6363,
+    6365,
+    6366,
+    6367,
+    6368,
+    6369,
+    6370,
+    6371,
+    6373,
+    6374,
+    6375,
+    6376,
+    6377,
+    6378,
+    6379,
+    6381,
+    6382,
+    6383,
+    6384,
+    6385,
+    6386,
+    6387,
+    6389,
+    6390,
+    6391,
+    6392,
+    6393,
+    6394,
+    6395,
+    6397,
+    6398,
+    6399,
+    6400,
+    6401,
+    6402,
+    6403,
+    6406,
+    6407,
+    6408,
+    6409,
+    6410,
+    6411,
+    6412,
+    6414,
+    6415,
+    6416,
+    6417,
+    6418,
+    6419,
+    6420,
+    6422,
+    6423,
+    6424,
+    6425,
+    6426,
+    6427,
+    6428,
+    6430,
+    6431,
+    6432,
+    6433,
+    6434,
+    6435,
+    6436,
+    6438,
+    6439,
+    6440,
+    6441,
+    6442,
+    6443,
+    6444,
+    6446,
+    6447,
+    6448,
+    6449,
+    6450,
+    6451,
+    6452,
+    6454,
+    6455,
+    6456,
+    6457,
+    6458,
+    6459,
+    6460,
+    6462,
+    6463,
+    6464,
+    6465,
+    6466,
+    6467,
+    6468,
+    6469,
+    6470,
+    6471,
+    6472,
+    6473,
+    6474,
+    6475
+  ],
+  "Data": {
+    "6349": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6349,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6350": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6350,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6351": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6351,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6352": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6352,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6353": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6353,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6354": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6354,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6355": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6355,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6356": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6356,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 8
+    },
+    "6357": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6357,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6358": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6358,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6359": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6359,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6360": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6360,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6361": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6361,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6362": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6362,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6363": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6363,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6365": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6365,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6366": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6366,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6367": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6367,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6368": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6368,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6369": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6369,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6370": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6370,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6371": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6371,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6373": {
+      "bosspos": "42,-279",
+      "bossscale": "0.7",
+      "bossshapeid": 20177,
+      "id": 6373,
+      "nameTextID": 1901199,
+      "photoid": 13558,
+      "sort": 1
+    },
+    "6374": {
+      "bosspos": "0,-390",
+      "bossscale": "0.7",
+      "bossshapeid": 20176,
+      "id": 6374,
+      "nameTextID": 1901200,
+      "photoid": 13556,
+      "sort": 2
+    },
+    "6375": {
+      "bosspos": "42,-279",
+      "bossscale": "0.7",
+      "bossshapeid": 20178,
+      "id": 6375,
+      "nameTextID": 1901201,
+      "photoid": 13557,
+      "sort": 3
+    },
+    "6376": {
+      "bosspos": "42,-279",
+      "bossscale": "0.6",
+      "bossshapeid": 20175,
+      "id": 6376,
+      "nameTextID": 1901202,
+      "photoid": 13555,
+      "sort": 4
+    },
+    "6377": {
+      "bosspos": "0,-390",
+      "bossscale": "0.7",
+      "bossshapeid": 20176,
+      "id": 6377,
+      "nameTextID": 1901200,
+      "photoid": 13556,
+      "sort": 5
+    },
+    "6378": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20178,
+      "id": 6378,
+      "nameTextID": 1901201,
+      "photoid": 13557,
+      "sort": 6
+    },
+    "6379": {
+      "bosspos": "42,-279",
+      "bossscale": "0.6",
+      "bossshapeid": 20175,
+      "id": 6379,
+      "nameTextID": 1901202,
+      "photoid": 13555,
+      "sort": 7
+    },
+    "6381": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6381,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6382": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6382,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6383": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6383,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6384": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6384,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6385": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6385,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6386": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6386,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6387": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6387,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6389": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6389,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6390": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6390,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6391": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6391,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6392": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6392,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6393": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6393,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6394": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6394,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6395": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6395,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6397": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6397,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6398": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6398,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6399": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6399,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6400": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6400,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6401": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6401,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6402": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6402,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6403": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6403,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6406": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6406,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6407": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6407,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6408": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6408,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6409": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6409,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6410": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6410,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6411": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6411,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6412": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6412,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6414": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6414,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6415": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6415,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6416": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6416,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6417": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6417,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6418": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6418,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6419": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6419,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6420": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6420,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6422": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6422,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6423": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6423,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6424": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6424,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6425": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6425,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6426": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6426,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6427": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6427,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6428": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6428,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6430": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6430,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6431": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6431,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6432": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6432,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6433": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6433,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6434": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6434,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6435": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6435,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6436": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6436,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6438": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6438,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6439": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6439,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6440": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6440,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6441": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6441,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6442": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6442,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6443": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6443,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6444": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6444,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6446": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6446,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6447": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6447,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6448": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6448,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6449": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6449,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6450": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6450,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6451": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6451,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6452": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6452,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6454": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6454,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6455": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6455,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6456": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6456,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6457": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6457,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6458": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6458,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6459": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6459,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6460": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6460,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    },
+    "6462": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20016,
+      "id": 6462,
+      "nameTextID": 1901186,
+      "photoid": 13420,
+      "sort": 1
+    },
+    "6463": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6463,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 2
+    },
+    "6464": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6464,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 3
+    },
+    "6465": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6465,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 4
+    },
+    "6466": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20059,
+      "id": 6466,
+      "nameTextID": 1901187,
+      "photoid": 13421,
+      "sort": 5
+    },
+    "6467": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20042,
+      "id": 6467,
+      "nameTextID": 1901188,
+      "photoid": 13422,
+      "sort": 6
+    },
+    "6468": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20046,
+      "id": 6468,
+      "nameTextID": 1901189,
+      "photoid": 13423,
+      "sort": 7
+    },
+    "6469": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20153,
+      "id": 6469,
+      "nameTextID": 1901021,
+      "photoid": 13245,
+      "sort": 1
+    },
+    "6470": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6470,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 2
+    },
+    "6471": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6471,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 3
+    },
+    "6472": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6472,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 4
+    },
+    "6473": {
+      "bosspos": "0,-163",
+      "bossscale": "0.9",
+      "bossshapeid": 20032,
+      "id": 6473,
+      "nameTextID": 1901022,
+      "photoid": 13246,
+      "sort": 5
+    },
+    "6474": {
+      "bosspos": "42,-202",
+      "bossscale": "0.7",
+      "bossshapeid": 20072,
+      "id": 6474,
+      "nameTextID": 1901023,
+      "photoid": 13244,
+      "sort": 6
+    },
+    "6475": {
+      "bosspos": "55,-173",
+      "bossscale": "0.6",
+      "bossshapeid": 20117,
+      "id": 6475,
+      "nameTextID": 1901024,
+      "photoid": 13247,
+      "sort": 7
+    }
+  }
+}

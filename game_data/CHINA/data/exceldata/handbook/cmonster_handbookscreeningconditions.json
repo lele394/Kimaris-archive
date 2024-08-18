@@ -1,0 +1,22 @@
+{
+  "AllIds": [
+    1,
+    2
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "nameid": 1300012,
+      "sort": 1,
+      "type": 1,
+      "typename": 1300014
+    },
+    {
+      "id": 2,
+      "nameid": 1300013,
+      "sort": 2,
+      "type": 1,
+      "typename": 1300014
+    }
+  ]
+}

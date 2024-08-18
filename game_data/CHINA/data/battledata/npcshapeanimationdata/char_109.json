@@ -1,0 +1,23 @@
+{
+  "AttackStart": {
+    "endEventFrames": 20
+  },
+  "DeadDisappear": {
+    "endEventFrames": 50
+  },
+  "LogicBattleEnd": {
+    "endEventFrames": 11
+  },
+  "Magic2Start": {
+    "endEventFrames": 40
+  },
+  "MagicStart": {
+    "endEventFrames": 24
+  },
+  "Special": {
+    "endEventFrames": 60
+  },
+  "Victory": {
+    "endEventFrames": 60
+  }
+}

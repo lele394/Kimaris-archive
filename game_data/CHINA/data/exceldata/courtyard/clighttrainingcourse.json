@@ -1,0 +1,358 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "Data": [
+    {
+      "appearproportion": 5,
+      "id": 1,
+      "lightcostitem": 35014,
+      "lightcostnum": 300,
+      "trainingexpgain": 6000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 1,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 2,
+      "lightcostitem": 35014,
+      "lightcostnum": 600,
+      "trainingexpgain": 12000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 1,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 3,
+      "lightcostitem": 35014,
+      "lightcostnum": 1200,
+      "trainingexpgain": 24000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 1,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 4,
+      "lightcostitem": 35015,
+      "lightcostnum": 100,
+      "trainingexpgain": 8000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 1,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 5,
+      "lightcostitem": 35015,
+      "lightcostnum": 200,
+      "trainingexpgain": 16000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 1,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 6,
+      "lightcostitem": 35015,
+      "lightcostnum": 400,
+      "trainingexpgain": 32000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 1,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 7,
+      "lightcostitem": 35014,
+      "lightcostnum": 900,
+      "trainingexpgain": 18000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 2,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 8,
+      "lightcostitem": 35014,
+      "lightcostnum": 1800,
+      "trainingexpgain": 36000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 2,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 9,
+      "lightcostitem": 35014,
+      "lightcostnum": 3600,
+      "trainingexpgain": 72000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 2,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 10,
+      "lightcostitem": 35014,
+      "lightcostnum": 4500,
+      "trainingexpgain": 90000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 2,
+      "trainingtime": 600
+    },
+    {
+      "appearproportion": 5,
+      "id": 11,
+      "lightcostitem": 35015,
+      "lightcostnum": 300,
+      "trainingexpgain": 24000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 2,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 12,
+      "lightcostitem": 35015,
+      "lightcostnum": 600,
+      "trainingexpgain": 48000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 2,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 13,
+      "lightcostitem": 35015,
+      "lightcostnum": 1200,
+      "trainingexpgain": 96000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 2,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 14,
+      "lightcostitem": 35015,
+      "lightcostnum": 1800,
+      "trainingexpgain": 144000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 2,
+      "trainingtime": 720
+    },
+    {
+      "appearproportion": 5,
+      "id": 15,
+      "lightcostitem": 35014,
+      "lightcostnum": 1800,
+      "trainingexpgain": 36000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 3,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 16,
+      "lightcostitem": 35014,
+      "lightcostnum": 3600,
+      "trainingexpgain": 72000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 3,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 17,
+      "lightcostitem": 35014,
+      "lightcostnum": 7200,
+      "trainingexpgain": 144000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 3,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 18,
+      "lightcostitem": 35014,
+      "lightcostnum": 9000,
+      "trainingexpgain": 180000,
+      "trainingnametxtid": 800160,
+      "trainingrarity": 3,
+      "trainingtime": 600
+    },
+    {
+      "appearproportion": 5,
+      "id": 19,
+      "lightcostitem": 35015,
+      "lightcostnum": 600,
+      "trainingexpgain": 48000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 3,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 20,
+      "lightcostitem": 35015,
+      "lightcostnum": 1200,
+      "trainingexpgain": 96000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 3,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 21,
+      "lightcostitem": 35015,
+      "lightcostnum": 2400,
+      "trainingexpgain": 192000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 3,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 22,
+      "lightcostitem": 35015,
+      "lightcostnum": 3600,
+      "trainingexpgain": 288000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 3,
+      "trainingtime": 720
+    },
+    {
+      "appearproportion": 5,
+      "id": 23,
+      "lightcostitem": 35015,
+      "lightcostnum": 4800,
+      "trainingexpgain": 384000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 3,
+      "trainingtime": 960
+    },
+    {
+      "appearproportion": 5,
+      "id": 24,
+      "lightcostitem": 35015,
+      "lightcostnum": 1800,
+      "trainingexpgain": 144000,
+      "trainingnametxtid": 800161,
+      "trainingrarity": 3,
+      "trainingtime": 360
+    },
+    {
+      "appearproportion": 5,
+      "id": 25,
+      "lightcostitem": 35016,
+      "lightcostnum": 360,
+      "trainingexpgain": 50400,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 3,
+      "trainingtime": 120
+    },
+    {
+      "appearproportion": 5,
+      "id": 26,
+      "lightcostitem": 35016,
+      "lightcostnum": 720,
+      "trainingexpgain": 100800,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 3,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 5,
+      "id": 27,
+      "lightcostitem": 35016,
+      "lightcostnum": 1440,
+      "trainingexpgain": 201600,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 3,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 5,
+      "id": 28,
+      "lightcostitem": 35016,
+      "lightcostnum": 2160,
+      "trainingexpgain": 302400,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 3,
+      "trainingtime": 720
+    },
+    {
+      "appearproportion": 5,
+      "id": 29,
+      "lightcostitem": 35016,
+      "lightcostnum": 2880,
+      "trainingexpgain": 403200,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 3,
+      "trainingtime": 960
+    },
+    {
+      "appearproportion": 10,
+      "id": 30,
+      "lightcostitem": 35016,
+      "lightcostnum": 1080,
+      "trainingexpgain": 151200,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 4,
+      "trainingtime": 240
+    },
+    {
+      "appearproportion": 10,
+      "id": 31,
+      "lightcostitem": 35016,
+      "lightcostnum": 2160,
+      "trainingexpgain": 302400,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 4,
+      "trainingtime": 480
+    },
+    {
+      "appearproportion": 10,
+      "id": 32,
+      "lightcostitem": 35016,
+      "lightcostnum": 2880,
+      "trainingexpgain": 403200,
+      "trainingnametxtid": 800162,
+      "trainingrarity": 4,
+      "trainingtime": 640
+    }
+  ]
+}

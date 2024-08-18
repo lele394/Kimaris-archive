@@ -1,0 +1,132 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "nameid": 1300011,
+      "sort": 2,
+      "type": 1,
+      "typename": 1301082,
+      "value": 3
+    },
+    {
+      "id": 2,
+      "nameid": 1300010,
+      "sort": 3,
+      "type": 1,
+      "typename": 1301082,
+      "value": 2
+    },
+    {
+      "id": 3,
+      "nameid": 1300009,
+      "sort": 4,
+      "type": 1,
+      "typename": 1301082,
+      "value": 1
+    },
+    {
+      "id": 4,
+      "nameid": 1300001,
+      "sort": 1,
+      "type": 2,
+      "typename": 1301083,
+      "value": 1
+    },
+    {
+      "id": 5,
+      "nameid": 1300002,
+      "sort": 2,
+      "type": 2,
+      "typename": 1301083,
+      "value": 2
+    },
+    {
+      "id": 6,
+      "nameid": 1300003,
+      "sort": 3,
+      "type": 2,
+      "typename": 1301083,
+      "value": 3
+    },
+    {
+      "id": 7,
+      "nameid": 1300004,
+      "sort": 4,
+      "type": 2,
+      "typename": 1301083,
+      "value": 4
+    },
+    {
+      "id": 8,
+      "nameid": 1300005,
+      "sort": 6,
+      "type": 2,
+      "typename": 1301083,
+      "value": 5
+    },
+    {
+      "id": 9,
+      "nameid": 1300006,
+      "sort": 7,
+      "type": 2,
+      "typename": 1301083,
+      "value": 6
+    },
+    {
+      "id": 10,
+      "nameid": 1300007,
+      "sort": 8,
+      "type": 2,
+      "typename": 1301083,
+      "value": 7
+    },
+    {
+      "id": 11,
+      "nameid": 1300015,
+      "sort": 1,
+      "type": 1,
+      "typename": 1301082,
+      "value": 4
+    },
+    {
+      "id": 12,
+      "nameid": 1301079,
+      "sort": 1,
+      "type": 3,
+      "typename": 1301084,
+      "value": 1
+    },
+    {
+      "id": 13,
+      "nameid": 1301080,
+      "sort": 2,
+      "type": 3,
+      "typename": 1301084,
+      "value": 0
+    },
+    {
+      "id": 14,
+      "nameid": 1301085,
+      "sort": 5,
+      "type": 1,
+      "typename": 1301082,
+      "value": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "AllIds": [
+    48001,
+    49001
+  ],
+  "Data": {
+    "48001": {
+      "ShapeID": 1041,
+      "duration": 14,
+      "id": 48001,
+      "rarePicID": 11708,
+      "rewardNum": 1,
+      "rewardType": 41,
+      "rewarditem": 40034,
+      "textID1": 702371,
+      "textID2": 702372
+    },
+    "49001": {
+      "ShapeID": 1041,
+      "duration": 14,
+      "id": 49001,
+      "rarePicID": 11708,
+      "rewardNum": 1,
+      "rewardType": 41,
+      "rewarditem": 40034,
+      "textID1": 702371,
+      "textID2": 702372
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "AllIds": [
+    1
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "levellimit": 28,
+      "limitid": 13028,
+      "opentime": "2021-09-02 04:00:00"
+    }
+  ]
+}

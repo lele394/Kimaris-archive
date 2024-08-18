@@ -1,0 +1,231 @@
+{
+  "AllIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "Data": [
+    {
+      "amount": [
+        2
+      ],
+      "id": 1,
+      "imageID": 0,
+      "items": [
+        30076
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 1
+    },
+    {
+      "amount": [
+        3
+      ],
+      "id": 2,
+      "imageID": 0,
+      "items": [
+        30076
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 2
+    },
+    {
+      "amount": [
+        4
+      ],
+      "id": 3,
+      "imageID": 0,
+      "items": [
+        30076
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 3
+    },
+    {
+      "amount": [
+        5
+      ],
+      "id": 4,
+      "imageID": 0,
+      "items": [
+        30076
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 4
+    },
+    {
+      "amount": [
+        5
+      ],
+      "id": 5,
+      "imageID": 0,
+      "items": [
+        30076
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 5
+    },
+    {
+      "amount": [
+        8
+      ],
+      "id": 6,
+      "imageID": 0,
+      "items": [
+        30076
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 6
+    },
+    {
+      "amount": [
+        1
+      ],
+      "id": 7,
+      "imageID": 11528,
+      "items": [
+        40028
+      ],
+      "rarity": 3,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 7
+    },
+    {
+      "amount": [
+        1
+      ],
+      "id": 8,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 8
+    },
+    {
+      "amount": [
+        1
+      ],
+      "id": 9,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 9
+    },
+    {
+      "amount": [
+        2
+      ],
+      "id": 10,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 10
+    },
+    {
+      "amount": [
+        2
+      ],
+      "id": 11,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 11
+    },
+    {
+      "amount": [
+        2
+      ],
+      "id": 12,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 12
+    },
+    {
+      "amount": [
+        3
+      ],
+      "id": 13,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 13
+    },
+    {
+      "amount": [
+        3
+      ],
+      "id": 14,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 14
+    },
+    {
+      "amount": [
+        5
+      ],
+      "id": 15,
+      "imageID": 0,
+      "items": [
+        30077
+      ],
+      "rarity": 1,
+      "totalExperience": 50000000,
+      "unlockExperience": 50000000,
+      "unlockLevel": 15
+    }
+  ]
+}

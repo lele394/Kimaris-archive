@@ -1,0 +1,14 @@
+{
+  "Attack": {
+    "endEventFrames": 33
+  },
+  "DeadDisappear": {
+    "endEventFrames": 60
+  },
+  "Move": {
+    "endEventFrames": 0
+  },
+  "RunAway": {
+    "endEventFrames": 1
+  }
+}

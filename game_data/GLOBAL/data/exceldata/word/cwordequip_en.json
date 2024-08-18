@@ -1,0 +1,701 @@
+{
+  "AllIds": [
+    1500001,
+    1500002,
+    1500003,
+    1500004,
+    1500005,
+    1500006,
+    1500007,
+    1500008,
+    1500009,
+    1500010,
+    1500011,
+    1500012,
+    1500013,
+    1500014,
+    1500015,
+    1500016,
+    1500017,
+    1500018,
+    1500019,
+    1500020,
+    1500021,
+    1500022,
+    1500023,
+    1500024,
+    1500025,
+    1500026,
+    1500027,
+    1500028,
+    1500029,
+    1500030,
+    1500031,
+    1500032,
+    1500033,
+    1500034,
+    1500035,
+    1500036,
+    1500037,
+    1500038,
+    1500039,
+    1500040,
+    1500041,
+    1500042,
+    1500043,
+    1500044,
+    1500045,
+    1500046,
+    1500047,
+    1500048,
+    1500049,
+    1500050,
+    1500051,
+    1500052,
+    1500053,
+    1500054,
+    1500055,
+    1500056,
+    1500057,
+    1500058,
+    1500059,
+    1500060,
+    1500061,
+    1500062,
+    1500063,
+    1500064,
+    1500065,
+    1500066,
+    1500067,
+    1500068,
+    1500069,
+    1500070,
+    1500071,
+    1500072,
+    1500073,
+    1500074,
+    1500075,
+    1500076,
+    1500077,
+    1500078,
+    1500079,
+    1500080,
+    1500081,
+    1500082,
+    1500083,
+    1500084,
+    1500085,
+    1500086,
+    1500087,
+    1500088,
+    1500089,
+    1500090,
+    1500091,
+    1500092,
+    1500093,
+    1500094,
+    1500095,
+    1500096,
+    1500097,
+    1500098,
+    1500099,
+    1500100,
+    1500101,
+    1500102,
+    1500103,
+    1500104,
+    1500105,
+    1500106,
+    1500107,
+    1500108,
+    1500109,
+    1500110,
+    1500111,
+    1500112,
+    1500113,
+    1500114,
+    1500115,
+    1500116,
+    1500117,
+    1500118,
+    1500119,
+    1500120,
+    1500121,
+    1500122,
+    1500123,
+    1500124,
+    1500125,
+    1500126,
+    1500127,
+    1500128,
+    1500129,
+    1500130,
+    1500131,
+    1500132,
+    1500133,
+    1500134,
+    1500135,
+    1500136,
+    1500137,
+    1500138,
+    1500139
+  ],
+  "Data": {
+    "1500001": {
+      "id": 1500001,
+      "text": "Guardian"
+    },
+    "1500002": {
+      "id": 1500002,
+      "text": "Destroyer"
+    },
+    "1500003": {
+      "id": 1500003,
+      "text": "Assassin"
+    },
+    "1500004": {
+      "id": 1500004,
+      "text": "Compeller"
+    },
+    "1500005": {
+      "id": 1500005,
+      "text": "Healer"
+    },
+    "1500006": {
+      "id": 1500006,
+      "text": "Mage"
+    },
+    "1500007": {
+      "id": 1500007,
+      "text": "Witch"
+    },
+    "1500008": {
+      "id": 1500008,
+      "text": "All"
+    },
+    "1500009": {
+      "id": 1500009,
+      "text": "Enhancement Attribute"
+    },
+    "1500010": {
+      "id": 1500010,
+      "text": "Additional Attribute"
+    },
+    "1500011": {
+      "id": 1500011,
+      "text": "Additional Skill"
+    },
+    "1500012": {
+      "id": 1500012,
+      "text": "Set Bonus"
+    },
+    "1500013": {
+      "id": 1500013,
+      "text": "Null"
+    },
+    "1500014": {
+      "id": 1500014,
+      "text": "Increases Max. Health by $parameter1$"
+    },
+    "1500015": {
+      "id": 1500015,
+      "text": "Increases Physical ATK by $parameter1$"
+    },
+    "1500016": {
+      "id": 1500016,
+      "text": "Increases Magic ATK by $parameter1$"
+    },
+    "1500017": {
+      "id": 1500017,
+      "text": "Increases Physical DEF by $parameter1$"
+    },
+    "1500018": {
+      "id": 1500018,
+      "text": "Increases Magic DEF by $parameter1$"
+    },
+    "1500019": {
+      "id": 1500019,
+      "text": "Gold"
+    },
+    "1500020": {
+      "id": 1500020,
+      "text": "Silver"
+    },
+    "1500021": {
+      "id": 1500021,
+      "text": "Copper"
+    },
+    "1500022": {
+      "id": 1500022,
+      "text": "N"
+    },
+    "1500023": {
+      "id": 1500023,
+      "text": "Guardian"
+    },
+    "1500024": {
+      "id": 1500024,
+      "text": "Destroyer"
+    },
+    "1500025": {
+      "id": 1500025,
+      "text": "Assassin"
+    },
+    "1500026": {
+      "id": 1500026,
+      "text": "Compeller"
+    },
+    "1500027": {
+      "id": 1500027,
+      "text": "Healer"
+    },
+    "1500028": {
+      "id": 1500028,
+      "text": "Mage"
+    },
+    "1500029": {
+      "id": 1500029,
+      "text": "Witch"
+    },
+    "1500030": {
+      "id": 1500030,
+      "text": "All"
+    },
+    "1500031": {
+      "id": 1500031,
+      "text": "Materials"
+    },
+    "1500032": {
+      "id": 1500032,
+      "text": "Rarity"
+    },
+    "1500033": {
+      "id": 1500033,
+      "text": "Level"
+    },
+    "1500034": {
+      "id": 1500034,
+      "text": "Owned"
+    },
+    "1500035": {
+      "id": 1500035,
+      "text": "Obtain Order"
+    },
+    "1500036": {
+      "id": 1500036,
+      "text": "Class"
+    },
+    "1500037": {
+      "id": 1500037,
+      "text": "Health"
+    },
+    "1500038": {
+      "id": 1500038,
+      "text": "Physical ATK"
+    },
+    "1500039": {
+      "id": 1500039,
+      "text": "Magic ATK"
+    },
+    "1500040": {
+      "id": 1500040,
+      "text": "Physical DEF"
+    },
+    "1500041": {
+      "id": 1500041,
+      "text": "Magic DEF"
+    },
+    "1500042": {
+      "id": 1500042,
+      "text": "Rating"
+    },
+    "1500043": {
+      "id": 1500043,
+      "text": "Weapon"
+    },
+    "1500044": {
+      "id": 1500044,
+      "text": "Armor"
+    },
+    "1500045": {
+      "id": 1500045,
+      "text": "Accessory"
+    },
+    "1500046": {
+      "id": 1500046,
+      "text": "Obtain EXP"
+    },
+    "1500047": {
+      "id": 1500047,
+      "text": "Gold"
+    },
+    "1500048": {
+      "id": 1500048,
+      "text": "Purple"
+    },
+    "1500049": {
+      "id": 1500049,
+      "text": "Blue"
+    },
+    "1500050": {
+      "id": 1500050,
+      "text": "Attack"
+    },
+    "1500051": {
+      "id": 1500051,
+      "text": "Crit Chance"
+    },
+    "1500052": {
+      "id": 1500052,
+      "text": "Crit DMG"
+    },
+    "1500053": {
+      "id": 1500053,
+      "text": "Physical Dodge"
+    },
+    "1500054": {
+      "id": 1500054,
+      "text": "Magic Dodge"
+    },
+    "1500055": {
+      "id": 1500055,
+      "text": "Physical Block"
+    },
+    "1500056": {
+      "id": 1500056,
+      "text": "Magic Block"
+    },
+    "1500057": {
+      "id": 1500057,
+      "text": "Physical Penetration"
+    },
+    "1500058": {
+      "id": 1500058,
+      "text": "Magic Penetration"
+    },
+    "1500059": {
+      "id": 1500059,
+      "text": "Crit Resistance"
+    },
+    "1500060": {
+      "id": 1500060,
+      "text": "Quality:"
+    },
+    "1500061": {
+      "id": 1500061,
+      "text": "Type:"
+    },
+    "1500062": {
+      "id": 1500062,
+      "text": "Legendary"
+    },
+    "1500063": {
+      "id": 1500063,
+      "text": "Regenerate <color=#82C65D>$parameter1$</color> <color=#82C65D>C-A</color> Affix.$B$<color=#FC3333>Can't replace the Affix in the newly-unlocked slot</color>"
+    },
+    "1500064": {
+      "id": 1500064,
+      "text": "Regenerate <color=#82C65D>$parameter1$</color> <color=#82C65D>B-S</color> Affix.$B$<color=#FC3333>Can't replace the Affix in the newly-unlocked slot</color>"
+    },
+    "1500065": {
+      "id": 1500065,
+      "text": "Regenerate <color=#82C65D>$parameter1$</color> <color=#82C65D>S-SSS</color> Affix. $B$Has a chance to unlock new Affix slot.$B$<color=#FC3333>Can't replace the Affix in the newly-unlocked slot</color>"
+    },
+    "1500066": {
+      "id": 1500066,
+      "text": "Sorcerer"
+    },
+    "1500067": {
+      "id": 1500067,
+      "text": "Scholar"
+    },
+    "1500068": {
+      "id": 1500068,
+      "text": "Goddess's Blessed"
+    },
+    "1500069": {
+      "id": 1500069,
+      "text": "Set"
+    },
+    "1500070": {
+      "id": 1500070,
+      "text": "Non-set"
+    },
+    "1500071": {
+      "id": 1500071,
+      "text": "Set:"
+    },
+    "1500072": {
+      "id": 1500072,
+      "text": "Soul-devoured Bones"
+    },
+    "1500073": {
+      "id": 1500073,
+      "text": "Ancient Forest"
+    },
+    "1500074": {
+      "id": 1500074,
+      "text": "Iron-willed"
+    },
+    "1500075": {
+      "id": 1500075,
+      "text": "Peace Of Mind"
+    },
+    "1500076": {
+      "id": 1500076,
+      "text": "Frenzy"
+    },
+    "1500077": {
+      "id": 1500077,
+      "text": "Unbending Will"
+    },
+    "1500078": {
+      "id": 1500078,
+      "text": "Inheritance of Life"
+    },
+    "1500079": {
+      "id": 1500079,
+      "text": "Orderly Fashion"
+    },
+    "1500080": {
+      "id": 1500080,
+      "text": "Complexity"
+    },
+    "1500081": {
+      "id": 1500081,
+      "text": "Periodic Supply"
+    },
+    "1500082": {
+      "id": 1500082,
+      "text": "Regenerate <color=#82C65D>$parameter1$</color> <color=#82C65D>S-SSS</color> equipment Affixes."
+    },
+    "1500083": {
+      "id": 1500083,
+      "text": "(Evolving the current Character's Level will also increase an Attribute by $parameter1$%)"
+    },
+    "1500084": {
+      "id": 1500084,
+      "text": "(Evolving the current Character's Level will also increase an Attribute by $parameter1$%)"
+    },
+    "1500085": {
+      "id": 1500085,
+      "text": "(Evolving the current Character's Level will increase Crit DMG by $parameter1$%, and Physical Penetration by $parameter1$%)"
+    },
+    "1500086": {
+      "id": 1500086,
+      "text": "(Evolving the current Character's Level will also increase DMG by $parameter1$%)"
+    },
+    "1500087": {
+      "id": 1500087,
+      "text": "(Evolving the current Character's Level will also increase Generation Speed by $parameter1$%)"
+    },
+    "1500088": {
+      "id": 1500088,
+      "text": "(Evolving the current Character's Level will also increase DMG by $parameter1$%)"
+    },
+    "1500089": {
+      "id": 1500089,
+      "text": "(Doll's Evolution can enhance this skill)"
+    },
+    "1500090": {
+      "id": 1500090,
+      "text": "(Doll's current Evolution Level increases DMG by $parameter1$%)"
+    },
+    "1500091": {
+      "id": 1500091,
+      "text": "(Doll's current Evolution Level increases chance by $parameter1$%)"
+    },
+    "1500092": {
+      "id": 1500092,
+      "text": "(Doll's current Evolution Level increases DMG by $parameter1$%)"
+    },
+    "1500093": {
+      "id": 1500093,
+      "text": "(Doll's current Evolution Level increases DMG by $parameter1$%)"
+    },
+    "1500094": {
+      "id": 1500094,
+      "text": "(Doll's current Evolution Level reduces DMG taken by $parameter1$%)"
+    },
+    "1500095": {
+      "id": 1500095,
+      "text": "(Doll's current Evolution Level restores HP equal to $parameter1$% of ATK)"
+    },
+    "1500096": {
+      "id": 1500096,
+      "text": "(Doll's current Evolution Level ignores enemy's Magic DEF and increases DMG by $parameter1$%)"
+    },
+    "1500097": {
+      "id": 1500097,
+      "text": "(Doll's current Evolution Level increases Crit Chance by $parameter1$%)"
+    },
+    "1500098": {
+      "id": 1500098,
+      "text": ""
+    },
+    "1500099": {
+      "id": 1500099,
+      "text": ""
+    },
+    "1500100": {
+      "id": 1500100,
+      "text": ""
+    },
+    "1500101": {
+      "id": 1500101,
+      "text": ""
+    },
+    "1500102": {
+      "id": 1500102,
+      "text": ""
+    },
+    "1500103": {
+      "id": 1500103,
+      "text": ""
+    },
+    "1500104": {
+      "id": 1500104,
+      "text": ""
+    },
+    "1500105": {
+      "id": 1500105,
+      "text": ""
+    },
+    "1500106": {
+      "id": 1500106,
+      "text": ""
+    },
+    "1500107": {
+      "id": 1500107,
+      "text": ""
+    },
+    "1500108": {
+      "id": 1500108,
+      "text": ""
+    },
+    "1500109": {
+      "id": 1500109,
+      "text": "(Doll's current Evolution Level increases ATK by $parameter1$% while ignoring the enemy target's Physical DEF)"
+    },
+    "1500110": {
+      "id": 1500110,
+      "text": "(Doll's current Evolution Level decreases the enemy target's Physical DEF by $parameter1$%)"
+    },
+    "1500111": {
+      "id": 1500111,
+      "text": "(Doll's current Evolution Level increases Crit Chance by $parameter1$%, and Crit DMG by $parameter1$)"
+    },
+    "1500112": {
+      "id": 1500112,
+      "text": "(Doll's current Evolution Level increases DMG by $parameter1$% and HP regeneration by $parameter1$%)"
+    },
+    "1500113": {
+      "id": 1500113,
+      "text": "(Doll's current Evolution Level increases Magic DMG by $parameter1$% per stack of Stride)"
+    },
+    "1500114": {
+      "id": 1500114,
+      "text": "(Doll's current Evolution Level decreases the damage taken by $parameter1$%, increases the damage dealt by $parameter1$%, and ignores $parameter1$ Physical DEF of the enemy)"
+    },
+    "1500115": {
+      "id": 1500115,
+      "text": "(Doll's current Evolution Level increases Magic DMG equal to $parameter1$% of max HP)"
+    },
+    "1500116": {
+      "id": 1500116,
+      "text": "(Doll's current Evolution Level increases Physical DMG equal to $parameter1$% of ATK)"
+    },
+    "1500117": {
+      "id": 1500117,
+      "text": "(Doll's current Evolution Level increases the skill effect by $parameter1$%)"
+    },
+    "1500118": {
+      "id": 1500118,
+      "text": "(Doll's current Evolution Level increases active skill damage and healing effect by $parameter1$%)"
+    },
+    "1500119": {
+      "id": 1500119,
+      "text": "(Doll's current Evolution Level increases the effects of Time Overclock by $parameter1$%)"
+    },
+    "1500120": {
+      "id": 1500120,
+      "text": ""
+    },
+    "1500121": {
+      "id": 1500121,
+      "text": "(Doll's current Evolution Level increases the Physical DEF reduction of every stack of Holy Scorch by $parameter1$%)"
+    },
+    "1500122": {
+      "id": 1500122,
+      "text": "(Doll's current Evolution Level increases the DMG taken from Idol Flora for the duration of Intoxicated by$parameter1$% and reduces the target's Magic DEF equal to $parameter2$% of Idol Flora's ATK)"
+    },
+    "1500123": {
+      "id": 1500123,
+      "text": "(Doll's current Evolution Level increases the DMG Factor of Skill by $parameter1$)"
+    },
+    "1500124": {
+      "id": 1500124,
+      "text": "(Doll's current Evolution Level increases HP equal to $parameter1$% of Cassis's max HP for the duration of Stimulated)"
+    },
+    "1500125": {
+      "id": 1500125,
+      "text": "(Doll's current Evolution Level increases self's Magic DMG dealt by $parameter1$%)"
+    },
+    "1500126": {
+      "id": 1500126,
+      "text": "(Doll's current Evolution Level decreases Magic DEF of the enemy equal to $parameter1$% of U·Pollyben's max HP)"
+    },
+    "1500127": {
+      "id": 1500127,
+      "text": "(Doll's current Evolution Level increases the chance to generate 1 Chaos Energy by $parameter1$% per second)"
+    },
+    "1500128": {
+      "id": 1500128,
+      "text": "(Doll's current Evolution Level increases max HP by $parameter1$%)"
+    },
+    "1500129": {
+      "id": 1500129,
+      "text": "(Doll's current Evolution Level decreases the DMG taken by $parameter1$%, increases the damage dealt by $parameter1$%, and ignores $parameter1$ Magic DEF of the enemy)"
+    },
+    "1500130": {
+      "id": 1500130,
+      "text": "(Doll's current Evolution Level increases ATK by $parameter1$%, and when using Unique Weapon, the ratio of Physical DMG dealt converted into HP increases by $parameter1$%)"
+    },
+    "1500131": {
+      "id": 1500131,
+      "text": "(Doll's current Evolution Level reduces DMG taken by $parameter1$%)"
+    },
+    "1500132": {
+      "id": 1500132,
+      "text": "(Doll's current Evolution Level increases Crit Chance by $parameter1$% and Crit DMG by $parameter1$%)"
+    },
+    "1500133": {
+      "id": 1500133,
+      "text": "(Doll's current Evolution Level increases ATK by $parameter1$%)"
+    },
+    "1500134": {
+      "id": 1500134,
+      "text": "(Doll's current Evolution Level decreases Magic DEF by $parameter1$%)"
+    },
+    "1500135": {
+      "id": 1500135,
+      "text": "(Doll's current Evolution Level increases Magic DMG dealt by $parameter1$%)"
+    },
+    "1500136": {
+      "id": 1500136,
+      "text": "(Doll's current Evolution Level increases ATK by $parameter1$%)"
+    },
+    "1500137": {
+      "id": 1500137,
+      "text": "(Doll's current Evolution Level increases max Health and ATK by $parameter1$%)"
+    },
+    "1500138": {
+      "id": 1500138,
+      "text": "(Doll's current Evolution Level increases DMG Taken Reduction by $parameter1$%)"
+    },
+    "1500139": {
+      "id": 1500139,
+      "text": "(Doll's current Evolution Level increases ATK by $parameter1$%)"
+    }
+  }
+}
